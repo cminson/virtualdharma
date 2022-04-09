@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20210701-Gil_Fronsdal-IMC-clear_recognition_4_fo_5_comprehension_of_the_pasture.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20210701-Gil_Fronsdal-IMC-dharmette_clear_recognition_4_of_5_comprehension_of_the_pasture.mp3",
+	"score" : 0.9165
+},
+{
+	"filename" : "20210630-Gil_Fronsdal-IMC-clear_recognition_3_of_5_comprehension_of_suitability.mp3",
+	"score" : 0.8095
+},
+{
+	"filename" : "20210629-Gil_Fronsdal-IMC-clear_recognition_2_of_5_comprehension_of_purpose.mp3",
+	"score" : 0.8095
+},
+{
+	"filename" : "20210702-Gil_Fronsdal-IMC-clear_recognition_5_of_5_comprehension_of_non_delusion.mp3",
+	"score" : 0.7419
+},
+{
+	"filename" : "20210630-Gil_Fronsdal-IMC-dharmette_clear_recognition_3_of_5_comprehension_of_suitability.mp3",
+	"score" : 0.7419
+},
+{
+	"filename" : "20210629-Gil_Fronsdal-IMC-dharmette_clear_recognition_2_of_5_comprehension_of_purpose.mp3",
+	"score" : 0.7419
+},
+{
+	"filename" : "20210702-Gil_Fronsdal-IMC-dharmette_clear_recognition_5_of_5_comprehension_of_non_delusion.mp3",
+	"score" : 0.6889
+}
+]
+}

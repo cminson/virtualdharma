@@ -1,0 +1,55 @@
+{
+	"SPEECH_WELCOME" : "Audio Dharma. Here are today's <emphasis>five</emphasis> Dharma talks - the two most recent talks followed by <emphasis>three</emphasis> randomly selected talks. <break time = \"1s\"/>",
+	"SPEECH_USERPROMPT" : "Select your talk.  For example, you can say:  Alexa, play talk 3.",
+	"SPEECH_WELCOME_REPROMPT" : "To play a talk, say the talk number.  For example, you can say:  Alexa, play talk 3.",
+	"CARD_WELCOME_TITLE" : "Welcome To Audio Dharma",
+	"CARD_WELCOME_TEXT" : "Welcome to Audio Dharma. Thousands of Dharma talks given by hundreds of teachers from around the world, representing a variety of traditions and viewpoints. You can find the complete list of talks at www.audiodharma.org.\r\n \r\n Here are the most recent two talks, followed by three randomly selected talks.",
+	"CARD_WELCOME_HELP" : "To play a talk say the talk number.  For example:  Alexa, play talk 3.",
+	"talks":[
+	{
+		"number":"Talk 1",
+		"speaker":"Gil Fronsdal",
+		"title":"Guided Meditation: Mindfulness of Hearing",
+		"date":"April 6, 2022",
+		"url":"https://audiodharma.us-east-1.linodeobjects.com/talks/16033/20220406-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_hearing.mp3",
+		"filename":"/16033/20220406-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_hearing.mp3",
+		"minutes":"33"
+	},
+	{
+		"number":"Talk 2",
+		"speaker":"Gil Fronsdal",
+		"title":"Dharmette: Satipatthana (54) Sense Doors: Ears",
+		"date":"April 6, 2022",
+		"url":"https://audiodharma.us-east-1.linodeobjects.com/talks/16034/20220406-Gil_Fronsdal-IMC-dharmette_satipatthana_54_sense_doors_ears.mp3",
+		"filename":"/16034/20220406-Gil_Fronsdal-IMC-dharmette_satipatthana_54_sense_doors_ears.mp3",
+		"minutes":"13"
+	},
+	{
+		"number":"Talk 3",
+		"speaker":"Gil Fronsdal",
+		"title":"The Five Hindrances: Restlessness and Worry",
+		"date":"November 17, 2008",
+		"url":"https://audiodharma.us-east-1.linodeobjects.com/talks/1417/20081117-Gil_Fronsdal-IMC-the_five_hindrances_restlessness_and_worry.mp3",
+		"filename":"/1417/20081117-Gil_Fronsdal-IMC-the_five_hindrances_restlessness_and_worry.mp3",
+		"minutes":"41"
+	},
+	{
+		"number":"Talk 4",
+		"speaker":"Gil Fronsdal",
+		"title":"Guided Meditation: Softening the Mind",
+		"date":"January 19, 2022",
+		"url":"https://audiodharma.us-east-1.linodeobjects.com/talks/14881/20220119-Gil_Fronsdal-IMC-guided_meditation_softening_the_mind.mp3",
+		"filename":"/14881/20220119-Gil_Fronsdal-IMC-guided_meditation_softening_the_mind.mp3",
+		"minutes":"32"
+	},
+	{
+		"number":"Talk 5",
+		"speaker":"Gil Fronsdal",
+		"title":"The Five Hindrances: Ill Will",
+		"date":"October 27, 2008",
+		"url":"https://audiodharma.us-east-1.linodeobjects.com/talks/1405/20081027-Gil_Fronsdal-IMC-the_five_hindrances_ill_will.mp3",
+		"filename":"/1405/20081027-Gil_Fronsdal-IMC-the_five_hindrances_ill_will.mp3",
+		"minutes":"43"
+	}
+	]
+}

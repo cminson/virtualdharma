@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20180517-Andrea_Fella-IMC-thursday_morning_session.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20190302-Nikki_Mirghafori-IMC-morning_session_1.mp3",
+	"score" : 0.8072
+},
+{
+	"filename" : "20190302-Nikki_Mirghafori-IMC-morning_session_2.mp3",
+	"score" : 0.8072
+},
+{
+	"filename" : "20190314-Andrea_Fella-IMC-thursday_morning_session.mp3",
+	"score" : 0.7647
+},
+{
+	"filename" : "20190313-Andrea_Fella-IMC-wednesday_morning_session.mp3",
+	"score" : 0.7647
+},
+{
+	"filename" : "20190311-Andrea_Fella-IMC-monday_morning_session.mp3",
+	"score" : 0.7647
+},
+{
+	"filename" : "20180515-Andrea_Fella-IMC-tuesday_morning_session.mp3",
+	"score" : 0.7647
+},
+{
+	"filename" : "20180514-Andrea_Fella-IMC-monday_morning_session.mp3",
+	"score" : 0.7647
+}
+]
+}

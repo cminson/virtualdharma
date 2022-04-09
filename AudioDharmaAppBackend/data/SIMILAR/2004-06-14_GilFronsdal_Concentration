@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20130204-Gil_Fronsdal-IMC-right_concentration.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20070610-Gil_Fronsdal-IMC-right_concentration.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "19970324-Gil_Fronsdal-IMC-right_concentration.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20190331-Gil_Fronsdal-IMC-concentration.mp3",
+	"score" : 0.8321
+},
+{
+	"filename" : "20150322-Gil_Fronsdal-IRC-concentration.mp3",
+	"score" : 0.8321
+},
+{
+	"filename" : "20040614-Gil_Fronsdal-IMC-concentration.mp3",
+	"score" : 0.8321
+},
+{
+	"filename" : "20020529-Gil_Fronsdal-IMC-concentration_week_5.mp3",
+	"score" : 0.8321
+},
+{
+	"filename" : "20020522-Gil_Fronsdal-IMC-concentration_week_4.mp3",
+	"score" : 0.8321
+}
+]
+}

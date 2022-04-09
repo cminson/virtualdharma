@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "2005-08-29_GilFronsdal_Anger.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "2000-04-08_GilFronsdal_Anger.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "980423_GilFronsdal_Anger.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20180710-Diana_Clark-IMC-anger.mp3",
+	"score" : 0.8889
+},
+{
+	"filename" : "2004-03-22_PamelaWeiss_Anger.mp3",
+	"score" : 0.8889
+},
+{
+	"filename" : "2004-03-15_LarryYang_Anger.mp3",
+	"score" : 0.8889
+},
+{
+	"filename" : "2002-06-06_BergetJelane_Anger.mp3",
+	"score" : 0.8889
+},
+{
+	"filename" : "2002-04-15_EugeneCash_Anger.mp3",
+	"score" : 0.8889
+}
+]
+}

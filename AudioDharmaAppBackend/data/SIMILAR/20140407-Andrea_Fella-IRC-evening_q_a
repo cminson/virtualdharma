@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20141209-Andrea_Fella-IRC-evening_q_a.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20140406-Andrea_Fella-IRC-evening_q_a.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20141211-Gil_Fronsdal-IRC-evening_q_a.mp3",
+	"score" : 0.8889
+},
+{
+	"filename" : "20140408-Gil_Fronsdal-IRC-evening_q_a.mp3",
+	"score" : 0.8889
+},
+{
+	"filename" : "20160725-Andrea_Fella-IRC-evening_reflection_now_is_all_we_have.mp3",
+	"score" : 0.8321
+},
+{
+	"filename" : "20200407-Andrea_Fella-IMC-this_is_what_has_come_to_be.mp3",
+	"score" : 0.7454
+},
+{
+	"filename" : "20170708-Andrea_Fella-IRC-here_and_now.mp3",
+	"score" : 0.7454
+},
+{
+	"filename" : "20170705-Andrea_Fella-IRC-things_as_they_are.mp3",
+	"score" : 0.7454
+}
+]
+}

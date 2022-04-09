@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20090430-Andrea_Fella-IMC-emotions_q_and_a.mp3",
+	"score" : 0.7276
+},
+{
+	"filename" : "2004-09-02_BergetJelane_Emotions-Wk2.mp3",
+	"score" : 0.6468
+},
+{
+	"filename" : "2004-08-26_BergetJelane_Emotions-Wk1.mp3",
+	"score" : 0.6468
+},
+{
+	"filename" : "20100420-Andrea_Fella-IMC-emotions_recognizing_emotions.mp3",
+	"score" : 0.6306
+},
+{
+	"filename" : "20151124-Andrea_Fella-IMC-exploring_identities.mp3",
+	"score" : 0.6054
+},
+{
+	"filename" : "20120412-Andrea_Fella-IMC-exploring_selfing.mp3",
+	"score" : 0.6054
+},
+{
+	"filename" : "20120405-Andrea_Fella-IMC-exploring_not_self.mp3",
+	"score" : 0.6054
+},
+{
+	"filename" : "20101223-Andrea_Fella-IMC-investigating_emotions.mp3",
+	"score" : 0.6054
+}
+]
+}

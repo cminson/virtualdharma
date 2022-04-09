@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20121015-Gil_Fronsdal-IMC-right_intention.mp3",
+	"score" : 0.8745
+},
+{
+	"filename" : "2006-10-08_GilFronsdal_RightIntention.mp3",
+	"score" : 0.8745
+},
+{
+	"filename" : "1997-02-10_GilFronsdal_RightIntention.mp3",
+	"score" : 0.8745
+},
+{
+	"filename" : "20180412-Andrea_Fella-IMC-right_intention.mp3",
+	"score" : 0.8072
+},
+{
+	"filename" : "20170717-Andrea_Castillo-IMC-right_intention.mp3",
+	"score" : 0.8072
+},
+{
+	"filename" : "20131013-Jim_Podolske-IMC-right_intention.mp3",
+	"score" : 0.8072
+},
+{
+	"filename" : "20160523-Gil_Fronsdal-IMC-right_attitude_intention.mp3",
+	"score" : 0.7647
+},
+{
+	"filename" : "20150524-Gil_Fronsdal-IMC-intention.mp3",
+	"score" : 0.7276
+}
+]
+}

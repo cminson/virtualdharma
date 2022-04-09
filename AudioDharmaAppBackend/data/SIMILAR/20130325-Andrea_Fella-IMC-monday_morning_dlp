@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20190311-Andrea_Fella-IMC-monday_morning_session.mp3",
+	"score" : 0.8745
+},
+{
+	"filename" : "20181126-Andrea_Fella-IMC-monday_morning_discussion.mp3",
+	"score" : 0.8745
+},
+{
+	"filename" : "20180514-Andrea_Fella-IMC-monday_morning_session.mp3",
+	"score" : 0.8745
+},
+{
+	"filename" : "20201207-Matthew_Brensilver-IRC-monday_morning_instructions.mp3",
+	"score" : 0.8072
+},
+{
+	"filename" : "20170828-Andrea_Fella-IMC-monday_morning_reflections_part_2.mp3",
+	"score" : 0.7868
+},
+{
+	"filename" : "20210830-Gil_Fronsdal-IRC-monday_morning_sit_with_instructions_and_announcements.mp3",
+	"score" : 0.7263
+},
+{
+	"filename" : "20200201-Andrea_Fella-IMC-morning_questions.mp3",
+	"score" : 0.6923
+},
+{
+	"filename" : "20190824-Andrea_Fella-IMC-morning_questions.mp3",
+	"score" : 0.6923
+}
+]
+}

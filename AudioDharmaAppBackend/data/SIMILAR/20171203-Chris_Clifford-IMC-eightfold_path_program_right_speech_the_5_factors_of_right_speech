@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20100318-Andrea_Fella-IMC-eightfold_path_right_speech.mp3",
+	"score" : 0.8393
+},
+{
+	"filename" : "20161204-Chris_Clifford-IMC-eightfold_path_right_speech_part_2.mp3",
+	"score" : 0.7967
+},
+{
+	"filename" : "20161204-Bruni_Davila-IMC-eightfold_path_right_speech_part_1.mp3",
+	"score" : 0.7692
+},
+{
+	"filename" : "19970224-Gil_Fronsdal-IMC-eightfold_path_right_speech_part_2.mp3",
+	"score" : 0.7692
+},
+{
+	"filename" : "19970217-Gil_Fronsdal-IMC-eightfold_path_right_speech_part_1.mp3",
+	"score" : 0.7692
+},
+{
+	"filename" : "20170806-John_Martin-IMC-right_speech.mp3",
+	"score" : 0.7619
+},
+{
+	"filename" : "20150827-Jim_Podolske-IMC-right_speech.mp3",
+	"score" : 0.7619
+},
+{
+	"filename" : "20121029-Gil_Fronsdal-IMC-right_speech.mp3",
+	"score" : 0.7619
+}
+]
+}

@@ -1,0 +1,2 @@
+./validate.py ../Config/CONFIG00.JSON
+./validate.py ../Config/DEV.JSON

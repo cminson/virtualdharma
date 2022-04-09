@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20120410-Andrea_Fella-IMC-wise_action_part_3.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20120403-Andrea_Fella-IMC-wise_action_part_2.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20120327-Andrea_Fella-IMC-wise_action_part_1.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20190409-Andrea_Fella-IMC-wise_speech_part_3.mp3",
+	"score" : 0.7647
+},
+{
+	"filename" : "20190326-Andrea_Fella-IMC-wise_speech_part_2.mp3",
+	"score" : 0.7647
+},
+{
+	"filename" : "20190319-Andrea_Fella-IMC-wise_speech_part_1.mp3",
+	"score" : 0.7647
+},
+{
+	"filename" : "20131208-Shin_Kwan_Park-IMC-right_action_part_3.mp3",
+	"score" : 0.7059
+},
+{
+	"filename" : "20131208-Jim_Podolske-IMC-right_action_part_1.mp3",
+	"score" : 0.7059
+}
+]
+}

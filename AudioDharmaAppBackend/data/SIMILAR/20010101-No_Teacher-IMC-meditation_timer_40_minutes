@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20010101-No_Teacher-IMC-meditation_timer_45_minutes.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20010101-No_Teacher-IMC-meditation_timer_20_minutes.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20010101-No_Teacher-IMC-meditation_timer_30_minutes.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20010101-No_Teacher-IMC-meditation_timer_60_minutes.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20010101-No_Teacher-IMC-meditation_timer_15_minutes.mp3",
+	"score" : 0.7647
+},
+{
+	"filename" : "20181210-Oren_Jay_Sofer-IMC-guided_meditation.mp3",
+	"score" : 0.5601
+},
+{
+	"filename" : "20161229-Gil_Fronsdal-IRC-guided_meditation_20_minutes_the_body_gil_fronsdal.mp3",
+	"score" : 0.5405
+},
+{
+	"filename" : "20161229-Gil_Fronsdal-IRC-guided_meditation_20_minutes_thoughts_gil_fronsdal.mp3",
+	"score" : 0.5405
+}
+]
+}

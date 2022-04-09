@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20130318-Gil_Fronsdal-IRC-clear_comprehension_of_purpose.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20050724-Gil_Fronsdal-IMC-clear_comprehension.mp3",
+	"score" : 0.8745
+},
+{
+	"filename" : "20021117-Gil_Fronsdal-IMC-clear_comprehension.mp3",
+	"score" : 0.8745
+},
+{
+	"filename" : "20120324-Andrea_Fella-HV-clear_comprehension.mp3",
+	"score" : 0.8072
+},
+{
+	"filename" : "20101012-Andrea_Fella-IMC-clear_comprehension.mp3",
+	"score" : 0.8072
+},
+{
+	"filename" : "20100720-Chris_Clifford-IMC-clear_comprehension.mp3",
+	"score" : 0.8072
+},
+{
+	"filename" : "20200507-Gil_Fronsdal-IRC-clear_comprehension_of_domain.mp3",
+	"score" : 0.7647
+},
+{
+	"filename" : "20130322-Gil_Fronsdal-IRC-clear_comprehension_conclusion.mp3",
+	"score" : 0.7647
+}
+]
+}

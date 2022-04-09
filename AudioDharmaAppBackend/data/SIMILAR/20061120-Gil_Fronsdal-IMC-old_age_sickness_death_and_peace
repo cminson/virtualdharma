@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "19980316-Gil_Fronsdal-IMC-sickness_old_age_and_death.mp3",
+	"score" : 0.8745
+},
+{
+	"filename" : "20030331-Gil_Fronsdal-IMC-peace.mp3",
+	"score" : 0.7276
+},
+{
+	"filename" : "20170202-Andrea_Castillo-IMC-peace.mp3",
+	"score" : 0.6468
+},
+{
+	"filename" : "20070802-Berget_Jelane-IMC-peace.mp3",
+	"score" : 0.6468
+},
+{
+	"filename" : "20020613-Don_Johnson-IMC-death.mp3",
+	"score" : 0.6468
+},
+{
+	"filename" : "20020221-Paul_Haller-IMC-death.mp3",
+	"score" : 0.6468
+},
+{
+	"filename" : "20190318-Gil_Fronsdal-IMC-contemplating_death.mp3",
+	"score" : 0.6054
+},
+{
+	"filename" : "20171127-Gil_Fronsdal-IMC-preparing_for_death.mp3",
+	"score" : 0.6054
+}
+]
+}

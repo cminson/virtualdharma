@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20170730-Gil_Fronsdal-IMC-happiness.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20141102-Gil_Fronsdal-IMC-where_do_we_find_happiness.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20090209-Gil_Fronsdal-IMC-happiness.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20150321-Andrea_Fella-IRC-happiness.mp3",
+	"score" : 0.8889
+},
+{
+	"filename" : "20140527-Berget_Jelane-IMC-happiness.mp3",
+	"score" : 0.8889
+},
+{
+	"filename" : "20110210-Andrea_Fella-IMC-happiness.mp3",
+	"score" : 0.8889
+},
+{
+	"filename" : "20070212-Carolyn_Dille-IMC-happiness.mp3",
+	"score" : 0.8889
+},
+{
+	"filename" : "20060921-Beth_Goldring-IMC-happiness.mp3",
+	"score" : 0.8889
+}
+]
+}

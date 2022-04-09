@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20190710-Andrea_Fella-IRC-studying_the_self.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20150714-Andrea_Fella-IRC-studying_the_self.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20130704-Andrea_Fella-IRC-not_self.mp3",
+	"score" : 0.8321
+},
+{
+	"filename" : "20210302-Andrea_Fella-IMC-studying_the_sense_of_self_studying_identities.mp3",
+	"score" : 0.8208
+},
+{
+	"filename" : "20190623-Gil_Fronsdal-IMC-not_self.mp3",
+	"score" : 0.7396
+},
+{
+	"filename" : "20190512-Gil_Fronsdal-IMC-not_self.mp3",
+	"score" : 0.7396
+},
+{
+	"filename" : "20190503-Gil_Fronsdal-IRC-not_self.mp3",
+	"score" : 0.7396
+},
+{
+	"filename" : "20130915-Gil_Fronsdal-IMC-not_self.mp3",
+	"score" : 0.7396
+}
+]
+}

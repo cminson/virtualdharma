@@ -1,0 +1,2 @@
+INSERT INTO actions(ip, deviceID, operation, devicetype, filename, date, seconds, city, country) VALUES('NA', '', 'PLAYTALK', 'alexa', '', '2021.12.01', '1638377474', '', 'Alexa Cloud')
+INSERT INTO actions(ip, deviceID, operation, devicetype, filename, date, seconds, city, country) VALUES('NA', '', 'PLAYTALK', 'alexa', '', '2021.12.01', '1638377532', 'Alexa Cloud', '')

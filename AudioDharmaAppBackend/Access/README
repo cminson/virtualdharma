@@ -1,0 +1,3 @@
+All files in the directory are invoked directly by the app, via the web.
+
+Therefore rake care when modifying these files.

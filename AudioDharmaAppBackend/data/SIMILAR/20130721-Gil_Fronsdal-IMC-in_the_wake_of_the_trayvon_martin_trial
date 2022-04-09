@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "2007-06-28_HeatherMartin_JustThis.mp3",
+	"score" : 0.5855
+},
+{
+	"filename" : "20131020-Toni_Bernhard-IMC-how_to_wake_up.mp3",
+	"score" : 0.5819
+},
+{
+	"filename" : "20110318-Ajahn_Santacitta-IMC-wake_up_calls.mp3",
+	"score" : 0.5819
+},
+{
+	"filename" : "20200823-Gil_Fronsdal-IMC-do_what_you_can.mp3",
+	"score" : 0.488
+},
+{
+	"filename" : "20200228-Gil_Fronsdal-IRC-q_and_a.mp3",
+	"score" : 0.488
+},
+{
+	"filename" : "20191216-Gil_Fronsdal-IMC-q_a.mp3",
+	"score" : 0.488
+},
+{
+	"filename" : "20160905-Gil_Fronsdal-IMC-q_a.mp3",
+	"score" : 0.488
+},
+{
+	"filename" : "20150803-Gil_Fronsdal-IMC-yes_to_what_is.mp3",
+	"score" : 0.488
+}
+]
+}

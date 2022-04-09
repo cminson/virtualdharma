@@ -1,0 +1,45 @@
+{
+    "context": {
+        "AudioPlayer": {
+            "offsetInMilliseconds": 4976, 
+            "playerActivity": "STOPPED", 
+            "token": "https://s3.amazonaws.com/virtualdharma.org/test01.mp3"
+        }, 
+        "System": {
+            "apiEndpoint": "https://api.amazonalexa.com", 
+            "application": {
+                "applicationId": "amzn1.ask.skill.03d50eb2-f557-47cb-a256-bac3cdc78515"
+            }, 
+            "device": {
+                "deviceId": "amzn1.ask.device.AHNJ7DLPRAWO5FGWJMTOPXIZVWOMHBNLSOFMNX6P5AQEOGXMYOVUJCK3FWKS6YVWWIAF3GPAQBKJCQIJOKOKAFFGFYSVY4IPK23JUIWHA3QF6ZRIXDOQQ43CQOQ6NI2PRX4GJ2DOZTNIQ6JAH37Y6N76BZDQ", 
+                "supportedInterfaces": {
+                    "AudioPlayer": {}
+                }
+            }, 
+            "user": {
+                "userId": "amzn1.ask.account.AEBPUFAT37FGUOI7XT2VD4XJBJC7RQDJYNRVUUGEPUJRYHDQWMVNNVPWDEOMOED6MFFKTFFDW52ASRNJGBUP6FUP2M377IRI464GOHS6QVDU4RW65Q5OIXJY5YYPT6IEZKYX4AWTVC7Y3HRQPUMTBPRJ22PSPR4R46CA3WNVBNSSKNHESE2A4IPQREFD76SFK22672QMPJQX5BA"
+            }
+        }
+    }, 
+    "request": {
+        "intent": {
+            "confirmationStatus": "NONE", 
+            "name": "AMAZON.ResumeIntent"
+        }, 
+        "locale": "en-US", 
+        "requestId": "amzn1.echo-api.request.a23ed2ad-200f-4eb7-a158-d6529dd49ac6", 
+        "timestamp": "2017-10-01T17:40:26Z", 
+        "type": "IntentRequest"
+    }, 
+    "session": {
+        "application": {
+            "applicationId": "amzn1.ask.skill.03d50eb2-f557-47cb-a256-bac3cdc78515"
+        }, 
+        "new": true, 
+        "sessionId": "amzn1.echo-api.session.f2383b1c-507f-4a44-b6c0-6268d3cb9028", 
+        "user": {
+            "userId": "amzn1.ask.account.AEBPUFAT37FGUOI7XT2VD4XJBJC7RQDJYNRVUUGEPUJRYHDQWMVNNVPWDEOMOED6MFFKTFFDW52ASRNJGBUP6FUP2M377IRI464GOHS6QVDU4RW65Q5OIXJY5YYPT6IEZKYX4AWTVC7Y3HRQPUMTBPRJ22PSPR4R46CA3WNVBNSSKNHESE2A4IPQREFD76SFK22672QMPJQX5BA"
+        }
+    }, 
+    "version": "1.0"
+}

@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20170506-Andrea_Fella-IRC-morning_instructions_feeling_tone.mp3",
+	"score" : 0.688
+},
+{
+	"filename" : "2003-11-06_CarolynDille_Emotion.mp3",
+	"score" : 0.6468
+},
+{
+	"filename" : "2003-02-17_DianaWinston_Emotion.mp3",
+	"score" : 0.6468
+},
+{
+	"filename" : "20190615-Andrea_Fella-IMC-afternoon_instructions.mp3",
+	"score" : 0.6054
+},
+{
+	"filename" : "20170626-Andrea_Fella-IRC-initial_instructions.mp3",
+	"score" : 0.6054
+},
+{
+	"filename" : "20160811-Andrea_Fella-IRC-walking_instructions.mp3",
+	"score" : 0.6054
+},
+{
+	"filename" : "20160717-Andrea_Fella-IRC-initial_instructions.mp3",
+	"score" : 0.6054
+},
+{
+	"filename" : "20151129-Andrea_Fella-IRC-opening_instructions.mp3",
+	"score" : 0.6054
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20090511-Gil_Fronsdal-IMC-emotions_fear_part_1.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "970710_GilFronsdal_Fear_P1.mp3",
+	"score" : 0.8745
+},
+{
+	"filename" : "20090615-Gil_Fronsdal-IMC-emotions_anger_part_2.mp3",
+	"score" : 0.7647
+},
+{
+	"filename" : "20180423-Gil_Fronsdal-IMC-fear.mp3",
+	"score" : 0.7276
+},
+{
+	"filename" : "20130429-Gil_Fronsdal-IMC-fear.mp3",
+	"score" : 0.7276
+},
+{
+	"filename" : "20130414-Gil_Fronsdal-IMC-fear.mp3",
+	"score" : 0.7276
+},
+{
+	"filename" : "2005-10-31_GilFronsdal_Fear.mp3",
+	"score" : 0.7276
+},
+{
+	"filename" : "2003-01-20_GilFronsdal_Fear.mp3",
+	"score" : 0.7276
+}
+]
+}

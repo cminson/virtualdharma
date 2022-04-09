@@ -1,0 +1,36 @@
+{
+"SIMILAR": [
+{
+	"filename" : "20190317-Ying_Chen-IMC-home.mp3",
+	"score" : 0.8889
+},
+{
+	"filename" : "20160830-Andrea_Fella-IMC-being_at_home.mp3",
+	"score" : 0.7396
+},
+{
+	"filename" : "2001-08-05_MishaMerrill_LeavingHome.mp3",
+	"score" : 0.7396
+},
+{
+	"filename" : "20160813-Andrea_Fella-IRC-taking_the_practice_home.mp3",
+	"score" : 0.6468
+},
+{
+	"filename" : "20141213-Andrea_Fella-IRC-taking_the_aggregates_home.mp3",
+	"score" : 0.6468
+},
+{
+	"filename" : "20200823-Gil_Fronsdal-IMC-do_what_you_can.mp3",
+	"score" : 0.5963
+},
+{
+	"filename" : "20200228-Gil_Fronsdal-IRC-q_and_a.mp3",
+	"score" : 0.5963
+},
+{
+	"filename" : "20191216-Gil_Fronsdal-IMC-q_a.mp3",
+	"score" : 0.5963
+}
+]
+}

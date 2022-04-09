@@ -1,0 +1,2384 @@
+{
+	"talks":[
+	{
+		"title":"Guided Meditation Instructions",
+		"series":"[IRC] - Nov 12-19: Gil Fronsdal, Mel Weitsman and Max Erdstein",
+		"url":"/teacher/219/talk/8464/venue/IRC/20171118-Max_Erdstein-IRC-guided_meditation_instructions.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-11-18",
+		"duration":"38:19"
+	},
+	{
+		"title":"Guided Meditation Instructions",
+		"series":"[IRC] - Nov 12-19: Gil Fronsdal, Mel Weitsman and Max Erdstein",
+		"url":"/teacher/162/talk/8463/venue/IRC/20171118-Mel_Weitsman-IRC-guided_meditation_instructions.mp3",
+		"speaker":"Mel Weitsman",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-11-18",
+		"duration":"23:37"
+	},
+	{
+		"title":"Guided Meditation Instructions",
+		"series":"[IRC] - Nov 12-19: Gil Fronsdal, Mel Weitsman and Max Erdstein",
+		"url":"/teacher/219/talk/8461/venue/IRC/20171117-Max_Erdstein-IRC-guided_meditation_instructions.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-11-17",
+		"duration":"46:41"
+	},
+	{
+		"title":"Guided Meditation: Softening into Awareness",
+		"series":"",
+		"url":"/teacher/272/talk/8401/venue/IMC/20171106-Meg_Gawler-IMC-guided_meditation_softening_into_awareness.mp3",
+		"speaker":"Meg Gawler",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-11-06",
+		"duration":"46:02"
+	},
+	{
+		"title":"Guided Meditation - Whole Body Awareness",
+		"series":"",
+		"url":"/teacher/16/talk/8224/venue/IMC/20170918-Ajaan_Thanissaro-IMC-guided_meditation_whole_body_awaareness.mp3",
+		"speaker":"Ajaan Thanissaro",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-09-18",
+		"duration":"44:52"
+	},
+	{
+		"title":"Guided Meditation: Breathing with Confidence",
+		"series":"Daylong on the Five Faculties",
+		"url":"/teacher/1/talk/8176/venue/IMC/20170909-Gil_Fronsdal-IMC-guided_meditation_for_breathing_with_confidence.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-09-09",
+		"duration":"19:12"
+	},
+	{
+		"title":"Guided Meditation: Breathing with Confidence",
+		"series":"Daylong on the Five Faculties",
+		"url":"/teacher/1/talk/8177/venue/IMC/20170909-Gil_Fronsdal-IMC-guided_meditation_for_breathing_with_confidence_faith.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-09-09",
+		"duration":"40:41"
+	},
+	{
+		"title":"Guided Meditation: Breathing with Effort",
+		"series":"Daylong on the Five Faculties",
+		"url":"/teacher/1/talk/8178/venue/IMC/20170909-Gil_Fronsdal-IMC-guided_meditation_for_breathing_with_effort.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-09-09",
+		"duration":"39:16"
+	},
+	{
+		"title":"Guided Meditation: Breathing with Mindfulness",
+		"series":"Daylong on the Five Faculties",
+		"url":"/teacher/1/talk/8179/venue/IMC/20170909-Gil_Fronsdal-IMC-guided_meditation_for_breathing_with_mindfulness.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-09-09",
+		"duration":"30:33"
+	},
+	{
+		"title":"Guided Meditation: Breathing with Concentration",
+		"series":"Daylong on the Five Faculties",
+		"url":"/teacher/1/talk/8180/venue/IMC/20170909-Gil_Fronsdal-IMC-guided_meditation_for_breathing_with_concentration.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-09-09",
+		"duration":"44:21"
+	},
+	{
+		"title":"Guided Meditation: Breathing with Wisdom",
+		"series":"Daylong on the Five Faculties",
+		"url":"/teacher/1/talk/8181/venue/IMC/20170909-Gil_Fronsdal-IMC-guided_meditation_for_breathing_with_wisdom.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-09-09",
+		"duration":"41:11"
+	},
+	{
+		"title":"Guided Meditation: The Mind",
+		"series":"Mindfulness of Mind Daylong: September 2017",
+		"url":"/teacher/2/talk/8157/venue/IMC/20170902-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-09-02",
+		"duration":"21:07"
+	},
+	{
+		"title":"Guided Meditation: Distinction Between Physical and Mental Processes",
+		"series":"Mindfulness of Mind Daylong: September 2017",
+		"url":"/teacher/2/talk/8162/venue/IMC/20170902-Andrea_Fella-IMC-guided_meditation_distinction_between_physical_and_mental_processes.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-09-02",
+		"duration":"19:51"
+	},
+	{
+		"title":"Guided Meditation: Brief Reminders",
+		"series":"Mindfulness of Mind Daylong: September 2017",
+		"url":"/teacher/2/talk/8164/venue/IMC/20170902-Andrea_Fella-IMC-guided_meditation_brief_reminders.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-09-02",
+		"duration":"7:09"
+	},
+	{
+		"title":"Guided Meditation: The Clouds are Sky Too",
+		"series":"[IRC] - Aug 17-20: Max Erdstein & Matthew Brensilver",
+		"url":"/teacher/231/talk/8129/venue/IRC/20170819-Matthew_Brensilver-IRC-guided_meditation_the_clouds_are_sky_too.mp3",
+		"speaker":"Matthew Brensilver",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-08-19",
+		"duration":"43:01"
+	},
+	{
+		"title":"Guided Meditation: Joy in the Body",
+		"series":"Embodying Joy Daylong",
+		"url":"/teacher/272/talk/8053/venue/IMC/20170722-Meg_Gawler-IMC-guided_meditation_joy_in_the_body.mp3",
+		"speaker":"Meg Gawler",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-07-22",
+		"duration":"41:32"
+	},
+	{
+		"title":"Guided Meditation: Joy of an Open Heart",
+		"series":"Embodying Joy Daylong",
+		"url":"/teacher/272/talk/8056/venue/IMC/20170722-Meg_Gawler-IMC-guided_meditation_joy_of_an_open_heart.mp3",
+		"speaker":"Meg Gawler",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-07-22",
+		"duration":"31:59"
+	},
+	{
+		"title":"Guided Meditation: Sympathetic Joy",
+		"series":"Embodying Joy Daylong",
+		"url":"/teacher/272/talk/8057/venue/IMC/20170722-Meg_Gawler-IMC-guided_meditation_sympathetic_joy.mp3",
+		"speaker":"Meg Gawler",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-07-22",
+		"duration":"24:38"
+	},
+	{
+		"title":"Guided Meditation: For Scientists",
+		"series":"Dhamma for Scientists",
+		"url":"/teacher/4/talk/8019/venue/IMC/20170708-Kim_Allen-IMC-dhamma_for_scientists_part_5_guided_meditation.mp3",
+		"speaker":"Kim Allen",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-07-12",
+		"duration":"22:00"
+	},
+	{
+		"title":"Guided Meditation: The Five Hindrances",
+		"series":"",
+		"url":"/teacher/286/talk/8004/venue/IMC/20170704-Tanya_Wiser-IMC-the_five_hindrances_and_guided_meditation.mp3",
+		"speaker":"Tanya Wiser",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-07-04",
+		"duration":"1:27:47"
+	},
+	{
+		"title":"Guided Meditation: Relaxing into the Flow",
+		"series":"Practicing with Impermanence: Like Water Flowing, Clouds Drifting",
+		"url":"/teacher/219/talk/7938/venue/IMC/20170624-Max_Erdstein-IMC-guided_meditation_relaxing_into_the_flow.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-06-24",
+		"duration":"51:12"
+	},
+	{
+		"title":"Guided Meditation: Stillness and Change",
+		"series":"Practicing with Impermanence: Like Water Flowing, Clouds Drifting",
+		"url":"/teacher/219/talk/7939/venue/IMC/20170624-Max_Erdstein-IMC-guided_meditation_stillness_and_change.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-06-24",
+		"duration":"38:45"
+	},
+	{
+		"title":"Guided Meditation: Non-Doing and Acceptance",
+		"series":"Practicing with Impermanence: Like Water Flowing, Clouds Drifting",
+		"url":"/teacher/219/talk/7940/venue/IMC/20170624-Max_Erdstein-IMC-guided_meditation_non_doing_and_acceptance.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-06-24",
+		"duration":"21:43"
+	},
+	{
+		"title":"Guided Meditation: Impermanence of the Body",
+		"series":"Practicing with Impermanence: Like Water Flowing, Clouds Drifting",
+		"url":"/teacher/219/talk/7941/venue/IMC/20170624-Max_Erdstein-IMC-guided_meditation_impermanence_of_the_body.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-06-24",
+		"duration":"36:41"
+	},
+	{
+		"title":"Guided Meditation:  Opening to Change",
+		"series":"",
+		"url":"/teacher/2/talk/7891/venue/IMC_Prog/20170616-Andrea_Fella-IMC_Prog-guided_meditation_opening_to_change.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-06-16",
+		"duration":"17:10"
+	},
+	{
+		"title":"Guided Meditation: Simplicity of Practice and Recognizing Wisdom",
+		"series":"",
+		"url":"/teacher/2/talk/7887/venue/IMC_Prog/20170615-Andrea_Fella-IMC_Prog-guided_meditation_simplicity_of_practice_and_recognizing_wisdom.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-06-15",
+		"duration":"13:21"
+	},
+	{
+		"title":"Guided Meditation:  Recognizing the Difference between Body and Mind",
+		"series":"",
+		"url":"/teacher/2/talk/7881/venue/IMC_Prog/20170614-Andrea_Fella-IMC_Prog-guided_meditation_recognizing_the_difference_between_body_and_mind.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-06-14",
+		"duration":"22:07"
+	},
+	{
+		"title":"Guided Meditation:  Exploring Attention",
+		"series":"",
+		"url":"/teacher/2/talk/7878/venue/IMC_Prog/20170613-Andrea_Fella-IMC_Prog-guided_meditation_exploring_attention.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-06-13",
+		"duration":"18:40"
+	},
+	{
+		"title":"Guided Meditation: Awareness of Thinking",
+		"series":"",
+		"url":"/teacher/2/talk/7873/venue/IMC_Prog/20170612-Andrea_Fella-IMC_Prog-guided_meditation_awareness_of_thinking.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-06-12",
+		"duration":"20:48"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/7871/venue/IMC_Prog/20170611-Andrea_Fella-IMC_Prog-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-06-11",
+		"duration":"8:07"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/7861/venue/IMC_Prog/20170610-Andrea_Fella-IMC_Prog-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-06-10",
+		"duration":"25:25"
+	},
+	{
+		"title":"Introduction - Guided Meditation",
+		"series":"Daylong on Four Foundations of Mindfulness",
+		"url":"/teacher/1/talk/7748/venue/IMC/20170520-Gil_Fronsdal-IMC-introduction_guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-05-20",
+		"duration":"47:12"
+	},
+	{
+		"title":"Mindfulness of the Body: Guided Meditation",
+		"series":"Daylong on Four Foundations of Mindfulness",
+		"url":"/teacher/1/talk/7749/venue/IMC/20170520-Gil_Fronsdal-IMC-mindfulness_of_the_body_intro_and_guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-05-20",
+		"duration":"38:31"
+	},
+	{
+		"title":"Mindfulness of Mind States: Guided Meditation",
+		"series":"Daylong on Four Foundations of Mindfulness",
+		"url":"/teacher/1/talk/7752/venue/IMC/20170520-Gil_Fronsdal-IMC-mindfulness_of_mind_states_intro_and_guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-05-20",
+		"duration":"0:00"
+	},
+	{
+		"title":"Mindfulness of Mind Activities: Guided Meditation",
+		"series":"Daylong on Four Foundations of Mindfulness",
+		"url":"/teacher/1/talk/7753/venue/IMC/20170520-Gil_Fronsdal-IMC-mindfulness_of_mind_activities_intro_and_guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-05-20",
+		"duration":"0:00"
+	},
+	{
+		"title":"The Study of the Self: Guided Meditation",
+		"series":"Daylong on Four Foundations of Mindfulness",
+		"url":"/teacher/1/talk/7754/venue/IMC/20170520-Gil_Fronsdal-IMC-the_study_of_the_self_intro_and_guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-05-20",
+		"duration":"0:00"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/7695/venue/IMC/20170427-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-04-27",
+		"duration":"18:10"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind Daylong April 2017",
+		"url":"/teacher/2/talk/7663/venue/IMC/20170415-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-04-15",
+		"duration":"17:30"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/7648/venue/IMC/20170411-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-04-11",
+		"duration":"19:33"
+	},
+	{
+		"title":"Guided Meditation:  Relationship to Time",
+		"series":"Time and Our Human Condition - Sayadaw U Jagara and Nikki Mirghafori",
+		"url":"/teacher/229/talk/7630/venue/IMC/20170408-Nikki_Mirghafori-IMC-guided_meditation_on_relationship_to_time.mp3",
+		"speaker":"Nikki Mirghafori",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-04-08",
+		"duration":"20:16"
+	},
+	{
+		"title":"Reflections from Audience on Guided Meditation",
+		"series":"Time and Our Human Condition - Sayadaw U Jagara and Nikki Mirghafori",
+		"url":"/teacher/229/talk/7631/venue/IMC/20170408-Nikki_Mirghafori-IMC-reflections_from_audience_on_guided_meditation.mp3",
+		"speaker":"Nikki Mirghafori",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-04-08",
+		"duration":"0:00"
+	},
+	{
+		"title":"Guided Meditation: Death and The Present Moment",
+		"series":"Time and Our Human Condition - Sayadaw U Jagara and Nikki Mirghafori",
+		"url":"/teacher/229/talk/7634/venue/IMC/20170408-Nikki_Mirghafori-IMC-guided_meditation_on_death_and_present_moment.mp3",
+		"speaker":"Nikki Mirghafori",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-04-08",
+		"duration":"18:15"
+	},
+	{
+		"title":"Evening Reflection: Guided Meditation",
+		"series":"[IRC] - Mar 17-26: Andrea Fella, Alexis Santos",
+		"url":"/teacher/2/talk/7583/venue/IRC/20170318-Andrea_Fella-IRC-evening_reflection_guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-03-18",
+		"duration":"13:46"
+	},
+	{
+		"title":"Guided Meditation: Metta",
+		"series":"Metta Daylong",
+		"url":"/teacher/2/talk/7515/venue/IMC/20170304-Andrea_Fella-IMC-metta_initial_instructions_and_guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-03-04",
+		"duration":"47:52"
+	},
+	{
+		"title":"Guided Meditation: Breath",
+		"series":"[IRC] - Feb 23-26: Ines Freedman, Matthew Brensilver",
+		"url":"/teacher/231/talk/7544/venue/IRC/20170224-Matthew_Brensilver-IRC-guided_meditation_breath.mp3",
+		"speaker":"Matthew Brensilver",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-02-24",
+		"duration":"29:07"
+	},
+	{
+		"title":"Guided Meditation:  Instruction ",
+		"series":"[IRC] - Feb 10-17: Gil Fronsdal",
+		"url":"/teacher/1/talk/7531/venue/IRC/20170211-Gil_Fronsdal-IRC-guided_meditation_instruction_1.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-02-11",
+		"duration":"11:25"
+	},
+	{
+		"title":"Guided Meditation - Deconstructing Sensory Experience",
+		"series":"Mindfulness Meditation Daylong - Deconstructing Sensory Experience, Letting Go, Love",
+		"url":"/teacher/231/talk/7439/venue/IMC/20170128-Matthew_Brensilver-IMC-guided_meditation_deconstructing_sensory_experience.mp3",
+		"speaker":"Matthew Brensilver",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-01-28",
+		"duration":"46:06"
+	},
+	{
+		"title":"Guided Meditation: Effort",
+		"series":"Effort, the Fifth Parami (Dharma Practice Day, January 2017)",
+		"url":"/teacher/1/talk/7415/venue/IMC/20170113-Gil_Fronsdal-IMC-dharma_practice_day_effort_guided_meditation_and_introduction.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2017-01-13",
+		"duration":"40:31"
+	},
+	{
+		"title":"Guided Meditation: Emotions",
+		"series":"[IRC] - Guided meditations (20 minutes): Breath, Body, Emotions, Thoughts - Gil Fronsdal",
+		"url":"/teacher/1/talk/7388/venue/IRC/20161229-Gil_Fronsdal-IRC-guided_meditation_20_minutes_emotions_gil_fronsdal.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-12-29",
+		"duration":"20:07"
+	},
+	{
+		"title":"Guided Meditation: Thoughts",
+		"series":"[IRC] - Guided meditations (20 minutes): Breath, Body, Emotions, Thoughts - Gil Fronsdal",
+		"url":"/teacher/1/talk/7389/venue/IRC/20161229-Gil_Fronsdal-IRC-guided_meditation_20_minutes_thoughts_gil_fronsdal.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-12-29",
+		"duration":"20:07"
+	},
+	{
+		"title":"Guided Meditation: The Body",
+		"series":"[IRC] - Guided meditations (20 minutes): Breath, Body, Emotions, Thoughts - Gil Fronsdal",
+		"url":"/teacher/1/talk/7387/venue/IRC/20161229-Gil_Fronsdal-IRC-guided_meditation_20_minutes_the_body_gil_fronsdal.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-12-29",
+		"duration":"20:01"
+	},
+	{
+		"title":"Guided Meditation: The Breath",
+		"series":"[IRC] - Guided meditations (20 minutes): Breath, Body, Emotions, Thoughts - Gil Fronsdal",
+		"url":"/teacher/1/talk/7386/venue/IRC/20161229-Gil_Fronsdal-IRC-guided_meditation_20_minutes_the_breath_gil_fronsdal.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-12-29",
+		"duration":"20:04"
+	},
+	{
+		"title":"Guided Meditation - Brahma Viharas",
+		"series":"Daylong on Love, Empathy, Hospitality",
+		"url":"/teacher/1/talk/7264/venue/IMC/20161112-Gil_Fronsdal-IMC-guided_meditation_brahma_viharas.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-11-12",
+		"duration":"35:56"
+	},
+	{
+		"title":"Guided Meditation - Body Awareness",
+		"series":"Daylong on Love, Empathy, Hospitality",
+		"url":"/teacher/1/talk/7265/venue/IMC/20161112-Gil_Fronsdal-IMC-guided_meditation_body_awareness.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-11-12",
+		"duration":"37:56"
+	},
+	{
+		"title":"Guided Meditation - Compassion",
+		"series":"Daylong on Love, Empathy, Hospitality",
+		"url":"/teacher/1/talk/7266/venue/IMC/20161112-Gil_Fronsdal-IMC-guided_meditation_compassion.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-11-12",
+		"duration":"26:20"
+	},
+	{
+		"title":"Guided Meditation - Empathic Listening",
+		"series":"Daylong on Love, Empathy, Hospitality",
+		"url":"/teacher/1/talk/7267/venue/IMC/20161112-Gil_Fronsdal-IMC-guided_meditation_empathic_listening.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-11-12",
+		"duration":"38:56"
+	},
+	{
+		"title":"Guided Meditation - Love and Equanimity",
+		"series":"Daylong on Love, Empathy, Hospitality",
+		"url":"/teacher/1/talk/7268/venue/IMC/20161112-Gil_Fronsdal-IMC-guided_meditation_love_and_equanimity.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-11-12",
+		"duration":"37:14"
+	},
+	{
+		"title":"Guided Meditation: Expanding Awareness",
+		"series":"Daily Life Practice Retreat: October 2016",
+		"url":"/teacher/2/talk/7133/venue/IMC/20161006-Andrea_Fella-IMC-guided_meditation_expanding_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-10-06",
+		"duration":"30:03"
+	},
+	{
+		"title":"Guided Meditation: Relax, Receive, Allow",
+		"series":"Daily Life Practice Retreat: October 2016",
+		"url":"/teacher/2/talk/7124/venue/IMC/20161004-Andrea_Fella-IMC-guided_meditation_relax_receive_allow.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-10-04",
+		"duration":"16:54"
+	},
+	{
+		"title":"Guided Meditation: Receptive Awareness",
+		"series":"Daily Life Practice Retreat: October 2016",
+		"url":"/teacher/2/talk/7116/venue/IMC/20161003-Andrea_Fella-IMC-guided_meditation_receptive_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-10-03",
+		"duration":"15:45"
+	},
+	{
+		"title":"Guided Meditation: Aware of Awareness",
+		"series":"Mindfulness and Wisdom Non-Residential Retreat",
+		"url":"/teacher/2/talk/7068/venue/IMC/20160923-Andrea_Fella-IMC-guided_meditation_aware_of_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-09-23",
+		"duration":"21:14"
+	},
+	{
+		"title":"Guided Meditation: Receptive Awareness",
+		"series":"",
+		"url":"/teacher/2/talk/7066/venue/IMC/20160922-Andrea_Fella-IMC-receptive_awareness_guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-09-22",
+		"duration":"20:18"
+	},
+	{
+		"title":"Guided Meditation: Recognizing Wisdom",
+		"series":"Mindfulness and Wisdom Non-Residential Retreat",
+		"url":"/teacher/2/talk/7063/venue/IMC/20160922-Andrea_Fella-IMC-guided_meditation_recognizing_wisdom.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-09-22",
+		"duration":"14:37"
+	},
+	{
+		"title":"Guided Meditation: Bodily Processes and Mental Processes",
+		"series":"Mindfulness and Wisdom Non-Residential Retreat",
+		"url":"/teacher/2/talk/7059/venue/IMC/20160921-Andrea_Fella-IMC-guided_meditation_bodily_processes_and_mental_processes.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-09-21",
+		"duration":"32:03"
+	},
+	{
+		"title":"Guided Meditation: Aware of Thought",
+		"series":"Mindfulness and Wisdom Non-Residential Retreat",
+		"url":"/teacher/2/talk/7052/venue/IMC/20160920-Andrea_Fella-IMC-guided_meditation_aware_of_thought.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-09-20",
+		"duration":"17:36"
+	},
+	{
+		"title":"Guided Meditation: Wise View",
+		"series":"Mindfulness and Wisdom Non-Residential Retreat",
+		"url":"/teacher/2/talk/7047/venue/IMC/20160918-Andrea_Fella-IMC-guided_meditation_wise_view.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-09-18",
+		"duration":"14:01"
+	},
+	{
+		"title":"Guided Meditation - Awareness of Breathing",
+		"series":"Mindfulness of the Body Daylong",
+		"url":"/teacher/1/talk/7023/venue/IMC/20160910-Gil_Fronsdal-IMC-guided_meditation_awareness_of_breathing_part_1.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-09-10",
+		"duration":"30:51"
+	},
+	{
+		"title":"Guided Meditation: Allowing",
+		"series":"",
+		"url":"/teacher/2/talk/6933/venue/IMC/20160809-Andrea_Fella-IMC-guided_meditation_allowing.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-08-09",
+		"duration":"20:12"
+	},
+	{
+		"title":"Guided Meditation: Deepening The Wonder",
+		"series":"Deepening the Wonder: A Day of Mindfulness and Appreciative Joy",
+		"url":"/teacher/219/talk/6851/venue/IMC/20160716-Max_Erdstein-IMC-deepening_the_wonder_guided_meditation.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-07-16",
+		"duration":"24:24"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/219/talk/6799/venue/IMC/20160628-Max_Erdstein-IMC-guided_meditation.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-06-28",
+		"duration":"28:10"
+	},
+	{
+		"title":"Guided Meditation: How Are You Right Now?",
+		"series":"",
+		"url":"/teacher/2/talk/6759/venue/IMC/20160614-Andrea_Fella-IMC-guided_meditation_how_are_you_right_now.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-06-14",
+		"duration":"15:04"
+	},
+	{
+		"title":"Guided Meditation: Instructions",
+		"series":"[IRC] - Jun 5-12: Gil Fronsdal, Paul Haller",
+		"url":"/teacher/69/talk/6766/venue/IRC/20160606-Paul_Haller-IRC-guided_meditation_instructions_1.mp3",
+		"speaker":"Paul Haller",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-06-06",
+		"duration":"35:09"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/69/talk/6556/venue/IMC/20160411-Paul_Haller-IMC-guided_meditation.mp3",
+		"speaker":"Paul Haller",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-04-11",
+		"duration":"42:29"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind Daylong: April 2016",
+		"url":"/teacher/2/talk/6547/venue/IMC/20160409-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-04-09",
+		"duration":"26:25"
+	},
+	{
+		"title":"Guided Meditation: Already Aware?",
+		"series":"Mindfulness of Mind Daylong: April 2016",
+		"url":"/teacher/2/talk/6550/venue/IMC/20160409-Andrea_Fella-IMC-guided_meditation_already_aware.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-04-09",
+		"duration":"25:32"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind Daylong: April 2016",
+		"url":"/teacher/2/talk/6553/venue/IMC/20160409-Andrea_Fella-IMC-afternoon_guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-04-09",
+		"duration":"13:49"
+	},
+	{
+		"title":"Guided Meditation: Poems, Reflections, Silence",
+		"series":"[IRC] - Apr 3-10, 2016: Nikki Mirghafori, Matthew Brensilver",
+		"url":"/teacher/231/talk/6630/venue/IRC/20160409-Matthew_Brensilver-IRC-guided_meditation_day_6_poems_reflections_silence.mp3",
+		"speaker":"Matthew Brensilver",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-04-09",
+		"duration":"39:02"
+	},
+	{
+		"title":"Guided Meditation: Expanding Awareness",
+		"series":"",
+		"url":"/teacher/2/talk/6544/venue/IMC/20160407-Andrea_Fella-IMC-guided_meditation_expanding_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-04-07",
+		"duration":"33:15"
+	},
+	{
+		"title":"Guided Meditation: Emotion in the Body",
+		"series":"[IRC] - Apr 3-10, 2016: Nikki Mirghafori, Matthew Brensilver",
+		"url":"/teacher/231/talk/6625/venue/IRC/20160407-Matthew_Brensilver-IRC-guided_meditation_day_4_emotion_in_the_body.mp3",
+		"speaker":"Matthew Brensilver",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-04-07",
+		"duration":"37:42"
+	},
+	{
+		"title":"Guided Meditation: Body & Breath",
+		"series":"[IRC] - Apr 3-10, 2016: Nikki Mirghafori, Matthew Brensilver",
+		"url":"/teacher/229/talk/6621/venue/IRC/20160404-Nikki_Mirghafori-IRC-guided_meditation_day_1_body_breath.mp3",
+		"speaker":"Nikki Mirghafori",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-04-04",
+		"duration":"52:14"
+	},
+	{
+		"title":"Guided Meditation: What is Obvious?",
+		"series":"Daily Life Practice Retreat: April 2016",
+		"url":"/teacher/2/talk/6527/venue/IMC/20160403-Andrea_Fella-IMC-guided_meditation_what_is_obvious.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-04-03",
+		"duration":"15:38"
+	},
+	{
+		"title":"Guided Meditation:  Are you aware?",
+		"series":"Daily Life Practice Retreat: April 2016",
+		"url":"/teacher/2/talk/6531/venue/IMC/20160403-Andrea_Fella-IMC-guided_meditation_are_you_aware.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-04-03",
+		"duration":"11:58"
+	},
+	{
+		"title":"Guided Meditation - Mindfulness of Body",
+		"series":"",
+		"url":"/teacher/2/talk/6310/venue/IMC/20160121-Andrea_Fella-IMC-guided_meditation_mindfulness_of_body.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-01-21",
+		"duration":"34:20"
+	},
+	{
+		"title":"Guided Meditation - Awareness and Relaxation",
+		"series":"[IRC] - January 16-18, 2016: Matthew Brensilver & Alexis Santos",
+		"url":"/teacher/231/talk/6346/venue/IRC/20160116-Matthew_Brensilver-IRC-guided_meditation_awareness_and_relaxation.mp3",
+		"speaker":"Matthew Brensilver",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-01-16",
+		"duration":"26:09"
+	},
+	{
+		"title":"Guided Meditation: Relaxing into Natural Awareness",
+		"series":"",
+		"url":"/teacher/2/talk/6281/venue/IMC/20160112-Andrea_Fella-IMC-guided_meditation_relaxing_into_natural_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2016-01-12",
+		"duration":"21:03"
+	},
+	{
+		"title":"Guided Meditation -: Miracle of the Body",
+		"series":"",
+		"url":"/teacher/272/talk/6266/venue/IMC/20151228-Meg_Gawler-IMC-guided_meditation_miracle_of_the_body.mp3",
+		"speaker":"Meg Gawler",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-12-28",
+		"duration":"31:22"
+	},
+	{
+		"title":"Guided Meditation: Starting Where You Are",
+		"series":"",
+		"url":"/teacher/2/talk/6164/venue/IMC/20151124-Andrea_Fella-IMC-guided_meditation_starting_where_you_are.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-11-24",
+		"duration":"20:10"
+	},
+	{
+		"title":"Guided Meditation on silence",
+		"series":"[IRC] - Nov 15-21, 2015: Gil Fronsdal, Nikki Mirghafori & Alex Haley",
+		"url":"/teacher/229/talk/6188/venue/IRC/20151121-Nikki_Mirghafori-IRC-guided_meditation_on_silence.mp3",
+		"speaker":"Nikki Mirghafori",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-11-21",
+		"duration":"48:55"
+	},
+	{
+		"title":"Guided Meditation: Resting in Loving Awareness",
+		"series":"Embodying Lovingkindness Daylong",
+		"url":"/teacher/272/talk/6158/venue/IMC/20151121-Meg_Gawler-IMC-guided_meditation_resting_in_loving_awareness.mp3",
+		"speaker":"Meg Gawler",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-11-21",
+		"duration":"30:24"
+	},
+	{
+		"title":"Guided Meditation on Thinking",
+		"series":"[IRC] - Nov 15-21, 2015: Gil Fronsdal, Nikki Mirghafori & Alex Haley",
+		"url":"/teacher/1/talk/6186/venue/IRC/20151120-Gil_Fronsdal-IRC-guided_meditation_on_thinking.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-11-20",
+		"duration":"35:15"
+	},
+	{
+		"title":"Guided Meditation Instruction on Breathing and Body",
+		"series":"[IRC] - Nov 15-21, 2015: Gil Fronsdal, Nikki Mirghafori & Alex Haley",
+		"url":"/teacher/229/talk/6182/venue/IRC/20151118-Nikki_Mirghafori-IRC-guided_meditation_instruction_on_breathing_and_body.mp3",
+		"speaker":"Nikki Mirghafori",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-11-18",
+		"duration":"50:31"
+	},
+	{
+		"title":"Guided Meditation Instuction on body",
+		"series":"",
+		"url":"/teacher/1/talk/6180/venue/IRC/20151117-Gil_Fronsdal-IRC-guided_meditation_instuction_on_body.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-11-17",
+		"duration":"38:19"
+	},
+	{
+		"title":"Guided Meditation: Awakening Factors",
+		"series":"",
+		"url":"/teacher/219/talk/6091/venue/IMC/20151020-Max_Erdstein-IMC-guided_meditation_awakening_factors.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-10-20",
+		"duration":"29:27"
+	},
+	{
+		"title":"Guided Meditation: Feeling",
+		"series":"",
+		"url":"/teacher/219/talk/6021/venue/IMC/20150929-Max_Erdstein-IMC-guided_meditation_feeling.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-09-29",
+		"duration":"32:19"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/219/talk/5990/venue/IMC/20150915-Max_Erdstein-IMC-guided_meditation.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-09-15",
+		"duration":"24:00"
+	},
+	{
+		"title":"Guided Meditation on the Breath",
+		"series":"",
+		"url":"/teacher/2/talk/5909/venue/IMC/20150820-Andrea_Fella-IMC-guided_meditation_on_the_breath.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-08-20",
+		"duration":"29:58"
+	},
+	{
+		"title":"Guided Meditation: Wisdom",
+		"series":"Mindfulness and Wisdom Weekend Retreat",
+		"url":"/teacher/2/talk/5870/venue/IMC/20150725-Andrea_Fella-IMC-guided_meditation_01.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-07-25",
+		"duration":"27:26"
+	},
+	{
+		"title":"Guided Meditation: Instructions",
+		"series":"[IRC] - May 29-Jun 3 2015: Gil Fronsdal, Nikki Mirghafori,Matthew Brensilver",
+		"url":"/teacher/229/talk/5729/venue/IRC/20150603-Nikki_Mirghafori-IRC-guided_meditation_overview_of_instructions.mp3",
+		"speaker":"Nikki Mirghafori",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-06-03",
+		"duration":"43:08"
+	},
+	{
+		"title":"Guided Meditation: Mindfulness of Mind",
+		"series":"[IRC] - May 29-Jun 3 2015: Gil Fronsdal, Nikki Mirghafori,Matthew Brensilver",
+		"url":"/teacher/231/talk/5728/venue/IRC/20150602-Matthew_Brensilver-IRC-guided_meditation_mindfulness_of_mind.mp3",
+		"speaker":"Matthew Brensilver",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-06-02",
+		"duration":"44:59"
+	},
+	{
+		"title":"Guided Meditation: Mindfulness of Mind",
+		"series":"",
+		"url":"/teacher/231/talk/5723/venue/IMC/20150602-Matthew_Brensilver-IMC-guided_meditation_mindfulness_of_mind.mp3",
+		"speaker":"Matthew Brensilver",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-06-02",
+		"duration":"44:59"
+	},
+	{
+		"title":"Guided Meditation: Equanimity in the Body",
+		"series":"Embodying Equanimity Daylong",
+		"url":"/teacher/272/talk/5688/venue/IMC/20150523-Meg_Gawler-IMC-guided_meditation_sitting_like_a_mountain_equanimity_in_the_body.mp3",
+		"speaker":"Meg Gawler",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-05-23",
+		"duration":"37:52"
+	},
+	{
+		"title":"Guided Meditation: Equanimity and Interconnectedness",
+		"series":"Embodying Equanimity Daylong",
+		"url":"/teacher/272/talk/5691/venue/IMC/20150523-Meg_Gawler-IMC-guided_meditation_equanimity_and_interconnectedness.mp3",
+		"speaker":"Meg Gawler",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-05-23",
+		"duration":"27:43"
+	},
+	{
+		"title":"Guided Meditation: Inviting Equanimity",
+		"series":"Embodying Equanimity Daylong",
+		"url":"/teacher/272/talk/5693/venue/IMC/20150523-Meg_Gawler-IMC-guided_meditation_inviting_equanimity.mp3",
+		"speaker":"Meg Gawler",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-05-23",
+		"duration":"4:42"
+	},
+	{
+		"title":"Guided Meditation: Equanimity as Love",
+		"series":"Embodying Equanimity Daylong",
+		"url":"/teacher/272/talk/5695/venue/IMC/20150523-Meg_Gawler-IMC-guided_meditation_equanimity_as_love.mp3",
+		"speaker":"Meg Gawler",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-05-23",
+		"duration":"28:23"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind Daylong: April 2015",
+		"url":"/teacher/2/talk/5610/venue/IMC/20150418-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-04-18",
+		"duration":"19:35"
+	},
+	{
+		"title":"Guided Meditation: Receptive Awareness",
+		"series":"",
+		"url":"/teacher/2/talk/5599/venue/IMC/20150416-Andrea_Fella-IMC-guided_meditation_receptive_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-04-16",
+		"duration":"33:31"
+	},
+	{
+		"title":"Guided Meditation: Expanding Awareness",
+		"series":"Daily Life Practice Retreat April 2015",
+		"url":"/teacher/2/talk/5596/venue/IMC/20150415-Andrea_Fella-IMC-guided_meditation_expanding_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-04-15",
+		"duration":"24:03"
+	},
+	{
+		"title":"Instruction: Guided Meditation",
+		"series":"[IRC] - Feb 17-21 2015: Gil Fronsdal, John Travis",
+		"url":"/teacher/1/talk/5477/venue/IRC/20150220-Gil_Fronsdal-IRC-instruction_guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-02-20",
+		"duration":"18:44"
+	},
+	{
+		"title":"Instruction: Guided Meditation",
+		"series":"[IRC] - Feb 17-21 2015: Gil Fronsdal, John Travis",
+		"url":"/teacher/156/talk/5480/venue/IRC/20150219-John_Travis-IRC-instruction_guided_meditation.mp3",
+		"speaker":"John Travis",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-02-19",
+		"duration":"23:03"
+	},
+	{
+		"title":"Instruction: Guided Meditation",
+		"series":"[IRC] - Feb 17-21 2015: Gil Fronsdal, John Travis",
+		"url":"/teacher/1/talk/5478/venue/IRC/20150218-Gil_Fronsdal-IRC-instruction_guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-02-18",
+		"duration":"30:06"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"[IRC] - Jan 25- Feb 1 2015: Gil Fronsdal, Joanna Harper, Vinny Ferraro",
+		"url":"/teacher/52/talk/5433/venue/IRC/20150129-Vinny_Ferraro-IRC-guided_meditation.mp3",
+		"speaker":"Vinny Ferraro",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-01-29",
+		"duration":"52:49"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/5369/venue/IMC/20150115-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-01-15",
+		"duration":"34:28"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/5363/venue/IMC/20150113-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-01-13",
+		"duration":"35:51"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/5342/venue/IMC/20150106-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2015-01-06",
+		"duration":"31:58"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/5336/venue/IMC/20141230-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-12-30",
+		"duration":"35:31"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/5303/venue/IMC/20141216-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-12-16",
+		"duration":"19:23"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/5263/venue/IMC/20141202-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-12-02",
+		"duration":"31:44"
+	},
+	{
+		"title":"Guided Meditation: Awareness",
+		"series":"[IRC] - Nov 16-23: Gil Fronsdal / Max Erdstein",
+		"url":"/teacher/1/talk/5259/venue/IRC/20141122-Gil_Fronsdal-IRC-guided_meditation_awareness.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-11-22",
+		"duration":"27:51"
+	},
+	{
+		"title":"Guided Meditations: Relationship to experience",
+		"series":"[IRC] - Nov 16-23: Gil Fronsdal / Max Erdstein",
+		"url":"/teacher/219/talk/5261/venue/IRC/20141121-Max_Erdstein-IRC-guided_meditations_relationship_to_experience.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-11-21",
+		"duration":"49:48"
+	},
+	{
+		"title":"Guided Meditation: Mindfulness of THoughts",
+		"series":"[IRC] - Nov 16-23: Gil Fronsdal / Max Erdstein",
+		"url":"/teacher/1/talk/5255/venue/IRC/20141120-Gil_Fronsdal-IRC-guided_meditation_mindfulness_of_thoughts.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-11-20",
+		"duration":"36:55"
+	},
+	{
+		"title":"Guided Meditation: Mindfullness of Emotions",
+		"series":"[IRC] - Nov 16-23: Gil Fronsdal / Max Erdstein",
+		"url":"/teacher/219/talk/5252/venue/IRC/20141119-Max_Erdstein-IRC-guided_meditation_mindfullness_of_emotions.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-11-19",
+		"duration":"50:37"
+	},
+	{
+		"title":"Guided Meditation: Mindfulness of Body",
+		"series":"[IRC] - Nov 16-23: Gil Fronsdal / Max Erdstein",
+		"url":"/teacher/1/talk/5250/venue/IRC/20141118-Gil_Fronsdal-IRC-guided_meditation_mindfulness_of_body.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-11-18",
+		"duration":"49:50"
+	},
+	{
+		"title":"Guided Meditation: Mindfulness of Breathing",
+		"series":"[IRC] - Nov 16-23: Gil Fronsdal / Max Erdstein",
+		"url":"/teacher/219/talk/5248/venue/IRC/20141117-Max_Erdstein-IRC-guided_meditation_mindfulness_of_breathing.mp3",
+		"speaker":"Max Erdstein",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-11-17",
+		"duration":"50:24"
+	},
+	{
+		"title":"Guided Meditation: Relaxed Awareness",
+		"series":"",
+		"url":"/teacher/2/talk/5228/venue/IMC/20141111-Andrea_Fella-IMC-guided_meditation_relaxed_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-11-11",
+		"duration":"35:20"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/1/talk/5189/venue/IMC/20141027-Gil_Fronsdal-IMC-guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-10-27",
+		"duration":"40:30"
+	},
+	{
+		"title":"Guided Meditation: Aware of Body and Breath",
+		"series":"[IRC] - Oct 15-17: Ajahn Amaro",
+		"url":"/teacher/5/talk/5174/venue/IRC/20141016-Ajahn_Amaro-IRC-morning_guided_meditation_aware_of_body_and_breath.mp3",
+		"speaker":"Ajahn Amaro",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-10-16",
+		"duration":"64:21"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind Daylong: August 2014",
+		"url":"/teacher/2/talk/5032/venue/IMC/20140809-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-08-09",
+		"duration":"34:29"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind Daylong: August 2014",
+		"url":"/teacher/2/talk/5038/venue/IMC/20140809-Andrea_Fella-IMC-afternoon_guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-08-09",
+		"duration":"35:21"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"[IRC] - Mindfulness of Mind",
+		"url":"/teacher/2/talk/4941/venue/IRC/20140715-Andrea_Fella-IRC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-07-15",
+		"duration":"7:08"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"[IRC] - Mindfulness of Mind",
+		"url":"/teacher/2/talk/4937/venue/IRC/20140714-Andrea_Fella-IRC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-07-14",
+		"duration":"10:07"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/255/talk/4919/venue/IMC/20140707-Dhammaruwan-IMC-guided_meditation.mp3",
+		"speaker":"Dhammaruwan",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-07-07",
+		"duration":"16:18"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/4863/venue/IMC/20140605-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-06-05",
+		"duration":"35:09"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/4855/venue/IMC/20140529-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-05-29",
+		"duration":"34:47"
+	},
+	{
+		"title":"Guided Meditation & The Four Truths",
+		"series":"",
+		"url":"/teacher/16/talk/4752/venue/IMC/20140421-Ajaan_Thanissaro-IMC-guided_meditation_the_four_feeding_truths.mp3",
+		"speaker":"Ajaan Thanissaro",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-04-21",
+		"duration":"1:27:17"
+	},
+	{
+		"title":"Guided Meditation: Receptive Awareness",
+		"series":"",
+		"url":"/teacher/2/talk/4694/venue/IMC/20140325-Andrea_Fella-IMC-guided_meditation_receptive_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2014-03-25",
+		"duration":"29:11"
+	},
+	{
+		"title":"Guided Meditation:  ...and the breath",
+		"series":"",
+		"url":"/teacher/2/talk/4458/venue/IMC/20131121-Andrea_Fella-IMC-guided_meditation_and_the_breath.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-11-21",
+		"duration":"35:49"
+	},
+	{
+		"title":"Instruction Guided Meditation- Breath",
+		"series":"[IRC] - Nov 17,2013 Insight Retreat: Gil Fronsdal/Paul Haller",
+		"url":"/teacher/69/talk/4502/venue/IRC/20131120-Paul_Haller-IRC-instruction_guided_meditation_breath.mp3",
+		"speaker":"Paul Haller",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-11-20",
+		"duration":"16:55"
+	},
+	{
+		"title":"Instruction Guided Meditation - The Body",
+		"series":"[IRC] - Nov 17,2013 Insight Retreat: Gil Fronsdal/Paul Haller",
+		"url":"/teacher/69/talk/4498/venue/IRC/20131118-Paul_Haller-IRC-instruction_guided_meditation_body.mp3",
+		"speaker":"Paul Haller",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-11-18",
+		"duration":"39:00"
+	},
+	{
+		"title":"Guided Meditation: Mind Objects",
+		"series":"",
+		"url":"/teacher/229/talk/4346/venue/IMC/20130926-Nikki_Mirghafori-IMC-guided_meditation_mind_objects.mp3",
+		"speaker":"Nikki Mirghafori",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-09-26",
+		"duration":"31:00"
+	},
+	{
+		"title":"Guided Meditation on Right View",
+		"series":"Dharma Mentoring Program 2013",
+		"url":"/teacher/240/talk/4341/venue/IMC/20130914-Diana_Clark-IMC-guided_meditation_on_right_view.mp3",
+		"speaker":"Diana Clark",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-09-14",
+		"duration":"12:34"
+	},
+	{
+		"title":"Guided Meditation: Radiating Metta",
+		"series":"",
+		"url":"/teacher/2/talk/4263/venue/IMC/20130810-Andrea_Fella-IMC-guided_meditation_radiating_metta.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-08-10",
+		"duration":"29:39"
+	},
+	{
+		"title":"Guided Meditation: Settling with the Breath",
+		"series":"",
+		"url":"/teacher/2/talk/4243/venue/IMC/20130730-Andrea_Fella-IMC-guided_meditation_settling_with_the_breath.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-07-30",
+		"duration":"19:49"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"[IRC] - Jun 2013 Mindfulness of Mind Retreat: Andrea Fella",
+		"url":"/teacher/2/talk/4198/venue/IRC/20130705-Andrea_Fella-IRC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-07-05",
+		"duration":"7:43"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"[IRC] - Jun 2013 Mindfulness of Mind Retreat: Andrea Fella",
+		"url":"/teacher/2/talk/4187/venue/IRC/20130703-Andrea_Fella-IRC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-07-03",
+		"duration":"3:35"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"[IRC] - Jun 2013 Mindfulness of Mind Retreat: Andrea Fella",
+		"url":"/teacher/2/talk/4183/venue/IRC/20130702-Andrea_Fella-IRC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-07-02",
+		"duration":"2:56"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"[IRC] - Jun 2013 Mindfulness of Mind Retreat: Andrea Fella",
+		"url":"/teacher/2/talk/4172/venue/IRC/20130630-Andrea_Fella-IRC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-06-30",
+		"duration":"3:52"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"[IRC] - Jun 2013 Mindfulness of Mind Retreat: Andrea Fella",
+		"url":"/teacher/2/talk/4128/venue/IRC/20130623-Andrea_Fella-IRC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-06-23",
+		"duration":"9:11"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/4062/venue/IMC/20130509-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-05-09",
+		"duration":"34:30"
+	},
+	{
+		"title":"Guided Meditation: Strong Back, Soft Front",
+		"series":"",
+		"url":"/teacher/117/talk/4055/venue/IMC/20130505-Frank_Ostaseski-IMC-guided_meditation_strong_back_soft_front.mp3",
+		"speaker":"Frank Ostaseski",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-05-05",
+		"duration":"28:45"
+	},
+	{
+		"title":"Guided Meditation- Dharma Practice Day",
+		"series":"Dharma Practice Day-Right Concentration",
+		"url":"/teacher/1/talk/4048/venue/IMC/20130503-Gil_Fronsdal-IMC-guided_meditation_dharma_practice_day.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-05-03",
+		"duration":"14:31"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Dharma Practice Day-Right Concentration",
+		"url":"/teacher/1/talk/4052/venue/IMC/20130503-Gil_Fronsdal-IMC-guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-05-03",
+		"duration":"15:04"
+	},
+	{
+		"title":"Guided Meditation: Ease With the Breath",
+		"series":"",
+		"url":"/teacher/2/talk/4002/venue/IMC/20130402-Andrea_Fella-IMC-guided_meditation_ease_with_the_breath.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-04-02",
+		"duration":"15:43"
+	},
+	{
+		"title":"Guided Meditation: Open Awareness",
+		"series":"[IRC] - Mar 2013 Retreat: Andrea Fella/Gil Fronsdal",
+		"url":"/teacher/2/talk/3974/venue/IRC/20130322-Andrea_Fella-IRC-guided_meditation_open_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-03-22",
+		"duration":"14:52"
+	},
+	{
+		"title":"Short Guided Meditation",
+		"series":"Cultivating the Noble Eightfold Path: Right Effort",
+		"url":"/teacher/1/talk/3942/venue/IMC/20130315-Gil_Fronsdal-IMC-short_guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-03-15",
+		"duration":"3:01"
+	},
+	{
+		"title":"Guided Meditation on Metta for Self",
+		"series":"",
+		"url":"/teacher/229/talk/3892/venue/IMC/20130214-Nikki_Mirghafori-IMC-guided_meditation_on_metta_for_self.mp3",
+		"speaker":"Nikki Mirghafori",
+		"pdf":"",
+		"keys":"",
+		"date":"2013-02-14",
+		"duration":"32:19"
+	},
+	{
+		"title":"Guided Meditation: Relaxing with the Breath",
+		"series":"",
+		"url":"/teacher/2/talk/3776/venue/IMC/20121129-Andrea_Fella-IMC-guided_meditation_relaxing_with_the_breath.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-11-29",
+		"duration":"34:43"
+	},
+	{
+		"title":"Guided Meditation: Whole Body Breathing",
+		"series":"",
+		"url":"/teacher/2/talk/3772/venue/IMC/20121127-Andrea_Fella-IMC-guided_meditation_whole_body_breathing.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-11-27",
+		"duration":"33:39"
+	},
+	{
+		"title":"Guided Meditation:  Expanding Awareness",
+		"series":"Daily Life Practice Retreat - Sept 2012",
+		"url":"/teacher/2/talk/3276/venue/IMC/20120921-Andrea_Fella-IMC-guided_meditation_expanding_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-09-21",
+		"duration":"28:22"
+	},
+	{
+		"title":"Guided Meditation - Loving Kindness",
+		"series":"",
+		"url":"/teacher/2/talk/3255/venue/IMC/20120911-Andrea_Fella-IMC-guided_meditation_loving_kindness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-09-11",
+		"duration":"35:34"
+	},
+	{
+		"title":"Guided Meditation: Relaxed Attention",
+		"series":"",
+		"url":"/teacher/2/talk/3209/venue/IMC/20120719-Andrea_Fella-IMC-guided_meditation_relaxed_attention.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-07-19",
+		"duration":"18:02"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind - Second Week",
+		"url":"/teacher/2/talk/3156/venue/JIK/20120704-Andrea_Fella-JIK-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-07-04",
+		"duration":"5:55"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind - Second Week",
+		"url":"/teacher/2/talk/3152/venue/JIK/20120703-Andrea_Fella-JIK-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-07-03",
+		"duration":"5:49"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind - Second Week",
+		"url":"/teacher/2/talk/3148/venue/JIK/20120702-Andrea_Fella-JIK-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-07-02",
+		"duration":"5:22"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind - Second Week",
+		"url":"/teacher/2/talk/3138/venue/JIK/20120701-Andrea_Fella-JIK-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-07-01",
+		"duration":"2:30"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind - First Week",
+		"url":"/teacher/2/talk/3132/venue/JIK/20120630-Andrea_Fella-JIK-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-06-30",
+		"duration":"7:30"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind - First Week",
+		"url":"/teacher/2/talk/3128/venue/JIK/20120629-Andrea_Fella-JIK-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-06-29",
+		"duration":"3:29"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind - First Week",
+		"url":"/teacher/2/talk/3124/venue/JIK/20120628-Andrea_Fella-JIK-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-06-28",
+		"duration":"6:06"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind - First Week",
+		"url":"/teacher/2/talk/3121/venue/JIK/20120627-Andrea_Fella-JIK-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-06-27",
+		"duration":"9:16"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind - First Week",
+		"url":"/teacher/2/talk/3117/venue/JIK/20120626-Andrea_Fella-JIK-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-06-26",
+		"duration":"10:58"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness of Mind - First Week",
+		"url":"/teacher/2/talk/3113/venue/JIK/20120625-Andrea_Fella-JIK-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-06-25",
+		"duration":"24:01"
+	},
+	{
+		"title":"Guided Meditation: Expanding Awareness",
+		"series":"April 2012 Hidden Villa Retreat with Andrea Fella and Anushka Fernandopulle",
+		"url":"/teacher/2/talk/3004/venue/HV/20120421-Andrea_Fella-HV-guided_meditation_expanding_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-04-21",
+		"duration":"44:52"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/2995/venue/IMC/20120412-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-04-12",
+		"duration":"12:57"
+	},
+	{
+		"title":"Guided Meditation: Equanimity",
+		"series":"Dharma Practice Day-Brahma Vihara- Equanimity",
+		"url":"/teacher/1/talk/2948/venue/IMC/20120330-Gil_Fronsdal-IMC-brahma_viharas_equanimity_day_2_guided_meditation_part_1.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2012-03-30",
+		"duration":"17:13"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/2488/venue/IMC/20110630-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2011-06-30",
+		"duration":"33:16"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/2483/venue/IMC/20110623-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2011-06-23",
+		"duration":"20:14"
+	},
+	{
+		"title":"Guided Meditation: Perception",
+		"series":"",
+		"url":"/teacher/2/talk/2343/venue/IMC/20110310-Andrea_Fella-IMC-guided_meditation_perception.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2011-03-10",
+		"duration":"6:40"
+	},
+	{
+		"title":"Guided Meditation: Body and Emotions",
+		"series":"",
+		"url":"/teacher/2/talk/2334/venue/IMC/20110303-Andrea_Fella-IMC-guided_meditation_body_and_emotions.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2011-03-03",
+		"duration":"8:28"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/2070/venue/IMC/20100923-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-09-23",
+		"duration":"13:57"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/2013/venue/IMC/20100902-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-09-02",
+		"duration":"9:46"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/2000/venue/IMC/20100812-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-08-12",
+		"duration":"15:15"
+	},
+	{
+		"title":"Guided Meditation: Open in Gratitude",
+		"series":"",
+		"url":"/teacher/118/talk/1998/venue/IMC/20100805-Jim_Podolske-IMC-guided_meditation_open_in_gratitude.mp3",
+		"speaker":"Jim Podolske",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-08-05",
+		"duration":"5:04"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/1989/venue/IMC/20100729-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-07-29",
+		"duration":"16:23"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/2043/venue/IMC/20100715-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-07-15",
+		"duration":"14:07"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/139/talk/1964/venue/IMC/20100705-Tempel_Smith-IMC-guided_meditation.mp3",
+		"speaker":"Tempel Smith",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-07-05",
+		"duration":"41:12"
+	},
+	{
+		"title":"Guided Meditation-Expanding Awareness",
+		"series":"",
+		"url":"/teacher/2/talk/1948/venue/IMC/20100601-Andrea_Fella-IMC-guided_meditation_expanding_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-06-01",
+		"duration":"30:12"
+	},
+	{
+		"title":"Guided Meditation: Relaxed Focus",
+		"series":"",
+		"url":"/teacher/2/talk/1900/venue/IMC/20100518-Andrea_Fella-IMC-guided_meditation_relaxed_focus.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-05-18",
+		"duration":"29:00"
+	},
+	{
+		"title":"Guided Meditation - Expanding Awareness",
+		"series":"May 2010 Hidden Villa Retreat",
+		"url":"/teacher/2/talk/1940/venue/HV/20100507-Andrea_Fella-HV-guided_meditation_expanding_awareness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-05-07",
+		"duration":"18:45"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Mindfulness and Concentration",
+		"url":"/teacher/16/talk/1743/venue/IMC/20100417-Ajaan_Thanissaro-IMC-guided_meditation.mp3",
+		"speaker":"Ajaan Thanissaro",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-04-17",
+		"duration":"31:54"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/2/talk/1701/venue/IMC/20100318-Andrea_Fella-IMC-guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-03-18",
+		"duration":"10:32"
+	},
+	{
+		"title":"Guided Meditation: Free Floating in the Discomfort",
+		"series":"Guided Meditations for Working with Pain",
+		"url":"/teacher/57/talk/1774/20100128-Ines_Freedman-IMC-guided_meditation_free_floating_in_the_discomfort.mp3",
+		"speaker":"Ines Freedman",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-01-28",
+		"duration":"31:16"
+	},
+	{
+		"title":"Guided Meditation: Emotional Reactions to Pain",
+		"series":"Guided Meditations for Working with Pain",
+		"url":"/teacher/57/talk/1775/20100128-Ines_Freedman-IMC-guided_meditation_emotional_reactions_to_pain.mp3",
+		"speaker":"Ines Freedman",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-01-28",
+		"duration":"25:39"
+	},
+	{
+		"title":"Guided Meditation: Local Intensity, Global Spread",
+		"series":"Guided Meditations for Working with Pain",
+		"url":"/teacher/57/talk/1776/20100128-Ines_Freedman-IMC-guided_meditation_local_intensity_global_spread.mp3",
+		"speaker":"Ines Freedman",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-01-28",
+		"duration":"25:33"
+	},
+	{
+		"title":"Guided Meditation: Mindfulness of Thinking",
+		"series":"Guided Meditations for Working with Pain",
+		"url":"/teacher/57/talk/1777/20100128-Ines_Freedman-IMC-guided_meditation_mindfulness_of_thinking.mp3",
+		"speaker":"Ines Freedman",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-01-28",
+		"duration":"22:51"
+	},
+	{
+		"title":"Guided Meditation: Loving Kindness",
+		"series":"Guided Meditations for Working with Pain",
+		"url":"/teacher/57/talk/1778/20100128-Ines_Freedman-IMC-guided_meditation_loving_kindness.mp3",
+		"speaker":"Ines Freedman",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-01-28",
+		"duration":"22:36"
+	},
+	{
+		"title":"Guided Meditation: Body Scan",
+		"series":"Guided Meditations for Working with Pain",
+		"url":"/teacher/57/talk/1779/20100128-Ines_Freedman-IMC-guided_meditation_body_scan.mp3",
+		"speaker":"Ines Freedman",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-01-28",
+		"duration":"39:12"
+	},
+	{
+		"title":"Guided Meditation: Karuna",
+		"series":"",
+		"url":"/teacher/51/talk/1659/venue/IMC/20100114-Anushka_Fernandopulle-IMC-brahma_vihara_series_karuna_guided_meditation.mp3",
+		"speaker":"Anushka Fernandopulle",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-01-14",
+		"duration":"26:30"
+	},
+	{
+		"title":"Guided Meditation: Mindfulness of Breathing",
+		"series":"Guided Meditations for Working with Pain",
+		"url":"/teacher/57/talk/1773/20100112-Ines_Freedman-IMC-guided_meditation_mindfulness_of_breathing.mp3",
+		"speaker":"Ines Freedman",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-01-12",
+		"duration":"28:27"
+	},
+	{
+		"title":"Guided Meditation - Metta",
+		"series":"",
+		"url":"/teacher/51/talk/1652/venue/IMC/20100107-Anushka_Fernandopulle-IMC-brahma_vihara_series_metta_guided_meditation.mp3",
+		"speaker":"Anushka Fernandopulle",
+		"pdf":"",
+		"keys":"",
+		"date":"2010-01-07",
+		"duration":"27:06"
+	},
+	{
+		"title":"Guided Meditation: Loving Kindness",
+		"series":"",
+		"url":"/teacher/2/talk/1563/venue/IMC/20090806-Andrea_Fella-IMC-guided_meditation_loving_kindness.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2009-08-06",
+		"duration":"10:39"
+	},
+	{
+		"title":"Guided Meditation: Energy",
+		"series":"Online Course: Five Hindrances Series",
+		"url":"/teacher/57/talk/1772/venue/IMC/20090705-Ines_Freedman-IMC-guided_meditation_energy.mp3",
+		"speaker":"Ines Freedman",
+		"pdf":"",
+		"keys":"",
+		"date":"2009-07-05",
+		"duration":"22:49"
+	},
+	{
+		"title":"Guided Meditation: Wanting",
+		"series":"Online Course: Five Hindrances Series",
+		"url":"/teacher/57/talk/1769/venue/IMC/20090520-Ines_Freedman-IMC-guided_meditation_wanting.mp3",
+		"speaker":"Ines Freedman",
+		"pdf":"",
+		"keys":"",
+		"date":"2009-05-20",
+		"duration":"23:33"
+	},
+	{
+		"title":"Guided Meditation: Acknowledge, Feel, Soften",
+		"series":"",
+		"url":"/teacher/1/talk/1522/venue/IMC/20090510-Gil_Fronsdal-IMC-guided_meditation_acknowledge_feel_soften.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2009-05-10",
+		"duration":"7:35"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/16/talk/1513/venue/IMC/20090502-Ajaan_Thanissaro-IMC-guided_meditation.mp3",
+		"speaker":"Ajaan Thanissaro",
+		"pdf":"",
+		"keys":"",
+		"date":"2009-05-02",
+		"duration":"30:43"
+	},
+	{
+		"title":"Guided Meditation: Confidence",
+		"series":"Online Course: Five Hindrances Series",
+		"url":"/teacher/1/talk/1771/venue/IMC/20090501-Gil_Fronsdal-IMC-guided_meditation_confidence.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2009-05-01",
+		"duration":"25:16"
+	},
+	{
+		"title":"Guided Meditation: The Body",
+		"series":"",
+		"url":"/teacher/2/talk/1486/venue/IMC/20090319-Andrea_Fella-IMC-mindfulness_of_the_body_guided_meditation.mp3",
+		"speaker":"Andrea Fella",
+		"pdf":"",
+		"keys":"",
+		"date":"2009-03-19",
+		"duration":"27:58"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/1/talk/1207/20071109-Gil_Fronsdal-IMC-anapanasati_guided_meditation_1_of_9.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2007-11-09",
+		"duration":"34:37"
+	},
+	{
+		"title":"Guided Meditation: Joy",
+		"series":"",
+		"url":"/teacher/1/talk/1186/20071012-Gil_Fronsdal-IMC-anapanasati_guided_meditation_joy_8_of_10.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2007-10-12",
+		"duration":"27:31"
+	},
+	{
+		"title":"Guided Meditation: Simply Knowing the Breath",
+		"series":"",
+		"url":"/teacher/1/talk/1189/20071012-Gil_Fronsdal-IMC-anapanasati_guided_meditation_simply_knowing_the_breath_2_of_10.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2007-10-12",
+		"duration":"37:39"
+	},
+	{
+		"title":"Guided Meditation: Calming Bodily Formations",
+		"series":"",
+		"url":"/teacher/1/talk/1190/20071012-Gil_Fronsdal-IMC-anapanasati_guided_meditation_calming_bodily_formations_5_of_10.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2007-10-12",
+		"duration":"36:03"
+	},
+	{
+		"title":"Guided Meditation: The Mind",
+		"series":"",
+		"url":"/teacher/8/talk/1160/20070909-Steve_Armstrong-IMC-awareness_of_mind_guided_meditation_2_of_6.mp3",
+		"speaker":"Steve Armstrong",
+		"pdf":"",
+		"keys":"",
+		"date":"2007-09-09",
+		"duration":"34:35"
+	},
+	{
+		"title":"Guided Meditation: The Mind",
+		"series":"",
+		"url":"/teacher/8/talk/1163/20070909-Steve_Armstrong-IMC-awareness_of_mind_guided_meditation_5_of_6.mp3",
+		"speaker":"Steve Armstrong",
+		"pdf":"",
+		"keys":"",
+		"date":"2007-09-09",
+		"duration":"38:58"
+	},
+	{
+		"title":"Guided Meditation: Awareness of Breathing Lying Down",
+		"series":"",
+		"url":"/teacher/1/talk/1145/20070907-Gil_Fronsdal-IMC-anapanasati_guided_meditation_awareness_of_breathing_lying_down_2_of_10.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2007-09-07",
+		"duration":"38:45"
+	},
+	{
+		"title":"Guided Meditation: Experience of Breathing",
+		"series":"",
+		"url":"/teacher/1/talk/1152/20070907-Gil_Fronsdal-IMC-anapanasati_guided_meditation_experience_of_breathing_all_phases_9_of_10.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2007-09-07",
+		"duration":"20:23"
+	},
+	{
+		"title":"Guided Meditation: Experience of Breathing",
+		"series":"",
+		"url":"/teacher/1/talk/1153/20070907-Gil_Fronsdal-IMC-anapanasati_guided_meditation_experience_of_breathing_in_and_out_7_of_10.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2007-09-07",
+		"duration":"37:08"
+	},
+	{
+		"title":"Guided Meditation: Dependent Co-arising",
+		"series":"",
+		"url":"/teacher/16/talk/1060/20070505-Ajaan_Thanissaro-IMC-dependent_co_arising_guided_meditation_1_of_10.mp3",
+		"speaker":"Ajaan Thanissaro",
+		"pdf":"",
+		"keys":"",
+		"date":"2007-05-05",
+		"duration":"28:48"
+	},
+	{
+		"title":"Guided Meditation: Body Sweep",
+		"series":"",
+		"url":"/teacher/24/talk/1828/20070203-Leigh_Brasington-IMC-guided_meditation_body_sweep.mp3",
+		"speaker":"Leigh Brasington",
+		"pdf":"",
+		"keys":"",
+		"date":"2007-02-03",
+		"duration":"45:21"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/145/talk/830/20060111-Bhante_Sujiva-IMC-guided_meditation.mp3",
+		"speaker":"Bhante Sujiva",
+		"pdf":"",
+		"keys":"",
+		"date":"2006-01-11",
+		"duration":"42:18"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/1/talk/690/20050508-Gil_Fronsdal-IMC-guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2005-05-08",
+		"duration":"43:51"
+	},
+	{
+		"title":"Guided Meditation: Hindrances",
+		"series":"Online Course: Five Hindrances Series",
+		"url":"/teacher/1/talk/1768/venue/IMC/20041103-Gil_Fronsdal-IMC-guided_meditation_hindrances.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2004-11-03",
+		"duration":"21:03"
+	},
+	{
+		"title":"Guided Meditation: Thoughts",
+		"series":"",
+		"url":"/teacher/1/talk/555/20040829-Gil_Fronsdal-IMC-world_of_thoughts_guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2004-08-29",
+		"duration":"42:58"
+	},
+	{
+		"title":"Guided Meditation: Direct Experience",
+		"series":"",
+		"url":"/teacher/1/talk/453/20040314-Gil_Fronsdal-IMC-directexperience_guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2004-03-14",
+		"duration":"35:45"
+	},
+	{
+		"title":"Guided Meditation: The Breath",
+		"series":"",
+		"url":"/teacher/1/talk/363/20030807-Gil_Fronsdal-IMC-guided_meditation_on_the_breath.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2003-08-07",
+		"duration":"14:42"
+	},
+	{
+		"title":"Guided Meditation: Confidence and the Breath",
+		"series":"",
+		"url":"/teacher/1/talk/357/20030724-Gil_Fronsdal-IMC-guided_meditation_confidence_and_the_breath.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2003-07-24",
+		"duration":"32:45"
+	},
+	{
+		"title":"Guided Meditation: introduction",
+		"series":"",
+		"url":"/teacher/146/talk/341/20030703-Ajahn_Sundara-IMC-intro_guided_meditation.mp3",
+		"speaker":"Ajahn Sundara",
+		"pdf":"",
+		"keys":"",
+		"date":"2003-07-03",
+		"duration":"19:34"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/16/talk/300/20030329-Ajaan_Thanissaro-IMC-guided_meditation.mp3",
+		"speaker":"Ajaan Thanissaro",
+		"pdf":"",
+		"keys":"",
+		"date":"2003-03-29",
+		"duration":"33:43"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/183/talk/240/20021118-Sister_Susila-IMC-guided_meditation.mp3",
+		"speaker":"Sister Susila",
+		"pdf":"",
+		"keys":"",
+		"date":"2002-11-18",
+		"duration":"32:43"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/3/talk/215/20021010-Mark_Abramson-IMC-guided_meditation.mp3",
+		"speaker":"Mark Abramson",
+		"pdf":"",
+		"keys":"",
+		"date":"2002-10-10",
+		"duration":"29:12"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/1/talk/183/20020808-Gil_Fronsdal-IMC-guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2002-08-08",
+		"duration":"6:34"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/6/talk/177/20020725-Gloria_Taraniya_Ambrosia-IMC-guided_meditation.mp3",
+		"speaker":"Gloria Taraniya",
+		"pdf":"",
+		"keys":"",
+		"date":"2002-07-25",
+		"duration":"5:18"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/6/talk/174/20020721-Gloria_Taraniya_Ambrosia-IMC-guided_meditation.mp3",
+		"speaker":"Gloria Taraniya",
+		"pdf":"",
+		"keys":"",
+		"date":"2002-07-21",
+		"duration":"6:25"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/6/talk/172/20020718-Gloria_Taraniya_Ambrosia-IMC-guided_meditation.mp3",
+		"speaker":"Gloria Taraniya",
+		"pdf":"",
+		"keys":"",
+		"date":"2002-07-18",
+		"duration":"6:23"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/6/talk/169/20020714-Gloria_Taraniya_Ambrosia-IMC-guided_meditation.mp3",
+		"speaker":"Gloria Taraniya",
+		"pdf":"",
+		"keys":"",
+		"date":"2002-07-14",
+		"duration":"5:59"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/146/talk/141/20020509-Ajahn_Sundara-IMC-guided_meditation.mp3",
+		"speaker":"Ajahn Sundara",
+		"pdf":"",
+		"keys":"",
+		"date":"2002-05-09",
+		"duration":"9:13"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"",
+		"url":"/teacher/146/talk/138/20020506-Ajahn_Sundara-IMC-guided_meditation.mp3",
+		"speaker":"Ajahn Sundara",
+		"pdf":"",
+		"keys":"",
+		"date":"2002-05-06",
+		"duration":"13:04"
+	},
+	{
+		"title":"Guided Meditation on Forgiveness",
+		"series":"",
+		"url":"/teacher/1/talk/45/20010906-Gil_Fronsdal-IMC-guided_meditation_on_forgiveness.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2001-09-06",
+		"duration":"15:07"
+	},
+	{
+		"title":"Guided Meditation on the Breath",
+		"series":"",
+		"url":"/teacher/1/talk/8/20010517-Gil_Fronsdal-IMC-guided_meditation_on_the_breath.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"2001-05-17",
+		"duration":"30:12"
+	},
+	{
+		"title":"Guided Meditation",
+		"series":"Guided Meditations",
+		"url":"/teacher/1/talk/1836/19990311-Gil_Fronsdal-IMC-guided_meditation.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"1999-03-11",
+		"duration":"31:19"
+	},
+	{
+		"title":"Guided Meditation: Body Scan Concepts",
+		"series":"",
+		"url":"/teacher/1/talk/3495/19980827-Gil_Fronsdal-IMC-guided_meditation_body_scan_concepts.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"keys":"",
+		"date":"1998-08-27",
+		"duration":"1:12:03"
+	}
+    ]
+}
