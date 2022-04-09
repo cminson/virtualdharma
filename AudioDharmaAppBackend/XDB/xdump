@@ -1,0 +1,1 @@
+mysqldump -ucminson -p --no-tablespaces --databases ad > back.sql
