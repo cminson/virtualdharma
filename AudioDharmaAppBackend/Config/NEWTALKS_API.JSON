@@ -1,6 +1,26 @@
 {
 	"talks":[
 	{
+		"title":"Reflections on Thich Nhat Hanhs Teachings",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/16050/20220410-Matthew_Brensilver-IMC-reflections_on_thich_nhat_hanh_s_teachings.mp3",
+		"ln":"en",
+		"download_url":"/16050/20220410-Matthew_Brensilver-IMC-reflections_on_thich_nhat_hanh_s_teachings.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2022.04.10",
+		"duration":"37:57"
+	},
+	{
+		"title":"Lightly Guided Meditation",
+		"series":"Guided Meditations",
+		"url":"/16051/20220410-Matthew_Brensilver-IMC-lightly_guided_meditation.mp3",
+		"ln":"en",
+		"download_url":"/16051/20220410-Matthew_Brensilver-IMC-lightly_guided_meditation.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2022.04.10",
+		"duration":"36:27"
+	},
+	{
 		"title":"Happy Hour: We Can Choose A Wise Perspective",
 		"series":"",
 		"url":"/16047/20220408-Nikki_Mirghafori-IMC-happy_hour_we_can_choose_a_wise_perspective.mp3",
@@ -31,7 +51,7 @@
 		"duration":"30:16"
 	},
 	{
-		"title":"Guided Meditation:  "and..." Practice",
+		"title":"Guided Meditation:  and... Practice",
 		"series":"Guided Meditations",
 		"url":"/16042/20220407-Andrea_Fella-IMC-guided_meditation_and_practice.mp3",
 		"ln":"en",
@@ -69,26 +89,6 @@
 		"speaker":"Gil Fronsdal",
 		"date":"2022.04.06",
 		"duration":"12:03"
-	},
-	{
-		"title":"Guided Meditation: Mindfulness of Hearing",
-		"series":"Guided Meditations",
-		"url":"/16033/20220406-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_hearing.mp3",
-		"ln":"en",
-		"download_url":"/16033/20220406-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_hearing.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.04.06",
-		"duration":"32:00"
-	},
-	{
-		"title":"The Four Noble Truths as Insights",
-		"series":"The Four Noble Truths and the Eightfold Path",
-		"url":"/16031/20220405-Andrea_Fella-IMC-the_four_noble_truths_as_insights.mp3",
-		"ln":"en",
-		"download_url":"/16031/20220405-Andrea_Fella-IMC-the_four_noble_truths_as_insights.mp3",
-		"speaker":"Andrea Fella",
-		"date":"2022.04.05",
-		"duration":"40:19"
 	}
 	]
 }

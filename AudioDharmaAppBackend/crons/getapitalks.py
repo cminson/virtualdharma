@@ -41,6 +41,8 @@ def newTalksPrint(text):
 
 def cleanText(text):
 
+    text = text.replace("'", "")
+    text = text.replace("\"", "")
     #
     #CJM:  Disabling as it screws up Spanish language text
     #Monitor

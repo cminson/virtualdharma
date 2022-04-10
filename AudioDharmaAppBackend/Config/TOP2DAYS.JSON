@@ -1,50 +1,50 @@
 {
 "talks": [
 {
-	"title" : "1. Guided Meditation: Seeing Entanglement",
-	"url" : "/16040/20220407-Gil_Fronsdal-IMC-guided_meditation_seeing_entanglement.mp3",
+	"title" : "1. Guided Meditation: Remembering Yourself",
+	"url" : "/16030/20220405-Andrea_Fella-IMC-guided_meditation_remembering_yourself.mp3",
 	"series" : "",
-	"score" : 141
+	"score" : 145
 },
 {
 	"title" : "2. Mindfulness, Dharma, Mental Health & Science Part 1 of 2",
 	"url" : "/16024/20220402-Matthew_Brensilver-sati-mindfulness_dharma_mental_health_science_part_1_of_2.mp3",
 	"series" : "",
-	"score" : 123
+	"score" : 113
 },
 {
-	"title" : "3. Guided Meditation: Remembering Yourself",
-	"url" : "/16030/20220405-Andrea_Fella-IMC-guided_meditation_remembering_yourself.mp3",
+	"title" : "3. Guided Meditation: Seeing Entanglement",
+	"url" : "/16040/20220407-Gil_Fronsdal-IMC-guided_meditation_seeing_entanglement.mp3",
 	"series" : "",
-	"score" : 110
+	"score" : 103
 },
 {
-	"title" : "4. Dharmette: Satipatthana (55) Sense Doors: Body",
-	"url" : "/16041/20220407-Gil_Fronsdal-IMC-dharmette_satipatthana_55_sense_doors_body.mp3",
-	"series" : "",
-	"score" : 110
-},
-{
-	"title" : "5. The Four Noble Truths as Insights",
+	"title" : "4. The Four Noble Truths as Insights",
 	"url" : "/16031/20220405-Andrea_Fella-IMC-the_four_noble_truths_as_insights.mp3",
 	"series" : "",
-	"score" : 85
+	"score" : 95
 },
 {
-	"title" : "6. Inspired By Awakening Poems",
-	"url" : "/16027/20220404-Diana_Clark-IMC-inspired_by_awakening_poems.mp3",
+	"title" : "5. Dharmette: Satipatthana (55) Sense Doors: Body",
+	"url" : "/16041/20220407-Gil_Fronsdal-IMC-dharmette_satipatthana_55_sense_doors_body.mp3",
 	"series" : "",
-	"score" : 60
+	"score" : 74
 },
 {
-	"title" : "7. Mindfulness, Dharma, Mental Health & Science Part 2 of 2",
-	"url" : "/16025/20220402-Matthew_Brensilver-sati-mindfulness_dharma_mental_health_science_part_2_of_2.mp3",
-	"series" : "",
-	"score" : 58
-},
-{
-	"title" : "8. Guided Meditation: Allowing",
+	"title" : "6. Guided Meditation: Allowing",
 	"url" : "/15299/20220331-Andrea_Fella-IMC-guided_meditation_allowing.mp3",
+	"series" : "",
+	"score" : 65
+},
+{
+	"title" : "7. Working with Recurring Habits and Patterns",
+	"url" : "/15300/20220331-Andrea_Fella-IMC-working_with_recurring_habits_and_patterns.mp3",
+	"series" : "",
+	"score" : 55
+},
+{
+	"title" : "8. Inspired By Awakening Poems",
+	"url" : "/16027/20220404-Diana_Clark-IMC-inspired_by_awakening_poems.mp3",
 	"series" : "",
 	"score" : 55
 },
@@ -52,13 +52,13 @@
 	"title" : "9. Guided Meditation: Not Holding On",
 	"url" : "/16028/20220405-Gil_Fronsdal-IMC-guided_meditation_not_holding_on.mp3",
 	"series" : "",
-	"score" : 53
+	"score" : 51
 },
 {
-	"title" : "10. Working with Recurring Habits and Patterns",
-	"url" : "/15300/20220331-Andrea_Fella-IMC-working_with_recurring_habits_and_patterns.mp3",
+	"title" : "10. Mindfulness, Dharma, Mental Health & Science Part 2 of 2",
+	"url" : "/16025/20220402-Matthew_Brensilver-sati-mindfulness_dharma_mental_health_science_part_2_of_2.mp3",
 	"series" : "",
-	"score" : 50
+	"score" : 48
 }
 ]
 }

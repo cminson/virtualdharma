@@ -1,13 +1,14 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 import json
 import string
-import requests, urllib, urllib2
+#import requests, urllib, urllib2
+import requests, urllib
 
 
 Printable = dict.fromkeys(string.printable, 0)
 CharExclusions = ["\"", "/", "\t", "\n"]
 Headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36' }
-CONFIG_FILE = '../Config/DEV.JSON'
+CONFIG_FILE = '../Config/CONFIG00.JSON'
 
 Found = 0
 NotFound = 0
@@ -18,7 +19,7 @@ def talkExists(url):
 
     try:
         code = requests.head(url, headers=Headers).status_code
-    except IOError, e:
+    except:
         print("Error: ", url)
         exit()
 
@@ -49,7 +50,7 @@ with open(CONFIG_FILE,'r') as fd:
         if found:
             Found += 1
         else:
-            print("NOT FOUND")
+            print("NOT FOUND: ", root + url)
             NotFound += 1
             ListNotFound.append(talk)
 
