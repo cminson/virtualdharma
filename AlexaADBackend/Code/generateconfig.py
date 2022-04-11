@@ -5,7 +5,7 @@ import os
 import sys
 from subprocess import call
 #import requests, urllib, urllib2
-from urllib.request import urlopen
+import requests, urllib
 
 
 

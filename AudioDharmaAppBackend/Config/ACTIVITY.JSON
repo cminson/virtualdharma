@@ -1,6 +1,20 @@
 {
 "sangha_history": [
 {
+	"filename" : "20220410-Matthew_Brensilver-IMC-lightly_guided_meditation.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.04.10",
+	"city" : "Fort Bragg",
+	"country" : "United States"
+},
+{
+	"filename" : "20220407-Andrea_Fella-IMC-guided_meditation_and_practice.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.04.07",
+	"city" : "Inverness",
+	"country" : "Great Britain"
+},
+{
 	"filename" : "20220407-Gil_Fronsdal-IMC-dharmette_satipatthana_55_sense_doors_body.mp3",
 	"operation" : "PLAYTALK",
 	"date" : "2022.04.07",
