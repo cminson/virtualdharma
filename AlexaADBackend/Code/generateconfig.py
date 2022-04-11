@@ -1,10 +1,12 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 import json
 import random
 import os
 import sys
 from subprocess import call
-import requests, urllib, urllib2
+#import requests, urllib, urllib2
+from urllib.request import urlopen
+
 
 
 
@@ -39,10 +41,11 @@ Headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.3
 
 def talkExists(url):
 
+    code = 0
     try:
         code = requests.head(url, headers=Headers).status_code
-    except IOError, e:
-        print("Error: ", url)
+    except:
+        print("Error: could not open", code, url)
         exit()
 
     if code == 200:
@@ -112,7 +115,7 @@ def getRandomTalk(talks):
             fileName = talk['url'].split("/")[-1]
 
         url = URL_MP3_HOST + "/" + fileName
-	if talkExists(url) == False: 
+        if talkExists(url) == False: 
             print("Talk Does Not Exist: ", url)
             continue
         if talk not in ChosenTalks: return talk
