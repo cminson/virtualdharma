@@ -1,6 +1,26 @@
 {
 	"talks":[
 	{
+		"title":"The Dharma and Harmlessness",
+		"series":"",
+		"url":"/16064/20220411-Diana_Clark-IMC-the_dharma_and_harmlessness.mp3",
+		"ln":"en",
+		"download_url":"/16064/20220411-Diana_Clark-IMC-the_dharma_and_harmlessness.mp3",
+		"speaker":"Diana Clark",
+		"date":"2022.04.11",
+		"duration":"34:46"
+	},
+	{
+		"title":"Happy Hour: The Uses of Sorrow",
+		"series":"",
+		"url":"/16063/20220411-Nikki_Mirghafori-IMC-happy_hour_the_uses_of_sorrow.mp3",
+		"ln":"en",
+		"download_url":"/16063/20220411-Nikki_Mirghafori-IMC-happy_hour_the_uses_of_sorrow.mp3",
+		"speaker":"Nikki Mirghafori",
+		"date":"2022.04.11",
+		"duration":"49:16"
+	},
+	{
 		"title":"Reflections on Thich Nhat Hanhs Teachings",
 		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
 		"url":"/16050/20220410-Matthew_Brensilver-IMC-reflections_on_thich_nhat_hanh_s_teachings.mp3",
@@ -69,26 +89,6 @@
 		"speaker":"Gil Fronsdal",
 		"date":"2022.04.07",
 		"duration":"12:25"
-	},
-	{
-		"title":"Guided Meditation: Seeing Entanglement",
-		"series":"Guided Meditations",
-		"url":"/16040/20220407-Gil_Fronsdal-IMC-guided_meditation_seeing_entanglement.mp3",
-		"ln":"en",
-		"download_url":"/16040/20220407-Gil_Fronsdal-IMC-guided_meditation_seeing_entanglement.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.04.07",
-		"duration":"31:50"
-	},
-	{
-		"title":"Dharmette: Satipatthana (54) Sense Doors: Ears",
-		"series":"Satipaṭṭhāna",
-		"url":"/16034/20220406-Gil_Fronsdal-IMC-dharmette_satipatthana_54_sense_doors_ears.mp3",
-		"ln":"en",
-		"download_url":"/16034/20220406-Gil_Fronsdal-IMC-dharmette_satipatthana_54_sense_doors_ears.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.04.06",
-		"duration":"12:03"
 	}
 	]
 }

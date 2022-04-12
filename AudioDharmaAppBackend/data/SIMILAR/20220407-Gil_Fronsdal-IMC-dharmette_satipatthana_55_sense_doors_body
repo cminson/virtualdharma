@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220408-Gil_Fronsdal-IMC-dharmette_satipatthana_56_sense_doors_thoughts.mp3",
+	"score" : 0.7241
+},
+{
 	"filename" : "20220406-Gil_Fronsdal-IMC-dharmette_satipatthana_54_sense_doors_ears.mp3",
 	"score" : 0.7241
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20220209-Gil_Fronsdal-IMC-dharmette_satipatthana_27_body_free_of_stories.mp3",
-	"score" : 0.5862
-},
-{
-	"filename" : "20220111-Gil_Fronsdal-IMC-dharmette_satipatthana_6_breathing_aware_of_the_whole_body.mp3",
 	"score" : 0.5862
 }
 ]

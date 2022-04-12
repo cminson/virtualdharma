@@ -516,7 +516,7 @@ call(["cp", PATH_CONFIG_CANDIDATE_ZIP, PATH_CONFIG_ZIP])
 os.chdir(PATH_CRON_SCRIPTS)
 print("addNewTalks: generating similarities")
 cmd = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/crons/gensimilar.py"
-#call([cmd, "50"])
+call([cmd, "50"])
 
 print("crawler: complete")
 
