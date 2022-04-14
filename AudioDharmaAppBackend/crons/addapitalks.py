@@ -20,6 +20,8 @@ PATH_CRON_SCRIPTS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/crons
 PATH_NEW_TALKS_API = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/NEWTALKS_API.JSON"
 PATH_CONFIG_JSON = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/CONFIG00.JSON"
 PATH_CONFIG_ZIP = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/CONFIG00.ZIP"
+
+# these must be here so that unzip puts the zip file in a root directory
 PATH_CONFIG_SIZE_JSON = "CONFIGSIZE.JSON"
 PATH_CONFIG_CANDIDATE_JSON = "CONFIG00.JSON"
 PATH_CONFIG_CANDIDATE_ZIP = "CONFIG00.ZIP"

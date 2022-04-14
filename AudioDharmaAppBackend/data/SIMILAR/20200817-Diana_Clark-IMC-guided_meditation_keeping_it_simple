@@ -13,6 +13,14 @@
 	"score" : 0.7868
 },
 {
+	"filename" : "20220124-Gil_Fronsdal-IMC-2022-01-24_guided_meditation.mp3",
+	"score" : 0.7619
+},
+{
+	"filename" : "20211221-Kim_Allen-IMC-guided_meditation_simple_refuge.mp3",
+	"score" : 0.7619
+},
+{
 	"filename" : "20210802-Gil_Fronsdal-IMC-guided_meditation_simple_awareness.mp3",
 	"score" : 0.7619
 },
@@ -23,14 +31,6 @@
 {
 	"filename" : "20210122-Gil_Fronsdal-IMC-guided_meditation_simple_continuity.mp3",
 	"score" : 0.7619
-},
-{
-	"filename" : "20210921-Andrea_Fella-IMC-guided_meditation.mp3",
-	"score" : 0.7263
-},
-{
-	"filename" : "20210819-Gil_Fronsdal-IMC-guided_meditation_yes.mp3",
-	"score" : 0.7263
 }
 ]
 }

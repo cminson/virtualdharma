@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220104-Gil_Fronsdal-IMC-dharmette_satipatthana_2_knowing_in_a_new_way.mp3",
+	"score" : 0.8072
+},
+{
 	"filename" : "20170830-Gil_Fronsdal-IMC-dharmette_simple_knowing.mp3",
 	"score" : 0.8072
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20181205-Gil_Fronsdal-IMC-dharmette_is_that_so.mp3",
-	"score" : 0.7396
-},
-{
-	"filename" : "20181010-Gil_Fronsdal-IMC-dharmette_q_and_a.mp3",
 	"score" : 0.7396
 }
 ]

@@ -1,11 +1,7 @@
 {
 "SIMILAR": [
 {
-	"filename" : "20051003-Gil_Fronsdal-IMC-five_precepts.mp3",
-	"score" : 1.0
-},
-{
-	"filename" : "20030619-Various-IMC-five_precepts.mp3",
+	"filename" : "2003-06-19_DonaldFlaxman_5Precepts.mp3",
 	"score" : 0.9231
 },
 {
@@ -13,7 +9,7 @@
 	"score" : 0.8745
 },
 {
-	"filename" : "20000131-Gil_Fronsdal-IMC-introduction_to_five_precepts.mp3",
+	"filename" : "2000-11-00_GilFronsdal_Introto5Precepts.mp3",
 	"score" : 0.8745
 },
 {
@@ -21,15 +17,19 @@
 	"score" : 0.8321
 },
 {
-	"filename" : "19990204-Gil_Fronsdal-IMC-five.mp3",
+	"filename" : "990204_GilFronsdal_5.mp3",
 	"score" : 0.8321
 },
 {
-	"filename" : "2003-08-07_GilFronsdal_Ethics.mp3",
-	"score" : 0.7868
+	"filename" : "20080501-Andrea_Fella-IMC-the_precepts_5_of_5.mp3",
+	"score" : 0.7396
 },
 {
-	"filename" : "20080501-Andrea_Fella-IMC-the_precepts_5_of_5.mp3",
+	"filename" : "20080424-Andrea_Fella-IMC-the_precepts_4_of_5.mp3",
+	"score" : 0.7396
+},
+{
+	"filename" : "20080417-Andrea_Fella-IMC-the_precepts_3_of_5.mp3",
 	"score" : 0.7396
 }
 ]

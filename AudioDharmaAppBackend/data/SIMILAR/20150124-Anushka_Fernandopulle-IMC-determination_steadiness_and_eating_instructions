@@ -1,6 +1,14 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20211218-Mary_Grace_Orr-IRC-saturday_sit_with_instructions.mp3",
+	"score" : 0.504
+},
+{
+	"filename" : "20220218-Gil_Fronsdal-IMC-instructions_review_of_retreat_instructions.mp3",
+	"score" : 0.4863
+},
+{
 	"filename" : "20171115-Mel_Weitsman-IRC-guided_instructions_zazen_instructions.mp3",
 	"score" : 0.4863
 },
@@ -22,14 +30,6 @@
 },
 {
 	"filename" : "20190615-Andrea_Fella-IMC-afternoon_instructions.mp3",
-	"score" : 0.4842
-},
-{
-	"filename" : "20170626-Andrea_Fella-IRC-initial_instructions.mp3",
-	"score" : 0.4842
-},
-{
-	"filename" : "20170501-Gil_Fronsdal-IMC-morning_instructions.mp3",
 	"score" : 0.4842
 }
 ]

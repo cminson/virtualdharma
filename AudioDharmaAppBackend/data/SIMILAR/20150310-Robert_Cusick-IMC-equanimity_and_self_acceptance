@@ -5,6 +5,10 @@
 	"score" : 1.0
 },
 {
+	"filename" : "20220109-Robert_Cusick-IMC-self-acceptance_can_be_learned.mp3",
+	"score" : 0.7647
+},
+{
 	"filename" : "20201227-Gil_Fronsdal-IMC-equanimity.mp3",
 	"score" : 0.6468
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20190623-Gil_Fronsdal-IMC-not_self.mp3",
-	"score" : 0.6468
-},
-{
-	"filename" : "20190512-Gil_Fronsdal-IMC-not_self.mp3",
 	"score" : 0.6468
 }
 ]

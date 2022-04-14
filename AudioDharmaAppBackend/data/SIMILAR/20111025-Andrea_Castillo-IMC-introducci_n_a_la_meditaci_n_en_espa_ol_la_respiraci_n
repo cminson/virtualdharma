@@ -2,35 +2,35 @@
 "SIMILAR": [
 {
 	"filename" : "20111108-Andrea_Castillo-IMC-introducci_n_a_la_meditaci_n_en_espa_ol_las_emociones.mp3",
-	"score" : 0.8919
+	"score" : 0.8095
 },
 {
 	"filename" : "20111101-Andrea_Castillo-IMC-introducci_n_a_la_meditaci_n_en_espa_ol_el_cuerpo.mp3",
-	"score" : 0.8919
+	"score" : 0.8095
 },
 {
 	"filename" : "20111122-Andrea_Castillo-IMC-introducci_n_a_la_meditaci_n_en_espa_ol_la_vida_diaria.mp3",
-	"score" : 0.8473
-},
-{
-	"filename" : "20210713-Andrea_Castillo-IMC-atenci_n_plena_de_la_respiraci_n_introducci_n_1.mp3",
-	"score" : 0.7838
-},
-{
-	"filename" : "20111115-Andrea_Castillo-IMC-introducci_n_a_la_meditaci_n_en_epsa_ol_los_pensamientos.mp3",
-	"score" : 0.7838
-},
-{
-	"filename" : "20200701-bruni_d_vila-IMC-introducci_n_a_la_meditaci_n_insight_vipassana_mindfulness_parte_i_2_de_9_respiraci.mp3",
-	"score" : 0.7515
+	"score" : 0.7419
 },
 {
 	"filename" : "20190801-bruni_d_vila-IRC-meditaci_n_gu_ada_respiraci_n.mp3",
-	"score" : 0.7175
+	"score" : 0.6351
 },
 {
-	"filename" : "20210914-Andrea_Castillo-IMC-atencion_plena_de_la_respiracion_6_dhammas_meditacion_guiada.mp3",
-	"score" : 0.7107
+	"filename" : "20210713-Andrea_Castillo-IMC-atenci_n_plena_de_la_respiraci_n_introducci_n_1.mp3",
+	"score" : 0.619
+},
+{
+	"filename" : "20200627-Andrea_Castillo-IRC-meditaci_n_guiada_cuerpo_y_respiraci_n.mp3",
+	"score" : 0.619
+},
+{
+	"filename" : "20170618-Andrea_Castillo-IRC-meditaci_n_guiada_la_respiraci_n_y_el_cuerpo.mp3",
+	"score" : 0.619
+},
+{
+	"filename" : "20111115-Andrea_Castillo-IMC-introducci_n_a_la_meditaci_n_en_epsa_ol_los_pensamientos.mp3",
+	"score" : 0.619
 }
 ]
 }

@@ -1,36 +1,36 @@
 {
 "SIMILAR": [
 {
+	"filename" : "2005-11-14_GilFronsdal_Precepts-NotTakingIntoxicants.mp3",
+	"score" : 0.8745
+},
+{
+	"filename" : "20111128-Gil_Fronsdal-IMC-precepts.mp3",
+	"score" : 0.8321
+},
+{
 	"filename" : "20100807-Rick_Hanson-IMC-taking_in_the_good_1_of_4.mp3",
-	"score" : 0.8889
+	"score" : 0.7396
 },
 {
 	"filename" : "20100807-Rick_Hanson-IMC-taking_in_the_good_3_of_4.mp3",
-	"score" : 0.8889
+	"score" : 0.7396
 },
 {
 	"filename" : "20100807-Rick_Hanson-IMC-taking_in_the_good_4_of_4.mp3",
-	"score" : 0.8889
+	"score" : 0.7396
 },
 {
 	"filename" : "20100807-Rick_Hanson-IMC-taking_in_the_good_2_of_4.mp3",
-	"score" : 0.8889
+	"score" : 0.7396
 },
 {
-	"filename" : "20050731-Angie_Boissevain-IMC-not_taking_that_which_is_not_given.mp3",
-	"score" : 0.8889
+	"filename" : "20080501-Andrea_Fella-IMC-the_precepts_5_of_5.mp3",
+	"score" : 0.7396
 },
 {
-	"filename" : "20140519-Gil_Fronsdal-IMC-taking_refuge.mp3",
-	"score" : 0.8321
-},
-{
-	"filename" : "20080604-Gil_Fronsdal-IMC-taking_refuge_3_of_4.mp3",
-	"score" : 0.8321
-},
-{
-	"filename" : "20080528-Gil_Fronsdal-IMC-taking_refuge_2_of_4.mp3",
-	"score" : 0.8321
+	"filename" : "20080424-Andrea_Fella-IMC-the_precepts_4_of_5.mp3",
+	"score" : 0.7396
 }
 ]
 }

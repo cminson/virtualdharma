@@ -1,6 +1,14 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220120-David_Cohn-IMC-senior_sangha_meeting_for_january.mp3",
+	"score" : 0.7761
+},
+{
+	"filename" : "20211216-David_Cohn-IMC-senior_sangha_meeting_for_december.mp3",
+	"score" : 0.7761
+},
+{
 	"filename" : "20211021-David_Cohn-IMC-senior_sangha_meeting_for_october.mp3",
 	"score" : 0.7761
 },
@@ -17,20 +25,12 @@
 	"score" : 0.7311
 },
 {
+	"filename" : "20220317-David_Cohn-IMC-senior_sangha_meeting_for_march_2022.mp3",
+	"score" : 0.6983
+},
+{
 	"filename" : "20200423-David_Cohn-IMC-senior_sangha_zoom_meeting_with_david_and_robert_our_common_humanity.mp3",
 	"score" : 0.6905
-},
-{
-	"filename" : "20200326-David_Cohn-IMC-senior_sangha_zoom_meeting_whats_good_for_you_right_now.mp3",
-	"score" : 0.6905
-},
-{
-	"filename" : "20200827-David_Cohn-IMC-senior_sangha_august_meeting_with_david_and_fiona_on_impermanence.mp3",
-	"score" : 0.6314
-},
-{
-	"filename" : "20200528-David_Cohn-IMC-senior_sangha_may_zoom_with_david_cohn_and_robert_cusick.mp3",
-	"score" : 0.6247
 }
 ]
 }

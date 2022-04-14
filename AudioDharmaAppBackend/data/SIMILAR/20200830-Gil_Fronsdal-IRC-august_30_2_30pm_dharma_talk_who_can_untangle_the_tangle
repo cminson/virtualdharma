@@ -1,6 +1,18 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20211203-Gil_Fronsdal-IRC-friday_dharma_talk.mp3",
+	"score" : 0.5855
+},
+{
+	"filename" : "20211201-Gil_Fronsdal-IRC-wednesday_dharma_talk.mp3",
+	"score" : 0.5855
+},
+{
+	"filename" : "20211129-Gil_Fronsdal-IRC-monday_dharma_talk.mp3",
+	"score" : 0.5855
+},
+{
 	"filename" : "20211105-Gil_Fronsdal-IRC-friday_dharma_talk.mp3",
 	"score" : 0.5855
 },
@@ -17,20 +29,8 @@
 	"score" : 0.5855
 },
 {
-	"filename" : "20130410-Gil_Fronsdal-IMC-the_dharma_of_imc.mp3",
+	"filename" : "20211217-Mary_Grace_Orr-IRC-friday_dharma_talk.mp3",
 	"score" : 0.5571
-},
-{
-	"filename" : "20100712-Gil_Fronsdal-IMC-dharma.mp3",
-	"score" : 0.5571
-},
-{
-	"filename" : "2007-01-23_GilFronsdal_TheDharmaOfIMC.mp3",
-	"score" : 0.5571
-},
-{
-	"filename" : "20211106-Nikki_Mirghafori-IRC-saturday_dharma_talk.mp3",
-	"score" : 0.5405
 }
 ]
 }

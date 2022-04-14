@@ -1,6 +1,18 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220215-Gil_Fronsdal-IMC-guided_meditation_floating_on_sensations.mp3",
+	"score" : 0.8095
+},
+{
+	"filename" : "20220211-Gil_Fronsdal-IMC-guided_meditation_just_sensing_and_sensations.mp3",
+	"score" : 0.8095
+},
+{
+	"filename" : "20220210-Gil_Fronsdal_and_Paul_Haller-IMC-guided_meditation_the_flow_of_sensations.mp3",
+	"score" : 0.8095
+},
+{
 	"filename" : "20210819-Gil_Fronsdal-IMC-guided_meditation_yes.mp3",
 	"score" : 0.7868
 },
@@ -18,18 +30,6 @@
 },
 {
 	"filename" : "20200606-Gil_Fronsdal-IMC-guided_meditation_this_too.mp3",
-	"score" : 0.7868
-},
-{
-	"filename" : "20200604-Gil_Fronsdal-IMC-guided_meditation_joy.mp3",
-	"score" : 0.7868
-},
-{
-	"filename" : "20200315-Gil_Fronsdal-IMC-guided_meditation.mp3",
-	"score" : 0.7868
-},
-{
-	"filename" : "20141027-Gil_Fronsdal-IMC-guided_meditation.mp3",
 	"score" : 0.7868
 }
 ]

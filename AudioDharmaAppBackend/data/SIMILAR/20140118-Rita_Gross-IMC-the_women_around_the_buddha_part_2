@@ -1,19 +1,19 @@
 {
 "SIMILAR": [
 {
-	"filename" : "20140118-Rita_Gross-IMC-the_women_around_the_buddha_part_1.mp3",
-	"score" : 1.0
-},
-{
 	"filename" : "20140118-Rita_Gross-IMC-the_women_around_the_buddha_part_3.mp3",
 	"score" : 1.0
 },
 {
-	"filename" : "20150314-Diana_Clark-sati-life_of_the_buddha_part_2.mp3",
-	"score" : 0.7059
+	"filename" : "20140118-Rita_Gross-IMC-the_women_around_the_buddha_part_1.mp3",
+	"score" : 1.0
 },
 {
 	"filename" : "20150314-Diana_Clark-sati-life_of_the_buddha_part_1.mp3",
+	"score" : 0.7059
+},
+{
+	"filename" : "20150314-Diana_Clark-sati-life_of_the_buddha_part_2.mp3",
 	"score" : 0.7059
 },
 {
@@ -21,11 +21,11 @@
 	"score" : 0.7059
 },
 {
-	"filename" : "20140426-Thanissaro_Bhikkhu-sati-romanticizing_the_buddha_part_3.mp3",
+	"filename" : "20140426-Thanissaro_Bhikkhu-sati-romanticizing_the_buddha_part_2.mp3",
 	"score" : 0.7059
 },
 {
-	"filename" : "20140426-Thanissaro_Bhikkhu-sati-romanticizing_the_buddha_part_2.mp3",
+	"filename" : "20140426-Thanissaro_Bhikkhu-sati-romanticizing_the_buddha_part_3.mp3",
 	"score" : 0.7059
 },
 {

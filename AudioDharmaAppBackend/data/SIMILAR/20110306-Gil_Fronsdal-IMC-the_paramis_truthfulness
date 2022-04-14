@@ -9,10 +9,6 @@
 	"score" : 0.8745
 },
 {
-	"filename" : "2004-10-04_GilFronsdal_Paramis.mp3",
-	"score" : 0.8321
-},
-{
 	"filename" : "2003-04-07_GilFronsdal_TheParamis.mp3",
 	"score" : 0.8321
 },
@@ -31,6 +27,10 @@
 {
 	"filename" : "20090730-Andrea_Fella-IMC-paramis_truthfulness_and_resolve_8_of_10.mp3",
 	"score" : 0.8072
+},
+{
+	"filename" : "20160505-Andrea_Fella-IMC-the_paramis.mp3",
+	"score" : 0.7396
 }
 ]
 }

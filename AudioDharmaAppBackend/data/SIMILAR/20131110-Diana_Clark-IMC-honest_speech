@@ -9,6 +9,10 @@
 	"score" : 0.7396
 },
 {
+	"filename" : "20211223-Andrea_Fella-IMC-wise_speech.mp3",
+	"score" : 0.6154
+},
+{
 	"filename" : "20200726-Gil_Fronsdal-IMC-speech_that_nourishes.mp3",
 	"score" : 0.6154
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20150827-Jim_Podolske-IMC-right_speech.mp3",
-	"score" : 0.6154
-},
-{
-	"filename" : "20140324-Andrea_Fella-IMC-mindful_speech.mp3",
 	"score" : 0.6154
 }
 ]

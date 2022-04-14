@@ -2,35 +2,35 @@
 "SIMILAR": [
 {
 	"filename" : "20130205-Andrea_Castillo-IMC-el_escuchar_y_la_atenci_n_plena_parte_iii_b_preguntas.mp3",
-	"score" : 0.7799
+	"score" : 0.7419
 },
 {
 	"filename" : "20150908-Andrea_Castillo-IMC-los_siete_factores_de_la_iluminaci_n_la_atenci_n_plena_parte_ii.mp3",
-	"score" : 0.7311
+	"score" : 0.6889
 },
 {
 	"filename" : "20150901-Andrea_Castillo-IMC-los_siete_factores_de_la_iluminaci_n_la_atenci_n_plena_parte_i.mp3",
-	"score" : 0.7311
+	"score" : 0.6889
+},
+{
+	"filename" : "20130219-Andrea_Castillo-IMC-el_escuchar_y_la_empat_a_parte_iv.mp3",
+	"score" : 0.688
 },
 {
 	"filename" : "20180821-Francisco_Morillo_Gable-IMC-atenci_n_plena_y_sati.mp3",
-	"score" : 0.6983
+	"score" : 0.6351
 },
 {
 	"filename" : "20210713-Andrea_Castillo-IMC-atenci_n_plena_de_la_respiraci_n_introducci_n_1.mp3",
-	"score" : 0.6905
+	"score" : 0.619
+},
+{
+	"filename" : "20130122-Andrea_Castillo-IMC-el_escuchar_y_la_quietud_mental_parte_ii.mp3",
+	"score" : 0.619
 },
 {
 	"filename" : "20140627-Rebecca_Bradshaw-IRC-la_atenci_n_plena_y_el_amor_bondadoso.mp3",
-	"score" : 0.64
-},
-{
-	"filename" : "20210831-Andrea_Castillo-IMC-atencion_plena_de_la_respiracion_5_dhammas_platica.mp3",
-	"score" : 0.6314
-},
-{
-	"filename" : "20210810-Andrea_Castillo-ARCHIVE-atencion_plena_de_la_respiracion_4_la_mente_platica.mp3",
-	"score" : 0.6314
+	"score" : 0.5714
 }
 ]
 }

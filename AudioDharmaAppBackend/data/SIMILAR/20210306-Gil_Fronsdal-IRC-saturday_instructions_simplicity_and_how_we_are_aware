@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20211218-Mary_Grace_Orr-IRC-saturday_sit_with_instructions.mp3",
+	"score" : 0.7559
+},
+{
 	"filename" : "2001-05-13_GilFronsdal_Simplicity.mp3",
 	"score" : 0.6547
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "20200220-Andrea_Fella-IMC-simplicity.mp3",
 	"score" : 0.5819
-},
-{
-	"filename" : "20160428-Andrea_Fella-IRC-morning_instructions_day_5_aware_of_thoughts.mp3",
-	"score" : 0.5714
 }
 ]
 }

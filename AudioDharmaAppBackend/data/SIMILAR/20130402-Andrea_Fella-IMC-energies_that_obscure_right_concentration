@@ -13,6 +13,10 @@
 	"score" : 0.7263
 },
 {
+	"filename" : "20220118-Andrea_Fella-IMC-right_concentration_with_its_supports.mp3",
+	"score" : 0.688
+},
+{
 	"filename" : "20130730-Andrea_Fella-IMC-the_art_of_concentration.mp3",
 	"score" : 0.6547
 },
@@ -21,16 +25,12 @@
 	"score" : 0.6547
 },
 {
-	"filename" : "20140413-Kim_Allen-IMC-right_concentration_part_1.mp3",
-	"score" : 0.6351
-},
-{
 	"filename" : "20140413-Shelley_Gault-IMC-right_concentration_part_2.mp3",
 	"score" : 0.6351
 },
 {
-	"filename" : "20100415-Andrea_Fella-IMC-eightfold_path_right_concentration.mp3",
-	"score" : 0.619
+	"filename" : "20140413-Kim_Allen-IMC-right_concentration_part_1.mp3",
+	"score" : 0.6351
 }
 ]
 }

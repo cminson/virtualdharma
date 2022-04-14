@@ -17,10 +17,6 @@
 	"score" : 0.8889
 },
 {
-	"filename" : "2004-05-17_GilFronsdal_Effort.mp3",
-	"score" : 0.8889
-},
-{
 	"filename" : "2003-04-18_DonaldRothberg_Effort.mp3",
 	"score" : 0.8889
 },
@@ -31,6 +27,10 @@
 {
 	"filename" : "2007-09-20_ShailaCatherine_EffortAndNonEffort.mp3",
 	"score" : 0.8
+},
+{
+	"filename" : "2006-10-05_AngieBoissevain_NotOneNotTwo.mp3",
+	"score" : 0.7454
 }
 ]
 }

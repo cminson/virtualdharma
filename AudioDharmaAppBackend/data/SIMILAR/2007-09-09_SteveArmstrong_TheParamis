@@ -9,10 +9,6 @@
 	"score" : 0.8889
 },
 {
-	"filename" : "2004-10-04_GilFronsdal_Paramis.mp3",
-	"score" : 0.8889
-},
-{
 	"filename" : "2004-01-29_CarolynDille_Paramis-Wk4.mp3",
 	"score" : 0.8889
 },
@@ -31,6 +27,10 @@
 {
 	"filename" : "2003-04-07_GilFronsdal_TheParamis.mp3",
 	"score" : 0.8889
+},
+{
+	"filename" : "20201208-Andrea_Castillo-IMC-paramis_sabidur_a.mp3",
+	"score" : 0.7396
 }
 ]
 }

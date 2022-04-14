@@ -5,6 +5,14 @@
 	"score" : 1.0
 },
 {
+	"filename" : "20220117-Gil_Fronsdal-IMC-guided_meditation_touching_the_breathing_body.mp3",
+	"score" : 0.9165
+},
+{
+	"filename" : "20220111-Gil_Fronsdal-IMC-guided_meditation_breathing_with_the_whole_body.mp3",
+	"score" : 0.9165
+},
+{
 	"filename" : "20210106-Gil_Fronsdal-IMC-guided_meditation_here_with_breathing.mp3",
 	"score" : 0.8997
 },
@@ -23,14 +31,6 @@
 {
 	"filename" : "20151118-Nikki_Mirghafori-IRC-guided_meditation_instruction_on_breathing_and_body.mp3",
 	"score" : 0.8729
-},
-{
-	"filename" : "20121127-Andrea_Fella-IMC-guided_meditation_whole_body_breathing.mp3",
-	"score" : 0.8729
-},
-{
-	"filename" : "20190311-bruni_d_vila-IRC-guided_meditation_on_breathing.mp3",
-	"score" : 0.8468
 }
 ]
 }

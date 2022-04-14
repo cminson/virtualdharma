@@ -5,6 +5,10 @@
 	"score" : 0.7211
 },
 {
+	"filename" : "2004-05-17_GilFronsdal_Effort.mp3",
+	"score" : 0.7211
+},
+{
 	"filename" : "20181212-Gil_Fronsdal-IRC-talk_third_right_effort_and_mudita.mp3",
 	"score" : 0.68
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "2002-03-07_DonJohnson_RightEffort.mp3",
 	"score" : 0.6656
-},
-{
-	"filename" : "20181213-Andrea_Fella-IRC-talk_fouth_right_effort_and_equanimity.mp3",
-	"score" : 0.64
 }
 ]
 }

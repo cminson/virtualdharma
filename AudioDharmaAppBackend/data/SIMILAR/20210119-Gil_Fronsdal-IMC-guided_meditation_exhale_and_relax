@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220106-Gil_Fronsdal-IMC-guided_meditation_feel_and_relax.mp3",
+	"score" : 0.8095
+},
+{
 	"filename" : "20210924-Gil_Fronsdal-IMC-guided_meditation_relax_know_let_be.mp3",
 	"score" : 0.8095
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20200606-Gil_Fronsdal-IMC-guided_meditation_this_too.mp3",
-	"score" : 0.7868
-},
-{
-	"filename" : "20200604-Gil_Fronsdal-IMC-guided_meditation_joy.mp3",
 	"score" : 0.7868
 }
 ]

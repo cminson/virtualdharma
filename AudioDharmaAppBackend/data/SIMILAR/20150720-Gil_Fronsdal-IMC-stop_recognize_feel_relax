@@ -13,6 +13,10 @@
 	"score" : 0.688
 },
 {
+	"filename" : "20220106-Gil_Fronsdal-IMC-guided_meditation_feel_and_relax.mp3",
+	"score" : 0.619
+},
+{
 	"filename" : "20180822-Gil_Fronsdal-IMC-dharmette_recognize_feel_relax_2.mp3",
 	"score" : 0.619
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "20180820-Gil_Fronsdal-IMC-when_thoughts_stop.mp3",
 	"score" : 0.5447
-},
-{
-	"filename" : "20200823-Gil_Fronsdal-IMC-do_what_you_can.mp3",
-	"score" : 0.488
 }
 ]
 }

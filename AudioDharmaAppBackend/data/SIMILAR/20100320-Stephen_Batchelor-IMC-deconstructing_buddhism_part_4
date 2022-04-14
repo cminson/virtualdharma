@@ -1,15 +1,15 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20100320-Stephen_Batchelor-IMC-deconstructing_buddhism_part_3.mp3",
+	"score" : 1.0
+},
+{
 	"filename" : "20100320-Stephen_Batchelor-IMC-deconstructing_buddhism_part_2.mp3",
 	"score" : 1.0
 },
 {
 	"filename" : "20100320-Stephen_Batchelor-IMC-deconstructing_buddhism_part_1.mp3",
-	"score" : 1.0
-},
-{
-	"filename" : "20100320-Stephen_Batchelor-IMC-deconstructing_buddhism_part_3.mp3",
 	"score" : 1.0
 },
 {
@@ -29,7 +29,7 @@
 	"score" : 0.8072
 },
 {
-	"filename" : "2005-10-30_MartineBatchelor_WhatIsThis-Pt1.mp3",
+	"filename" : "2005-10-30_MartineBatchelor_WhatIsThis-Pt2.mp3",
 	"score" : 0.7276
 }
 ]

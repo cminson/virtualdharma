@@ -1,6 +1,86 @@
 {
 	"talks":[
 	{
+		"title":"Happy Hour: How May I Be of Benefit?",
+		"series":"",
+		"url":"/16081/20220413-Nikki_Mirghafori-IMC-happy_hour_how_may_i_be_of_benefit.mp3",
+		"ln":"en",
+		"download_url":"/16081/20220413-Nikki_Mirghafori-IMC-happy_hour_how_may_i_be_of_benefit.mp3",
+		"speaker":"Nikki Mirghafori",
+		"date":"2022.04.13",
+		"duration":"51:08"
+	},
+	{
+		"title":"Grief and Love",
+		"series":"7am Weekday Sit & Dharmette",
+		"url":"/16078/20220413-Matthew_Brensilver-IMC-grief_and_love.mp3",
+		"ln":"en",
+		"download_url":"/16078/20220413-Matthew_Brensilver-IMC-grief_and_love.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2022.04.13",
+		"duration":"15:11"
+	},
+	{
+		"title":"Lightly Guided Meditation",
+		"series":"Guided Meditations",
+		"url":"/16079/20220413-Matthew_Brensilver-IMC-lightly_guided_meditation.mp3",
+		"ln":"en",
+		"download_url":"/16079/20220413-Matthew_Brensilver-IMC-lightly_guided_meditation.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2022.04.13",
+		"duration":"30:35"
+	},
+	{
+		"title":"Encuentra un lugar de reposo en medio de la agitación",
+		"series":"Estudio de las Cinco Invitaciones de Frank Ostaseski ",
+		"url":"/16072/20220412-Sandra_Sanabria-IMC-encuentra_un_lugar_de_reposo_en_medio_de_la_agitacion.mp3",
+		"ln":"es",
+		"download_url":"/16072/20220412-Sandra_Sanabria-IMC-encuentra_un_lugar_de_reposo_en_medio_de_la_agitacion.mp3",
+		"speaker":"Sandra Sanabria",
+		"date":"2022.04.12",
+		"duration":"48:05"
+	},
+	{
+		"title":"Happy Hour: How the Healing Happens",
+		"series":"",
+		"url":"/16085/20220412-Diana_Clark-IMC-happy_hour_how_the_healing_happens.mp3",
+		"ln":"en",
+		"download_url":"/16085/20220412-Diana_Clark-IMC-happy_hour_how_the_healing_happens.mp3",
+		"speaker":"Diana Clark",
+		"date":"2022.04.12",
+		"duration":"43:49"
+	},
+	{
+		"title":"Practice Without Struggle",
+		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
+		"url":"/16073/20220412-Maria_Straatmann-IMC-practice_without_struggle.mp3",
+		"ln":"en",
+		"download_url":"/16073/20220412-Maria_Straatmann-IMC-practice_without_struggle.mp3",
+		"speaker":"Maria Straatmann",
+		"date":"2022.04.12",
+		"duration":"45:23"
+	},
+	{
+		"title":"Renunciation and Enjoying Pleasure",
+		"series":"7am Weekday Sit & Dharmette",
+		"url":"/16075/20220412-Matthew_Brensilver-IMC-renunciation_and_enjoying_pleasure.mp3",
+		"ln":"en",
+		"download_url":"/16075/20220412-Matthew_Brensilver-IMC-renunciation_and_enjoying_pleasure.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2022.04.12",
+		"duration":"13:36"
+	},
+	{
+		"title":"Lightly Guided Meditation",
+		"series":"Guided Meditations",
+		"url":"/16074/20220412-Matthew_Brensilver-IMC-lightly_guided_meditation.mp3",
+		"ln":"en",
+		"download_url":"/16074/20220412-Matthew_Brensilver-IMC-lightly_guided_meditation.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2022.04.12",
+		"duration":"29:56"
+	},
+	{
 		"title":"The Dharma and Harmlessness",
 		"series":"",
 		"url":"/16064/20220411-Diana_Clark-IMC-the_dharma_and_harmlessness.mp3",
@@ -19,76 +99,6 @@
 		"speaker":"Nikki Mirghafori",
 		"date":"2022.04.11",
 		"duration":"49:16"
-	},
-	{
-		"title":"Reflections on Thich Nhat Hanhs Teachings",
-		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
-		"url":"/16050/20220410-Matthew_Brensilver-IMC-reflections_on_thich_nhat_hanh_s_teachings.mp3",
-		"ln":"en",
-		"download_url":"/16050/20220410-Matthew_Brensilver-IMC-reflections_on_thich_nhat_hanh_s_teachings.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2022.04.10",
-		"duration":"37:57"
-	},
-	{
-		"title":"Lightly Guided Meditation",
-		"series":"Guided Meditations",
-		"url":"/16051/20220410-Matthew_Brensilver-IMC-lightly_guided_meditation.mp3",
-		"ln":"en",
-		"download_url":"/16051/20220410-Matthew_Brensilver-IMC-lightly_guided_meditation.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2022.04.10",
-		"duration":"36:27"
-	},
-	{
-		"title":"Happy Hour: We Can Choose A Wise Perspective",
-		"series":"",
-		"url":"/16047/20220408-Nikki_Mirghafori-IMC-happy_hour_we_can_choose_a_wise_perspective.mp3",
-		"ln":"en",
-		"download_url":"/16047/20220408-Nikki_Mirghafori-IMC-happy_hour_we_can_choose_a_wise_perspective.mp3",
-		"speaker":"Nikki Mirghafori",
-		"date":"2022.04.08",
-		"duration":"49:25"
-	},
-	{
-		"title":"Dharmette: Satipatthana (56) Sense Doors: Thoughts",
-		"series":"Satipaṭṭhāna",
-		"url":"/16045/20220408-Gil_Fronsdal-IMC-dharmette_satipatthana_56_sense_doors_thoughts.mp3",
-		"ln":"en",
-		"download_url":"/16045/20220408-Gil_Fronsdal-IMC-dharmette_satipatthana_56_sense_doors_thoughts.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.04.08",
-		"duration":"13:43"
-	},
-	{
-		"title":"Guided Meditation: Naturalist of Thoughts",
-		"series":"Guided Meditations",
-		"url":"/16044/20220408-Gil_Fronsdal-IMC-guided_meditation_naturalist_of_thoughts.mp3",
-		"ln":"en",
-		"download_url":"/16044/20220408-Gil_Fronsdal-IMC-guided_meditation_naturalist_of_thoughts.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.04.08",
-		"duration":"30:16"
-	},
-	{
-		"title":"Guided Meditation:  and... Practice",
-		"series":"Guided Meditations",
-		"url":"/16042/20220407-Andrea_Fella-IMC-guided_meditation_and_practice.mp3",
-		"ln":"en",
-		"download_url":"/16042/20220407-Andrea_Fella-IMC-guided_meditation_and_practice.mp3",
-		"speaker":"Andrea Fella",
-		"date":"2022.04.07",
-		"duration":"21:06"
-	},
-	{
-		"title":"Dharmette: Satipatthana (55) Sense Doors: Body",
-		"series":"Satipaṭṭhāna",
-		"url":"/16041/20220407-Gil_Fronsdal-IMC-dharmette_satipatthana_55_sense_doors_body.mp3",
-		"ln":"en",
-		"download_url":"/16041/20220407-Gil_Fronsdal-IMC-dharmette_satipatthana_55_sense_doors_body.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.04.07",
-		"duration":"12:25"
 	}
 	]
 }

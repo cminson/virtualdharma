@@ -17,6 +17,10 @@
 	"score" : 0.5423
 },
 {
+	"filename" : "20211223-Andrea_Fella-IMC-wise_speech.mp3",
+	"score" : 0.5381
+},
+{
 	"filename" : "20201208-Andrea_Fella-IMC-what_is_the_relationship_to_experience.mp3",
 	"score" : 0.5381
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20181019-Ines_Freedman-IRC-wise_intention.mp3",
-	"score" : 0.5381
-},
-{
-	"filename" : "20180719-Andrea_Fella-IMC-wise_mindfulness.mp3",
 	"score" : 0.5381
 }
 ]

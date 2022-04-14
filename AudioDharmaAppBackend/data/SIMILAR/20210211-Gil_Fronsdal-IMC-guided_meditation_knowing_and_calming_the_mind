@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220308-Gil_Fronsdal-IMC-guided_meditation_knowing_the_mind.mp3",
+	"score" : 0.9165
+},
+{
 	"filename" : "20210909-Gil_Fronsdal-IMC-guided_meditation_big_mind.mp3",
 	"score" : 0.8246
 },
@@ -9,27 +13,23 @@
 	"score" : 0.7761
 },
 {
-	"filename" : "20210610-Gil_Fronsdal-IMC-guided_meditation_unlimited_mind.mp3",
+	"filename" : "20220401-Gil_Fronsdal-IMC-guided_meditation_the_marvel_of_knowing.mp3",
 	"score" : 0.7419
 },
 {
-	"filename" : "20210404-Gil_Fronsdal-IMC-guided_meditation_calming_awareness.mp3",
+	"filename" : "20220311-Gil_Fronsdal-IMC-satipatthana_42_prioritizing_beneficial_states_of_mind.mp3",
 	"score" : 0.7419
 },
 {
-	"filename" : "20210225-Gil_Fronsdal-IMC-guided_meditation_opening_the_mind.mp3",
+	"filename" : "20220310-Gil_Fronsdal-IMC-guided_meditation_expanded_mind.mp3",
 	"score" : 0.7419
 },
 {
-	"filename" : "20210224-Gil_Fronsdal-IMC-guided_meditation_expansive_mind.mp3",
+	"filename" : "20220309-Gil_Fronsdal-IMC-guided_meditation_the_power_of_knowing.mp3",
 	"score" : 0.7419
 },
 {
-	"filename" : "20210223-Gil_Fronsdal-IMC-guided_meditation_beautiful_mind.mp3",
-	"score" : 0.7419
-},
-{
-	"filename" : "20210222-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_mind.mp3",
+	"filename" : "20220307-Gil_Fronsdal-IMC-guided_meditation_breathing_with_the_mind.mp3",
 	"score" : 0.7419
 }
 ]

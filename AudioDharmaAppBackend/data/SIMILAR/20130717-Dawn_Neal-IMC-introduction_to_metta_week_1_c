@@ -5,11 +5,15 @@
 	"score" : 1.0
 },
 {
-	"filename" : "20130717-Dawn_Neal-IMC-introduction_to_metta_week_1_b.mp3",
-	"score" : 0.7868
+	"filename" : "20220214-Nikki_Mirghafori-IRC-monday_sit_with_instructions_and_announcements.mp3",
+	"score" : 0.8072
 },
 {
 	"filename" : "20130717-Dawn_Neal-IMC-introduction_to_metta_week_1_a.mp3",
+	"score" : 0.7868
+},
+{
+	"filename" : "20130717-Dawn_Neal-IMC-introduction_to_metta_week_1_b.mp3",
 	"score" : 0.7868
 },
 {
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20170220-Gil_Fronsdal-IMC-metta_q_a.mp3",
-	"score" : 0.7396
-},
-{
-	"filename" : "20150422-Dhammaruwan-IRC-metta.mp3",
 	"score" : 0.7396
 }
 ]

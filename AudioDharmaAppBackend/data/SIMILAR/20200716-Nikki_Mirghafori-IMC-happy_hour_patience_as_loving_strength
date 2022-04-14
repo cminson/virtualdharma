@@ -5,12 +5,20 @@
 	"score" : 0.8
 },
 {
+	"filename" : "20220127-Diana_Clark-IMC-happy_hour_our_strength.mp3",
+	"score" : 0.7761
+},
+{
 	"filename" : "20211021-Diana_Clark-IMC-happy_hour_patience.mp3",
 	"score" : 0.7761
 },
 {
 	"filename" : "20210324-Nikki_Mirghafori-IMC-happy_hour_loving_perception.mp3",
 	"score" : 0.7419
+},
+{
+	"filename" : "20220118-Dawn_Neal-IMC-happy_hour_loving_community.mp3",
+	"score" : 0.6983
 },
 {
 	"filename" : "20210706-Diana_Clark-IMC-happy_hour_getting_to_know_loving_kindness.mp3",
@@ -23,14 +31,6 @@
 {
 	"filename" : "20190220-Diana_Clark-IMC-happy_hour_loving_kindness.mp3",
 	"score" : 0.6983
-},
-{
-	"filename" : "20210723-Nikki_Mirghafori-IMC-happy_hour_gratitude_as_loving_contentment.mp3",
-	"score" : 0.68
-},
-{
-	"filename" : "20210517-Nikki_Mirghafori-IMC-happy_hour_loving_silence_solitude.mp3",
-	"score" : 0.68
 }
 ]
 }

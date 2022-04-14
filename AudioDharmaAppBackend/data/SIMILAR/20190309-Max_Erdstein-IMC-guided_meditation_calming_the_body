@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220113-Gil_Fronsdal-IMC-guided_meditation_calming_the_body.mp3",
+	"score" : 0.9524
+},
+{
 	"filename" : "20190312-Gil_Fronsdal-IRC-guided_meditation_on_body.mp3",
 	"score" : 0.8468
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "20150915-Max_Erdstein-IMC-guided_meditation.mp3",
 	"score" : 0.7868
-},
-{
-	"filename" : "20211022-Gil_Fronsdal-IMC-guided_meditation_releasing_the_body.mp3",
-	"score" : 0.7619
 }
 ]
 }

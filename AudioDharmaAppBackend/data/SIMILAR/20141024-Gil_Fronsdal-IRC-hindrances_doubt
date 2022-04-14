@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20200429-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_part_2_7_of_8_the_hindrance_of_doubt.mp3",
+	"score" : 1.0
+},
+{
 	"filename" : "2004-12-05_GilFronsdal_Doubt.mp3",
 	"score" : 1.0
 },
@@ -13,6 +17,10 @@
 	"score" : 0.9231
 },
 {
+	"filename" : "20090501-Gil_Fronsdal-IMC-the_five_hindrances_doubt_3_of_4.mp3",
+	"score" : 0.8745
+},
+{
 	"filename" : "20090501-Gil_Fronsdal-IMC-the_five_hindrances_doubt_1_of_4.mp3",
 	"score" : 0.8745
 },
@@ -22,14 +30,6 @@
 },
 {
 	"filename" : "20090501-Gil_Fronsdal-IMC-the_five_hindrances_doubt_4_of_4.mp3",
-	"score" : 0.8745
-},
-{
-	"filename" : "20090501-Gil_Fronsdal-IMC-the_five_hindrances_doubt_3_of_4.mp3",
-	"score" : 0.8745
-},
-{
-	"filename" : "20081124-Gil_Fronsdal-IMC-the_five_hindrances_doubt.mp3",
 	"score" : 0.8745
 }
 ]

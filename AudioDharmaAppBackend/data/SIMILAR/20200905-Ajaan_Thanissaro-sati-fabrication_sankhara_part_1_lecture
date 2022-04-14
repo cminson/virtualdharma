@@ -17,19 +17,19 @@
 	"score" : 0.5819
 },
 {
-	"filename" : "2005-10-30_MartineBatchelor_WhatIsThis-Pt1.mp3",
-	"score" : 0.5819
-},
-{
 	"filename" : "2005-10-30_MartineBatchelor_WhatIsThis-Pt2.mp3",
 	"score" : 0.5819
 },
 {
-	"filename" : "20120428-Thanissaro_Bhikkhu-IMC-introduction_part_1.mp3",
-	"score" : 0.5447
+	"filename" : "2005-10-30_MartineBatchelor_WhatIsThis-Pt1.mp3",
+	"score" : 0.5819
 },
 {
 	"filename" : "20120428-Thanissaro_Bhikkhu-IMC-the_reading_part_2.mp3",
+	"score" : 0.5447
+},
+{
+	"filename" : "20120428-Thanissaro_Bhikkhu-IMC-introduction_part_1.mp3",
 	"score" : 0.5447
 }
 ]

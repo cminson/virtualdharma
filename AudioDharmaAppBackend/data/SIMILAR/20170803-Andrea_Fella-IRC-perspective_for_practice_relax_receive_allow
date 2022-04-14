@@ -9,6 +9,10 @@
 	"score" : 0.7868
 },
 {
+	"filename" : "20220120-Andrea_Fella-IMC-guidedmeditation_relax_and_receive.mp3",
+	"score" : 0.688
+},
+{
 	"filename" : "20160404-Andrea_Fella-IMC-why_practice.mp3",
 	"score" : 0.6547
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "20190129-Andrea_Fella-IMC-guided_meditation_relax_receive_allow.mp3",
 	"score" : 0.619
-},
-{
-	"filename" : "20171102-Maria_Straatmann-IMC-why_do_we_practice.mp3",
-	"score" : 0.5819
 }
 ]
 }

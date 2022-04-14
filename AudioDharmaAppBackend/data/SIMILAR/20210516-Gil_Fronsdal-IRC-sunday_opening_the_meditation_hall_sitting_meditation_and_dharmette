@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20211128-Gil_Fronsdal-IRC-sunday_opening_the_meditation_hall_sitting_meditation_and_dharmette.mp3",
+	"score" : 0.9756
+},
+{
 	"filename" : "20200706-Gil_Fronsdal-IMC-guided_meditation_joy_in_meditation.mp3",
 	"score" : 0.6559
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20210202-Gil_Fronsdal-IMC-guided_meditation_imagination_for_meditation.mp3",
-	"score" : 0.609
-},
-{
-	"filename" : "20200617-Gil_Fronsdal-IMC-guided_meditation_compassionate_in_meditation.mp3",
 	"score" : 0.609
 }
 ]

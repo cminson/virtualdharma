@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220203-Andrea_Fella-IMC-guided_meditation_receptive_awareness.mp3",
+	"score" : 1.0
+},
+{
 	"filename" : "20210815-Andrea_Fella-IMC-guided_meditation_receptive_awareness.mp3",
 	"score" : 1.0
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "20140325-Andrea_Fella-IMC-guided_meditation_receptive_awareness.mp3",
 	"score" : 1.0
-},
-{
-	"filename" : "20211011-Gil_Fronsdal-IMC-guided_meditation_awareness_established_and_receptive.mp3",
-	"score" : 0.8729
 }
 ]
 }

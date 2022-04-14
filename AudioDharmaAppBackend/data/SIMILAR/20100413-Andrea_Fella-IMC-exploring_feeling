@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220106-Andrea_Fella-IMC-exploring_feeling_tone_and_reactivity.mp3",
+	"score" : 0.7868
+},
+{
 	"filename" : "20170711-Andrea_Fella-IMC-exploring_reactivity_through_feeling_tone.mp3",
 	"score" : 0.7868
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "2003-10-02_AndreaFella_TheFeelingTone.mp3",
 	"score" : 0.6923
-},
-{
-	"filename" : "20101207-Andrea_Fella-IMC-exploring_equanimity_by_exploring_reactivity.mp3",
-	"score" : 0.6695
 }
 ]
 }

@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220219-Diana_Clark-IRC-the_two_practices_of_cultivation_and_letting_go.mp3",
+	"score" : 0.8072
+},
+{
 	"filename" : "20180811-Nikki_Mirghafori-IRC-letting_go_renunciation_cultivation.mp3",
 	"score" : 0.8072
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20091015-Andrea_Fella-IMC-letting_go.mp3",
-	"score" : 0.7396
-},
-{
-	"filename" : "2006-07-16_GilFronsdal_LettingGo.mp3",
 	"score" : 0.7396
 }
 ]

@@ -1,6 +1,14 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20200423-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_part_2_3_of_8_desire.mp3",
+	"score" : 1.0
+},
+{
+	"filename" : "20081107-Gil_Fronsdal-IMC-the_five_hindrances_desire_2_of_4.mp3",
+	"score" : 0.8745
+},
+{
 	"filename" : "20081107-Gil_Fronsdal-IMC-the_five_hindrances_desire_4_of_4.mp3",
 	"score" : 0.8745
 },
@@ -13,23 +21,15 @@
 	"score" : 0.8745
 },
 {
-	"filename" : "20081107-Gil_Fronsdal-IMC-the_five_hindrances_desire_2_of_4.mp3",
-	"score" : 0.8745
-},
-{
 	"filename" : "2004-11-07_GilFronsdal_SensualDesire.mp3",
 	"score" : 0.8745
 },
 {
+	"filename" : "20200421-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_part_2_1_of_8_the_hindrances.mp3",
+	"score" : 0.8321
+},
+{
 	"filename" : "20180506-Gil_Fronsdal-IMC-desire.mp3",
-	"score" : 0.8321
-},
-{
-	"filename" : "20180304-Gil_Fronsdal-IMC-desire.mp3",
-	"score" : 0.8321
-},
-{
-	"filename" : "20120213-Gil_Fronsdal-IMC-desire.mp3",
 	"score" : 0.8321
 }
 ]

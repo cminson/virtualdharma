@@ -1,6 +1,14 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220120-David_Cohn-IMC-senior_sangha_meeting_for_january.mp3",
+	"score" : 0.5821
+},
+{
+	"filename" : "20211216-David_Cohn-IMC-senior_sangha_meeting_for_december.mp3",
+	"score" : 0.5821
+},
+{
 	"filename" : "20211021-David_Cohn-IMC-senior_sangha_meeting_for_october.mp3",
 	"score" : 0.5821
 },
@@ -22,14 +30,6 @@
 },
 {
 	"filename" : "20191029-Ying_Chen-IMC-sangha.mp3",
-	"score" : 0.5333
-},
-{
-	"filename" : "20120813-Kim_Allen-IMC-sangha.mp3",
-	"score" : 0.5333
-},
-{
-	"filename" : "2000-09-17_GilFronsdal_Sangha.mp3",
 	"score" : 0.5333
 }
 ]

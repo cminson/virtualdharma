@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220307-Gil_Fronsdal-IMC-guided_meditation_breathing_with_the_mind.mp3",
+	"score" : 0.9165
+},
+{
 	"filename" : "20210909-Gil_Fronsdal-IMC-guided_meditation_big_mind.mp3",
 	"score" : 0.8246
 },
@@ -25,11 +29,7 @@
 	"score" : 0.7761
 },
 {
-	"filename" : "20211126-Gil_Fronsdal-IMC-guided_meditation_embodied_breathing.mp3",
-	"score" : 0.7419
-},
-{
-	"filename" : "20211015-Gil_Fronsdal-IMC-guided_meditation_letting_go_with_breathing.mp3",
+	"filename" : "20220331-Gil_Fronsdal-IMC-guided_meditation_from_stories_to_breathing.mp3",
 	"score" : 0.7419
 }
 ]

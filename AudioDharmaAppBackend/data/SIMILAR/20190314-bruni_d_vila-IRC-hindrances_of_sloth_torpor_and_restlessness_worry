@@ -1,6 +1,14 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20200428-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_part_2_6_of_8_the_hindrance_of_restlessness.mp3",
+	"score" : 0.7761
+},
+{
+	"filename" : "20200427-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation_part_2_5_of_8_the_hinderances_of_sloth_and.mp3",
+	"score" : 0.7761
+},
+{
 	"filename" : "20160527-Shelley_Gault-IRC-restlessness_sloth_torpor.mp3",
 	"score" : 0.7761
 },
@@ -23,14 +31,6 @@
 {
 	"filename" : "JimPodolske_080504_HindrancesSlothTorpor.mp3",
 	"score" : 0.7761
-},
-{
-	"filename" : "20191113-Diana_Clark-IMC-hindrances_class_3_sloth_restlessness.mp3",
-	"score" : 0.6983
-},
-{
-	"filename" : "20081117-Gil_Fronsdal-IMC-the_five_hindrances_restlessness_and_worry.mp3",
-	"score" : 0.6983
 }
 ]
 }

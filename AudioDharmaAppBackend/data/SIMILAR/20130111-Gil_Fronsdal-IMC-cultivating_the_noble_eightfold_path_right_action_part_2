@@ -1,11 +1,11 @@
 {
 "SIMILAR": [
 {
-	"filename" : "20130111-Gil_Fronsdal-IMC-cultivating_the_noble_eightfold_path_right_action_part_4.mp3",
+	"filename" : "20130111-Gil_Fronsdal-IMC-cultivating_the_noble_eightfold_path_right_action_part_1.mp3",
 	"score" : 1.0
 },
 {
-	"filename" : "20130111-Gil_Fronsdal-IMC-cultivating_the_noble_eightfold_path_right_action_part_1.mp3",
+	"filename" : "20130111-Gil_Fronsdal-IMC-cultivating_the_noble_eightfold_path_right_action_part_4.mp3",
 	"score" : 1.0
 },
 {
@@ -13,7 +13,7 @@
 	"score" : 0.8971
 },
 {
-	"filename" : "20130405-Gil_Fronsdal-IMC-cultivating_the_noble_eightfold_path_right_mindfulness_part_3.mp3",
+	"filename" : "20130405-Gil_Fronsdal-IMC-cultivating_the_noble_eightfold_path_right_mindfulness_part_2.mp3",
 	"score" : 0.8788
 },
 {
@@ -21,15 +21,15 @@
 	"score" : 0.8788
 },
 {
-	"filename" : "20130405-Gil_Fronsdal-IMC-cultivating_the_noble_eightfold_path_right_mindfulness_part_2.mp3",
-	"score" : 0.8788
-},
-{
-	"filename" : "20130215-Gil_Fronsdal-IMC-cultivating_the_noble_eightfold_path_right_livelihood_part_2.mp3",
+	"filename" : "20130405-Gil_Fronsdal-IMC-cultivating_the_noble_eightfold_path_right_mindfulness_part_3.mp3",
 	"score" : 0.8788
 },
 {
 	"filename" : "20130215-Gil_Fronsdal-IMC-cultivating_the_noble_eightfold_path_right_livelihood_part_1.mp3",
+	"score" : 0.8788
+},
+{
+	"filename" : "20130215-Gil_Fronsdal-IMC-cultivating_the_noble_eightfold_path_right_livelihood_part_2.mp3",
 	"score" : 0.8788
 }
 ]

@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20100910-Gil_Fronsdal-IMC-paramis_generosity_part_4.mp3",
+	"score" : 0.9412
+},
+{
 	"filename" : "20100910-Gil_Fronsdal-IMC-paramis_generosity_part_3.mp3",
 	"score" : 0.9412
 },
@@ -17,11 +21,7 @@
 	"score" : 0.9412
 },
 {
-	"filename" : "20100910-Gil_Fronsdal-IMC-paramis_generosity_part_4.mp3",
-	"score" : 0.9412
-},
-{
-	"filename" : "20160909-Gil_Fronsdal-IMC-generosity_part_3.mp3",
+	"filename" : "20160909-Gil_Fronsdal-IMC-generosity_part_4.mp3",
 	"score" : 0.8072
 },
 {
@@ -29,7 +29,7 @@
 	"score" : 0.8072
 },
 {
-	"filename" : "20160909-Gil_Fronsdal-IMC-generosity_part_4.mp3",
+	"filename" : "20160909-Gil_Fronsdal-IMC-generosity_part_3.mp3",
 	"score" : 0.8072
 }
 ]

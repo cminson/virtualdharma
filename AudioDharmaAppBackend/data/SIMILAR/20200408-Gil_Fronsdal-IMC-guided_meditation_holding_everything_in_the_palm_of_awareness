@@ -1,8 +1,28 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220405-Gil_Fronsdal-IMC-guided_meditation_not_holding_on.mp3",
+	"score" : 0.7656
+},
+{
 	"filename" : "20141122-Gil_Fronsdal-IRC-guided_meditation_awareness.mp3",
 	"score" : 0.7656
+},
+{
+	"filename" : "20220206-Gil_Fronsdal-IMC-guided_meditation_awareness_with_pleasure.mp3",
+	"score" : 0.6889
+},
+{
+	"filename" : "20220204-Gil_Fronsdal-IMC-guided_meditation_floating_awareness.mp3",
+	"score" : 0.6889
+},
+{
+	"filename" : "20220131-Gil_Fronsdal-IMC-guided_meditation_embodied_awareness.mp3",
+	"score" : 0.6889
+},
+{
+	"filename" : "20220103-Gil_Fronsdal-IMC-guided_meditation_establishing_awareness.mp3",
+	"score" : 0.6889
 },
 {
 	"filename" : "20211110-Gil_Fronsdal-IMC-guided_meditation_silence_in_awareness.mp3",
@@ -10,26 +30,6 @@
 },
 {
 	"filename" : "20211010-Gil_Fronsdal-IMC-guided_meditation_the_autonomy_of_awareness.mp3",
-	"score" : 0.6889
-},
-{
-	"filename" : "20210907-Gil_Fronsdal-IMC-guided_meditation_awareness_with_space.mp3",
-	"score" : 0.6889
-},
-{
-	"filename" : "20210806-Gil_Fronsdal-IMC-guided_meditation_awareness_like_space.mp3",
-	"score" : 0.6889
-},
-{
-	"filename" : "20210803-Gil_Fronsdal-IMC-guided_meditation_awareness_as_a_jewel.mp3",
-	"score" : 0.6889
-},
-{
-	"filename" : "20210802-Gil_Fronsdal-IMC-guided_meditation_simple_awareness.mp3",
-	"score" : 0.6889
-},
-{
-	"filename" : "20210725-Gil_Fronsdal-IMC-guided_meditation_unconstricted_awareness.mp3",
 	"score" : 0.6889
 }
 ]

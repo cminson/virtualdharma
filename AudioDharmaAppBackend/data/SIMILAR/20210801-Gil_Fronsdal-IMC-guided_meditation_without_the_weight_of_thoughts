@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220408-Gil_Fronsdal-IMC-guided_meditation_naturalist_of_thoughts.mp3",
+	"score" : 0.8095
+},
+{
 	"filename" : "20210516-Gil_Fronsdal-IMC-guided_meditation_letting_go_of_thoughts.mp3",
 	"score" : 0.8095
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "2004-08-29_GilFronsdal_WorldOfThoughtsGuidedMeditation.mp3",
 	"score" : 0.8095
-},
-{
-	"filename" : "20210819-Gil_Fronsdal-IMC-guided_meditation_yes.mp3",
-	"score" : 0.7868
 }
 ]
 }

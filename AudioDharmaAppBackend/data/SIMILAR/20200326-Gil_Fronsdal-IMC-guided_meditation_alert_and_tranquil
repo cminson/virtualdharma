@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220121-Gil_Fronsdal-IMC-guided_meditation_tranquile_mindfulness.mp3",
+	"score" : 0.8095
+},
+{
 	"filename" : "20210819-Gil_Fronsdal-IMC-guided_meditation_yes.mp3",
 	"score" : 0.7868
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20200315-Gil_Fronsdal-IMC-guided_meditation.mp3",
-	"score" : 0.7868
-},
-{
-	"filename" : "20141027-Gil_Fronsdal-IMC-guided_meditation.mp3",
 	"score" : 0.7868
 }
 ]

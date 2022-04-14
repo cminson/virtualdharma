@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220102-Gil_Fronsdal-IMC-guided_meditation_centered.mp3",
+	"score" : 0.7954
+},
+{
 	"filename" : "20210808-Gil_Fronsdal-IMC-guided_meditation_centered_in_the_body.mp3",
 	"score" : 0.7157
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20210817-Gil_Fronsdal-IMC-guided_meditation_here.mp3",
-	"score" : 0.5631
-},
-{
-	"filename" : "20210816-Gil_Fronsdal-IMC-guided_meditation_now.mp3",
 	"score" : 0.5631
 }
 ]

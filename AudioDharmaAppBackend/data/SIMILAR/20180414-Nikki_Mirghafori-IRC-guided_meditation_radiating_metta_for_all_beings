@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220219-Nikki_Mirghafori-IRC-saturday_sit_with_instructions_and_announcements.mp3",
+	"score" : 1.0
+},
+{
 	"filename" : "20190606-Nikki_Mirghafori-IRC-metta_and_wisdom_guided_meditation_radiating_metta_for_all_beings.mp3",
 	"score" : 0.9058
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "20130214-Nikki_Mirghafori-IMC-guided_meditation_on_metta_for_self.mp3",
 	"score" : 0.7419
-},
-{
-	"filename" : "20210611-Gil_Fronsdal-IMC-guided_meditation_meditating_with_metta.mp3",
-	"score" : 0.6983
 }
 ]
 }

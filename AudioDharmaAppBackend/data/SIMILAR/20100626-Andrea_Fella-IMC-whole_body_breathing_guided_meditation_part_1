@@ -17,6 +17,10 @@
 	"score" : 0.9285
 },
 {
+	"filename" : "20220111-Gil_Fronsdal-IMC-guided_meditation_breathing_with_the_whole_body.mp3",
+	"score" : 0.8913
+},
+{
 	"filename" : "20100626-Andrea_Fella-IMC-whole_body_breathing_guided_meditation_and_discussion.mp3",
 	"score" : 0.8621
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "20200318-Gil_Fronsdal-IMC-guided_meditation_breathing_and_the_body.mp3",
 	"score" : 0.8104
-},
-{
-	"filename" : "20170918-Ajaan_Thanissaro-IMC-guided_meditation_whole_body_awaareness.mp3",
-	"score" : 0.7428
 }
 ]
 }

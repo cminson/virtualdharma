@@ -5,6 +5,10 @@
 	"score" : 1.0
 },
 {
+	"filename" : "20220210-Andrea_Fella-IMC-refuge_in_awareness.mp3",
+	"score" : 0.7868
+},
+{
 	"filename" : "20201026-Diana_Clark-IMC-refuge_in_the_buddha.mp3",
 	"score" : 0.7263
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "20150218-John_Travis-IRC-refuge_in_buddha_and_impermanence.mp3",
 	"score" : 0.6351
-},
-{
-	"filename" : "20170629-Andrea_Fella-IRC-awareness_of_awareness.mp3",
-	"score" : 0.619
 }
 ]
 }

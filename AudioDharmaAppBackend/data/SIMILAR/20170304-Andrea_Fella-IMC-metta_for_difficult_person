@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220218-Diana_Clark-IRC-friday_sit_with_instructions_and_announcements.mp3",
+	"score" : 0.9412
+},
+{
 	"filename" : "1995-11-02_GilFronsdal_MettaIV-TowardsaDifficultPerson.mp3",
 	"score" : 0.8468
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20190605-Nikki_Mirghafori-IRC-metta_and_wisdom_working_with_metta_for_the_difficult_person_anger_and_forgiveness.mp3",
-	"score" : 0.7231
-},
-{
-	"filename" : "20141031-Gil_Fronsdal-IMC-brahma_vihara_metta_session_four_metta_for_difficult_person.mp3",
 	"score" : 0.7231
 }
 ]

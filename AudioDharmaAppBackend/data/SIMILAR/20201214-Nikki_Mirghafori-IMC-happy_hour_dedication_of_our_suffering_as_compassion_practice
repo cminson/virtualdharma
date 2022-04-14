@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220304-Nikki_Mirghafori-IMC-happy_hour_compassion_practice_when_suffering_of_the_world_feels_overwhelming.mp3",
+	"score" : 0.7632
+},
+{
 	"filename" : "20211013-Nikki_Mirghafori-IMC-happy_hour_compassion_practice_the_breath_tonglen.mp3",
 	"score" : 0.7241
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20181205-Nikki_Mirghafori-IMC-happy_hour_equanimity_practice.mp3",
-	"score" : 0.6889
-},
-{
-	"filename" : "20171213-Nikki_Mirghafori-IMC-happy_hour_gratitude_practice.mp3",
 	"score" : 0.6889
 }
 ]

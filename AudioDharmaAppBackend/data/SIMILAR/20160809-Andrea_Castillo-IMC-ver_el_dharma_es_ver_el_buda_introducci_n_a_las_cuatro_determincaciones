@@ -1,36 +1,36 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20130410-Gil_Fronsdal-IMC-the_dharma_of_imc.mp3",
+	"score" : 0.5333
+},
+{
+	"filename" : "20100712-Gil_Fronsdal-IMC-dharma.mp3",
+	"score" : 0.5333
+},
+{
+	"filename" : "2007-01-23_GilFronsdal_TheDharmaOfIMC.mp3",
+	"score" : 0.5333
+},
+{
+	"filename" : "20170207-Andrea_Castillo-IMC-las_cuatro_determinaciones_la_paz.mp3",
+	"score" : 0.4992
+},
+{
+	"filename" : "20130516-Andrea_Castillo-IMC-what_inspires_me_about_the_dharma.mp3",
+	"score" : 0.4992
+},
+{
+	"filename" : "20130108-Andrea_Castillo-IMC-lo_que_me_inspira_del_dharma.mp3",
+	"score" : 0.4992
+},
+{
 	"filename" : "20211012-Andrea_Castillo-IMC-cuatro_fundamentos_de_la_atencion_plena_introduccion_platica_1.mp3",
-	"score" : 0.5813
+	"score" : 0.4828
 },
 {
-	"filename" : "20190423-Andrea_Castillo-IMC-introducci_n_a_los_cinco_agregados.mp3",
-	"score" : 0.5268
-},
-{
-	"filename" : "20120904-Andrea_Castillo-IMC-los_cinco_agregados_introducci_n.mp3",
-	"score" : 0.5268
-},
-{
-	"filename" : "20210713-Andrea_Castillo-IMC-atenci_n_plena_de_la_respiraci_n_introducci_n_1.mp3",
-	"score" : 0.519
-},
-{
-	"filename" : "20111115-Andrea_Castillo-IMC-introducci_n_a_la_meditaci_n_en_epsa_ol_los_pensamientos.mp3",
-	"score" : 0.519
-},
-{
-	"filename" : "20111108-Andrea_Castillo-IMC-introducci_n_a_la_meditaci_n_en_espa_ol_las_emociones.mp3",
-	"score" : 0.519
-},
-{
-	"filename" : "20111101-Andrea_Castillo-IMC-introducci_n_a_la_meditaci_n_en_espa_ol_el_cuerpo.mp3",
-	"score" : 0.519
-},
-{
-	"filename" : "20111025-Andrea_Castillo-IMC-introducci_n_a_la_meditaci_n_en_espa_ol_la_respiraci_n.mp3",
-	"score" : 0.519
+	"filename" : "20210105-Ayya_Dhammadipa-IMC-el_dharma_busca_el_dharma.mp3",
+	"score" : 0.48
 }
 ]
 }

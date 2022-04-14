@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220218-Diana_Clark-IRC-friday_sit_with_instructions_and_announcements.mp3",
+	"score" : 0.7231
+},
+{
 	"filename" : "20170304-Andrea_Fella-IMC-metta_for_difficult_person.mp3",
 	"score" : 0.7231
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "20190603-Nikki_Mirghafori-IRC-metta_and_wisdom_metta_acceptance_and_the_brahma_viharas.mp3",
 	"score" : 0.6127
-},
-{
-	"filename" : "20210922-Diana_Clark-IMC-happy_hour_metta_for_a_difficult_person.mp3",
-	"score" : 0.5963
 }
 ]
 }

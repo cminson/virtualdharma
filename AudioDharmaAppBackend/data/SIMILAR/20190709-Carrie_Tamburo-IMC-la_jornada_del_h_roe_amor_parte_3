@@ -2,35 +2,35 @@
 "SIMILAR": [
 {
 	"filename" : "20190702-Carrie_Tamburo-IMC-la_jornada_del_h_roe_provisiones_parte_2.mp3",
-	"score" : 0.84
+	"score" : 0.8095
 },
 {
 	"filename" : "20190625-Carrie_Tamburo-IMC-la_jornada_del_h_roe_parte1.mp3",
-	"score" : 0.7419
+	"score" : 0.688
 },
 {
 	"filename" : "20160705-Andrea_Castillo-IMC-el_perd_n_parte_ii.mp3",
-	"score" : 0.4438
+	"score" : 0.4842
 },
 {
 	"filename" : "20160607-Andrea_Castillo-IMC-el_perd_n_parte_i.mp3",
-	"score" : 0.4438
+	"score" : 0.4842
+},
+{
+	"filename" : "20220315-Sandra_Sanabria-IMC-meditacion_2_-_sintiendo_el_amor.mp3",
+	"score" : 0.4234
 },
 {
 	"filename" : "20200303-Andrea_Castillo-IMC-curso_de_meditacion_parte_4.mp3",
-	"score" : 0.3881
+	"score" : 0.4234
 },
 {
 	"filename" : "20200225-Sandra_Sanabria-ARCHIVE-curso_de_meditacion_parte_3.mp3",
-	"score" : 0.3881
+	"score" : 0.4234
 },
 {
 	"filename" : "20200218-Andrea_Castillo-IMC-curso_de_meditaccion_parte_2.mp3",
-	"score" : 0.3881
-},
-{
-	"filename" : "20200211-Sandra_Sanabria-ARCHIVE-curso_de_meditacion_parte_1.mp3",
-	"score" : 0.3881
+	"score" : 0.4234
 }
 ]
 }

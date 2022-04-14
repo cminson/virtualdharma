@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220106-Andrea_Fella-IMC-exploring_feeling_tone_and_reactivity.mp3",
+	"score" : 1.0
+},
+{
 	"filename" : "20100413-Andrea_Fella-IMC-exploring_feeling.mp3",
 	"score" : 0.7868
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20160724-Andrea_Fella-IRC-feeling_tone_revisited.mp3",
-	"score" : 0.688
-},
-{
-	"filename" : "20150702-Andrea_Fella-IMC-getting_familiar_with_feeling_tone.mp3",
 	"score" : 0.688
 }
 ]

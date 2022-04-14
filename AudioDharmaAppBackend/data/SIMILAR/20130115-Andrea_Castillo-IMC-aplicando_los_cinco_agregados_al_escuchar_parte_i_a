@@ -6,7 +6,11 @@
 },
 {
 	"filename" : "20130205-Andrea_Castillo-IMC-el_escuchar_y_la_atenci_n_plena_parte_iii_b_preguntas.mp3",
-	"score" : 0.4828
+	"score" : 0.52
+},
+{
+	"filename" : "20190423-Andrea_Castillo-IMC-introducci_n_a_los_cinco_agregados.mp3",
+	"score" : 0.4366
 },
 {
 	"filename" : "20130219-Andrea_Castillo-IMC-el_escuchar_y_la_empat_a_parte_iv.mp3",
@@ -17,8 +21,8 @@
 	"score" : 0.4366
 },
 {
-	"filename" : "20190423-Andrea_Castillo-IMC-introducci_n_a_los_cinco_agregados.mp3",
-	"score" : 0.3928
+	"filename" : "20120904-Andrea_Castillo-IMC-los_cinco_agregados_introducci_n.mp3",
+	"score" : 0.4366
 },
 {
 	"filename" : "20170502-Andrea_Castillo-IMC-las_cinco_facultades_esfuerzo_parte_2.mp3",
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20170425-Andrea_Castillo-IMC-las_cinco_facultades_esfurezo_parte_1.mp3",
-	"score" : 0.3928
-},
-{
-	"filename" : "20150505-Andrea_Castillo-IMC-nuestra_relaci_n_al_tiempo_parte_i.mp3",
 	"score" : 0.3928
 }
 ]

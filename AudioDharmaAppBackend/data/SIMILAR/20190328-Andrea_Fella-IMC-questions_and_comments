@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20211216-Andrea_Fella-IMC-questions_and_comments.mp3",
+	"score" : 1.0
+},
+{
 	"filename" : "20150418-Andrea_Fella-IMC-afternoon_questions_and_comments.mp3",
 	"score" : 0.8745
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20210128-Andrea_Fella-IMC-responding_to_questions.mp3",
-	"score" : 0.6923
-},
-{
-	"filename" : "20200625-Andrea_Fella-IMC-responding_to_questions.mp3",
 	"score" : 0.6923
 }
 ]

@@ -17,6 +17,10 @@
 	"score" : 0.7868
 },
 {
+	"filename" : "20220128-Gil_Fronsdal-IMC-guided_meditation.mp3",
+	"score" : 0.7619
+},
+{
 	"filename" : "20210730-Gil_Fronsdal-IMC-guided_meditation_confidence_in_peace.mp3",
 	"score" : 0.7619
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "2003-07-24_GilFronsdal_GuidedMeditation-ConfidenceAndTheBreath.mp3",
 	"score" : 0.7619
-},
-{
-	"filename" : "20210921-Andrea_Fella-IMC-guided_meditation.mp3",
-	"score" : 0.7263
 }
 ]
 }

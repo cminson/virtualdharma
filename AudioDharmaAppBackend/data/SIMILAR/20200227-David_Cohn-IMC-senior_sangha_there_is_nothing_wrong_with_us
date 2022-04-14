@@ -1,6 +1,14 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220120-David_Cohn-IMC-senior_sangha_meeting_for_january.mp3",
+	"score" : 0.6351
+},
+{
+	"filename" : "20211216-David_Cohn-IMC-senior_sangha_meeting_for_december.mp3",
+	"score" : 0.6351
+},
+{
 	"filename" : "20211021-David_Cohn-IMC-senior_sangha_meeting_for_october.mp3",
 	"score" : 0.6351
 },
@@ -22,14 +30,6 @@
 },
 {
 	"filename" : "20120813-Kim_Allen-IMC-sangha.mp3",
-	"score" : 0.5819
-},
-{
-	"filename" : "20090405-Carla_Brennan-IMC-nothing_to_do.mp3",
-	"score" : 0.5819
-},
-{
-	"filename" : "2006-03-05_BethGoldring_NothingNew.mp3",
 	"score" : 0.5819
 }
 ]

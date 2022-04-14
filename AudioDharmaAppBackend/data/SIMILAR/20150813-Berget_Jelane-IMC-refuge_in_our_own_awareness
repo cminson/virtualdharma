@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220210-Andrea_Fella-IMC-refuge_in_awareness.mp3",
+	"score" : 0.9231
+},
+{
 	"filename" : "20071227-Berget_Jelane-IMC-refuge.mp3",
 	"score" : 0.8321
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20150611-Kim_Allen-IMC-refuge.mp3",
-	"score" : 0.7396
-},
-{
-	"filename" : "20131216-Gil_Fronsdal-IMC-awareness.mp3",
 	"score" : 0.7396
 }
 ]

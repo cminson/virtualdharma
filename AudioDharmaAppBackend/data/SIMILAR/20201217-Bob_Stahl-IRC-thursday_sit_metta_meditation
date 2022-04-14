@@ -1,12 +1,20 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20211216-Yasmina_Porter-IRC-thursday_sitting_-_metta_meditation.mp3",
+	"score" : 0.7619
+},
+{
 	"filename" : "20091115-Ajahn_Metta-IMC-guided_metta_meditation.mp3",
 	"score" : 0.6667
 },
 {
 	"filename" : "20201217-Mary_Grace_Orr-IRC-thursday_morning_meditation.mp3",
 	"score" : 0.6547
+},
+{
+	"filename" : "20220214-Nikki_Mirghafori-IRC-monday_sit_with_instructions_and_announcements.mp3",
+	"score" : 0.6351
 },
 {
 	"filename" : "20170519-Nikki_Mirghafori-IMC-dpd_metta_guided_meditation.mp3",
@@ -23,14 +31,6 @@
 {
 	"filename" : "20201219-Mary_Grace_Orr-IRC-saturday_afternoon_sit_metta.mp3",
 	"score" : 0.5855
-},
-{
-	"filename" : "20210523-Devin_Berry-IMC-why_metta.mp3",
-	"score" : 0.5819
-},
-{
-	"filename" : "20180531-Andrea_Castillo-IMC-metta.mp3",
-	"score" : 0.5819
 }
 ]
 }

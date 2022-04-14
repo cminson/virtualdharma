@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20211223-Andrea_Fella-IMC-wise_speech.mp3",
+	"score" : 0.9231
+},
+{
 	"filename" : "20140127-Oren_J_Sofer-IMC-wise_speech.mp3",
 	"score" : 0.9231
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "1998-09-14_GilFronsdal_Speech.mp3",
 	"score" : 0.8321
-},
-{
-	"filename" : "20190409-Andrea_Fella-IMC-wise_speech_part_3.mp3",
-	"score" : 0.8072
 }
 ]
 }

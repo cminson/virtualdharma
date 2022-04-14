@@ -1,6 +1,18 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20211203-Gil_Fronsdal-IRC-friday_dharma_talk.mp3",
+	"score" : 0.688
+},
+{
+	"filename" : "20211201-Gil_Fronsdal-IRC-wednesday_dharma_talk.mp3",
+	"score" : 0.688
+},
+{
+	"filename" : "20211129-Gil_Fronsdal-IRC-monday_dharma_talk.mp3",
+	"score" : 0.688
+},
+{
 	"filename" : "20211105-Gil_Fronsdal-IRC-friday_dharma_talk.mp3",
 	"score" : 0.688
 },
@@ -19,18 +31,6 @@
 {
 	"filename" : "20161107-Gil_Fronsdal-IMC-the_ten_qualities_of_a_political_leader.mp3",
 	"score" : 0.688
-},
-{
-	"filename" : "20130410-Gil_Fronsdal-IMC-the_dharma_of_imc.mp3",
-	"score" : 0.6547
-},
-{
-	"filename" : "20100712-Gil_Fronsdal-IMC-dharma.mp3",
-	"score" : 0.6547
-},
-{
-	"filename" : "2007-01-23_GilFronsdal_TheDharmaOfIMC.mp3",
-	"score" : 0.6547
 }
 ]
 }

@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220112-Gil_Fronsdal-IMC-guided_meditation-relaxing_the_bodily_formations.mp3",
+	"score" : 0.7799
+},
+{
 	"filename" : "20080530-Gil_Fronsdal-IMC-anapanasati_guided_meditation_5_of_10.mp3",
 	"score" : 0.7656
 },
@@ -9,11 +13,11 @@
 	"score" : 0.7656
 },
 {
-	"filename" : "20080530-Gil_Fronsdal-IMC-anapanasati_guided_meditation_2_of_10.mp3",
+	"filename" : "20080530-Gil_Fronsdal-IMC-anapanasati_guided_meditation_9_of_10.mp3",
 	"score" : 0.7656
 },
 {
-	"filename" : "20080530-Gil_Fronsdal-IMC-anapanasati_guided_meditation_9_of_10.mp3",
+	"filename" : "20080530-Gil_Fronsdal-IMC-anapanasati_guided_meditation_2_of_10.mp3",
 	"score" : 0.7656
 },
 {
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20080321-Gil_Fronsdal-IMC-anapanasati_guided_meditation_2_of_8.mp3",
-	"score" : 0.7656
-},
-{
-	"filename" : "20080125-Gil_Fronsdal-IMC-anapanasati_guided_meditation_7_of_8.mp3",
 	"score" : 0.7656
 }
 ]

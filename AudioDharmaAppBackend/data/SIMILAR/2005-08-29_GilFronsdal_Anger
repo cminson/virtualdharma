@@ -2,35 +2,35 @@
 "SIMILAR": [
 {
 	"filename" : "20190217-Gil_Fronsdal-IMC-anger.mp3",
-	"score" : 0.8321
+	"score" : 1.0
 },
 {
-	"filename" : "20050829-Gil_Fronsdal-IMC-anger.mp3",
-	"score" : 0.8321
+	"filename" : "2000-04-08_GilFronsdal_Anger.mp3",
+	"score" : 1.0
 },
 {
-	"filename" : "20000408-Gil_Fronsdal-IMC-anger.mp3",
-	"score" : 0.8321
-},
-{
-	"filename" : "19980423-Gil_Fronsdal-IMC-anger.mp3",
-	"score" : 0.8321
+	"filename" : "980423_GilFronsdal_Anger.mp3",
+	"score" : 1.0
 },
 {
 	"filename" : "20180710-Diana_Clark-IMC-anger.mp3",
-	"score" : 0.7396
+	"score" : 0.8889
 },
 {
-	"filename" : "20110913-Ines_Freedman-IMC-ill_will_and_aversion.mp3",
-	"score" : 0.7396
+	"filename" : "2004-03-22_PamelaWeiss_Anger.mp3",
+	"score" : 0.8889
 },
 {
-	"filename" : "20040422-Andrea_Fella-IMC-aversion.mp3",
-	"score" : 0.7396
+	"filename" : "2004-03-15_LarryYang_Anger.mp3",
+	"score" : 0.8889
 },
 {
-	"filename" : "20040322-Pamela_Weiss-IMC-anger.mp3",
-	"score" : 0.7396
+	"filename" : "2002-06-06_BergetJelane_Anger.mp3",
+	"score" : 0.8889
+},
+{
+	"filename" : "2002-04-15_EugeneCash_Anger.mp3",
+	"score" : 0.8889
 }
 ]
 }

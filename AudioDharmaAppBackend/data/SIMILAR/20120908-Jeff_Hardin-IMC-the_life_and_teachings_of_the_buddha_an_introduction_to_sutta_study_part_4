@@ -1,10 +1,6 @@
 {
 "SIMILAR": [
 {
-	"filename" : "20120908-Jeff_Hardin-IMC-the_life_and_teachings_of_the_buddha_an_introduction_to_sutta_study_part_2.mp3",
-	"score" : 1.0
-},
-{
 	"filename" : "20120908-Jeff_Hardin-IMC-the_life_and_teachings_of_the_buddha_an_introduction_to_sutta_study_part_1.mp3",
 	"score" : 1.0
 },
@@ -13,11 +9,15 @@
 	"score" : 1.0
 },
 {
-	"filename" : "20150314-Diana_Clark-sati-life_of_the_buddha_part_2.mp3",
-	"score" : 0.6755
+	"filename" : "20120908-Jeff_Hardin-IMC-the_life_and_teachings_of_the_buddha_an_introduction_to_sutta_study_part_2.mp3",
+	"score" : 1.0
 },
 {
 	"filename" : "20150314-Diana_Clark-sati-life_of_the_buddha_part_1.mp3",
+	"score" : 0.6755
+},
+{
+	"filename" : "20150314-Diana_Clark-sati-life_of_the_buddha_part_2.mp3",
 	"score" : 0.6755
 },
 {

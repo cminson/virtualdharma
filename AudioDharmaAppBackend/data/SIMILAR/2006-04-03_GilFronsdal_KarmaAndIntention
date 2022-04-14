@@ -9,11 +9,7 @@
 	"score" : 1.0
 },
 {
-	"filename" : "20060403-Gil_Fronsdal-IMC-karma_and_intention.mp3",
-	"score" : 1.0
-},
-{
-	"filename" : "20010902-Gil_Fronsdal-IMC-intention_and_karma.mp3",
+	"filename" : "2001-09-02_GilFronsdal_IntentionKarma.mp3",
 	"score" : 1.0
 },
 {
@@ -30,6 +26,10 @@
 },
 {
 	"filename" : "20140727-Gil_Fronsdal-IMC-intention.mp3",
+	"score" : 0.8321
+},
+{
+	"filename" : "20121028-Gil_Fronsdal-IMC-karma.mp3",
 	"score" : 0.8321
 }
 ]

@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "2004-05-17_GilFronsdal_Effort.mp3",
+	"score" : 1.0
+},
+{
 	"filename" : "20150407-Andrea_Fella-IMC-right_effort.mp3",
 	"score" : 0.9231
 },
@@ -19,10 +23,6 @@
 {
 	"filename" : "2002-03-07_DonJohnson_RightEffort.mp3",
 	"score" : 0.9231
-},
-{
-	"filename" : "2004-05-17_GilFronsdal_Effort.mp3",
-	"score" : 0.8321
 },
 {
 	"filename" : "2002-06-16_GilFronsdal_Effort.mp3",

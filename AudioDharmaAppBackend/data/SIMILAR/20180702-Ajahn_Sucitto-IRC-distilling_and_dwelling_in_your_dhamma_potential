@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220329-Santikaro-sati-seeing_with_eye_of_dhamma.mp3",
+	"score" : 0.4842
+},
+{
 	"filename" : "20191121-Bob_Stahl-IRC-the_dhamma_of_identity.mp3",
 	"score" : 0.4842
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "20180626-Ajahn_Sucitto-IRC-dhamma_the_liberation_field.mp3",
 	"score" : 0.4763
-},
-{
-	"filename" : "20180630-Ajahn_Sucitto-IRC-comfortable_or_ignorant_choose_dhamma.mp3",
-	"score" : 0.4286
 }
 ]
 }

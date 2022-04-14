@@ -1,10 +1,6 @@
 {
 "SIMILAR": [
 {
-	"filename" : "20210127-Gil_Fronsdal-IMC-mindfulness_of_breathing_19_meditative_joy_and_happiness.mp3",
-	"score" : 0.8788
-},
-{
 	"filename" : "20210114-Gil_Fronsdal-IMC-mindfulness_of_breathing_9_breathing_with_the_body.mp3",
 	"score" : 0.8081
 },
@@ -30,6 +26,10 @@
 },
 {
 	"filename" : "20210215-Gil_Fronsdal-IMC-mindfulness_of_breathing_32_simplicity_with_breathing.mp3",
+	"score" : 0.7576
+},
+{
+	"filename" : "20210113-Gil_Fronsdal-IMC-mindfulness_of_breathing_8_four_dimensions_of_breathing.mp3",
 	"score" : 0.7576
 }
 ]

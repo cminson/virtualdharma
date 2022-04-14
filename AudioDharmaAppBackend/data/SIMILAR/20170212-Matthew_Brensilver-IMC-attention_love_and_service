@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220117-Nikki_Mirghafori-IMC-happy_hour_love_is_service_service_is_love.mp3",
+	"score" : 0.7231
+},
+{
 	"filename" : "20190505-Nikki_Mirghafori-IMC-on_love.mp3",
 	"score" : 0.6468
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "2003-03-17_GilFronsdal_Love.mp3",
-	"score" : 0.6468
-},
-{
-	"filename" : "2002-01-28_GilFronsdal_Love.mp3",
 	"score" : 0.6468
 }
 ]

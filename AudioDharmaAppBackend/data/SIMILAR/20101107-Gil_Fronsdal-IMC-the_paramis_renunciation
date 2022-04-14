@@ -9,16 +9,12 @@
 	"score" : 0.9231
 },
 {
-	"filename" : "20101105-Gil_Fronsdal-IMC-the_paramis_renunciation_part_4.mp3",
-	"score" : 0.8745
-},
-{
 	"filename" : "20101105-Gil_Fronsdal-IMC-the_paramis_renunciation_part_5.mp3",
 	"score" : 0.8745
 },
 {
-	"filename" : "2004-10-04_GilFronsdal_Paramis.mp3",
-	"score" : 0.8321
+	"filename" : "20101105-Gil_Fronsdal-IMC-the_paramis_renunciation_part_4.mp3",
+	"score" : 0.8745
 },
 {
 	"filename" : "2003-04-07_GilFronsdal_TheParamis.mp3",
@@ -31,6 +27,10 @@
 {
 	"filename" : "1996-09-02_GilFronsdal_Renunciation.mp3",
 	"score" : 0.8321
+},
+{
+	"filename" : "20101105-Ines_Freedman-IMC-the_paramis_renunciation_part_6.mp3",
+	"score" : 0.8072
 }
 ]
 }

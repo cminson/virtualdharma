@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20211203-Nikki_Mirghafori-IMC-happy_hour_nourishing_peace.mp3",
+	"score" : 0.6889
+},
+{
 	"filename" : "20200623-Nikki_Mirghafori-IMC-happy_hour_metta_as_nourishing_air.mp3",
 	"score" : 0.6889
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20200414-Nikki_Mirghafori-IMC-happy_hour_joy_and_contentment_as_support_in_challenging_times.mp3",
-	"score" : 0.5862
-},
-{
-	"filename" : "20200408-Nikki_Mirghafori-IMC-happy_hour_practicing_equanimity_in_challenging_times.mp3",
 	"score" : 0.5862
 }
 ]

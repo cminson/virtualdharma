@@ -1,11 +1,11 @@
 {
 "SIMILAR": [
 {
-	"filename" : "20120728-Sean_Kerr-IMC-pali_workshop_part_2.mp3",
+	"filename" : "20120728-Sean_Kerr-IMC-pali_workshop_part_5.mp3",
 	"score" : 1.0
 },
 {
-	"filename" : "20120728-Sean_Kerr-IMC-pali_workshop_part_5.mp3",
+	"filename" : "20120728-Sean_Kerr-IMC-pali_workshop_part_2.mp3",
 	"score" : 1.0
 },
 {
@@ -25,11 +25,11 @@
 	"score" : 0.6468
 },
 {
-	"filename" : "2005-10-30_MartineBatchelor_WhatIsThis-Pt1.mp3",
+	"filename" : "2005-10-30_MartineBatchelor_WhatIsThis-Pt2.mp3",
 	"score" : 0.6468
 },
 {
-	"filename" : "2005-10-30_MartineBatchelor_WhatIsThis-Pt2.mp3",
+	"filename" : "2005-10-30_MartineBatchelor_WhatIsThis-Pt1.mp3",
 	"score" : 0.6468
 }
 ]

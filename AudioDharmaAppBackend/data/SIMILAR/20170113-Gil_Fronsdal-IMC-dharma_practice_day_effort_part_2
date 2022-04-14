@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20170113-Gil_Fronsdal-IMC-dharma_practice_day_effort_part_5.mp3",
+	"score" : 0.8095
+},
+{
 	"filename" : "20170113-Gil_Fronsdal-IMC-dharma_practice_day_effort_part_3.mp3",
 	"score" : 0.8095
 },
@@ -10,10 +14,6 @@
 },
 {
 	"filename" : "20170113-Gil_Fronsdal-IMC-dharma_practice_day_effort_part_6.mp3",
-	"score" : 0.8095
-},
-{
-	"filename" : "20170113-Gil_Fronsdal-IMC-dharma_practice_day_effort_part_5.mp3",
 	"score" : 0.8095
 },
 {
@@ -29,7 +29,7 @@
 	"score" : 0.5714
 },
 {
-	"filename" : "20161104-Gil_Fronsdal-IMC-dharma_practice_day_renunciation_part_2.mp3",
+	"filename" : "20161104-Gil_Fronsdal-IMC-dharma_practice_day_renunciation_part_3.mp3",
 	"score" : 0.5674
 }
 ]

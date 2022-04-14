@@ -9,6 +9,10 @@
 	"score" : 0.7419
 },
 {
+	"filename" : "20211213-Diana_Clark-IMC-equanimity_as_the_third_way.mp3",
+	"score" : 0.7263
+},
+{
 	"filename" : "20180302-Oren_Jay_Sofer-IRC-4th_noble_truth.mp3",
 	"score" : 0.7263
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "20180302-Gil_Fronsdal-IRC-the_noble_truth_of_happiness.mp3",
 	"score" : 0.688
-},
-{
-	"filename" : "20201227-Gil_Fronsdal-IMC-equanimity.mp3",
-	"score" : 0.6547
 }
 ]
 }

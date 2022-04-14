@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220228-Tanya_Wiser-IMC-raft_a_mindfulness_practice.mp3",
+	"score" : 0.6351
+},
+{
 	"filename" : "20120513-Gil_Fronsdal-IMC-contexts_of_mindfulness_practice.mp3",
 	"score" : 0.6351
 },
@@ -22,10 +26,6 @@
 },
 {
 	"filename" : "20171024-Max_Erdstein-IMC-mindfulness_and_joy.mp3",
-	"score" : 0.5819
-},
-{
-	"filename" : "20160404-Andrea_Fella-IMC-why_practice.mp3",
 	"score" : 0.5819
 },
 {

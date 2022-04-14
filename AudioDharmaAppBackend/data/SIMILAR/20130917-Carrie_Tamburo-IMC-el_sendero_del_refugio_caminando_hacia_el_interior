@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220104-Sandra_Sanabria-IMC-el_refugio_de_la_meditacion.mp3",
+	"score" : 0.4438
+},
+{
 	"filename" : "20210209-Andrea_Castillo-IMC-hacia_una_vida_inofensiva.mp3",
 	"score" : 0.3881
 },
@@ -26,10 +30,6 @@
 },
 {
 	"filename" : "20191212-Nikki_Mirghafori-IMC-the_joy_of_joy.mp3",
-	"score" : 0.3578
-},
-{
-	"filename" : "20190923-Max_Erdstein-IMC-just_as_it_is.mp3",
 	"score" : 0.3578
 }
 ]

@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220107-Gil_Fronsdal-IMC-guided_meditation_sensory_awareness_of_breathing.mp3",
+	"score" : 0.84
+},
+{
 	"filename" : "20210108-Gil_Fronsdal-IMC-guided_meditation_receptive_awareness_of_breathing.mp3",
 	"score" : 0.84
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "2007-09-07_GilFronsdal_Anapanasati_GuidedMeditation-AwarenessOfBreathingLyingDown_2of10.mp3",
 	"score" : 0.7799
-},
-{
-	"filename" : "20190311-bruni_d_vila-IRC-guided_meditation_on_breathing.mp3",
-	"score" : 0.7761
 }
 ]
 }

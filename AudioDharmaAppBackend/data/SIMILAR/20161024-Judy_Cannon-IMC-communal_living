@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20211227-Gil_Fronsdal-IMC-living_well_with_choice.mp3",
+	"score" : 0.6154
+},
+{
 	"filename" : "20210425-Gil_Fronsdal-IMC-earth_day_and_the_art_of_living.mp3",
 	"score" : 0.6154
 },
@@ -27,10 +31,6 @@
 {
 	"filename" : "2000-09-07_GilFronsdal_ConsciousLiving.mp3",
 	"score" : 0.6154
-},
-{
-	"filename" : "20180325-Kevin_Griffin-IMC-living_loving_kindness.mp3",
-	"score" : 0.5381
 }
 ]
 }

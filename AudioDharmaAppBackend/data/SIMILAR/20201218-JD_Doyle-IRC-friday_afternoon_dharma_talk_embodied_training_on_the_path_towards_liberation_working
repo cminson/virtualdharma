@@ -1,6 +1,14 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20211217-Mary_Grace_Orr-IRC-friday_dharma_talk.mp3",
+	"score" : 0.5494
+},
+{
+	"filename" : "20211203-Gil_Fronsdal-IRC-friday_dharma_talk.mp3",
+	"score" : 0.533
+},
+{
 	"filename" : "20211105-Gil_Fronsdal-IRC-friday_dharma_talk.mp3",
 	"score" : 0.533
 },
@@ -17,20 +25,12 @@
 	"score" : 0.4796
 },
 {
+	"filename" : "20211218-JD_Doyle-IRC-saturday_dharma_talk_the_three_refuges_as_a_support_towards_liberation.mp3",
+	"score" : 0.4742
+},
+{
 	"filename" : "20190324-Gil_Fronsdal-IMC-working_with_hindrances.mp3",
 	"score" : 0.4572
-},
-{
-	"filename" : "20201207-Gil_Fronsdal-IRC-monday_dharma_talk_the_path_with_freedom.mp3",
-	"score" : 0.4396
-},
-{
-	"filename" : "20210320-Sayadaw_U_Jagara-IRC-dharma_talk_day_6_immesurable_working_places_ourselves.mp3",
-	"score" : 0.4153
-},
-{
-	"filename" : "20201106-Diana_Clark-IRC-11_6_20_friday_dharma_talk.mp3",
-	"score" : 0.4081
 }
 ]
 }

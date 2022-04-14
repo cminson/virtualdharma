@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20220106-Gil_Fronsdal-IMC-guided_meditation_feel_and_relax.mp3",
+	"score" : 0.7419
+},
+{
 	"filename" : "20150720-Gil_Fronsdal-IMC-stop_recognize_feel_relax.mp3",
 	"score" : 0.7419
 },
@@ -23,10 +27,6 @@
 {
 	"filename" : "20140820-Gil_Fronsdal-IMC-recognize_feel_relax.mp3",
 	"score" : 0.6306
-},
-{
-	"filename" : "20171118-Mel_Weitsman-IRC-guided_meditation_instructions.mp3",
-	"score" : 0.5821
 },
 {
 	"filename" : "20171118-Max_Erdstein-IRC-guided_meditation_instructions.mp3",

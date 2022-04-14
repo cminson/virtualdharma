@@ -1,6 +1,10 @@
 {
 "SIMILAR": [
 {
+	"filename" : "20081107-Gil_Fronsdal-IMC-the_five_hindrances_desire_2_of_4.mp3",
+	"score" : 0.8997
+},
+{
 	"filename" : "20081107-Gil_Fronsdal-IMC-the_five_hindrances_desire_4_of_4.mp3",
 	"score" : 0.8997
 },
@@ -10,10 +14,6 @@
 },
 {
 	"filename" : "20081107-Gil_Fronsdal-IMC-the_five_hindrances_desire_3_of_4.mp3",
-	"score" : 0.8997
-},
-{
-	"filename" : "20081107-Gil_Fronsdal-IMC-the_five_hindrances_desire_2_of_4.mp3",
 	"score" : 0.8997
 },
 {
@@ -29,7 +29,7 @@
 	"score" : 0.8104
 },
 {
-	"filename" : "20081010-Gil_Fronsdal-IMC-the_five_hindrances_introduction_desire_2_of_6.mp3",
+	"filename" : "20081010-Gil_Fronsdal-IMC-the_five_hindrances_introduction_desire_5_of_6.mp3",
 	"score" : 0.8095
 }
 ]

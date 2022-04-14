@@ -9,10 +9,6 @@
 	"score" : 0.9231
 },
 {
-	"filename" : "2004-10-04_GilFronsdal_Paramis.mp3",
-	"score" : 0.8321
-},
-{
 	"filename" : "2003-04-07_GilFronsdal_TheParamis.mp3",
 	"score" : 0.8321
 },
@@ -30,6 +26,10 @@
 },
 {
 	"filename" : "2006-08-10_BergetJelane_Virtue.mp3",
+	"score" : 0.7396
+},
+{
+	"filename" : "2004-11-11_BergetJelane_TheParamis.mp3",
 	"score" : 0.7396
 }
 ]
