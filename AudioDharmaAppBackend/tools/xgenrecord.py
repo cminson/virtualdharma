@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 import sys
 import os
 import time
@@ -34,9 +34,8 @@ try:
     cur.execute(query, values)
     con.commit()
 
-except mdb.Error, e:
-    error = "Error %d: %s" % (e.args[0],e.args[1])
-    print(error)
+except:
+    print("error")
     sys.exit(1)
 
 finally:
