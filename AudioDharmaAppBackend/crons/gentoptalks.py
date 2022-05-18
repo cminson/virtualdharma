@@ -32,10 +32,11 @@ RejectTalks = []
 SCORE_PLAYED = 1
 SCORE_SHARED = 3
 SCORE_RECOMMENDED = 200
-SCORE_CHRISTOPHER = 500
-SCORE_NON_GIL_LONG = 420
-SCORE_NON_GIL_MEDIUM = 2
-SCORE_NON_GIL_SHORT = 4
+SCORE_CHRISTOPHER = 420
+SCORE_CHRISTOPHER = 520
+SCORE_NON_GIL_LONG = 600
+SCORE_NON_GIL_MEDIUM = 1.5
+SCORE_NON_GIL_SHORT = 3
 
 DAY_RANGE = 80
 DAY_IN_SECONDS =  24 * 60 * 60
@@ -188,14 +189,10 @@ try:
             '2001', '2000']
     for filename, score in scoredict.items():
 
-        if filename in RecommendedTalks:
-            scoredict[filename] += SCORE_RECOMMENDED
+        #if filename in RecommendedTalks:
+        #    scoredict[filename] += SCORE_RECOMMENDED
         if filename in ChristopherTalks:
             scoredict[filename] += SCORE_CHRISTOPHER
-        if '2017' in filename:
-            scoredict[filename] += 160
-        if '2016' in filename:
-            scoredict[filename] += 220
         if 'Gil' not in filename:
             scoredict[filename] += SCORE_NON_GIL_LONG
 
