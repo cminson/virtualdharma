@@ -1,6 +1,90 @@
 {
 "sangha_history": [
 {
+	"filename" : "20191020-Gil_Fronsdal-IMC-equanimity.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2019.10.20",
+	"city" : "Dublin",
+	"country" : "Ireland"
+},
+{
+	"filename" : "2005-01-10_GilFronsdal_FourNobleTruths.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2005.01.10",
+	"city" : "Dublin",
+	"country" : "Ireland"
+},
+{
+	"filename" : "20220114-Gil_Fronsdal-IMC-dharmette_satipatthana_9_the_clear_seeing_of_mindfulness.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.01.14",
+	"city" : "Haifa",
+	"country" : "Israel"
+},
+{
+	"filename" : "20210811-Matthew_Brensilver-IMC-guided_meditation_softening_to_the_ungovernability_of_experience.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2021.08.11",
+	"city" : "Melbourne",
+	"country" : "Australia"
+},
+{
+	"filename" : "20130602-Gil_Fronsdal-IMC-the_5_supports_for_spiritual_maturity.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2013.06.02",
+	"city" : "Lake Placid",
+	"country" : "United States"
+},
+{
+	"filename" : "20191118-Nikki_Mirghafori-IMC-mindfulness_of_death.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2019.11.18",
+	"city" : "Ashland",
+	"country" : "United States"
+},
+{
+	"filename" : "20170330-David_Cohn-IMC-reflection_on_death.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2017.03.30",
+	"city" : "Ashland",
+	"country" : "United States"
+},
+{
+	"filename" : "20220503-Gil_Fronsdal-IMC-satipatthana_68_the_unity_of_awareness_and_the_path.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.05.03",
+	"city" : "Salida",
+	"country" : "United States"
+},
+{
+	"filename" : "1998-11-05_GilFronsdal_Compassion.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "1998.11.05",
+	"city" : "Folsom",
+	"country" : "United States"
+},
+{
+	"filename" : "20171127-Gil_Fronsdal-IMC-preparing_for_death.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2017.11.27",
+	"city" : "Ashland",
+	"country" : "United States"
+},
+{
+	"filename" : "20220505-Andrea_Fella-IMC-noticing_how_we_are_in_relationship_to_experience.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.05.05",
+	"city" : "San Francisco",
+	"country" : "United States"
+},
+{
+	"filename" : "20190504-Ines_Freedman-IRC-delusion.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2019.05.04",
+	"city" : "Ashland",
+	"country" : "United States"
+},
+{
 	"filename" : "20211208-Gil_Fronsdal-IMC-guided_meditation_safety_in_calmness.mp3",
 	"operation" : "PLAYTALK",
 	"date" : "2021.12.08",
@@ -5298,62 +5382,6 @@
 	"date" : "2018.06.25",
 	"city" : "Hailsham",
 	"country" : "Great Britain"
-},
-{
-	"filename" : "20211021-Gil_Fronsdal-IMC-guided_meditation_the_influence_of_relaxation.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2021.10.21",
-	"city" : "Gainesville",
-	"country" : "United States"
-},
-{
-	"filename" : "20220513-David_Cohn-IMC_Prog-senior_sangha_book_group_for_may_2022.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.05.13",
-	"city" : "San Francisco",
-	"country" : "United States"
-},
-{
-	"filename" : "20220516-Nikki_Mirghafori-IMC-the_three_inseparable_aspects_of_karma.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.05.16",
-	"city" : "El Cerrito",
-	"country" : "United States"
-},
-{
-	"filename" : "20100421-Gil_Fronsdal-IMC-practice_note_noting_thinking.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2010.04.21",
-	"city" : "Palo Alto",
-	"country" : "United States"
-},
-{
-	"filename" : "20120212-Gil_Fronsdal-IMC-reflections_on_effort.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2012.02.12",
-	"city" : "Lake Placid",
-	"country" : "United States"
-},
-{
-	"filename" : "20180701-Ajahn_Sucitto-IRC-guided_standing_opening_to_feeling.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2018.07.01",
-	"city" : "Hailsham",
-	"country" : "Great Britain"
-},
-{
-	"filename" : "20220509-Matthew_Brensilver-IMC-lightly_guided_meditation.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.05.09",
-	"city" : "New Brighton",
-	"country" : "United States"
-},
-{
-	"filename" : "20140426-Thanissaro_Bhikkhu-sati-romanticizing_the_buddha_part_2.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2014.04.26",
-	"city" : "San Francisco",
-	"country" : "United States"
 }
 ],
 "sangha_shares": [
