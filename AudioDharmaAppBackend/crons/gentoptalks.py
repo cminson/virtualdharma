@@ -36,7 +36,7 @@ SCORE_CHRISTOPHER = 420
 SCORE_CHRISTOPHER = 520
 SCORE_NON_GIL_LONG = 600
 SCORE_NON_GIL_MEDIUM = 1.5
-SCORE_NON_GIL_SHORT = 3
+SCORE_NON_GIL_SHORT = 1
 
 DAY_RANGE = 80
 DAY_IN_SECONDS =  24 * 60 * 60
@@ -59,9 +59,7 @@ def removeNonAscii(text):
 
 def generateJSONFile(path_json_file, talks):
 
-    print(len(talks))
     talks = [talk for talk in talks if talk[0] in FileNameToTalk]
-    print(len(talks))
 
     count = 1
     with open(path_json_file,'w+') as fd:
@@ -165,7 +163,7 @@ try:
     cur = con.cursor()
 
     query = "SELECT filename FROM actions WHERE operation=\"PLAYTALK\""
-    print(query)
+    #print(query)
     cur.execute("SELECT filename FROM actions WHERE operation=\"PLAYTALK\"")
     #cur.execute(query)
     rows = cur.fetchall()
@@ -211,6 +209,11 @@ try:
             continue
         TopTalksAllTime.append((filename, score))
     TopTalksAllTime = sorted(TopTalksAllTime, key=lambda tup: tup[1], reverse = True)
+    count = 1
+    for filename, score  in TopTalksAllTime:
+        print(count, filename, score)
+        count += 1
+
     TopTalksAllTime = TopTalksAllTime[0: MAX_TALKS]
     con.close()
 

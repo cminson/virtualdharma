@@ -1,0 +1,59 @@
+<html
+<header>
+
+<style>
+
+html {
+    font-size: 18px;
+    font-family: Helvetica
+}
+
+a {
+    text-decoration: underline;
+    color: black;
+}
+
+</style>
+    
+</header>
+
+<body>
+<p><br>
+<h2>
+    Top 200 IMC AudioDharma Talks 
+    <br>
+    Transcripts
+</h2>
+
+<?php
+$PATH_HTML = "./transcripts/data/html/";
+
+//$config = file_get_contents('/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/CONFIG00.JSON');
+//$json_config = json_decode($json_config,true);
+
+
+$top200 = file_get_contents('/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP200.JSON');
+$json_top200 = json_decode($top200,true);
+
+$talks = $json_top200['talks'];
+
+foreach ($talks as $talk) {
+    $title = $talk['title'];
+    $url = $talk['url'];
+
+    $terms = explode("/", $url);
+    $file_name = $terms[2];
+    $path_html_page = $PATH_HTML . $file_name . '.html';
+
+    $fullURL = $url;
+        if (file_exists($path_html_page)) {
+        print("<br>");
+        print("<a href=\"$path_html_page\">$title</a>");
+        print("<br>");
+    }
+}
+?>
+
+</body>
+
+</html>
