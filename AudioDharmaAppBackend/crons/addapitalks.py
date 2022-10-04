@@ -35,6 +35,10 @@ PATH_TALKS_TRENDING = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Con
 PATH_TALKS_TOP3MONTHS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP90DAYS.JSON"
 PATH_LOCAL_MP3CACHE = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/TALKS/"
 
+PATH_IMPORT_TRANSCRIPTS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/IMPORT_PDF/"
+PATH_ACTIVE_TRANSCRIPTS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/PDF/"
+URL_ACTIVE_TRANSCRIPTS = "http://virtualdharma.org/AudioDharmaAppBackend/data/PDF/"
+
 # max duration to be classified as short talk.  15 minutes
 MAX_SHORT_TALK_SECONDS = 15 * 60
 
@@ -43,6 +47,7 @@ MAX_RECENT_TALKS = 10
 
 AllTalks = []
 TalkToSimilarsDict = {}
+MP3ToTranscriptDict = {}
 WORD = re.compile(r'\w+')
 
 AllGuidedMeditions = []
@@ -100,6 +105,10 @@ if arglen > 2:
 if arglen == 2:
     FullCrawl = False
 
+# Build dict of all PDFs.  Any new ones (not in the Config) will get inserted below when we build a new Config
+for pdf in os.listdir(PATH_ACTIVE_TRANSCRIPTS):
+    mp3 = pdf.replace("pdf", "mp3")
+    MP3ToTranscriptDict[mp3] = URL_ACTIVE_TRANSCRIPTS + pdf
 
 #
 # Step 1:
@@ -168,7 +177,6 @@ print("addNewTalks: building candidate config")
 MP3_SOURCE = 'https://audiodharma.us-east-1.linodeobjects.com/talks'
 current_config = current_data['config']
 MP3_HOST = current_config["URL_MP3_HOST"]
-ALT_MP3_HOST = current_config["ALT_URL_MP3_HOST"]
 USE_NATIVE_MP3PATHS = current_config["USE_NATIVE_MP3PATHS"]
 SHARE_URL_MP3_HOST = current_config["SHARE_URL_MP3_HOST"]
 UPDATE_SANGHA_INTERVAL = current_config["UPDATE_SANGHA_INTERVAL"]
@@ -209,7 +217,6 @@ except  e:
 configPrint("{")
 configPrint("\t\"config\": {")
 configPrint("\t\t\"URL_MP3_HOST\":\"" + MP3_HOST + "\",")
-configPrint("\t\t\"ALT_URL_MP3_HOST\":\"" + ALT_MP3_HOST + "\",")
 configPrint("\t\t\"SHARE_URL_MP3_HOST\":\"" + SHARE_URL_MP3_HOST + "\",")
 
 #
@@ -238,6 +245,7 @@ for talk in all_talks:
     if "NA" in url:
         continue
 
+    mp3_file_name = url.split("/")[-1]
     title = talk["title"]
     #title = capitalizeWords(title)
 
@@ -277,8 +285,12 @@ for talk in all_talks:
         AllSpanishTalks.append(talk)
         ln = "es"
 
+    if mp3_file_name in MP3ToTranscriptDict and not pdf:
+        pdf  = MP3ToTranscriptDict[mp3_file_name]
+        print("NEW TRANSCRIPT", pdf)
 
-    if len(pdf) > 0:
+
+    if pdf:
         AllTranscriptTalks.append(talk)
 
 
@@ -479,6 +491,7 @@ except:
     print("CONFIG CANDIDATE JSON ERROR: %s" % e)
     exit(0)
 
+#CJM DEV
 #exit(0)
 
 #
