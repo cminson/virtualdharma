@@ -6,6 +6,7 @@ import os
 PATH_RAW = "./data/raw/"
 PATH_TEXT = "./data/text/"
 PATH_HTML = "./data/html/"
+PATH_PDF = "./data/pdf/"
 PATH_TEMPLATE = "./data/template/template01.html"
 PATH_JSON_TOP200 = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP200.JSON"
 PATH_JSON_CONFIG = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/CONFIG00.JSON"
@@ -13,6 +14,7 @@ PATH_JSON_CONFIG = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config
 
 PREAMBLE_1 = "The following talk was given at the Insight Meditation Center"
 PREAMBLE_2 = "Please visit our website at audiodharma"
+PREAMBLE_3 = "audioderma.org"
 
 TalkAttributes = {}
 
@@ -52,10 +54,13 @@ for talk in talk_list_raw:
 
         if PREAMBLE_1 in line: continue
         if PREAMBLE_2 in line: continue
+        if PREAMBLE_3 in line: continue
         if "META" in line: 
             line = line.replace("META", "Meta")
         if "Fronstel" in line: 
             line = line.replace("Fronstel", "Fronsdal")
+        if "vinyet" in line: 
+            line = line.replace("vinyet", "vignette")
         line = line.strip()
         line += ". \n"
         f.write(line)
@@ -111,4 +116,12 @@ for talk in talk_list_text:
     f.write("\n\n</body></html>\n")
 
 
+print("CONVERTING TO PDF")
+talk_list_html = os.listdir(PATH_HTML)
+for talk in talk_list_html:
+    pdf_name = talk.replace('.mp3.html', '.pdf')
+    path_html = PATH_HTML + talk
+    path_pdf = PATH_PDF + pdf_name
+    print(path_html, path_pdf)
+    #pdfkit.from_file(path_html, path_pdf)
 
