@@ -289,7 +289,6 @@ for talk in all_talks:
         pdf  = MP3ToTranscriptDict[mp3_file_name]
         print("NEW TRANSCRIPT", pdf)
 
-
     if pdf:
         AllTranscriptTalks.append(talk)
 

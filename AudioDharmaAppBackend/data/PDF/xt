@@ -1,1 +1,0 @@
-scp -i /home/ubuntu/Keys/kakapo.pem *.pdf ubuntu@christopherminson.com:/home/ubuntu/projects/zen/data/pdf
