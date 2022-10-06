@@ -1,8 +1,88 @@
 {
 	"talks":[
 	{
-		"title":"Dharmette: Consciousness (2 of 5) Sensing Through the Whole Body",
+		"title":"Dharmette: Consciousness (4 of 5) Unentangled Seeing",
 		"series":"",
+		"url":"/17051/20221006-Gil_Fronsdal-IMC-dharmette_consciousness_4_of_5_unentangled_seeing.mp3",
+		"ln":"en",
+		"download_url":"/17051/20221006-Gil_Fronsdal-IMC-dharmette_consciousness_4_of_5_unentangled_seeing.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2022.10.06",
+		"duration":"14:38"
+	},
+	{
+		"title":"Guided Meditation: Hearing and Seeing Peacefully",
+		"series":"Guided Meditations",
+		"url":"/17050/20221006-Gil_Fronsdal-IMC-guided_meditation_hearing_and_seeing_peacefully.mp3",
+		"ln":"en",
+		"download_url":"/17050/20221006-Gil_Fronsdal-IMC-guided_meditation_hearing_and_seeing_peacefully.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2022.10.06",
+		"duration":"31:29"
+	},
+	{
+		"title":"Happy Hour: Loving Our Aching Body & Heart",
+		"series":"",
+		"url":"/17048/20221005-Nikki_Mirghafori-IMC-happy_hour_to_love_our_aching_body_heart.mp3",
+		"ln":"en",
+		"download_url":"/17048/20221005-Nikki_Mirghafori-IMC-happy_hour_to_love_our_aching_body_heart.mp3",
+		"speaker":"Nikki Mirghafori",
+		"date":"2022.10.05",
+		"duration":"50:09"
+	},
+	{
+		"title":"The Ecology of Pleasure",
+		"series":"",
+		"url":"/17046/20221005-Gil_Fronsdal-IMC-the_ecology_of_pleasure.mp3",
+		"ln":"en",
+		"download_url":"/17046/20221005-Gil_Fronsdal-IMC-the_ecology_of_pleasure.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2022.10.05",
+		"duration":"06:02"
+	},
+	{
+		"title":"Dharmette: Consciousness (3 of 5) Consious of Pleasure",
+		"series":"Consciousness",
+		"url":"/17044/20221005-Gil_Fronsdal-IMC-dharmette_consciousness_3_of_5_consious_of_pleasure.mp3",
+		"ln":"en",
+		"download_url":"/17044/20221005-Gil_Fronsdal-IMC-dharmette_consciousness_3_of_5_consious_of_pleasure.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2022.10.05",
+		"duration":"13:03"
+	},
+	{
+		"title":"Guided Meditation: Mindfulness of Pleasure",
+		"series":"Guided Meditations",
+		"url":"/17043/20221005-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_pleasure.mp3",
+		"ln":"en",
+		"download_url":"/17043/20221005-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_pleasure.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2022.10.05",
+		"duration":"30:47"
+	},
+	{
+		"title":"Contemplaciones sobre el tiempo y la temporalidad",
+		"series":"",
+		"url":"/17047/20221004-Andrea_Castillo-IMC-contemplaciones_sobre_el_tiempo_y_la_temporalidad.mp3",
+		"ln":"es",
+		"download_url":"/17047/20221004-Andrea_Castillo-IMC-contemplaciones_sobre_el_tiempo_y_la_temporalidad.mp3",
+		"speaker":"<multiple>",
+		"date":"2022.10.04",
+		"duration":"55:56"
+	},
+	{
+		"title":"Happy Hour: The Inner and Outer Critic",
+		"series":"Happy Hour: Working with the Inner Critic",
+		"url":"/17049/20221004-Diana_Clark-IMC-happy_hour_the_inner_and_outer_critic.mp3",
+		"ln":"en",
+		"download_url":"/17049/20221004-Diana_Clark-IMC-happy_hour_the_inner_and_outer_critic.mp3",
+		"speaker":"Diana Clark",
+		"date":"2022.10.04",
+		"duration":"47:12"
+	},
+	{
+		"title":"Dharmette: Consciousness (2 of 5) Sensing Through the Whole Body",
+		"series":"Consciousness",
 		"url":"/17035/20221004-Gil_Fronsdal-IMC-dharmette_consciousness_2_of_5_sensing_through_the_whole_body.mp3",
 		"ln":"en",
 		"download_url":"/17035/20221004-Gil_Fronsdal-IMC-dharmette_consciousness_2_of_5_sensing_through_the_whole_body.mp3",
@@ -19,76 +99,6 @@
 		"speaker":"Gil Fronsdal",
 		"date":"2022.10.04",
 		"duration":"30:51"
-	},
-	{
-		"title":"Supports for Equanimity",
-		"series":"",
-		"url":"/17033/20221003-Diana_Clark-IMC-supports_for_equanimity.mp3",
-		"ln":"en",
-		"download_url":"/17033/20221003-Diana_Clark-IMC-supports_for_equanimity.mp3",
-		"speaker":"Diana Clark",
-		"date":"2022.10.03",
-		"duration":"38:18"
-	},
-	{
-		"title":"Happy Hour: Compassionate Activism",
-		"series":"",
-		"url":"/17032/20221003-Nikki_Mirghafori-IMC-happy_hour_compassionate_activism.mp3",
-		"ln":"en",
-		"download_url":"/17032/20221003-Nikki_Mirghafori-IMC-happy_hour_compassionate_activism.mp3",
-		"speaker":"Nikki Mirghafori",
-		"date":"2022.10.03",
-		"duration":"57:32"
-	},
-	{
-		"title":"Consciousness (1 of 5) Knowing That Changes the Knower",
-		"series":"",
-		"url":"/17029/20221003-Gil_Fronsdal-IMC-consciousness_1_of_5_knowing_that_changes_the_knower.mp3",
-		"ln":"en",
-		"download_url":"/17029/20221003-Gil_Fronsdal-IMC-consciousness_1_of_5_knowing_that_changes_the_knower.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.10.03",
-		"duration":"13:46"
-	},
-	{
-		"title":"Guided Meditation: Calm Knowing",
-		"series":"Guided Meditations",
-		"url":"/17028/20221003-Gil_Fronsdal-IMC-guided_meditation_calm_knowing.mp3",
-		"ln":"en",
-		"download_url":"/17028/20221003-Gil_Fronsdal-IMC-guided_meditation_calm_knowing.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.10.03",
-		"duration":"31:06"
-	},
-	{
-		"title":"Taking Time for Time",
-		"series":"",
-		"url":"/17026/20221002-Gil_Fronsdal-IMC-taking_time_for_time.mp3",
-		"ln":"en",
-		"download_url":"/17026/20221002-Gil_Fronsdal-IMC-taking_time_for_time.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.10.02",
-		"duration":"36:01"
-	},
-	{
-		"title":"Mindfulness Meditation Daylong Retreat w/ Tanya Wiser and Kodo Conlin",
-		"series":"",
-		"url":"/17025/20221001-Tanya_Wiser-IMC-mindfulness_meditation_daylong_retreat_w_tanya_wiser_and_kodo_conlin.mp3",
-		"ln":"en",
-		"download_url":"/17025/20221001-Tanya_Wiser-IMC-mindfulness_meditation_daylong_retreat_w_tanya_wiser_and_kodo_conlin.mp3",
-		"speaker":"<multiple>",
-		"date":"2022.10.01",
-		"duration":"2:02:12"
-	},
-	{
-		"title":"Happy Hour: Being Equanimity",
-		"series":"",
-		"url":"/17021/20220930-Nikki_Mirghafori-IMC-happy_hour_being_equanimity.mp3",
-		"ln":"en",
-		"download_url":"/17021/20220930-Nikki_Mirghafori-IMC-happy_hour_being_equanimity.mp3",
-		"speaker":"Nikki Mirghafori",
-		"date":"2022.09.30",
-		"duration":"49:40"
 	}
 	]
 }

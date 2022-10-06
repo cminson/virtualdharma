@@ -132,6 +132,9 @@ $result = $mysqli->query($query);
 // current insert record
 $query= "INSERT INTO actions(ip, deviceID, operation, devicetype, filename, date, seconds, city, country) VALUES('$ip', '$deviceID', '$operation', '$devicetype', '$filename', '$date', '$seconds', '$city', '$country')";
 //mylog("INSERTING RECORD $query");
+//
+
+// 
 $result = $mysqli->query($query);
 
 

@@ -2,6 +2,7 @@
 import json
 import string
 import os
+import pdfkit
 
 PATH_RAW = "./data/raw/"
 PATH_TEXT = "./data/text/"
@@ -122,6 +123,6 @@ for talk in talk_list_html:
     pdf_name = talk.replace('.mp3.html', '.pdf')
     path_html = PATH_HTML + talk
     path_pdf = PATH_PDF + pdf_name
-    print(path_html, path_pdf)
-    #pdfkit.from_file(path_html, path_pdf)
+    print(path_pdf)
+    pdfkit.from_file(path_html, path_pdf)
 
