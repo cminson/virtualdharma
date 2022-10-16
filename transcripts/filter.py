@@ -3,12 +3,13 @@ import json
 import string
 import os
 import pdfkit
+import datetime
 
 PATH_RAW = "./data/raw/"
 PATH_TEXT = "./data/text/"
 PATH_HTML = "./data/html/"
 PATH_PDF = "./data/pdf/"
-PATH_TEMPLATE = "./data/template/template01.html"
+PATH_TEMPLATE = "./data/template/template02.html"
 PATH_JSON_TOP200 = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP200.JSON"
 PATH_JSON_CONFIG = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/CONFIG00.JSON"
 
@@ -29,6 +30,21 @@ for talk in all_talks['talks']:
     title = talk['title']
     speaker = talk['speaker']
     date = talk['date']
+    (year, month, day) = date.split('.')
+
+    month = month.lstrip("0")
+    day = day.lstrip("0")
+
+    year = int(year)
+    month = int(month)
+    day = int(day)
+    print(year, month, day)
+    if day > 32: continue
+
+    d = datetime.datetime(year, month, day)
+    
+    date = d.strftime("%b %d, %Y")
+
     duration = talk['duration']
     #print(url, speaker, date, duration)
     TalkAttributes[file_name] = (title, speaker, date, duration) 
@@ -37,6 +53,9 @@ for talk in all_talks['talks']:
 f = open(PATH_TEMPLATE)
 TEXT_TEMPLATE = f.read()
 f.close()
+
+
+#exit()
 
 print("TRANSLATING TO TEXT")
 talk_list_raw = os.listdir(PATH_RAW)
@@ -71,6 +90,8 @@ for talk in talk_list_raw:
 print("TRANSLATING TO HTML")
 talk_list_text = os.listdir(PATH_TEXT)
 for talk in talk_list_text:
+
+    if "style" in talk: continue
 
     path_text = PATH_TEXT + talk
     print("reading: ", path_text)
@@ -120,6 +141,8 @@ for talk in talk_list_text:
 print("CONVERTING TO PDF")
 talk_list_html = os.listdir(PATH_HTML)
 for talk in talk_list_html:
+    if "style" in talk: continue
+
     pdf_name = talk.replace('.mp3.html', '.pdf')
     path_html = PATH_HTML + talk
     path_pdf = PATH_PDF + pdf_name

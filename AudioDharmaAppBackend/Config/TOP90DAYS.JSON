@@ -1,124 +1,124 @@
 {
 "talks": [
 {
-	"title" : "1. Just Dont Do It",
-	"url" : "/16808/20220814-Gil_Fronsdal-IMC-just_don_t_do_it.mp3",
-	"series" : "",
-	"score" : 695
-},
-{
-	"title" : "2. Right Relationship",
+	"title" : "1. Right Relationship",
 	"url" : "/16931/20220911-Gil_Fronsdal-IMC-right_relationship.mp3",
 	"series" : "",
-	"score" : 691
+	"score" : 729
+},
+{
+	"title" : "2. Just Dont Do It",
+	"url" : "/16808/20220814-Gil_Fronsdal-IMC-just_don_t_do_it.mp3",
+	"series" : "",
+	"score" : 703
 },
 {
 	"title" : "3. Dharmette: Dharma as Existential Therapy",
 	"url" : "/16825/20220819-Matthew_Brensilver-IMC-dharmette_dharma_as_existential_therapy.mp3",
 	"series" : "",
-	"score" : 577.5
+	"score" : 592.5
 },
 {
 	"title" : "4. Dharma as Cognitive Therapy",
 	"url" : "/16818/20220817-Matthew_Brensilver-IMC-dharma_as_cognitive_therapy.mp3",
 	"series" : "",
-	"score" : 564.0
+	"score" : 581.5
 },
 {
 	"title" : "5. Guided Meditation: Still and Quiet Awareness",
 	"url" : "/16801/20220812-Gil_Fronsdal-IMC-guided_meditation_still_quiet_awareness.mp3",
 	"series" : "",
-	"score" : 540
+	"score" : 544
 },
 {
 	"title" : "6. Guided Meditation: Freedom Now",
 	"url" : "/16927/20220909-Gil_Fronsdal-IMC-guided_meditation_freedom_now.mp3",
 	"series" : "",
-	"score" : 525
+	"score" : 540
 },
 {
-	"title" : "7. Guided Meditation: Taking Nothing Personally",
-	"url" : "/16663/20220721-Gil_Fronsdal-IMC-guided_meditation_taking_nothing_personally.mp3",
-	"series" : "",
-	"score" : 489
-},
-{
-	"title" : "8. Dharmette: Keeping it Simple",
+	"title" : "7. Dharmette: Keeping it Simple",
 	"url" : "/16819/20220817-Gil_Fronsdal-IMC-dharmette_keeping_it_simple.mp3",
 	"series" : "",
-	"score" : 479
+	"score" : 481
 },
 {
-	"title" : "9. Dharmette: (1 of 5) Stories and Fear",
-	"url" : "/16648/20220718-Gil_Fronsdal-IMC-dharmette_1_of_5_stories_and_fear.mp3",
-	"series" : "",
-	"score" : 478
-},
-{
-	"title" : "10. Guided Meditation: Listening to our Depths",
+	"title" : "8. Guided Meditation: Listening to our Depths",
 	"url" : "/16798/20220811-Gil_Fronsdal-IMC-guided_meditation_listening_to_our_depths.mp3",
 	"series" : "",
-	"score" : 467
+	"score" : 472
 },
 {
-	"title" : "11. Dharmette: Thoughts and Emotions (1 of 5) Rumination",
+	"title" : "9. Dharmette: Thoughts and Emotions (1 of 5) Rumination",
 	"url" : "/16783/20220808-Gil_Fronsdal-IMC-dharmette_thoughts_and_emotions_1_of_5_rumination.mp3",
 	"series" : "",
-	"score" : 455
+	"score" : 463
 },
 {
-	"title" : "12. Guided Meditation: Getting Somewhere by Going Nowhere",
+	"title" : "10. Guided Meditation: Getting Somewhere by Going Nowhere",
 	"url" : "/16821/20220818-Matthew_Brensilver-IMC-guided_meditation_getting_somewhere_by_going_nowhere.mp3",
 	"series" : "",
-	"score" : 440.0
+	"score" : 450.0
 },
 {
-	"title" : "13. Dharmette: The Dharma (1 of 5) Visible Here and Now",
+	"title" : "11. Dharmette: The Dharma (1 of 5) Visible Here and Now",
 	"url" : "/16872/20220829-Gil_Fronsdal-IMC-dharmette_the_dharma_1_of_5_visible_here_and_now.mp3",
 	"series" : "",
-	"score" : 440
+	"score" : 448
 },
 {
-	"title" : "14. Dharmette: Dharma as Exposure Therapy for Samsara",
-	"url" : "/16822/20220818-Matthew_Brensilver-IMC-dharmette_dharma_as_exposure_therapy_for_samsara.mp3",
-	"series" : "",
-	"score" : 423.5
-},
-{
-	"title" : "15. Guided Meditation: Open Awareness and Letting Go",
+	"title" : "12. Guided Meditation: Open Awareness and Letting Go",
 	"url" : "/16865/20220826-Kim_Allen-IMC-guided_meditation_open_awareness_and_letting_go.mp3",
 	"series" : "",
-	"score" : 420.0
+	"score" : 432.5
 },
 {
-	"title" : "16. Dharmette: Dharma as an Attention Therapy",
-	"url" : "/16812/20220816-Matthew_Brensilver-IMC-dharma_as_an_attention_therapy.mp3",
+	"title" : "13. Dharmette: Dharma as Exposure Therapy for Samsara",
+	"url" : "/16822/20220818-Matthew_Brensilver-IMC-dharmette_dharma_as_exposure_therapy_for_samsara.mp3",
 	"series" : "",
-	"score" : 411.0
+	"score" : 428.5
 },
 {
-	"title" : "17. Guided Meditation: Thoughts that Quiet Thinking",
-	"url" : "/16782/20220808-Gil_Fronsdal-IMC-guided_meditation_thoughts_that_quiet_thinking.mp3",
-	"series" : "",
-	"score" : 407
-},
-{
-	"title" : "18. Dharmette: Trusting Life",
+	"title" : "14. Dharmette: Trusting Life",
 	"url" : "/16895/20220831-Gil_Fronsdal-IMC-dharmette_trusting_life.mp3",
 	"series" : "",
-	"score" : 401
+	"score" : 421
 },
 {
-	"title" : "19. Dharmette: The Dharma, pt 2 (1 of 5) In This Very Life",
+	"title" : "15. Dharmette: Dharma as an Attention Therapy",
+	"url" : "/16812/20220816-Matthew_Brensilver-IMC-dharma_as_an_attention_therapy.mp3",
+	"series" : "",
+	"score" : 416.0
+},
+{
+	"title" : "16. Guided Meditation: Thoughts that Quiet Thinking",
+	"url" : "/16782/20220808-Gil_Fronsdal-IMC-guided_meditation_thoughts_that_quiet_thinking.mp3",
+	"series" : "",
+	"score" : 414
+},
+{
+	"title" : "17. Dharmette: The Dharma, pt 2 (1 of 5) In This Very Life",
 	"url" : "/16911/20220905-Gil_Fronsdal-IMC-dharmette_the_dharma_pt_2_1_of_5_in_this_very_life.mp3",
 	"series" : "",
-	"score" : 401
+	"score" : 414
 },
 {
-	"title" : "20. Dharmette: Desire and Letting Go (1 of 5): The Diversity of Desire",
+	"title" : "18. Dharmette: Desire and Letting Go (1 of 5): The Diversity of Desire",
 	"url" : "/16845/20220822-Kim_Allen-IMC-dharmette_desire_and_letting_go_1_of_5_the_diversity_of_desire.mp3",
 	"series" : "",
-	"score" : 400.0
+	"score" : 407.5
+},
+{
+	"title" : "19. Living From a Healthy Source",
+	"url" : "/16907/20220904-Gil_Fronsdal-IMC-living_from_a_healthy_source.mp3",
+	"series" : "",
+	"score" : 405
+},
+{
+	"title" : "20. Guided Meditation: Seeing Peacefully",
+	"url" : "/16890/20220831-Gil_Fronsdal-IMC-guided_meditation_seeing_peacefully.mp3",
+	"series" : "",
+	"score" : 396
 }
 ]
 }

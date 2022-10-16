@@ -1,104 +1,94 @@
 {
 	"talks":[
 	{
-		"title":"Dharmette: Consciousness (4 of 5) Unentangled Seeing",
+		"title":"Space without Self-Definition",
 		"series":"",
-		"url":"/17051/20221006-Gil_Fronsdal-IMC-dharmette_consciousness_4_of_5_unentangled_seeing.mp3",
+		"url":"/17092/20221016-Gil_Fronsdal-IMC-space_without_self-definition.mp3",
 		"ln":"en",
-		"download_url":"/17051/20221006-Gil_Fronsdal-IMC-dharmette_consciousness_4_of_5_unentangled_seeing.mp3",
+		"download_url":"/17092/20221016-Gil_Fronsdal-IMC-space_without_self-definition.mp3",
 		"speaker":"Gil Fronsdal",
-		"date":"2022.10.06",
-		"duration":"14:38"
+		"date":"2022.10.16",
+		"duration":"37:46"
 	},
 	{
-		"title":"Guided Meditation: Hearing and Seeing Peacefully",
-		"series":"Guided Meditations",
-		"url":"/17050/20221006-Gil_Fronsdal-IMC-guided_meditation_hearing_and_seeing_peacefully.mp3",
-		"ln":"en",
-		"download_url":"/17050/20221006-Gil_Fronsdal-IMC-guided_meditation_hearing_and_seeing_peacefully.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.10.06",
-		"duration":"31:29"
-	},
-	{
-		"title":"Happy Hour: Loving Our Aching Body & Heart",
+		"title":"Happy Hour: Metta & the Half Smile of the Buddha",
 		"series":"",
-		"url":"/17048/20221005-Nikki_Mirghafori-IMC-happy_hour_to_love_our_aching_body_heart.mp3",
+		"url":"/17084/20221014-Nikki_Mirghafori-IMC-happy_hour_metta_the_half_smile_of_the_buddha.mp3",
 		"ln":"en",
-		"download_url":"/17048/20221005-Nikki_Mirghafori-IMC-happy_hour_to_love_our_aching_body_heart.mp3",
+		"download_url":"/17084/20221014-Nikki_Mirghafori-IMC-happy_hour_metta_the_half_smile_of_the_buddha.mp3",
 		"speaker":"Nikki Mirghafori",
-		"date":"2022.10.05",
-		"duration":"50:09"
+		"date":"2022.10.14",
+		"duration":"44:55"
 	},
 	{
-		"title":"The Ecology of Pleasure",
-		"series":"",
-		"url":"/17046/20221005-Gil_Fronsdal-IMC-the_ecology_of_pleasure.mp3",
-		"ln":"en",
-		"download_url":"/17046/20221005-Gil_Fronsdal-IMC-the_ecology_of_pleasure.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.10.05",
-		"duration":"06:02"
-	},
-	{
-		"title":"Dharmette: Consciousness (3 of 5) Consious of Pleasure",
+		"title":"Dharmette: Conditioned Consciousness (5 of 5) Aware Without Clinging",
 		"series":"Consciousness",
-		"url":"/17044/20221005-Gil_Fronsdal-IMC-dharmette_consciousness_3_of_5_consious_of_pleasure.mp3",
+		"url":"/17083/20221014-Gil_Fronsdal-IMC-dharmette_conditioned_consciousness_5_of_5_aware_without_clinging.mp3",
 		"ln":"en",
-		"download_url":"/17044/20221005-Gil_Fronsdal-IMC-dharmette_consciousness_3_of_5_consious_of_pleasure.mp3",
+		"download_url":"/17083/20221014-Gil_Fronsdal-IMC-dharmette_conditioned_consciousness_5_of_5_aware_without_clinging.mp3",
 		"speaker":"Gil Fronsdal",
-		"date":"2022.10.05",
-		"duration":"13:03"
+		"date":"2022.10.14",
+		"duration":"11:07"
 	},
 	{
-		"title":"Guided Meditation: Mindfulness of Pleasure",
+		"title":"Guided Meditation: Clinging/Freedom",
 		"series":"Guided Meditations",
-		"url":"/17043/20221005-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_pleasure.mp3",
+		"url":"/17082/20221014-Gil_Fronsdal-IMC-guided_meditation_clinging_freedom.mp3",
 		"ln":"en",
-		"download_url":"/17043/20221005-Gil_Fronsdal-IMC-guided_meditation_mindfulness_of_pleasure.mp3",
+		"download_url":"/17082/20221014-Gil_Fronsdal-IMC-guided_meditation_clinging_freedom.mp3",
 		"speaker":"Gil Fronsdal",
-		"date":"2022.10.05",
-		"duration":"30:47"
+		"date":"2022.10.14",
+		"duration":"30:15"
 	},
 	{
-		"title":"Contemplaciones sobre el tiempo y la temporalidad",
-		"series":"",
-		"url":"/17047/20221004-Andrea_Castillo-IMC-contemplaciones_sobre_el_tiempo_y_la_temporalidad.mp3",
-		"ln":"es",
-		"download_url":"/17047/20221004-Andrea_Castillo-IMC-contemplaciones_sobre_el_tiempo_y_la_temporalidad.mp3",
-		"speaker":"<multiple>",
-		"date":"2022.10.04",
-		"duration":"55:56"
-	},
-	{
-		"title":"Happy Hour: The Inner and Outer Critic",
-		"series":"Happy Hour: Working with the Inner Critic",
-		"url":"/17049/20221004-Diana_Clark-IMC-happy_hour_the_inner_and_outer_critic.mp3",
+		"title":"Lets Talk About Practice: Effort",
+		"series":"Lets Talk About Practice",
+		"url":"/17079/20221013-Tanya_Wiser-IMC-let_s_talk_about_practice_effort.mp3",
 		"ln":"en",
-		"download_url":"/17049/20221004-Diana_Clark-IMC-happy_hour_the_inner_and_outer_critic.mp3",
-		"speaker":"Diana Clark",
-		"date":"2022.10.04",
-		"duration":"47:12"
+		"download_url":"/17079/20221013-Tanya_Wiser-IMC-let_s_talk_about_practice_effort.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2022.10.13",
+		"duration":"20:54"
 	},
 	{
-		"title":"Dharmette: Consciousness (2 of 5) Sensing Through the Whole Body",
+		"title":"Lets Talk About Practice: Effort",
+		"series":"Lets Talk About Practice",
+		"url":"/17078/20221013-Tanya_Wiser-IMC-let_s_talk_about_practice_effort.mp3",
+		"ln":"en",
+		"download_url":"/17078/20221013-Tanya_Wiser-IMC-let_s_talk_about_practice_effort.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2022.10.13",
+		"duration":"57:23"
+	},
+	{
+		"title":"Dharmette: Conditioned Consciousness (4 of 5) Loving, Not Complaining",
 		"series":"Consciousness",
-		"url":"/17035/20221004-Gil_Fronsdal-IMC-dharmette_consciousness_2_of_5_sensing_through_the_whole_body.mp3",
+		"url":"/17076/20221013-Gil_Fronsdal-IMC-dharmette_conditioned_consciousness_4_of_5_loving_not_complaining.mp3",
 		"ln":"en",
-		"download_url":"/17035/20221004-Gil_Fronsdal-IMC-dharmette_consciousness_2_of_5_sensing_through_the_whole_body.mp3",
+		"download_url":"/17076/20221013-Gil_Fronsdal-IMC-dharmette_conditioned_consciousness_4_of_5_loving_not_complaining.mp3",
 		"speaker":"Gil Fronsdal",
-		"date":"2022.10.04",
-		"duration":"14:38"
+		"date":"2022.10.13",
+		"duration":"12:28"
 	},
 	{
-		"title":"Guided Meditation: Feeling the Whole Body",
+		"title":"Guided Meditation: Blaming/Loving",
 		"series":"Guided Meditations",
-		"url":"/17034/20221004-Gil_Fronsdal-IMC-guided_meditation_feeling_the_whole_body.mp3",
+		"url":"/17075/20221013-Gil_Fronsdal-IMC-guided_meditation_blaming_loving.mp3",
 		"ln":"en",
-		"download_url":"/17034/20221004-Gil_Fronsdal-IMC-guided_meditation_feeling_the_whole_body.mp3",
+		"download_url":"/17075/20221013-Gil_Fronsdal-IMC-guided_meditation_blaming_loving.mp3",
 		"speaker":"Gil Fronsdal",
-		"date":"2022.10.04",
-		"duration":"30:51"
+		"date":"2022.10.13",
+		"duration":"31:31"
+	},
+	{
+		"title":"Happy Hour: Learning to Rest",
+		"series":"",
+		"url":"/17074/20221012-Nikki_Mirghafori-IMC-happy_hour_learning_to_rest.mp3",
+		"ln":"en",
+		"download_url":"/17074/20221012-Nikki_Mirghafori-IMC-happy_hour_learning_to_rest.mp3",
+		"speaker":"Nikki Mirghafori",
+		"date":"2022.10.12",
+		"duration":"58:00"
 	}
 	]
 }
