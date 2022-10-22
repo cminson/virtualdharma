@@ -1,6 +1,16 @@
 {
 	"talks":[
 	{
+		"title":"Meeting Difficulty with Compassion",
+		"series":"",
+		"url":"/17138/20221021-Liz_Powell-IMC-meeting_difficulty_with_compassion.mp3",
+		"ln":"en",
+		"download_url":"/17138/20221021-Liz_Powell-IMC-meeting_difficulty_with_compassion.mp3",
+		"speaker":"Liz Powell",
+		"date":"2022.10.21",
+		"duration":"46:47"
+	},
+	{
 		"title":"Dharmette: Meaning (5 of 5) Sacred",
 		"series":"Meaning",
 		"url":"/17131/20221021-Gil_Fronsdal-IMC-dharmette_meaning_5_of_5_sacred.mp3",
@@ -41,6 +51,16 @@
 		"duration":"46:01"
 	},
 	{
+		"title":"Senior Sangha Meeting for October 2022 - Contemplation of death",
+		"series":"Senior Sangha Meetings",
+		"url":"/17137/20221020-David_Cohn-IMC_Prog-senior_sangha_meeting_for_october_2022.mp3",
+		"ln":"en",
+		"download_url":"/17137/20221020-David_Cohn-IMC_Prog-senior_sangha_meeting_for_october_2022.mp3",
+		"speaker":"<multiple>",
+		"date":"2022.10.20",
+		"duration":"1:12:02"
+	},
+	{
 		"title":"Dharmette: Meaning (4 of 5) Values We Live By",
 		"series":"Meaning",
 		"url":"/17127/20221020-Gil_Fronsdal-IMC-dharmette_meaning_4_of_5_values_we_live_by.mp3",
@@ -79,26 +99,6 @@
 		"speaker":"Gil Fronsdal",
 		"date":"2022.10.19",
 		"duration":"13:12"
-	},
-	{
-		"title":"Dharma Desire",
-		"series":"",
-		"url":"/17123/20221019-Gil_Fronsdal-IMC-dharma_desire.mp3",
-		"ln":"en",
-		"download_url":"/17123/20221019-Gil_Fronsdal-IMC-dharma_desire.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.10.19",
-		"duration":"06:44"
-	},
-	{
-		"title":"Dharmette: Meaning (3 of 5) The Big Questions",
-		"series":"Meaning",
-		"url":"/17122/20221019-Gil_Fronsdal-IMC-dharmette_meaning_3_of_5_the_big_questions.mp3",
-		"ln":"en",
-		"download_url":"/17122/20221019-Gil_Fronsdal-IMC-dharmette_meaning_3_of_5_the_big_questions.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.10.19",
-		"duration":"13:09"
 	}
 	]
 }
