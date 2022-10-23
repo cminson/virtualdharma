@@ -10,12 +10,21 @@
 #   CONFIG00.JSON //json list of all talks with attributes (from the app, or something similar)
 #   ERROR_CORRECTIONS //list of known error words and their corrections
 #   ./data    // directory where all data is kept
-#       raw     // the raw output from Whisper       
-#       text    // fixed paragraphed text from raw
-#       html    // formatted HTML output
-#       pdf     // pdf output
+#       raw     // the raw output .txt files from Whisper       
+#       text    // error-corrected text from raw
+#       html    // formatted HTML output from text
+#       pdf     // pdf output from html
 #       template    // the HTML template
+#       css         // style sheets for HTML
 #
+# INSTRUCTIONS:
+#
+#   Put the raw text output files from whisper into ./data/raw.
+#   Execute ./filter.py
+#
+#   Cleaned text output will be in ./data/text 
+#   HTML output will be in ./data/html
+#   PDF output will be in ./data/pdf 
 #
 
 import os
@@ -103,20 +112,20 @@ for talk in all_talks['talks']:
 # Strip known errors and unnecessary preambles from Whisper output
 # Store cleaned text files into PATH_TEXT
 #
+# Previous versions of whisper returned transcribed text in one blob, and the last
+# version returns it line by line.  The code below assumes the later.
+#
 print("TRANSLATING TO TEXT")
 talk_list_raw = os.listdir(PATH_RAW)
 for talk in talk_list_raw:
     path_raw = PATH_RAW + talk
     f =  open(path_raw)
-    content = f.read()
+    lines = f.readlines()
     f.close()
 
     path_text = PATH_TEXT + talk
     f = open(path_text, 'w+')
 
-    # Whisper returns one big blob of text.  So split on period mark to get the lines
-    # If this is no longer the case (Whisper can be configured to generate line<cr>, then rewrite this
-    lines = content.split(". ")
     print("writing: ", path_text)
     for line in lines:
 
@@ -136,7 +145,7 @@ for talk in talk_list_raw:
 
         #print(line)
         line = line.strip()
-        line += ". \n"
+        line += "\n"
         f.write(line)
     f.close()
 

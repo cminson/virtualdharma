@@ -1,6 +1,16 @@
 {
 	"talks":[
 	{
+		"title":"The Four Roads to Spiritual Power",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/17139/20221023-Gil_Fronsdal-IMC-the_four_roads_to_spiritual_powergi.mp3",
+		"ln":"en",
+		"download_url":"/17139/20221023-Gil_Fronsdal-IMC-the_four_roads_to_spiritual_powergi.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2022.10.23",
+		"duration":"37:54"
+	},
+	{
 		"title":"Meeting Difficulty with Compassion",
 		"series":"",
 		"url":"/17138/20221021-Liz_Powell-IMC-meeting_difficulty_with_compassion.mp3",
@@ -89,16 +99,6 @@
 		"speaker":"Nikki Mirghafori",
 		"date":"2022.10.19",
 		"duration":"50:02"
-	},
-	{
-		"title":"The Four Bases For Success",
-		"series":"",
-		"url":"/17124/20221019-Gil_Fronsdal-IMC-the_four_bases_for_success.mp3",
-		"ln":"en",
-		"download_url":"/17124/20221019-Gil_Fronsdal-IMC-the_four_bases_for_success.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.10.19",
-		"duration":"13:12"
 	}
 	]
 }
