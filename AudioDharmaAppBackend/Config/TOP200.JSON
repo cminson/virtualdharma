@@ -4,13 +4,13 @@
 	"title" : "1. Introduction to Meditation - Part 1: Overview",
 	"url" : "/7170/20161012-Gil_Fronsdal-IMC-introduction_to_meditation_part_1_overview.mp3",
 	"series" : "",
-	"score" : 5919
+	"score" : 5923
 },
 {
 	"title" : "2. Four Noble Truths",
 	"url" : "/627/2005-01-10_GilFronsdal_FourNobleTruths.mp3",
 	"series" : "",
-	"score" : 3570
+	"score" : 3572
 },
 {
 	"title" : "3. Life and Death",
@@ -22,7 +22,7 @@
 	"title" : "4. Secret of a Good Life",
 	"url" : "/9303/20181001-Gil_Fronsdal-IMC-secret_of_a_good_life.mp3",
 	"series" : "",
-	"score" : 2412
+	"score" : 2413
 },
 {
 	"title" : "5. The Five Hindrances: Introduction",
@@ -34,13 +34,13 @@
 	"title" : "6. Thinking That Quiets Thinking",
 	"url" : "/10668/20191110-Gil_Fronsdal-IMC-thinking_that_quiets_thinking.mp3",
 	"series" : "",
-	"score" : 2357
+	"score" : 2358
 },
 {
 	"title" : "7. Introduction to Meditation - Part 2: Mindfulness of the Body",
 	"url" : "/7193/20161019-Gil_Fronsdal-IMC-introduction_to_meditation_part_2_mindfulness_of_the_body.mp3",
 	"series" : "",
-	"score" : 2348
+	"score" : 2349
 },
 {
 	"title" : "8. Letting Go",
@@ -52,7 +52,7 @@
 	"title" : "9. Liberation and Freedom",
 	"url" : "/10233/20190707-Gil_Fronsdal-IMC-letting_go.mp3",
 	"series" : "",
-	"score" : 2045
+	"score" : 2046
 },
 {
 	"title" : "10. The Five Hindrances: Restlessness and Worry",
@@ -64,7 +64,7 @@
 	"title" : "11. Seven Factors of Enlightenment: Concentration (part 1)",
 	"url" : "/2051/20100423-Gil_Fronsdal-IMC-seven_factors_of_enlightenment_concentration_part_1.mp3",
 	"series" : "",
-	"score" : 1838
+	"score" : 1840
 },
 {
 	"title" : "12. Alternatives to Thinking",
@@ -88,7 +88,7 @@
 	"title" : "15. The Present Moment is Not the Goal",
 	"url" : "/10505/20190929-Ajaan_Thanissaro-IMC-the_present_moment_is_not_the_goal.mp3",
 	"series" : "",
-	"score" : 1807
+	"score" : 1808
 },
 {
 	"title" : "16. The Peace of Letting Go",
@@ -148,29 +148,29 @@
 	"title" : "25. Doing What's Beautiful",
 	"url" : "/10681/20191111-Gil_Fronsdal-IMC-doing_whats_beautiful.mp3",
 	"series" : "",
-	"score" : 1517
+	"score" : 1518
 },
 {
 	"title" : "26. Wisdom Over Justice",
 	"url" : "/8225/20170918-Ajaan_Thanissaro-IMC-wisdom_over_justice.mp3",
 	"series" : "",
-	"score" : 1493
+	"score" : 1494
 },
 {
-	"title" : "27. Karma and Intention",
+	"title" : "27. Anger",
+	"url" : "/9731/20190217-Gil_Fronsdal-IMC-anger.mp3",
+	"series" : "",
+	"score" : 1480
+},
+{
+	"title" : "28. Karma and Intention",
 	"url" : "/867/2006-04-03_GilFronsdal_KarmaAndIntention.mp3",
 	"series" : "",
 	"score" : 1479
 },
 {
-	"title" : "28. Wise Effort",
+	"title" : "29. Wise Effort",
 	"url" : "/1575/20090823-Blanche_Hartman-IMC-wise_effort.mp3",
-	"series" : "",
-	"score" : 1479
-},
-{
-	"title" : "29. Anger",
-	"url" : "/9731/20190217-Gil_Fronsdal-IMC-anger.mp3",
 	"series" : "",
 	"score" : 1479
 },
@@ -208,7 +208,7 @@
 	"title" : "35. Fabrication (sankhara) - Part 1: Lecture",
 	"url" : "/12056/20200905-Ajaan_Thanissaro-sati-fabrication_sankhara_part_1_lecture.mp3",
 	"series" : "",
-	"score" : 1396
+	"score" : 1397
 },
 {
 	"title" : "36. Emptiness Revisited",
@@ -262,7 +262,7 @@
 	"title" : "44. Satipatthana (1) Introduction",
 	"url" : "/14805/20220103-Gil_Fronsdal-IMC-satipatthana_1_introduction.mp3",
 	"series" : "",
-	"score" : 1320
+	"score" : 1321
 },
 {
 	"title" : "45. Anxiety, Worry and Fear",
@@ -304,13 +304,13 @@
 	"title" : "51. Brief Instructions for Sitting Meditation",
 	"url" : "/3279/20010101-No_Teacher-IMC-brief_instructions_for_sitting_meditation.mp3",
 	"series" : "",
-	"score" : 1207
+	"score" : 1209
 },
 {
 	"title" : "52. Dharmette: Satipatthana (3) The Journey of Mindfulness",
 	"url" : "/14817/20220105-Gil_Fronsdal-IMC-dharmette_satipatthana_3_the_journey_of_mindfulness.mp3",
 	"series" : "",
-	"score" : 1203
+	"score" : 1204
 },
 {
 	"title" : "53. Liberating the Mind",
@@ -358,7 +358,7 @@
 	"title" : "60. Three Pillars of Practice",
 	"url" : "/1504/20090420-Bhikkhu_Bodhi-IMC-three_pillars_of_practice.mp3",
 	"series" : "",
-	"score" : 1174
+	"score" : 1175
 },
 {
 	"title" : "61. Delusion",
@@ -442,7 +442,7 @@
 	"title" : "74. The Eightfold Path: Finding an Ancient Path",
 	"url" : "/942/2006-09-03_GilFronsdal_TheEightfoldPathFindingAnAncientPath.mp3",
 	"series" : "",
-	"score" : 1135
+	"score" : 1136
 },
 {
 	"title" : "75. Mindfulness of Oneself (1 of 5) Finding the Treasure of Oneself",
@@ -463,16 +463,16 @@
 	"score" : 1124
 },
 {
-	"title" : "78. Mindfulness, Conflict Resolution, and Neuroscience (part 1)",
-	"url" : "/2815/20120105-Daniel_Bowling-IMC-mindfulness_conflict_resolution_and_neuroscience_part_1.mp3",
+	"title" : "78. Paramis: Truth",
+	"url" : "/700/2005-05-23_GilFronsdal_ParamisTruth.mp3",
 	"series" : "",
 	"score" : 1118
 },
 {
-	"title" : "79. Paramis: Truth",
-	"url" : "/700/2005-05-23_GilFronsdal_ParamisTruth.mp3",
+	"title" : "79. Mindfulness, Conflict Resolution, and Neuroscience (part 1)",
+	"url" : "/2815/20120105-Daniel_Bowling-IMC-mindfulness_conflict_resolution_and_neuroscience_part_1.mp3",
 	"series" : "",
-	"score" : 1116
+	"score" : 1118
 },
 {
 	"title" : "80. Working With Anger: Part 1",
@@ -706,7 +706,7 @@
 	"title" : "118. Imperturbability",
 	"url" : "/15002/20220130-Max_Erdstein-IMC-imperturbability.mp3",
 	"series" : "",
-	"score" : 1039
+	"score" : 1040
 },
 {
 	"title" : "119. Seven Factors of Conscientious Action",
@@ -724,7 +724,7 @@
 	"title" : "121. Metta as a Path to Awakening (part 1)",
 	"url" : "/2600/20110905-John_Peacock-IMC-metta_as_a_path_to_awakening_part_1.mp3",
 	"series" : "",
-	"score" : 1034
+	"score" : 1035
 },
 {
 	"title" : "122. Living the Practice Into Daily Life",
@@ -796,7 +796,7 @@
 	"title" : "133. Dharmette: Satipatthana (2) Knowing in a New Way",
 	"url" : "/14810/20220104-Gil_Fronsdal-IMC-dharmette_satipatthana_2_knowing_in_a_new_way.mp3",
 	"series" : "",
-	"score" : 1016
+	"score" : 1017
 },
 {
 	"title" : "134. Different Forms of Attention, Part 1",
@@ -838,25 +838,25 @@
 	"title" : "140. Skill in Questions - Part 1",
 	"url" : "/10501/20190928-Ajaan_Thanissaro-sati-skill_in_questions_part_1.mp3",
 	"series" : "",
+	"score" : 1005
+},
+{
+	"title" : "141. Loving the Self to Death",
+	"url" : "/10281/20190714-Matthew_Brensilver-IMC-loving_the_self_to_death.mp3",
+	"series" : "",
 	"score" : 1004
 },
 {
-	"title" : "141. Eightfold Path: Introductory Session (guided Oori, Talk Tanya, Talk Chris)",
+	"title" : "142. Eightfold Path: Introductory Session (guided Oori, Talk Tanya, Talk Chris)",
 	"url" : "/12061/20200906-Tanya_Wiser-IMC-eightfold_path_introductory_session_guided_oori_talk_tanya_talk_chris.mp3",
 	"series" : "",
 	"score" : 1004
 },
 {
-	"title" : "142. Navigating Conflict",
+	"title" : "143. Navigating Conflict",
 	"url" : "/12325/20201027-Andrea_Fella-IMC-navigating_conflict.mp3",
 	"series" : "",
 	"score" : 1004
-},
-{
-	"title" : "143. Loving the Self to Death",
-	"url" : "/10281/20190714-Matthew_Brensilver-IMC-loving_the_self_to_death.mp3",
-	"series" : "",
-	"score" : 1003
 },
 {
 	"title" : "144. Q and A: Is There a Soul? Who is the Knower? Can I Open my Eyes? Do I Have to Focus on the Breath?",
@@ -988,7 +988,7 @@
 	"title" : "165. Instructions: Mindfulness of Breathing",
 	"url" : "/4883/20140531-Adrianne_Ross-IRC-instructions_mindfulness_of_breathing.mp3",
 	"series" : "",
-	"score" : 986
+	"score" : 987
 },
 {
 	"title" : "166. Working With Judgment",
@@ -1150,7 +1150,7 @@
 	"title" : "192. Deconstructing Buddhism (part 2)",
 	"url" : "/1703/20100320-Stephen_Batchelor-IMC-deconstructing_buddhism_part_2.mp3",
 	"series" : "",
-	"score" : 963
+	"score" : 964
 },
 {
 	"title" : "193. Noticing Mindfulness in Daily Life",
@@ -1204,7 +1204,7 @@
 	"title" : "201. Right Effort",
 	"url" : "/487/2004-05-17_GilFronsdal_Effort.mp3",
 	"series" : "",
-	"score" : 957
+	"score" : 958
 },
 {
 	"title" : "202. Theravada and Vajrayana - Part 1",
@@ -1363,22 +1363,22 @@
 	"score" : 946
 },
 {
-	"title" : "228. Conversations on Not-self: Evidence for Not-self",
+	"title" : "228. Introduction to Buddhism Part 1: The Story of the Buddha",
+	"url" : "/10820/20200106-Gil_Fronsdal-IMC-introduction_to_buddhism_part_1_the_story_of_the_buddha.mp3",
+	"series" : "",
+	"score" : 946
+},
+{
+	"title" : "229. Conversations on Not-self: Evidence for Not-self",
 	"url" : "/11836/20200806-Andrea_Fella-IMC-conversations_on_not_self_evidence_for_not_self.mp3",
 	"series" : "",
 	"score" : 946
 },
 {
-	"title" : "229. Guided Meditation: How is This Being, Right Now?",
+	"title" : "230. Guided Meditation: How is This Being, Right Now?",
 	"url" : "/12557/20201210-Andrea_Fella-IMC-guided_meditation_how_is_this_being_right_now.mp3",
 	"series" : "",
 	"score" : 946
-},
-{
-	"title" : "230. Introduction to Buddhism Part 1: The Story of the Buddha",
-	"url" : "/10820/20200106-Gil_Fronsdal-IMC-introduction_to_buddhism_part_1_the_story_of_the_buddha.mp3",
-	"series" : "",
-	"score" : 945
 },
 {
 	"title" : "231. Mindfulness of Emotions (1 of 5) Introduction",
@@ -2263,28 +2263,28 @@
 	"score" : 907
 },
 {
-	"title" : "378. Reflections on Whole Body Breathing",
+	"title" : "378. Guided Metta",
+	"url" : "/4395/20131013-Kim_Allen-IMC-guided_metta.mp3",
+	"series" : "",
+	"score" : 907
+},
+{
+	"title" : "379. Reflections on Whole Body Breathing",
 	"url" : "/11896/20200818-Andrea_Fella-IMC-reflections_on_whole_body_breathing.mp3",
 	"series" : "",
 	"score" : 907
 },
 {
-	"title" : "379. Guided Meditation: The 2nd Reflection; Dharmette: I Am of the Nature to Sicken",
+	"title" : "380. Guided Meditation: The 2nd Reflection; Dharmette: I Am of the Nature to Sicken",
 	"url" : "/11901/20200818-Nikki_Mirghafori-IMC-guided_meditation_the_2nd_reflection_dharmette_i_am_of_the_nature_to_sicken.mp3",
 	"series" : "",
 	"score" : 907
 },
 {
-	"title" : "380. Dharmette: Common Reactions to the 3 Tones of Vedana",
+	"title" : "381. Dharmette: Common Reactions to the 3 Tones of Vedana",
 	"url" : "/12209/20201006-Nikki_Mirghafori-IMC-dharmette_common_reactions_to_the_3_tones_of_vedana.mp3",
 	"series" : "",
 	"score" : 907
-},
-{
-	"title" : "381. Guided Metta",
-	"url" : "/4395/20131013-Kim_Allen-IMC-guided_metta.mp3",
-	"series" : "",
-	"score" : 906
 },
 {
 	"title" : "382. The Noble Eightfold Path",
@@ -2335,68 +2335,68 @@
 	"score" : 905
 },
 {
-	"title" : "390. Right View: What is Helpful and What is Not?",
+	"title" : "390. Guided Meditation on Forgiveness and Loving Kindness",
+	"url" : "/3267/20120918-Andrea_Fella-IMC-guided_meditation_on_forgiveness_and_loving_kindness.mp3",
+	"series" : "",
+	"score" : 905
+},
+{
+	"title" : "391. Right View: What is Helpful and What is Not?",
 	"url" : "/9425/20181106-Andrea_Fella-IMC-right_view_what_is_helpful_and_what_is_not.mp3",
 	"series" : "",
 	"score" : 905
 },
 {
-	"title" : "391. Guided Meditation: Awareness of our Human Experience",
+	"title" : "392. Guided Meditation: Awareness of our Human Experience",
 	"url" : "/11580/20200623-Andrea_Fella-IMC-guided_meditation_awareness_of_our_human_experience.mp3",
 	"series" : "",
 	"score" : 905
 },
 {
-	"title" : "392. Worldly Winds: Gain and Loss (intro Jenn, Guided David, Talk Chris, Talk Jenn)",
+	"title" : "393. Worldly Winds: Gain and Loss (intro Jenn, Guided David, Talk Chris, Talk Jenn)",
 	"url" : "/12229/20201009-Chris_Clifford-IMC-worldly_winds_gain_and_loss_intro_jenn_guided_david_talk_chris_talk_jenn.mp3",
 	"series" : "",
 	"score" : 905
 },
 {
-	"title" : "393. Compassion",
+	"title" : "394. Compassion",
 	"url" : "/12572/20201213-Jozen_Tamori_Gibson-IMC-compassion.mp3",
 	"series" : "",
 	"score" : 905
 },
 {
-	"title" : "394. New Year's Resolutions",
+	"title" : "395. New Year's Resolutions",
 	"url" : "/14809/20220103-Diana_Clark-IMC-new_year_s_resolutions.mp3",
 	"series" : "",
 	"score" : 905
 },
 {
-	"title" : "395. Cultivating and Extending Wholesome States, with Guided Meditation",
+	"title" : "396. Cultivating and Extending Wholesome States, with Guided Meditation",
 	"url" : "/14831/20220108-Dawn_Neal-IMC-cultivating_and_extending_wholesome_states_with_guided_meditation.mp3",
 	"series" : "",
 	"score" : 905
 },
 {
-	"title" : "396. Noticing the Return of Awareness in Daily Life",
+	"title" : "397. Noticing the Return of Awareness in Daily Life",
 	"url" : "/14852/20220113-Andrea_Fella-IMC-noticing_the_return_of_awareness_in_daily_life.mp3",
 	"series" : "",
 	"score" : 905
 },
 {
-	"title" : "397. Desire",
+	"title" : "398. Desire",
 	"url" : "/1301/20080324-Vinny_Ferraro-IMC-desire.mp3",
 	"series" : "",
 	"score" : 904
 },
 {
-	"title" : "398. Four Elements",
+	"title" : "399. Four Elements",
 	"url" : "/1520/20090507-Anushka_Fernandopulle-IMC-four_elements.mp3",
 	"series" : "",
 	"score" : 904
 },
 {
-	"title" : "399. Renunciation Of Self",
+	"title" : "400. Renunciation Of Self",
 	"url" : "/4329/20130916-Ayya_Anandabodhi-IMC-renunciation_of_self.mp3",
-	"series" : "",
-	"score" : 904
-},
-{
-	"title" : "400. Guided Meditation on Forgiveness and Loving Kindness",
-	"url" : "/3267/20120918-Andrea_Fella-IMC-guided_meditation_on_forgiveness_and_loving_kindness.mp3",
 	"series" : "",
 	"score" : 904
 },
@@ -2443,44 +2443,44 @@
 	"score" : 904
 },
 {
-	"title" : "408. Introduction to the Four Great Efforts, with Meditations",
+	"title" : "408. The Brahmaviharas 1",
+	"url" : "/4389/20131012-Thanissaro_Bhikkhu-IMC-the_brahmaviharas_1.mp3",
+	"series" : "",
+	"score" : 904
+},
+{
+	"title" : "409. Introduction to the Four Great Efforts, with Meditations",
 	"url" : "/14828/20220108-Dawn_Neal-IMC-introduction_to_the_four_great_efforts_with_meditations.mp3",
 	"series" : "",
 	"score" : 904
 },
 {
-	"title" : "409. Right Concentration with its Supports",
+	"title" : "410. Right Concentration with its Supports",
 	"url" : "/14877/20220118-Andrea_Fella-IMC-right_concentration_with_its_supports.mp3",
 	"series" : "",
 	"score" : 904
 },
 {
-	"title" : "410. Instruction: Mindfulness of Body and Feelings",
+	"title" : "411. Instruction: Mindfulness of Body and Feelings",
 	"url" : "/4872/20140602-Adrianne_Ross-IRC-instruction_mindfulness_of_body_and_feelings.mp3",
 	"series" : "",
 	"score" : 903
 },
 {
-	"title" : "411. Seeing Impermanence",
+	"title" : "412. Seeing Impermanence",
 	"url" : "/12207/20201005-Diana_Clark-IMC-seeing_impermanence.mp3",
 	"series" : "",
 	"score" : 903
 },
 {
-	"title" : "412. Wednesday Morning Instructions: Clarifying Body",
+	"title" : "413. Wednesday Morning Instructions: Clarifying Body",
 	"url" : "/12545/20201209-Matthew_Brensilver-IRC-wednesday_morning_instructions_clarifying_body.mp3",
 	"series" : "",
 	"score" : 903
 },
 {
-	"title" : "413. Guided Meditation: No Part Left Out",
+	"title" : "414. Guided Meditation: No Part Left Out",
 	"url" : "/12664/20201224-Andrea_Fella-IMC-guided_meditation_no_part_left_out.mp3",
-	"series" : "",
-	"score" : 903
-},
-{
-	"title" : "414. The Brahmaviharas 1",
-	"url" : "/4389/20131012-Thanissaro_Bhikkhu-IMC-the_brahmaviharas_1.mp3",
 	"series" : "",
 	"score" : 903
 },
@@ -3385,38 +3385,38 @@
 	"score" : 885
 },
 {
-	"title" : "565. Happy Hour: Joy and Contentment as Support in Challenging Times",
+	"title" : "565. Happiness and the Focused Mind",
+	"url" : "/1321/20080509-Shaila_Catherine-IMC-happiness_and_the_focused_mind.mp3",
+	"series" : "",
+	"score" : 885
+},
+{
+	"title" : "566. Happy Hour: Joy and Contentment as Support in Challenging Times",
 	"url" : "/11189/20200414-Nikki_Mirghafori-IMC-happy_hour_joy_and_contentment_as_support_in_challenging_times.mp3",
 	"series" : "",
 	"score" : 885
 },
 {
-	"title" : "566. Wednesday Evening Reflection: Rohini's Enlightenment Poem",
+	"title" : "567. Wednesday Evening Reflection: Rohini's Enlightenment Poem",
 	"url" : "/12548/20201209-Matthew_Brensilver-IRC-wednesday_evening_reflection_rohinis_enlightenment_poem.mp3",
 	"series" : "",
 	"score" : 885
 },
 {
-	"title" : "567. Dependent Origination Pt-1 Introduction and Q&A",
+	"title" : "568. Dependent Origination Pt-1 Introduction and Q&A",
 	"url" : "/2347/20110319-Leigh_Brasington-IMC-dependent_origination_pt_1_introduction_and_q_a.mp3",
 	"series" : "",
 	"score" : 884
 },
 {
-	"title" : "568. Zen Riffing on the Dharma",
+	"title" : "569. Zen Riffing on the Dharma",
 	"url" : "/1324/20080518-Edward_Brown-IMC-zen_riffing_on_the_dharma.mp3",
 	"series" : "",
 	"score" : 884
 },
 {
-	"title" : "569. Brahma-vihara Series: Upekkha",
+	"title" : "570. Brahma-vihara Series: Upekkha",
 	"url" : "/1672/20100128-Anushka_Fernandopulle-IMC-brahma_vihara_series_upekkha.mp3",
-	"series" : "",
-	"score" : 884
-},
-{
-	"title" : "570. Happiness and the Focused Mind",
-	"url" : "/1321/20080509-Shaila_Catherine-IMC-happiness_and_the_focused_mind.mp3",
 	"series" : "",
 	"score" : 884
 },
@@ -4111,98 +4111,98 @@
 	"score" : 875
 },
 {
-	"title" : "686. El Noble Ctuple Sendero: Esfuerzo Hbil, Parte 1",
+	"title" : "686. Dharmette: Satipatthana (4) Knowing and Experiencing",
+	"url" : "/14819/20220106-Gil_Fronsdal-IMC-dharmette_satipatthana_4_knowing_and_experiencing.mp3",
+	"series" : "",
+	"score" : 875
+},
+{
+	"title" : "687. El Noble Ctuple Sendero: Esfuerzo Hbil, Parte 1",
 	"url" : "/3046/20120515-Andrea_Castillo-IMC-el_noble_ctuple_sendero_esfuerzo_h_bil_parte_1.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "687. Nothing To Do",
+	"title" : "688. Nothing To Do",
 	"url" : "/1498/20090405-Carla_Brennan-IMC-nothing_to_do.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "688. Opening the Heart",
+	"title" : "689. Opening the Heart",
 	"url" : "/4097/20130610-Robert_Cusick-IMC-opening_the_heart.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "689. The Life and Teachings of the Buddha: An Introduction to Sutta Study (part 1)",
+	"title" : "690. The Life and Teachings of the Buddha: An Introduction to Sutta Study (part 1)",
 	"url" : "/3258/20120908-Jeff_Hardin-IMC-the_life_and_teachings_of_the_buddha_an_introduction_to_sutta_study_part_1.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "690. Innate Awakening",
+	"title" : "691. Innate Awakening",
 	"url" : "/4638/20140227-Carla_Brennan-IMC-innate_awakening.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "691. Thoughts on Mindfulness",
+	"title" : "692. Thoughts on Mindfulness",
 	"url" : "/1318/20080504-Bhante_Sujiva-IMC-thoughts_on_mindfulness.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "692. Guided Meditation on Right View",
+	"title" : "693. Guided Meditation on Right View",
 	"url" : "/4341/20130914-Diana_Clark-IMC-guided_meditation_on_right_view.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "693. Metta: Working With Resentment (part 3)",
+	"title" : "694. Metta: Working With Resentment (part 3)",
 	"url" : "/1598/20090929-Andrea_Fella-IMC-metta_working_with_resentment_part_3.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "694. Beginners Practice Group Wk1 Pt1",
+	"title" : "695. Beginners Practice Group Wk1 Pt1",
 	"url" : "/4449/20131113-Diana_Clark-IMC-beginners_practice_group_wk1_pt1.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "695. Happy Hour: Contentment",
+	"title" : "696. Happy Hour: Contentment",
 	"url" : "/11294/20200429-Nikki_Mirghafori-IMC-happy_hour_contentment.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "696. Happy Hour: Metta and Wisdom",
+	"title" : "697. Happy Hour: Metta and Wisdom",
 	"url" : "/11807/20200729-Nikki_Mirghafori-IMC-happy_hour_metta_and_wisdom.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "697. Happy Hour: Metta and Collecting the Mind",
+	"title" : "698. Happy Hour: Metta and Collecting the Mind",
 	"url" : "/11978/20200827-Nikki_Mirghafori-IMC-happy_hour_metta_and_collecting_the_mind.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "698. Happy Hour: Contentment",
+	"title" : "699. Happy Hour: Contentment",
 	"url" : "/12510/20201202-Nikki_Mirghafori-IMC-happy_hour_contentment.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "699. The Wisdom of the Ego",
+	"title" : "700. The Wisdom of the Ego",
 	"url" : "/1058/2007-04-30_ThanissaroBhikkhu_TheWisdomOfTheEgo.mp3",
 	"series" : "",
 	"score" : 874
 },
 {
-	"title" : "700. Romanticizing the Buddha (part 1)",
+	"title" : "701. Romanticizing the Buddha (part 1)",
 	"url" : "/4760/20140426-Thanissaro_Bhikkhu-sati-romanticizing_the_buddha_part_1.mp3",
-	"series" : "",
-	"score" : 874
-},
-{
-	"title" : "701. Dharmette: Satipatthana (4) Knowing and Experiencing",
-	"url" : "/14819/20220106-Gil_Fronsdal-IMC-dharmette_satipatthana_4_knowing_and_experiencing.mp3",
 	"series" : "",
 	"score" : 874
 },
@@ -4285,206 +4285,206 @@
 	"score" : 873
 },
 {
-	"title" : "715. Just This",
+	"title" : "715. Right Understanding",
+	"url" : "/1124/2007-07-23_GilFronsdal_RightUnderstanding.mp3",
+	"series" : "",
+	"score" : 873
+},
+{
+	"title" : "716. Just This",
 	"url" : "/1011/2007-01-21_BlancheHartman_JustThis.mp3",
 	"series" : "",
 	"score" : 873
 },
 {
-	"title" : "716. Prison Chaplaincy (part 1)",
+	"title" : "717. Prison Chaplaincy (part 1)",
 	"url" : "/1884/20100129-Paul_Haller-IMC-prison_chaplaincy_part_1.mp3",
 	"series" : "",
 	"score" : 872
 },
 {
-	"title" : "717. Wise Speech",
+	"title" : "718. Wise Speech",
 	"url" : "/4588/20140127-Oren_J_Sofer-IMC-wise_speech.mp3",
 	"series" : "",
 	"score" : 872
 },
 {
-	"title" : "718. Introduccin a la Meditacin en Espaol - La Vida Diaria",
+	"title" : "719. Introduccin a la Meditacin en Espaol - La Vida Diaria",
 	"url" : "/2745/20111122-Andrea_Castillo-IMC-introducci_n_a_la_meditaci_n_en_espa_ol_la_vida_diaria.mp3",
 	"series" : "",
 	"score" : 872
 },
 {
-	"title" : "719. Breaking the Cycle of Reactivity",
+	"title" : "720. Breaking the Cycle of Reactivity",
 	"url" : "/2767/20111206-Andrea_Fella-IMC-breaking_the_cycle_of_reactivity.mp3",
 	"series" : "",
 	"score" : 872
 },
 {
-	"title" : "720. Practice and Skillful Management of Information Overload",
+	"title" : "721. Practice and Skillful Management of Information Overload",
 	"url" : "/3235/20120819-Ayya_Santacitta-IMC-practice_and_skillful_management_of_information_overload.mp3",
 	"series" : "",
 	"score" : 872
 },
 {
-	"title" : "721. When Things Don't Get Better",
+	"title" : "722. When Things Don't Get Better",
 	"url" : "/3229/20120814-Maria_Straatmann-IMC-when_things_dont_get_better.mp3",
 	"series" : "",
 	"score" : 872
 },
 {
-	"title" : "722. Further Reflections on Awareness of Awareness",
+	"title" : "723. Further Reflections on Awareness of Awareness",
 	"url" : "/11194/20200415-Andrea_Fella-IRC-further_reflections_on_awareness_of_awareness.mp3",
 	"series" : "",
 	"score" : 872
 },
 {
-	"title" : "723. Guided Meditation: Warm-heartedness Towards Experience",
+	"title" : "724. Guided Meditation: Warm-heartedness Towards Experience",
 	"url" : "/11774/20200724-Diana_Clark-IMC-guided_meditation_warm_heartedness_towards_experience.mp3",
 	"series" : "",
 	"score" : 872
 },
 {
-	"title" : "724. Dharmette: Impermanence",
+	"title" : "725. Dharmette: Impermanence",
 	"url" : "/3252/20120905-Maria_Straatmann-IMC-dharmette_impermanence.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "725. Difficult Conversations",
+	"title" : "726. Difficult Conversations",
 	"url" : "/1285/20080306-Daniel_Bowling-IMC-difficult_conversations.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "726. Los Cinco Obstculos: Pereza y Letargo",
+	"title" : "727. Los Cinco Obstculos: Pereza y Letargo",
 	"url" : "/2793/20111213-Andrea_Castillo-IMC-los_cinco_obst_culos_pereza_y_letargo.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "727. The Dharma in Aging",
+	"title" : "728. The Dharma in Aging",
 	"url" : "/1591/20090920-Lewis_Richmond-IMC-the_dharma_in_aging.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "728. Right View As Helpful Perspective",
+	"title" : "729. Right View As Helpful Perspective",
 	"url" : "/4286/20130815-Nikki_Mirghafori-IMC-right_view_as_helpful_perspective.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "729. Regaining Balance",
+	"title" : "730. Regaining Balance",
 	"url" : "/2937/20120316-Ayya_Santacitta-IMC-regaining_balance.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "730. Comfort In Times of Loss",
+	"title" : "731. Comfort In Times of Loss",
 	"url" : "/1682/20100216-Jim_Bronson-IMC-comfort_in_times_of_loss.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "731. The Dharma of Time Travel",
+	"title" : "732. The Dharma of Time Travel",
 	"url" : "/2659/20111006-Anushka_Fernandopulle-IMC-the_dharma_of_time_travel.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "732. Tranquility",
+	"title" : "733. Tranquility",
 	"url" : "/1983/20100722-Kim_Allen-IMC-tranquility.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "733. What Gets Us in Conflict",
+	"title" : "734. What Gets Us in Conflict",
 	"url" : "/3999/20130331-Daniel_Bowling-IMC-what_gets_us_in_conflict.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "734. Exploring Forgiveness and Loving Kindness",
+	"title" : "735. Exploring Forgiveness and Loving Kindness",
 	"url" : "/3268/20120918-Andrea_Fella-IMC-exploring_forgiveness_and_loving_kindness.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "735. Dharma and Depression (week 5)",
+	"title" : "736. Dharma and Depression (week 5)",
 	"url" : "/1474/20090303-Ronna_Kabatznick-IMC-dharma_and_depression_week_5.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "736. Not Self",
+	"title" : "737. Not Self",
 	"url" : "/1379/20080921-Rick_Hanson-IMC-not_self.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "737. Trusting the Way-seeking Mind",
+	"title" : "738. Trusting the Way-seeking Mind",
 	"url" : "/3201/20120726-Max_Erdstein-IMC-trusting_the_way_seeking_mind.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "738. The Buddha's Teachings on Meditation: Part 1",
+	"title" : "739. The Buddha's Teachings on Meditation: Part 1",
 	"url" : "/9154/20180728-Richard_Shankman-IMC-the_buddhas_teachings_on_meditation_part_1.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "739. Happy Hour: Equanimity With Unreliability",
+	"title" : "740. Happy Hour: Equanimity With Unreliability",
 	"url" : "/11190/20200413-Nikki_Mirghafori-IMC-happy_hour_equanimity_with_unreliability.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "740. Guided Meditation: Sensitive to the Breath",
+	"title" : "741. Guided Meditation: Sensitive to the Breath",
 	"url" : "/11474/20200531-Diana_Clark-IMC-guided_meditation_sensitive_to_the_breath.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "741. Guided Meditation: The Stability Within",
+	"title" : "742. Guided Meditation: The Stability Within",
 	"url" : "/11675/20200713-Diana_Clark-IMC-guided_meditation_the_stability_within.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "742. Connecting With Warm-heartedness (5 of 5)",
+	"title" : "743. Connecting With Warm-heartedness (5 of 5)",
 	"url" : "/11775/20200724-Diana_Clark-IMC-connecting_with_warm_heartedness_5_of_5.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "743. Happy Hour: Metta and Renunciation of Expectations",
+	"title" : "744. Happy Hour: Metta and Renunciation of Expectations",
 	"url" : "/11794/20200727-Nikki_Mirghafori-IMC-happy_hour_metta_and_renunciation_of_expectations.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "744. Senior Sangha Meeting Oct (starts few Mins in, With David, Fiona and Robert)",
+	"title" : "745. Senior Sangha Meeting Oct (starts few Mins in, With David, Fiona and Robert)",
 	"url" : "/12314/20201022-David_Cohn-IMC-senior_sangha_meeting_oct_starts_few_mins_in_with_david_fiona_and_robert.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "745. Happy Hour: Equanimity of Embodied Spacious Awareness",
+	"title" : "746. Happy Hour: Equanimity of Embodied Spacious Awareness",
 	"url" : "/12370/20201104-Nikki_Mirghafori-IMC-happy_hour_equanimity_of_embodied_spacious_awareness.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "746. Happy Hour: Metta Without Want From Another",
+	"title" : "747. Happy Hour: Metta Without Want From Another",
 	"url" : "/12395/20201109-Nikki_Mirghafori-IMC-happy_hour_metta_without_want_from_another.mp3",
 	"series" : "",
 	"score" : 871
 },
 {
-	"title" : "747. Happy Hour: Metta, Wisdom, and the First Noble Truth",
+	"title" : "748. Happy Hour: Metta, Wisdom, and the First Noble Truth",
 	"url" : "/12461/20201118-Nikki_Mirghafori-IMC-happy_hour_metta_wisdom_and_the_first_noble_truth.mp3",
-	"series" : "",
-	"score" : 871
-},
-{
-	"title" : "748. Right Understanding",
-	"url" : "/1124/2007-07-23_GilFronsdal_RightUnderstanding.mp3",
 	"series" : "",
 	"score" : 871
 },
@@ -4861,380 +4861,380 @@
 	"score" : 868
 },
 {
-	"title" : "811. Spacious Body Scan Guided Meditation",
+	"title" : "811. Four Noble Truths",
+	"url" : "/546/2004-08-23_AjahnPrasert_FourNobleTruths.mp3",
+	"series" : "",
+	"score" : 868
+},
+{
+	"title" : "812. Spacious Body Scan Guided Meditation",
 	"url" : "/1831/2007-02-13_RonnaKabatznick_SpaciousBodyScanGuidedMeditation.mp3",
 	"series" : "",
 	"score" : 868
 },
 {
-	"title" : "812. Reflections on Truth and Honesty",
+	"title" : "813. Reflections on Truth and Honesty",
 	"url" : "/12293/20200920-Matthew_Brensilver-IMC-reflections_on_truth_and_honesty.mp3",
 	"series" : "",
 	"score" : 868
 },
 {
-	"title" : "813. The Teachings of Ajahn Lee",
+	"title" : "814. The Teachings of Ajahn Lee",
 	"url" : "/2404/20110425-Thanissaro_Bhikkhu-IMC-the_teachings_of_ajahn_lee.mp3",
 	"series" : "",
 	"score" : 868
 },
 {
-	"title" : "814. Eightfold Path: Right View",
+	"title" : "815. Eightfold Path: Right View",
 	"url" : "/1693/20100304-Andrea_Fella-IMC-eightfold_path_right_view.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "815. Work Sex Money Dharma",
+	"title" : "816. Work Sex Money Dharma",
 	"url" : "/2687/20111022-Martin_Aylward-IMC-work_sex_money_dharma.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "816. Wisdom and Acceptance",
+	"title" : "817. Wisdom and Acceptance",
 	"url" : "/4663/20140317-Nikki_Mirghafori-IMC-wisdom_and_acceptance.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "817. Eightfold Path: Right Speech",
+	"title" : "818. Eightfold Path: Right Speech",
 	"url" : "/1700/20100318-Andrea_Fella-IMC-eightfold_path_right_speech.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "818. Metta - Guided Meditation Exploring Dear Friend",
+	"title" : "819. Metta - Guided Meditation Exploring Dear Friend",
 	"url" : "/3222/20120807-Andrea_Fella-IMC-metta_guided_meditation_exploring_dear_friend.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "819. Difficult Emotions",
+	"title" : "820. Difficult Emotions",
 	"url" : "/1578/20090827-Andrea_Fella-IMC-difficult_emotions.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "820. Impermanence and Beyond",
+	"title" : "821. Impermanence and Beyond",
 	"url" : "/1246/20071230-Shaila_Catherine-IMC-impermanence_and_beyond.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "821. Las Cuatro Nobles Verdades: El Fin del Sufrimiento es Posible",
+	"title" : "822. Las Cuatro Nobles Verdades: El Fin del Sufrimiento es Posible",
 	"url" : "/2991/20120313-Andrea_Castillo-IMC-las_cuatro_nobles_verdades_el_fin_del_sufrimiento_es_posible.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "822. Dharmette: Right Speech and Criticism",
+	"title" : "823. Dharmette: Right Speech and Criticism",
 	"url" : "/2606/20110803-Kim_Allen-IMC-dharmette_right_speech_and_criticism.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "823. Dejar Ir",
+	"title" : "824. Dejar Ir",
 	"url" : "/5217/20141104-Andrea_Castillo-IMC-dejar_ir.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "824. Los Cinco Obstculos: Ansiedad y Preocupacin",
+	"title" : "825. Los Cinco Obstculos: Ansiedad y Preocupacin",
 	"url" : "/2890/20120220-Andrea_Castillo-IMC-los_cinco_obst_culos_ansiedad_y_preocupaci_n.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "825. Dharma of Resurrection",
+	"title" : "826. Self and Not Self",
+	"url" : "/1356/20080630-Donald_Rothberg-IMC-self_and_not_self.mp3",
+	"series" : "",
+	"score" : 867
+},
+{
+	"title" : "827. Dharma of Resurrection",
 	"url" : "/2634/20110929-Anushka_Fernandopulle-IMC-dharma_of_resurrection.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "826. Brahma-vihara Series: Mudita",
+	"title" : "828. Brahma-vihara Series: Mudita",
 	"url" : "/1665/20100121-Anushka_Fernandopulle-IMC-brahma_vihara_series_mudita.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "827. Happy Hour: The Joy of Interconnection",
+	"title" : "829. Happy Hour: The Joy of Interconnection",
 	"url" : "/11664/20200710-Nikki_Mirghafori-IMC-happy_hour_the_joy_of_interconnection.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "828. Connecting in Way That is Beneficial (3 of 5)",
+	"title" : "830. The Four Bases of Dharma Power",
+	"url" : "/11743/20200719-Kim_Allen-IMC-the_four_bases_of_dharma_power.mp3",
+	"series" : "",
+	"score" : 867
+},
+{
+	"title" : "831. Connecting in Way That is Beneficial (3 of 5)",
 	"url" : "/11761/20200722-Diana_Clark-IMC-connecting_in_way_that_is_beneficial_3_of_5.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "829. Guided Meditation: Giving Our Attention",
+	"title" : "832. Guided Meditation: Giving Our Attention",
 	"url" : "/11930/20200824-Diana_Clark-IMC-guided_meditation_giving_our_attention.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "830. Guided Meditation: Sitting Together",
+	"title" : "833. Guided Meditation: Sitting Together",
 	"url" : "/12037/20200831-Diana_Clark-IMC-guided_meditation_sitting_together.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "831. Happy Hour: the Body as the Basis of Friendliness and Goodwill",
+	"title" : "834. Happy Hour: the Body as the Basis of Friendliness and Goodwill",
 	"url" : "/12096/20200914-Nikki_Mirghafori-IMC-happy_hour_the_body_as_the_basis_of_friendliness_and_goodwill.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "832. Introduccin a las Diez Perfecciones o Paramis",
+	"title" : "835. Introduccin a las Diez Perfecciones o Paramis",
 	"url" : "/12245/20201013-Andrea_Castillo-IMC-introducci_n_a_las_diez_perfecciones_o_paramis.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "833. Happy Hour: Wrapped in a Blanket of Metta",
+	"title" : "836. Happy Hour: Wrapped in a Blanket of Metta",
 	"url" : "/12318/20201026-Nikki_Mirghafori-IMC-happy_hour_wrapped_in_a_blanket_of_metta.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "834. Happy Hour: Dedication of Our Suffering as Compassion Practice",
+	"title" : "837. Happy Hour: Dedication of Our Suffering as Compassion Practice",
 	"url" : "/12576/20201214-Nikki_Mirghafori-IMC-happy_hour_dedication_of_our_suffering_as_compassion_practice.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "835. Equanimity Class 2-3: Dharmette: Equanimity and Other Heart Practices",
+	"title" : "838. Equanimity Class 2-3: Dharmette: Equanimity and Other Heart Practices",
 	"url" : "/12596/20201217-Diana_Clark-IMC-equanimity_class_2_3_dharmette_equanimity_and_other_heart_practices.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "836. Four Noble Truths",
-	"url" : "/546/2004-08-23_AjahnPrasert_FourNobleTruths.mp3",
-	"series" : "",
-	"score" : 867
-},
-{
-	"title" : "837. Working With Pain in Meditation and Daily Life - (week1 Part1)",
+	"title" : "839. Working With Pain in Meditation and Daily Life - (week1 Part1)",
 	"url" : "/947/2006-09-13_InesFreedman_WorkingWithPainInMeditationAndDailyLife-Wk1Pt1.mp3",
 	"series" : "",
 	"score" : 867
 },
 {
-	"title" : "838. Instruction Guided Meditation - Body",
+	"title" : "840. Instruction Guided Meditation - Body",
 	"url" : "/4498/20131118-Paul_Haller-IRC-instruction_guided_meditation_body.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "839. Dharmette: Appreciation",
+	"title" : "841. Dharmette: Appreciation",
 	"url" : "/2500/20110713-David_Cohn-IMC-dharmette_appreciation.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "840. Paramis: Generosity",
+	"title" : "842. Paramis: Generosity",
 	"url" : "/3005/20120421-Anushka_Fernandopulle-HV-paramis_generosity.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "841. Introduccin a la Meditacin en Espaol - Las Emociones",
+	"title" : "843. Introduccin a la Meditacin en Espaol - Las Emociones",
 	"url" : "/2797/20111108-Andrea_Castillo-IMC-introducci_n_a_la_meditaci_n_en_espa_ol_las_emociones.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "842. Dharmette: Renunciation",
+	"title" : "844. Dharmette: Renunciation",
 	"url" : "/3224/20120808-Andrea_Fella-IMC-dharmette_renunciation.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "843. The Defilements",
+	"title" : "845. The Defilements",
 	"url" : "/4902/20140623-Robert_Cusick-IMC-the_defilements.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "844. Back to the Beginning",
+	"title" : "846. Back to the Beginning",
 	"url" : "/4084/20130527-Mary_Grace_Orr-IMC-back_to_the_beginning.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "845. Four Foundations of Mindfulness (4 of 4)",
+	"title" : "847. Four Foundations of Mindfulness (4 of 4)",
 	"url" : "/1365/20080712-Bhante_Henepola_Gunaratana-IMC-four_foundations_of_mindfulness_4_of_4.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "846. Recognizing Mental Obscurations",
+	"title" : "848. Recognizing Mental Obscurations",
 	"url" : "/4758/20140424-Robert_Cusick-IMC-recognizing_mental_obscurations.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "847. One Day I Know It Will Be Otherwise",
+	"title" : "849. One Day I Know It Will Be Otherwise",
 	"url" : "/5278/20141202-Bob_Stahl-IRC-one_day_i_know_it_will_be_otherwise.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "848. Metta Daylong: Overview and Metta to Self",
+	"title" : "850. Metta Daylong: Overview and Metta to Self",
 	"url" : "/2969/20120407-Andrea_Fella-IMC-metta_daylong_overview_and_metta_to_self.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "849. Turning Towards Aversion",
+	"title" : "851. Turning Towards Aversion",
 	"url" : "/3939/20130314-Andrea_Fella-IMC-turning_towards_aversion.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "850. Guided Meditation: Relaxed Focus",
+	"title" : "852. Guided Meditation: Relaxed Focus",
 	"url" : "/1900/20100518-Andrea_Fella-IMC-guided_meditation_relaxed_focus.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "851. Guided Meditation: Relaxed Attention",
+	"title" : "853. Guided Meditation: Relaxed Attention",
 	"url" : "/3209/20120719-Andrea_Fella-IMC-guided_meditation_relaxed_attention.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "852. Self and Not Self",
-	"url" : "/1356/20080630-Donald_Rothberg-IMC-self_and_not_self.mp3",
+	"title" : "854. Dharmette",
+	"url" : "/5111/20140924-Matthew_Brensilver-IMC-dharmette.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "853. Working With Hindrances",
+	"title" : "855. Working With Hindrances",
 	"url" : "/9866/20190324-Gil_Fronsdal-IMC-working_with_hindrances.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "854. The Four Bases of Dharma Power",
-	"url" : "/11743/20200719-Kim_Allen-IMC-the_four_bases_of_dharma_power.mp3",
-	"series" : "",
-	"score" : 866
-},
-{
-	"title" : "855. Guided Med: Embodied Deep Listening; Dharma Talk: Listening Non-judgmentally Internally & Externally",
+	"title" : "856. Guided Med: Embodied Deep Listening; Dharma Talk: Listening Non-judgmentally Internally & Externally",
 	"url" : "/12059/20200906-Nikki_Mirghafori-IMC-guided_med_embodied_deep_listening_dharma_talk_listening_non_judgmentally_internally.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "856. Guided Meditation: Inspiration",
+	"title" : "857. Guided Meditation: Inspiration",
 	"url" : "/12165/20200928-Diana_Clark-IMC-guided_meditation_inspiration.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "857. Guided Meditation: Well-being",
+	"title" : "858. Guided Meditation: Well-being",
 	"url" : "/12483/20201123-Diana_Clark-IMC-guided_meditation_well_being.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "858. Happy Hour: Metta as a Lullaby",
+	"title" : "859. Happy Hour: Metta as a Lullaby",
 	"url" : "/12563/20201211-Nikki_Mirghafori-IMC-happy_hour_metta_as_a_lullaby.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "859. Guided Meditation: Centering Compassion Practice",
+	"title" : "860. Guided Meditation: Centering Compassion Practice",
 	"url" : "/12573/20201213-Jozen_Tamori_Gibson-IMC-guided_meditation_centering_compassion_practice.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "860. Equanimity Class 2-2: Guided Meditation: Equanimity as a Heart Quality",
+	"title" : "861. Equanimity Class 2-2: Guided Meditation: Equanimity as a Heart Quality",
 	"url" : "/12595/20201217-Ying_Chen-IMC-equanimity_class_2_2_guided_meditation_equanimity_as_a_heart_quality.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "861. Emptiness (part 4)",
+	"title" : "862. Emptiness (part 4)",
 	"url" : "/680/2005-04-30_ThanissaroBhikkhu_Emptiness-Pt4.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "862. Guided Meditation: Body Scan",
+	"title" : "863. Guided Meditation: Body Scan",
 	"url" : "/1779/2010-01-28_InesFreedman_BodyScan.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "863. Anatta (2 of 3)",
+	"title" : "864. Anatta (2 of 3)",
 	"url" : "/1515/20090502-Thanissaro_Bhikkhu-IMC-anatta_2_of_3.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "864. The Breath: A Vehicle for Liberation (part 3)",
+	"title" : "865. The Breath: A Vehicle for Liberation (part 3)",
 	"url" : "/883/2006-05-06_ThanissaroBhikku_TheBreathAVehicleForLiberation-Pt3.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "865. What is Wrong With Buddha Nature",
+	"title" : "866. What is Wrong With Buddha Nature",
 	"url" : "/1390/20081006-Thanissaro_Bhikkhu-IMC-what_is_wrong_with_buddha_nature.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "866. Quality of Metta",
+	"title" : "867. Quality of Metta",
 	"url" : "/2409/20110501-Thanissaro_Bhikkhu-IMC-quality_of_metta.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "867. El refugio de la meditacin",
+	"title" : "868. El refugio de la meditacin",
 	"url" : "/14815/20220104-Sandra_Sanabria-IMC-el_refugio_de_la_meditacion.mp3",
 	"series" : "",
 	"score" : 866
 },
 {
-	"title" : "868. Taking Refuge in Compassion",
+	"title" : "869. Taking Refuge in Compassion",
 	"url" : "/3796/20121216-Spring_Washam-IMC-taking_refuge_in_compassion.mp3",
 	"series" : "",
 	"score" : 865
 },
 {
-	"title" : "869. All and Everything Again",
+	"title" : "870. All and Everything Again",
 	"url" : "/2431/20110515-Wes_Nisker-IMC-all_and_everything_again.mp3",
 	"series" : "",
 	"score" : 865
 },
 {
-	"title" : "870. Guided Meditation: Open in Gratitude",
+	"title" : "871. Guided Meditation: Open in Gratitude",
 	"url" : "/1998/20100805-Jim_Podolske-IMC-guided_meditation_open_in_gratitude.mp3",
 	"series" : "",
 	"score" : 865
 },
 {
-	"title" : "871. Patience",
+	"title" : "872. Patience",
 	"url" : "/1568/20090820-Shaila_Catherine-IMC-patience.mp3",
 	"series" : "",
 	"score" : 865
 },
 {
-	"title" : "872. Who Are You?",
+	"title" : "873. Who Are You?",
 	"url" : "/4860/20140602-Mary_Mocine-IMC-who_are_you.mp3",
-	"series" : "",
-	"score" : 865
-},
-{
-	"title" : "873. Dharmette",
-	"url" : "/5111/20140924-Matthew_Brensilver-IMC-dharmette.mp3",
 	"series" : "",
 	"score" : 865
 },
@@ -5317,194 +5317,194 @@
 	"score" : 865
 },
 {
-	"title" : "887. Faith and Ardency",
+	"title" : "887. Guided Meditation & The Four Feeding Truths",
+	"url" : "/4752/20140421-Thanissaro_Bhikkhu-IMC-guided_meditation_the_four_feeding_truths.mp3",
+	"series" : "",
+	"score" : 865
+},
+{
+	"title" : "888. Faith and Ardency",
 	"url" : "/1518/20090504-Thanissaro_Bhikkhu-IMC-faith_and_ardency.mp3",
 	"series" : "",
 	"score" : 865
 },
 {
-	"title" : "888. Guided Meditation: Emotional Reactions to Pain",
+	"title" : "889. Guided Meditation: Emotional Reactions to Pain",
 	"url" : "/1775/2010-01-28_InesFreedman_EmotionalReactionsToPain.mp3",
 	"series" : "",
 	"score" : 865
 },
 {
-	"title" : "889. Mindfulness in Education (part 1)",
+	"title" : "890. Mindfulness in Education (part 1)",
 	"url" : "/839/2006-01-26_JonKabatZinn_MindfulnessInEducation-Pt1.mp3",
 	"series" : "",
 	"score" : 865
 },
 {
-	"title" : "890. Closing: A Recap of the Four Great Efforts, Sharing the Merit",
+	"title" : "891. Closing: A Recap of the Four Great Efforts, Sharing the Merit",
 	"url" : "/14832/20220108-Marjolein_Janssen-IMC-closing_a_recap_of_the_four_great_efforts_sharing_the_merit.mp3",
 	"series" : "",
 	"score" : 865
 },
 {
-	"title" : "891. Happy Hour: Mudita (Vicarios Joy) as Generosity",
+	"title" : "892. Happy Hour: Mudita (Vicarios Joy) as Generosity",
 	"url" : "/14835/20220110-Nikki_Mirghafori-IMC-happy_hour_mudita_vicarios_joy_as_generosity.mp3",
 	"series" : "",
 	"score" : 865
 },
 {
-	"title" : "892. El Noble Ctuple Sendero: Accin Hbil",
+	"title" : "893. El Noble Ctuple Sendero: Accin Hbil",
 	"url" : "/3031/20120501-Andrea_Castillo-IMC-el_noble_ctuple_sendero_acci_n_h_bil.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "893. Guided Meditation: Mindfullness of Emotions",
+	"title" : "894. Guided Meditation: Mindfullness of Emotions",
 	"url" : "/5252/20141119-Max_Erdstein-IRC-guided_meditation_mindfullness_of_emotions.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "894. Dharmette: Spiritual Materialism",
+	"title" : "895. Dharmette: Spiritual Materialism",
 	"url" : "/2981/20120411-Berget_Jelane-IMC-dharmette_spiritual_materialism.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "895. Die Before Death; Resurrect Now",
+	"title" : "896. Die Before Death; Resurrect Now",
 	"url" : "/2394/20110424-Jacques_Verduin-IMC-die_before_death_resurrect_now.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "896. Dependent Origination",
+	"title" : "897. Dependent Origination",
 	"url" : "/4185/20130702-Andrea_Fella-IRC-dependent_origination.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "897. Right Speech (1 of 3)",
+	"title" : "898. Right Speech (1 of 3)",
 	"url" : "/1423/20081204-Daniel_Bowling-IMC-right_speech_1_of_3.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "898. Four Foundations of Mindfulness: Body",
+	"title" : "899. Four Foundations of Mindfulness: Body",
 	"url" : "/4327/20130912-Nikki_Mirghafori-IMC-four_foundations_of_mindfulness_body.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "899. Buddhism and 12 Steps (2 of 5)",
+	"title" : "900. Buddhism and 12 Steps (2 of 5)",
 	"url" : "/1524/20090512-Kevin_Griffin-IMC-buddhism_and_12_steps_2_of_5.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "900. The Jewel of Mindfulness",
+	"title" : "901. The Jewel of Mindfulness",
 	"url" : "/2207/20101227-Kim_Allen-IMC-the_jewel_of_mindfulness.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "901. Deeper Delusions",
+	"title" : "902. Deeper Delusions",
 	"url" : "/4888/20140617-Andrea_Fella-IMC-deeper_delusions.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "902. Working With Pain (3 of 3)",
+	"title" : "903. Working With Pain (3 of 3)",
 	"url" : "/1668/20100126-Ines_Freedman-IMC-working_with_pain_3_of_3.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "903. Pleasant, Unpleasant and Neutral",
+	"title" : "904. Pleasant, Unpleasant and Neutral",
 	"url" : "/1951/20100620-Tempel_Smith-IMC-pleasant_unpleasant_and_neutral.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "904. The Way Out of Conflict",
+	"title" : "905. The Way Out of Conflict",
 	"url" : "/4893/20140619-Daniel_Bowling-IMC-the_way_out_of_conflict.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "905. Responding to Life's Storms",
+	"title" : "906. Responding to Life's Storms",
 	"url" : "/2490/20110703-Jim_Bronson-IMC-responding_to_lifes_storms.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "906. Senior Sangha May Zoom With David Cohn and Robert Cusick",
+	"title" : "907. Senior Sangha May Zoom With David Cohn and Robert Cusick",
 	"url" : "/11462/20200528-David_Cohn-IMC-senior_sangha_may_zoom_with_david_cohn_and_robert_cusick.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "907. Happy Hour: Metta as Holy Fire",
+	"title" : "908. Happy Hour: Metta as Holy Fire",
 	"url" : "/11566/20200618-Nikki_Mirghafori-IMC-happy_hour_metta_as_holy_fire.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "908. Happy Hour: Connection With Loving-kindness",
+	"title" : "909. Happy Hour: Connection With Loving-kindness",
 	"url" : "/11661/20200709-Diana_Clark-IMC-happy_hour_connection_with_loving_kindness.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "909. Happy Hour: Befriending",
+	"title" : "910. Happy Hour: Befriending",
 	"url" : "/11757/20200721-Diana_Clark-IMC-happy_hour_befriending.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "910. Emotions Pt4 - Guided Meditation and Discussion on Mind States and Emotions",
+	"title" : "911. Emotions Pt4 - Guided Meditation and Discussion on Mind States and Emotions",
 	"url" : "/11859/20200808-Susy_Keely-IMC-emotions_pt4_guided_meditation_and_discussion_on_mind_states_and_emotions.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "911. Happy Hour: Pillars of Joy (5 8) -- Forgiveness II",
+	"title" : "912. Happy Hour: Pillars of Joy (5 8) -- Forgiveness II",
 	"url" : "/12246/20201014-Nikki_Mirghafori-IMC-happy_hour_pillars_of_joy_5_8_forgiveness_ii.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "912. Happy Hour: Metta and Gratitude for Those No Longer in Our Lives",
+	"title" : "913. Happy Hour: Metta and Gratitude for Those No Longer in Our Lives",
 	"url" : "/12403/20201111-Nikki_Mirghafori-IMC-happy_hour_metta_and_gratitude_for_those_no_longer_in_our_lives.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "913. Happy Hour: Cultivating Gratitude",
+	"title" : "914. Happy Hour: Cultivating Gratitude",
 	"url" : "/12487/20201124-Diana_Clark-IMC-happy_hour_cultivating_gratitude.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "914. Happy Hour: Forgiveness",
+	"title" : "915. Happy Hour: Forgiveness",
 	"url" : "/12513/20201203-Diana_Clark-IMC-happy_hour_forgiveness.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "915. Happy Hour: Recollection of Our Values",
+	"title" : "916. Happy Hour: Recollection of Our Values",
 	"url" : "/12547/20201209-Nikki_Mirghafori-IMC-happy_hour_recollection_of_our_values.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "916. Happy Hour: The Unanticipated Presents of 2020",
+	"title" : "917. Happy Hour: The Unanticipated Presents of 2020",
 	"url" : "/12657/20201223-Nikki_Mirghafori-IMC-happy_hour_the_unanticipated_presents_of_2020.mp3",
 	"series" : "",
 	"score" : 864
 },
 {
-	"title" : "917. Appropriate Attention",
+	"title" : "918. Appropriate Attention",
 	"url" : "/884/2006-05-07_ThanissaroBhikku_AppropriateAttention.mp3",
-	"series" : "",
-	"score" : 864
-},
-{
-	"title" : "918. Guided Meditation & The Four Feeding Truths",
-	"url" : "/4752/20140421-Thanissaro_Bhikkhu-IMC-guided_meditation_the_four_feeding_truths.mp3",
 	"series" : "",
 	"score" : 864
 },
@@ -5833,158 +5833,158 @@
 	"score" : 862
 },
 {
-	"title" : "973. Right Attitude for Meditation (1 of 4)",
+	"title" : "973. Buddha Nature Mara Nature (part 1)",
+	"url" : "/512/2004-07-04_StephenBatchelor_BuddhaNatureMaraNature-Pt1.mp3",
+	"series" : "",
+	"score" : 862
+},
+{
+	"title" : "974. Right Attitude for Meditation (1 of 4)",
 	"url" : "/1093/2007-06-17_SayadawUTejaniya_RightAttitudeForMeditation_1of4.mp3",
 	"series" : "",
 	"score" : 862
 },
 {
-	"title" : "974. Embodiment and Enlightenment Class 4",
+	"title" : "975. Embodiment and Enlightenment Class 4",
 	"url" : "/14948/20220127-Kim_Allen-sati-embodiment_and_enlightenment_class_4.mp3",
 	"series" : "",
 	"score" : 862
 },
 {
-	"title" : "975. El Noble Ctuple Sendero: Esfuerzo Hbil, Parte 2",
+	"title" : "976. El Noble Ctuple Sendero: Esfuerzo Hbil, Parte 2",
 	"url" : "/3066/20120529-Andrea_Castillo-IMC-el_noble_ctuple_sendero_esfuerzo_h_bil_parte_2.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "976. Dhamma Of Sports",
+	"title" : "977. Dhamma Of Sports",
 	"url" : "/2382/20110411-Anushka_Fernandopulle-IMC-dhamma_of_sports.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "977. Hindrances: Restlessness",
+	"title" : "978. Hindrances: Restlessness",
 	"url" : "/2014/20100902-Andrea_Fella-IMC-hindrances_restlessness.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "978. Dharmette: Reflections On Maturity",
+	"title" : "979. Dharmette: Reflections On Maturity",
 	"url" : "/3823/20130102-Kim_Allen-IMC-dharmette_reflections_on_maturity.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "979. Letting Go",
+	"title" : "980. Letting Go",
 	"url" : "/1609/20091015-Andrea_Fella-IMC-letting_go.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "980. Working With Emotions",
+	"title" : "981. Working With Emotions",
 	"url" : "/1259/20080124-Andrea_Fella-IMC-working_with_emotions.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "981. Guided Meditation",
+	"title" : "982. Guided Meditation",
 	"url" : "/1950/20100620-Tempel_Smith-IMC-guided_meditation.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "982. The Skill of Thinking: Allowing the Heart to Speak",
+	"title" : "983. The Skill of Thinking: Allowing the Heart to Speak",
 	"url" : "/9098/20180701-Ajahn_Sucitto-IRC-the_skill_of_thinking_allowing_the_heart_to_speak.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "983. El Sendero del Refugio: Caminando Hacia el Interior.",
+	"title" : "984. El Sendero del Refugio: Caminando Hacia el Interior.",
 	"url" : "/4353/20130917-Carrie_Tamburo-IMC-el_sendero_del_refugio_caminando_hacia_el_interior.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "984. Clear Comprehension",
+	"title" : "985. Clear Comprehension",
 	"url" : "/1978/20100720-Chris_Clifford-IMC-clear_comprehension.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "985. Refuge",
+	"title" : "986. Refuge",
 	"url" : "/1243/20071220-Chris_Clifford-IMC-refuge.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "986. Perfection of Wisdom",
+	"title" : "987. Perfection of Wisdom",
 	"url" : "/4506/20131123-Paul_Haller-IRC-perfection_of_wisdom.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "987. Guided Meditation",
+	"title" : "988. Guided Meditation",
 	"url" : "/2043/20100715-Andrea_Fella-IMC-guided_meditation.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "988. Compassion",
+	"title" : "989. Compassion",
 	"url" : "/9925/20190407-Gil_Fronsdal-IMC-compassion.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "989. Evening Reflection and Questions",
+	"title" : "990. Evening Reflection and Questions",
 	"url" : "/11296/20200430-Andrea_Fella-IMC-evening_reflection_and_questions.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "990. Happy Hour: Hatred Never Ceases by Hatred, but by Love Alone is Healed",
+	"title" : "991. Happy Hour: Hatred Never Ceases by Hatred, but by Love Alone is Healed",
 	"url" : "/11501/20200604-Nikki_Mirghafori-IMC-happy_hour_hatred_never_ceases_by_hatred_but_by_love_alone_is_healed.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "991. Happy Hour: Metta and Engagement Energy",
+	"title" : "992. Happy Hour: Metta and Engagement Energy",
 	"url" : "/11815/20200731-Nikki_Mirghafori-IMC-happy_hour_metta_and_engagement_energy.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "992. Impermanence and Longing",
+	"title" : "993. Impermanence and Longing",
 	"url" : "/11945/20200815-Pamela_Weiss-IRC-impermanence_and_longing.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "993. Guided Meditation: Bringing All of Ourselves to Practice",
+	"title" : "994. Guided Meditation: Bringing All of Ourselves to Practice",
 	"url" : "/12067/20200907-Diana_Clark-IMC-guided_meditation_bringing_all_of_ourselves_to_practice.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "994. 11.7.20 Saturday Dharma Talk",
+	"title" : "995. 11.7.20 Saturday Dharma Talk",
 	"url" : "/12385/20201107-Nikki_Mirghafori-IRC-11_7_20_saturday_dharma_talk.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "995. Happy Hour: Appreciating Things We Take For Granted",
+	"title" : "996. Happy Hour: Appreciating Things We Take For Granted",
 	"url" : "/12490/20201125-Nikki_Mirghafori-IMC-happy_hour_appreciating_things_we_take_for_granted.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "996. Equanimity Class 3-4 Dharmette: Flavors of Equanimity",
+	"title" : "997. Equanimity Class 3-4 Dharmette: Flavors of Equanimity",
 	"url" : "/12626/20201219-Ying_Chen-IMC-equanimity_class_3_4_dharmette_flavors_of_equanimity.mp3",
 	"series" : "",
 	"score" : 861
 },
 {
-	"title" : "997. Mindfulness and Concentration (part 2)",
+	"title" : "998. Mindfulness and Concentration (part 2)",
 	"url" : "/1745/20100417-Thanissaro_Bhikkhu-IMC-mindfulness_and_concentration_part_2.mp3",
-	"series" : "",
-	"score" : 861
-},
-{
-	"title" : "998. Buddha Nature Mara Nature (part 1)",
-	"url" : "/512/2004-07-04_StephenBatchelor_BuddhaNatureMaraNature-Pt1.mp3",
 	"series" : "",
 	"score" : 861
 },
@@ -6121,218 +6121,218 @@
 	"score" : 860
 },
 {
-	"title" : "1021. Metta - The Practice of Loving Kindness",
+	"title" : "1021. Wise Speech",
+	"url" : "/8968/20180603-Gil_Fronsdal-IMC-wise_speech.mp3",
+	"series" : "",
+	"score" : 860
+},
+{
+	"title" : "1022. Metta - The Practice of Loving Kindness",
 	"url" : "/3212/20120731-Andrea_Fella-IMC-metta_the_practice_of_loving_kindness.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1022. Mindfulness of the Body: Guided Meditation",
+	"title" : "1023. Mindfulness of the Body: Guided Meditation",
 	"url" : "/1486/20090319-Andrea_Fella-IMC-mindfulness_of_the_body_guided_meditation.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1023. Don't Give Up Your Own Welfare for the Welfare of Others",
+	"title" : "1024. Don't Give Up Your Own Welfare for the Welfare of Others",
 	"url" : "/9139/20180729-Gil_Fronsdal-IMC-dont_give_up_your_own_welfare_for_the_welfare_of_others.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1024. Guided Meditation-expanding Awareness",
+	"title" : "1025. Guided Meditation-expanding Awareness",
 	"url" : "/1948/20100601-Andrea_Fella-IMC-guided_meditation_expanding_awareness.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1025. Suffering and Compassion",
+	"title" : "1026. Suffering and Compassion",
 	"url" : "/2031/20100909-Andrea_Fella-IMC-suffering_and_compassion.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1026. Choices",
+	"title" : "1027. Choices",
 	"url" : "/4456/20131120-Ines_Freedman-IMC-choices.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1027. How Do I Practice With This",
+	"title" : "1028. How Do I Practice With This",
 	"url" : "/5056/20140824-Maria_Straatmann-IMC-how_do_i_practice_with_this.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1028. Dukkha as a Teacher",
+	"title" : "1029. Dukkha as a Teacher",
 	"url" : "/3216/20120804-Andrea_Fella-IMC-dukkha_as_a_teacher.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1029. Seeing Things As They Are",
+	"title" : "1030. Seeing Things As They Are",
 	"url" : "/3240/20120821-Maria_Straatmann-IMC-seeing_things_as_they_are.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1030. Guided Meditation",
+	"title" : "1031. Guided Meditation",
 	"url" : "/1957/20100603-Andrea_Fella-IMC-guided_meditation.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1031. Emergence",
+	"title" : "1032. Emergence",
 	"url" : "/9756/20190224-Gil_Fronsdal-IMC-emergence.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1032. Awakening In Nature",
+	"title" : "1033. Awakening In Nature",
 	"url" : "/1355/20080629-Carla_Brennan-IMC-awakening_in_nature.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1033. The Four Noble Truths",
+	"title" : "1034. The Four Noble Truths",
 	"url" : "/2457/20110607-Andrea_Fella-IMC-the_four_noble_truths.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1034. Happy Hour: Holding Oneself With Care",
+	"title" : "1035. Happy Hour: Holding Oneself With Care",
 	"url" : "/11276/20200424-Nikki_Mirghafori-IMC-happy_hour_holding_oneself_with_care.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1035. Senior Sangha July Zoom Meeting With David, Fiona and Robert",
+	"title" : "1036. Senior Sangha July Zoom Meeting With David, Fiona and Robert",
 	"url" : "/11771/20200723-David_Cohn-IMC-senior_sangha_july_zoom_meeting_with_david_fiona_and_robert.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1036. Happy Hour: Goodwill and Conflict",
+	"title" : "1037. Happy Hour: Goodwill and Conflict",
 	"url" : "/12076/20200909-Nikki_Mirghafori-IMC-happy_hour_goodwill_and_conflict.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1037. Happy Hour: Gratitude and Vicarious Joy",
+	"title" : "1038. Happy Hour: Gratitude and Vicarious Joy",
 	"url" : "/12085/20200911-Nikki_Mirghafori-IMC-happy_hour_gratitude_and_vicarious_joy.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1038. Happy Hour: Be Kind",
+	"title" : "1039. Happy Hour: Be Kind",
 	"url" : "/12241/20201013-Diana_Clark-IMC-happy_hour_be_kind.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1039. Guided Meditation: Orienting",
+	"title" : "1040. Guided Meditation: Orienting",
 	"url" : "/12319/20201026-Diana_Clark-IMC-guided_meditation_orienting.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1040. Romanticizing the Buddha (part 2)",
+	"title" : "1041. Romanticizing the Buddha (part 2)",
 	"url" : "/4761/20140426-Thanissaro_Bhikkhu-sati-romanticizing_the_buddha_part_2.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1041. Emptiness (part 5)",
+	"title" : "1042. Emptiness (part 5)",
 	"url" : "/681/2005-04-30_ThanissaroBhikkhu_Emptiness-Pt5.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1042. The Reading (part 2)",
+	"title" : "1043. The Reading (part 2)",
 	"url" : "/3021/20120428-Thanissaro_Bhikkhu-IMC-the_reading_part_2.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1043. Dependent Co-arising - Guided Meditation - (1 of 10)",
+	"title" : "1044. Dependent Co-arising - Guided Meditation - (1 of 10)",
 	"url" : "/1060/2007-05-05_ThanissaroBhikkhu_DependentCo-arising-01of10-GuidedMeditation.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1044. Customs of the Noble Ones",
+	"title" : "1045. Customs of the Noble Ones",
 	"url" : "/475/2004-04-25_ThanissaroBhikkhu_CustomsOfTheNobleOnes.mp3",
 	"series" : "",
 	"score" : 860
 },
 {
-	"title" : "1045. Abiding in the Mind of Lovingkindness",
+	"title" : "1046. Abiding in the Mind of Lovingkindness",
 	"url" : "/4101/20130613-Nikki_Mirghafori-IMC-abiding_in_the_mind_of_lovingkindness.mp3",
 	"series" : "",
 	"score" : 859
 },
 {
-	"title" : "1046. Metta: Radiating Metta",
+	"title" : "1047. Metta: Radiating Metta",
 	"url" : "/4682/20140318-Andrea_Fella-IRC-metta_radiating_metta.mp3",
 	"series" : "",
 	"score" : 859
 },
 {
-	"title" : "1047. Excavation of My Files",
+	"title" : "1048. Excavation of My Files",
 	"url" : "/4334/20130922-Wes_Nisker-IMC-excavation_of_my_files.mp3",
 	"series" : "",
 	"score" : 859
 },
 {
-	"title" : "1048. Dharmette: Thoughts & Emotions",
+	"title" : "1049. Dharmette: Thoughts & Emotions",
 	"url" : "/3200/20120725-Shin_Kwan_Park-IMC-dharmette_thoughts_emotions.mp3",
 	"series" : "",
 	"score" : 859
 },
 {
-	"title" : "1049. How Empty is Emptiness (part 2)",
+	"title" : "1050. How Empty is Emptiness (part 2)",
 	"url" : "/4657/20140315-Gay_Watson-IMC-how_empty_is_emptiness_part_2.mp3",
 	"series" : "",
 	"score" : 859
 },
 {
-	"title" : "1050. Dharmette: Attending to the Heart",
+	"title" : "1051. Dharmette: Attending to the Heart",
 	"url" : "/3687/20121017-Robert_Cusick-IMC-dharmette_attending_to_the_heart.mp3",
 	"series" : "",
 	"score" : 859
 },
 {
-	"title" : "1051. Las Diez Perfecciones: Generosidad",
+	"title" : "1052. Las Diez Perfecciones: Generosidad",
 	"url" : "/4205/20130709-Andrea_Castillo-IMC-las_diez_perfecciones_generosidad.mp3",
 	"series" : "",
 	"score" : 859
 },
 {
-	"title" : "1052. Confronting the Bogeyman in the Closet",
+	"title" : "1053. Confronting the Bogeyman in the Closet",
 	"url" : "/5109/20140923-Robert_Cusick-IMC-confronting_the_bogeyman_in_the_closet.mp3",
 	"series" : "",
 	"score" : 859
 },
 {
-	"title" : "1053. Recognizing Aversion",
+	"title" : "1054. Recognizing Aversion",
 	"url" : "/4037/20130423-Andrea_Fella-IMC-recognizing_aversion.mp3",
 	"series" : "",
 	"score" : 859
 },
 {
-	"title" : "1054. Loss and Denial",
+	"title" : "1055. Loss and Denial",
 	"url" : "/4121/20130622-Maria_Straatmann-IMC-loss_and_denial.mp3",
 	"series" : "",
 	"score" : 859
 },
 {
-	"title" : "1055. Guided Meditation: Ease With the Breath",
+	"title" : "1056. Guided Meditation: Ease With the Breath",
 	"url" : "/4002/20130402-Andrea_Fella-IMC-guided_meditation_ease_with_the_breath.mp3",
-	"series" : "",
-	"score" : 859
-},
-{
-	"title" : "1056. Wise Speech",
-	"url" : "/8968/20180603-Gil_Fronsdal-IMC-wise_speech.mp3",
 	"series" : "",
 	"score" : 859
 },
@@ -6721,272 +6721,272 @@
 	"score" : 857
 },
 {
-	"title" : "1121. Eightfold Path: Right Intention",
+	"title" : "1121. Guided Meditation: Relaxed Awareness",
+	"url" : "/5228/20141111-Andrea_Fella-IMC-guided_meditation_relaxed_awareness.mp3",
+	"series" : "",
+	"score" : 857
+},
+{
+	"title" : "1122. Eightfold Path: Right Intention",
 	"url" : "/1696/20100311-Andrea_Fella-IMC-eightfold_path_right_intention.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1122. The Cycle of Reactivity",
+	"title" : "1123. The Cycle of Reactivity",
 	"url" : "/2755/20111129-Andrea_Fella-IMC-the_cycle_of_reactivity.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1123. How Empty is Emptiness (part 3)",
+	"title" : "1124. How Empty is Emptiness (part 3)",
 	"url" : "/4658/20140315-Gay_Watson-IMC-how_empty_is_emptiness_part_3.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1124. Working With Thoughts in Daily Life",
+	"title" : "1125. Working With Thoughts in Daily Life",
 	"url" : "/8752/20180327-Andrea_Fella-IMC-working_with_thoughts_in_daily_life.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1125. Right Effort",
+	"title" : "1126. Right Effort",
 	"url" : "/4609/20140209-Chris_Clifford-IMC-right_effort.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1126. Exploring Not Self",
+	"title" : "1127. Exploring Not Self",
 	"url" : "/2977/20120405-Andrea_Fella-IMC-exploring_not_self.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1127. Guided Meditation: Mindfulness of Breathing",
+	"title" : "1128. Guided Meditation: Mindfulness of Breathing",
 	"url" : "/5248/20141117-Max_Erdstein-IRC-guided_meditation_mindfulness_of_breathing.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1128. Conversations On Anatta",
+	"title" : "1129. Conversations On Anatta",
 	"url" : "/1699/20100316-Andrea_Fella-IMC-conversations_on_anatta.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1129. Ii. Roots of Suffering: Hatred and Aversion",
+	"title" : "1130. Ii. Roots of Suffering: Hatred and Aversion",
 	"url" : "/4397/20131015-Maria_Straatmann-IMC-ii_roots_of_suffering_hatred_and_aversion.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1130. Metta",
+	"title" : "1131. Metta",
 	"url" : "/4639/20140219-John_Travis-IRC-metta.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1131. Guided Meditation",
+	"title" : "1132. Guided Meditation",
 	"url" : "/4941/20140715-Andrea_Fella-IRC-guided_meditation.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1132. Conversations on Karma - Part 1",
+	"title" : "1133. Conversations on Karma - Part 1",
 	"url" : "/4413/20131029-Andrea_Fella-IMC-conversations_on_karma_part_1.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1133. Being Here and the Five Faculties - Part 1",
+	"title" : "1134. Being Here and the Five Faculties - Part 1",
 	"url" : "/9225/20180825-Gil_Fronsdal-IMC-being_here_and_the_five_faculties_part_1.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1134. Three Types of Dukkha",
+	"title" : "1135. Three Types of Dukkha",
 	"url" : "/5051/20140819-Andrea_Fella-IMC-three_types_of_dukkha.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1135. Jhanic Factors: Vitakka and Vicara",
+	"title" : "1136. Jhanic Factors: Vitakka and Vicara",
 	"url" : "/5251/20141118-Max_Erdstein-IRC-jhanic_factors_vitakka_and_vicara.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1136. 8 Worldly Winds",
+	"title" : "1137. 8 Worldly Winds",
 	"url" : "/4859/20140601-Ines_Freedman-IMC-8_worldly_winds.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1137. Way Seeking",
+	"title" : "1138. Way Seeking",
 	"url" : "/1391/20081009-Lori_Wong-IMC-way_seeking.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1138. Simplicity",
+	"title" : "1139. Simplicity",
 	"url" : "/10927/20200220-Andrea_Fella-IMC-simplicity.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1139. Happy Hour: To Love (and Be Loved by) Mother Earth",
+	"title" : "1140. Happy Hour: To Love (and Be Loved by) Mother Earth",
 	"url" : "/11261/20200422-Nikki_Mirghafori-IMC-happy_hour_to_love_and_be_loved_by_mother_earth.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1140. Happy Hour: Loving Care for This Body",
+	"title" : "1141. Happy Hour: Loving Care for This Body",
 	"url" : "/11435/20200523-Nikki_Mirghafori-IMC-happy_hour_loving_care_for_this_body.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1141. Happy Hour: Metta as Nourishing Air",
+	"title" : "1142. Happy Hour: Metta as Nourishing Air",
 	"url" : "/11591/20200623-Nikki_Mirghafori-IMC-happy_hour_metta_as_nourishing_air.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1142. Happy Hour: Metta Through the Nourishment of Wholesome Intention",
+	"title" : "1143. Happy Hour: Metta Through the Nourishment of Wholesome Intention",
 	"url" : "/11645/20200706-Nikki_Mirghafori-IMC-happy_hour_metta_through_the_nourishment_of_wholesome_intention.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1143. Happy Hour: Metta as Strength, Giving and Receiving",
+	"title" : "1144. Happy Hour: Metta as Strength, Giving and Receiving",
 	"url" : "/11656/20200708-Nikki_Mirghafori-IMC-happy_hour_metta_as_strength_giving_and_receiving.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1144. Happy Hour: Metta and Truthfulness",
+	"title" : "1145. Happy Hour: Metta and Truthfulness",
 	"url" : "/11820/20200803-Nikki_Mirghafori-IMC-happy_hour_metta_and_truthfulness.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1145. Meditacin Guiada: Los Diez Paramis",
+	"title" : "1146. Meditacin Guiada: Los Diez Paramis",
 	"url" : "/12244/20201013-Andrea_Castillo-IMC-meditaci_n_guiada_los_diez_paramis.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1146. Happy Hour: Path of Friendship",
+	"title" : "1147. Happy Hour: Path of Friendship",
 	"url" : "/12335/20201028-Diana_Clark-IMC-happy_hour_path_of_friendship.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1147. Happy Hour: Equanimity",
+	"title" : "1148. Happy Hour: Equanimity",
 	"url" : "/12369/20201103-Diana_Clark-IMC-happy_hour_equanimity.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1148. Happy Hour: Deepening the Truths we can say",
+	"title" : "1149. Happy Hour: Deepening the Truths we can say",
 	"url" : "/12420/20201112-Diana_Clark-IMC-happy_hour_deepening_the_truths_we_can_say.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1149. Guided Meditation: Balancing Effort",
+	"title" : "1150. Guided Meditation: Balancing Effort",
 	"url" : "/12649/20201221-Diana_Clark-IMC-guided_meditation_balancing_effort.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1150. Happy Hour: Metta as a Christmas Carol",
+	"title" : "1151. Happy Hour: Metta as a Christmas Carol",
 	"url" : "/12663/20201224-Nikki_Mirghafori-IMC-happy_hour_metta_as_a_christmas_carol.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1151. Grasping and the Creation of Self",
+	"title" : "1152. Grasping and the Creation of Self",
 	"url" : "/635/2005-01-30_AndrewOlendzki_GraspingAndTheCreationOfSelf.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1152. Working With Self",
+	"title" : "1153. Working With Self",
 	"url" : "/2204/20101220-Ajahn_Anandabodhi-IMC-working_with_self.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1153. Surrender",
+	"title" : "1154. Surrender",
 	"url" : "/1130/2007-08-06_FrankOstaseski_Surrender.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1154. Right View (part 1)",
+	"title" : "1155. Right View (part 1)",
 	"url" : "/594/2004-11-13_LeighBrasington_RightView-Pt1.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1155. Anatta (3 of 3)",
+	"title" : "1156. Anatta (3 of 3)",
 	"url" : "/1516/20090502-Thanissaro_Bhikkhu-IMC-anatta_3_of_3.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1156. Guided Forgiveness Meditation for Depression",
+	"title" : "1157. Guided Forgiveness Meditation for Depression",
 	"url" : "/1832/2007-02-20_RonnaKabatznick_GuidedForgivenessMeditationForDepression.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1157. Guided Meditations for Working With Pain",
+	"title" : "1158. Guided Meditations for Working With Pain",
 	"url" : "/1773/2010-01-28_InesFreedman_MindfulnessOfBreathing.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1158. Guided Meditation",
+	"title" : "1159. Guided Meditation",
 	"url" : "/830/2006-01-11_BhanteSujiva_GuidedMeditation.mp3",
 	"series" : "",
 	"score" : 857
 },
 {
-	"title" : "1159. Las Cuatro Moradas Divinas - Ecuanimidad",
+	"title" : "1160. Las Cuatro Moradas Divinas - Ecuanimidad",
 	"url" : "/3289/20120821-Andrea_Castillo-IMC-las_cuatro_moradas_divinas_ecuanimidad.mp3",
 	"series" : "",
 	"score" : 856
 },
 {
-	"title" : "1160. Meditate and Destroy",
+	"title" : "1161. Meditate and Destroy",
 	"url" : "/2621/20110918-Jason_Murphy-IMC-meditate_and_destroy.mp3",
 	"series" : "",
 	"score" : 856
 },
 {
-	"title" : "1161. Dharmette: Universal Wisdom, Buddhist Wisdom",
+	"title" : "1162. Dharmette: Universal Wisdom, Buddhist Wisdom",
 	"url" : "/3215/20120801-Berget_Jelane-IMC-dharmette_universal_wisdom_buddhist_wisdom.mp3",
 	"series" : "",
 	"score" : 856
 },
 {
-	"title" : "1162. Right View",
+	"title" : "1163. Right View",
 	"url" : "/4342/20130914-Diana_Clark-IMC-right_view.mp3",
 	"series" : "",
 	"score" : 856
 },
 {
-	"title" : "1163. Introduction to Mindfulness Meditation - Week 1",
+	"title" : "1164. Introduction to Mindfulness Meditation - Week 1",
 	"url" : "/3058/20120524-Andrea_Fella-IMC-introduction_to_mindfulness_meditation_week_1.mp3",
 	"series" : "",
 	"score" : 856
 },
 {
-	"title" : "1164. Dharmette: The Mindful Citizen",
+	"title" : "1165. Dharmette: The Mindful Citizen",
 	"url" : "/3286/20120926-Berget_Jelane-IMC-dharmette_the_mindful_citizen.mp3",
-	"series" : "",
-	"score" : 856
-},
-{
-	"title" : "1165. Guided Meditation: Relaxed Awareness",
-	"url" : "/5228/20141111-Andrea_Fella-IMC-guided_meditation_relaxed_awareness.mp3",
 	"series" : "",
 	"score" : 856
 },

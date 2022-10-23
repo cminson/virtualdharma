@@ -28,7 +28,7 @@ import pdfkit
 PATH_JSON_CONFIG = "./CONFIG00.JSON"
 PATH_ERROR_CORRECTIONS = "./ERROR_CORRECTIONS"
 PATH_RAW = "./data/raw/"
-PATH_RAW = "./data/test/"
+#PATH_RAW = "./data/test/"
 PATH_TEXT = "./data/text/"
 PATH_HTML = "./data/html/"
 PATH_PDF = "./data/pdf/"
@@ -37,6 +37,7 @@ PATH_TEMPLATE = "./data/template/template01.html"
 # Preamble text to remove from beginning of talk
 LIST_PREAMBLES = [
     "The following talk was given at the Insight Meditation Center",
+    "Please visit our website at audiodarma",
     "Please visit our website at audiodharma",
     "audioderma.org"
 ]
