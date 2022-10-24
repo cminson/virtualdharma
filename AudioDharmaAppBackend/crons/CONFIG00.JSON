@@ -8,6 +8,16 @@
 	},
 	"talks":[
 	{
+		"title":"The Four Roads to Spiritual Power",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"ln":"en",
+		"url":"/17139/20221023-Gil_Fronsdal-IMC-the_four_roads_to_spiritual_powergi.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"date":"2022.10.23",
+		"duration":"37:54"
+	},
+	{
 		"title":"Meeting Difficulty with Compassion",
 		"series":"",
 		"ln":"en",
@@ -4493,7 +4503,7 @@
 		"ln":"en",
 		"url":"/16364/20220531-Gil_Fronsdal-IMC-dharmette_kaya_2_of_5_the_joy_body.mp3",
 		"speaker":"Gil Fronsdal",
-		"pdf":"",
+		"pdf":"http://virtualdharma.org/AudioDharmaAppBackend/data/PDF/20220531-Gil_Fronsdal-IMC-dharmette_kaya_2_of_5_the_joy_body.pdf",
 		"date":"2022.05.31",
 		"duration":"14:26"
 	},
@@ -6803,7 +6813,7 @@
 		"ln":"en",
 		"url":"/15228/20220314-Gil_Fronsdal-IMC-satipatthana_43_hindrances-sensual_desire.mp3",
 		"speaker":"Gil Fronsdal",
-		"pdf":"",
+		"pdf":"http://virtualdharma.org/AudioDharmaAppBackend/data/PDF/20220314-Gil_Fronsdal-IMC-satipatthana_43_hindrances-sensual_desire.pdf",
 		"date":"2022.03.14",
 		"duration":"15:23"
 	},
@@ -67794,7 +67804,7 @@
 		"url":"/5581/20150413-Andrea_Fella-IMC-daily_life_practice_retreat_monday_morning_part_2.mp3",
 		"speaker":"Andrea Fella",
 		"pdf":"",
-		"date":"2015.04.130",
+		"date":"2015.04.13",
 		"duration":"08:30"
 	},
 	{
@@ -128824,6 +128834,10 @@
 			"url":"/16376/20220602-Gil_Fronsdal-IMC-dharmette_kaya_4_of_5_the_insight_body.mp3"
 		},
 		{
+			"title":"Dharmette: Kāya (2 of 5) The Joy Body",
+			"url":"/16364/20220531-Gil_Fronsdal-IMC-dharmette_kaya_2_of_5_the_joy_body.mp3"
+		},
+		{
 			"title":"Dharmette: Kāya (1 of 5) The Karmic Body",
 			"url":"/16359/20220530-Gil_Fronsdal-IMC-dharmette_kaya_1_of_5_the_karmic_body.mp3"
 		},
@@ -128846,6 +128860,10 @@
 		{
 			"title":"Dharmette: Binding and Unbinding (1 of 5) Unwholesome Desire and Wholesome Desire",
 			"url":"/16330/20220523-Gil_Fronsdal-IMC-dharmette_binding_and_unbinding_1_of_5_unwholesome_desire_and_wholesome_desire.mp3"
+		},
+		{
+			"title":"Satipatthana (43) HIndrances-Sensual Desire",
+			"url":"/15228/20220314-Gil_Fronsdal-IMC-satipatthana_43_hindrances-sensual_desire.mp3"
 		},
 		{
 			"title":"Dharmette: Satipatthana (42) Prioritizing Beneficial States of Mind",
@@ -130671,44 +130689,44 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"1. Dharmette: Meaning (4 of 5) Values We Live By",
-			"url":"/17127/20221020-Gil_Fronsdal-IMC-dharmette_meaning_4_of_5_values_we_live_by.mp3"
+			"title":"1. The Four Roads to Spiritual Power",
+			"url":"/17139/20221023-Gil_Fronsdal-IMC-the_four_roads_to_spiritual_powergi.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"2. Guided Meditation: Non-Harming",
-			"url":"/17126/20221020-Gil_Fronsdal-IMC-guided_meditation_non-harming.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"3. Guided Meditation: Trust",
+			"title":"2. Guided Meditation: Trust",
 			"url":"/17130/20221021-Gil_Fronsdal-IMC-guided_meditation_trust.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"4. The Four Bases For Success",
+			"title":"3. Meeting Difficulty with Compassion",
+			"url":"/17138/20221021-Liz_Powell-IMC-meeting_difficulty_with_compassion.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"4. Dharmette: Meaning (5 of 5) Sacred",
+			"url":"/17131/20221021-Gil_Fronsdal-IMC-dharmette_meaning_5_of_5_sacred.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"5. The Four Bases For Success",
 			"url":"/17124/20221019-Gil_Fronsdal-IMC-the_four_bases_for_success.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"5. Dharmette: Meaning (3 of 5) The Big Questions",
+			"title":"6. Dharmette: Meaning (4 of 5) Values We Live By",
+			"url":"/17127/20221020-Gil_Fronsdal-IMC-dharmette_meaning_4_of_5_values_we_live_by.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"7. Dharmette: Meaning (3 of 5) The Big Questions",
 			"url":"/17122/20221019-Gil_Fronsdal-IMC-dharmette_meaning_3_of_5_the_big_questions.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"6. Dharmette: Meaning (2 of 5) Self and Others",
-			"url":"/17114/20221018-Gil_Fronsdal-IMC-dharmette_meaning_2_of_5_self_and_others.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"7. Dharmette: Meaning (5 of 5) Sacred",
-			"url":"/17131/20221021-Gil_Fronsdal-IMC-dharmette_meaning_5_of_5_sacred.mp3"
 		},
 		{
 			"series":"",
@@ -130725,8 +130743,8 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"10. Happy Hour: Seeing Ourselves as Whole",
-			"url":"/17125/20221019-Nikki_Mirghafori-IMC-happy_hour_seeing_ourselves_as_whole.mp3"
+			"title":"10. Space without Self-Definition",
+			"url":"/17092/20221016-Gil_Fronsdal-IMC-space_without_self-definition.mp3"
 		}
 		]
 	},
@@ -130794,14 +130812,14 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"10. Dharmette: The Dharma (1 of 5) Visible Here and Now",
-			"url":"/16872/20220829-Gil_Fronsdal-IMC-dharmette_the_dharma_1_of_5_visible_here_and_now.mp3"
+			"title":"10. Guided Meditation: Getting Somewhere by Going Nowhere",
+			"url":"/16821/20220818-Matthew_Brensilver-IMC-guided_meditation_getting_somewhere_by_going_nowhere.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"11. Guided Meditation: Getting Somewhere by Going Nowhere",
-			"url":"/16821/20220818-Matthew_Brensilver-IMC-guided_meditation_getting_somewhere_by_going_nowhere.mp3"
+			"title":"11. Dharmette: The Dharma (1 of 5) Visible Here and Now",
+			"url":"/16872/20220829-Gil_Fronsdal-IMC-dharmette_the_dharma_1_of_5_visible_here_and_now.mp3"
 		},
 		{
 			"series":"",
@@ -130830,20 +130848,20 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"16. Living From a Healthy Source",
+			"title":"16. Guided Meditation: Thoughts that Quiet Thinking",
+			"url":"/16782/20220808-Gil_Fronsdal-IMC-guided_meditation_thoughts_that_quiet_thinking.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"17. Living From a Healthy Source",
 			"url":"/16907/20220904-Gil_Fronsdal-IMC-living_from_a_healthy_source.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"17. Dharmette: The Dharma, pt 2 (1 of 5) In This Very Life",
+			"title":"18. Dharmette: The Dharma, pt 2 (1 of 5) In This Very Life",
 			"url":"/16911/20220905-Gil_Fronsdal-IMC-dharmette_the_dharma_pt_2_1_of_5_in_this_very_life.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"18. Guided Meditation: Thoughts that Quiet Thinking",
-			"url":"/16782/20220808-Gil_Fronsdal-IMC-guided_meditation_thoughts_that_quiet_thinking.mp3"
 		},
 		{
 			"series":"",
@@ -131031,14 +131049,14 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"28. Wise Effort",
-			"url":"/1575/20090823-Blanche_Hartman-IMC-wise_effort.mp3"
+			"title":"28. Anger",
+			"url":"/9731/20190217-Gil_Fronsdal-IMC-anger.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"29. Anger",
-			"url":"/9731/20190217-Gil_Fronsdal-IMC-anger.mp3"
+			"title":"29. Wise Effort",
+			"url":"/1575/20090823-Blanche_Hartman-IMC-wise_effort.mp3"
 		},
 		{
 			"series":"",
@@ -131289,26 +131307,26 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"71. Letting Go of Craving",
+			"title":"71. The Eightfold Path: Finding an Ancient Path",
+			"url":"/942/2006-09-03_GilFronsdal_TheEightfoldPathFindingAnAncientPath.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"72. Letting Go of Craving",
 			"url":"/10590/20191017-Andrea_Fella-IMC-letting_go_of_craving.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"72. Anxiety and Lack of Confidence",
+			"title":"73. Anxiety and Lack of Confidence",
 			"url":"/7179/20161016-Gil_Fronsdal-IMC-anxiety_and_lack_of_confidence.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"73. The Five Hindrances: Doubt",
+			"title":"74. The Five Hindrances: Doubt",
 			"url":"/1420/20081124-Gil_Fronsdal-IMC-the_five_hindrances_doubt.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"74. The Eightfold Path: Finding an Ancient Path",
-			"url":"/942/2006-09-03_GilFronsdal_TheEightfoldPathFindingAnAncientPath.mp3"
 		},
 		{
 			"series":"",
@@ -131331,14 +131349,14 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"78. Mindfulness, Conflict Resolution, and Neuroscience (part 1)",
-			"url":"/2815/20120105-Daniel_Bowling-IMC-mindfulness_conflict_resolution_and_neuroscience_part_1.mp3"
+			"title":"78. Paramis: Truth",
+			"url":"/700/2005-05-23_GilFronsdal_ParamisTruth.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"79. Paramis: Truth",
-			"url":"/700/2005-05-23_GilFronsdal_ParamisTruth.mp3"
+			"title":"79. Mindfulness, Conflict Resolution, and Neuroscience (part 1)",
+			"url":"/2815/20120105-Daniel_Bowling-IMC-mindfulness_conflict_resolution_and_neuroscience_part_1.mp3"
 		},
 		{
 			"series":"",
@@ -131565,26 +131583,26 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"117. Clinging and Craving - Part 2",
-			"url":"/9281/20180922-Ajaan_Thanissaro-sati-clinging_and_craving_part_2.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"118. Imperturbability",
+			"title":"117. Imperturbability",
 			"url":"/15002/20220130-Max_Erdstein-IMC-imperturbability.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"119. Seven Factors of Conscientious Action",
-			"url":"/2130/20101030-Bhikkhu_Bodhi-IMC-seven_factors_of_conscientious_action.mp3"
+			"title":"118. Clinging and Craving - Part 2",
+			"url":"/9281/20180922-Ajaan_Thanissaro-sati-clinging_and_craving_part_2.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"120. The Five Hindrances: Sloth and Torpor",
+			"title":"119. The Five Hindrances: Sloth and Torpor",
 			"url":"/1414/20081110-Gil_Fronsdal-IMC-the_five_hindrances_sloth_and_torpor.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"120. Seven Factors of Conscientious Action",
+			"url":"/2130/20101030-Bhikkhu_Bodhi-IMC-seven_factors_of_conscientious_action.mp3"
 		},
 		{
 			"series":"",
@@ -131643,20 +131661,20 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"130. The Four Truths of Happiness",
+			"title":"130. Guided Body Scan Meditation",
+			"url":"/5209/20141104-Andrea_Fella-IMC-guided_body_scan_meditation.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"131. The Four Truths of Happiness",
 			"url":"/10742/20191202-Gil_Fronsdal-IMC-the_four_truths_of_happiness.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"131. What is Important",
+			"title":"132. What is Important",
 			"url":"/12722/20210110-Gil_Fronsdal-IMC-what_is_important.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"132. Guided Body Scan Meditation",
-			"url":"/5209/20141104-Andrea_Fella-IMC-guided_body_scan_meditation.mp3"
 		},
 		{
 			"series":"",
@@ -131709,20 +131727,20 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"141. Eightfold Path: Introductory Session (guided Oori, Talk Tanya, Talk Chris)",
+			"title":"141. Loving the Self to Death",
+			"url":"/10281/20190714-Matthew_Brensilver-IMC-loving_the_self_to_death.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"142. Eightfold Path: Introductory Session (guided Oori, Talk Tanya, Talk Chris)",
 			"url":"/12061/20200906-Tanya_Wiser-IMC-eightfold_path_introductory_session_guided_oori_talk_tanya_talk_chris.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"142. Navigating Conflict",
+			"title":"143. Navigating Conflict",
 			"url":"/12325/20201027-Andrea_Fella-IMC-navigating_conflict.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"143. Loving the Self to Death",
-			"url":"/10281/20190714-Matthew_Brensilver-IMC-loving_the_self_to_death.mp3"
 		},
 		{
 			"series":"",
@@ -131733,32 +131751,32 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"145. Delusion",
-			"url":"/8976/20180610-Matthew_Brensilver-IMC-delusion.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"146. Clinging & Letting Go",
-			"url":"/4405/20131021-Matthew_Brensilver-IMC-clinging_letting_go.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"147. Morning Guided Meditation: Aware of Body and Breath",
+			"title":"145. Morning Guided Meditation: Aware of Body and Breath",
 			"url":"/5174/20141016-Ajahn_Amaro-IRC-morning_guided_meditation_aware_of_body_and_breath.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"148. Equanimity",
-			"url":"/10594/20191020-Gil_Fronsdal-IMC-equanimity.mp3"
+			"title":"146. Delusion",
+			"url":"/8976/20180610-Matthew_Brensilver-IMC-delusion.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"149. Non-anxious Presence",
+			"title":"147. Clinging & Letting Go",
+			"url":"/4405/20131021-Matthew_Brensilver-IMC-clinging_letting_go.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"148. Non-anxious Presence",
 			"url":"/11015/20200307-Gil_Fronsdal-IMC-non_anxious_presence.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"149. Equanimity",
+			"url":"/10594/20191020-Gil_Fronsdal-IMC-equanimity.mp3"
 		},
 		{
 			"series":"",
@@ -131775,20 +131793,20 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"152. Working with Sticky Tangles",
+			"title":"152. Thursday Dharma Talk: Not-self",
+			"url":"/12555/20201210-Matthew_Brensilver-IRC-thursday_dharma_talk_not_self.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"153. Working with Sticky Tangles",
 			"url":"/14887/20220120-Andrea_Fella-IMC-working_with_sticky_tangles.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"153. Be, See, Free, We (1 of 10) Doors of Liberation",
+			"title":"154. Be, See, Free, We (1 of 10) Doors of Liberation",
 			"url":"/11672/20200713-Gil_Fronsdal-IMC-be_see_free_we_1_of_10_doors_of_liberation.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"154. Thursday Dharma Talk: Not-self",
-			"url":"/12555/20201210-Matthew_Brensilver-IRC-thursday_dharma_talk_not_self.mp3"
 		},
 		{
 			"series":"",
@@ -131805,26 +131823,26 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"157. Sudden and Surprising Reactivity",
+			"title":"157. Eightfold Path: Right View (1 of 3)",
+			"url":"/12332/20201028-Gil_Fronsdal-IMC-eightfold_path_right_view_1_of_3.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"158. Sudden and Surprising Reactivity",
 			"url":"/12665/20201224-Andrea_Fella-IMC-sudden_and_surprising_reactivity.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"158. Grief",
+			"title":"159. Grief",
 			"url":"/8761/20180401-Matthew_Brensilver-IMC-grief.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"159. Web of Thoughts",
+			"title":"160. Web of Thoughts",
 			"url":"/10131/20190610-Gil_Fronsdal-IMC-web_of_thoughts.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"160. Eightfold Path: Right View (1 of 3)",
-			"url":"/12332/20201028-Gil_Fronsdal-IMC-eightfold_path_right_view_1_of_3.mp3"
 		},
 		{
 			"series":"",
@@ -132051,20 +132069,20 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"198. Conversations on Not-self: Is There an Impermanent, Changing Self?",
+			"title":"198. Right Effort",
+			"url":"/487/2004-05-17_GilFronsdal_Effort.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"199. Conversations on Not-self: Is There an Impermanent, Changing Self?",
 			"url":"/12050/20200903-Andrea_Fella-IMC-conversations_on_not_self_is_there_an_impermanent_changing_self.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"199. Conflict and Non-conflict",
+			"title":"200. Conflict and Non-conflict",
 			"url":"/12345/20201029-Andrea_Fella-IMC-conflict_and_non_conflict.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"200. Guided Meditation: Awareness is a Natural Capacity",
-			"url":"/12687/20201231-Andrea_Fella-IMC-guided_meditation_awareness_is_a_natural_capacity.mp3"
 		}
 		]
 	}

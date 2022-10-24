@@ -1,0 +1,13 @@
+html {
+  max-width: 70ch;
+  padding: 3em 1em;
+  margin: auto;
+  line-height: 1.75;
+  xfont-size: 1.25em;
+  font-size: 1.55em;
+  font: Helvetica;
+}
+div {
+    text-align: justify;
+
+}
