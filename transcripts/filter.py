@@ -32,6 +32,7 @@ import string
 import json
 import datetime
 import pdfkit
+import codecs
 
 
 PATH_JSON_CONFIG = "./CONFIG00.JSON"
@@ -48,6 +49,7 @@ LIST_PREAMBLES = [
     "The following talk was given at the Insight Meditation Center",
     "Please visit our website at audiodarma",
     "Please visit our website at audiodharma",
+    ".org",
     "audioderma.org"
 ]
 
@@ -112,22 +114,18 @@ for talk in all_talks['talks']:
 # Strip known errors and unnecessary preambles from Whisper output
 # Store cleaned text files into PATH_TEXT
 #
-# Previous versions of whisper returned transcribed text in one blob, and the last
-# version returns it line by line.  The code below assumes the later.
-#
 print("TRANSLATING TO TEXT")
 talk_list_raw = os.listdir(PATH_RAW)
 for talk in talk_list_raw:
     path_raw = PATH_RAW + talk
-    f =  open(path_raw)
-    lines = f.readlines()
+    print(path_raw)
+    f =  open(path_raw, encoding='utf-8', errors='ignore')
+    list_lines = f.readlines()
     f.close()
 
-    path_text = PATH_TEXT + talk
-    f = open(path_text, 'w+')
-
-    print("writing: ", path_text)
-    for line in lines:
+    # first, strip off preambles
+    list_stripped_lines = []
+    for line in list_lines:
 
         delete_line = False
         for preamble in LIST_PREAMBLES:
@@ -136,6 +134,23 @@ for talk in talk_list_raw:
                 break
         if delete_line: 
             continue
+        list_stripped_lines.append(line)
+
+    list_lines = list_stripped_lines
+
+    # ensure lines are complete and always end with a period
+    content_blob= ""
+    for line in list_lines:
+        line = line.replace('\n', ' ');
+        content_blob += line
+    list_lines = content_blob.split('.')
+
+    path_text = PATH_TEXT + talk
+    f = open(path_text, 'w+')
+
+    # correct transcription errors and output line
+    print("writing: ", path_text)
+    for line in list_lines:
 
         for error in DictErrorCorrections.keys():
             if error in line:
@@ -143,9 +158,9 @@ for talk in talk_list_raw:
                 line = line.replace(error, correction)
                 print("Replacing: ", error, correction)
 
-        #print(line)
         line = line.strip()
-        line += "\n"
+        line += ". \n"
+        #line = unicode(line, errors='ignore')
         f.write(line)
     f.close()
 
@@ -161,10 +176,11 @@ f.close()
 talk_list_text = os.listdir(PATH_TEXT)
 for talk in talk_list_text:
 
+    print(path_text)
     path_text = PATH_TEXT + talk
-    fx =  open(path_text)
-    lines = fx.readlines()
-    fx.close()
+    f =  open(path_text, encoding='utf-8', errors='ignore')
+    lines = f.readlines()
+    f.close()
 
     file_name = talk.split('/')[-1]
     file_name = file_name.replace('.txt', '')
@@ -204,6 +220,7 @@ for talk in talk_list_text:
     f.writelines(text)
     f.write("\n\n</body></html>\n")
 
+exit()
 
 #
 # Translate HTML files into PDF
