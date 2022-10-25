@@ -1,6 +1,46 @@
 {
 	"talks":[
 	{
+		"title":"Nature as Our Teacher",
+		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
+		"url":"/17157/20221025-Marjolein_Janssen-IMC-nature_as_our_teacher.mp3",
+		"ln":"en",
+		"download_url":"/17157/20221025-Marjolein_Janssen-IMC-nature_as_our_teacher.mp3",
+		"speaker":"Marjolein Janssen",
+		"date":"2022.10.25",
+		"duration":"28:46"
+	},
+	{
+		"title":"Guided Meditation: Receive Experience",
+		"series":"Guided Meditations",
+		"url":"/17156/20221025-Marjolein_Janssen-IMC-guided_meditation_receive_experience.mp3",
+		"ln":"en",
+		"download_url":"/17156/20221025-Marjolein_Janssen-IMC-guided_meditation_receive_experience.mp3",
+		"speaker":"Marjolein Janssen",
+		"date":"2022.10.25",
+		"duration":"27:05"
+	},
+	{
+		"title":"Working with Difficulties",
+		"series":"",
+		"url":"/17153/20221024-Diana_Clark-IMC-working_with_difficulties.mp3",
+		"ln":"en",
+		"download_url":"/17153/20221024-Diana_Clark-IMC-working_with_difficulties.mp3",
+		"speaker":"Diana Clark",
+		"date":"2022.10.24",
+		"duration":"47:10"
+	},
+	{
+		"title":"Guided Loving-Kindness Meditation",
+		"series":"",
+		"url":"/17152/20221024-Liz_Powell-IMC-guided_loving-kindness_meditation.mp3",
+		"ln":"en",
+		"download_url":"/17152/20221024-Liz_Powell-IMC-guided_loving-kindness_meditation.mp3",
+		"speaker":"Liz Powell",
+		"date":"2022.10.24",
+		"duration":"33:57"
+	},
+	{
 		"title":"The Four Roads to Spiritual Power",
 		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
 		"url":"/17139/20221023-Gil_Fronsdal-IMC-the_four_roads_to_spiritual_powergi.mp3",
@@ -59,46 +99,6 @@
 		"speaker":"Liz Powell",
 		"date":"2022.10.20",
 		"duration":"46:01"
-	},
-	{
-		"title":"Senior Sangha Meeting for October 2022 - Contemplation of death",
-		"series":"Senior Sangha Meetings",
-		"url":"/17137/20221020-David_Cohn-IMC_Prog-senior_sangha_meeting_for_october_2022.mp3",
-		"ln":"en",
-		"download_url":"/17137/20221020-David_Cohn-IMC_Prog-senior_sangha_meeting_for_october_2022.mp3",
-		"speaker":"<multiple>",
-		"date":"2022.10.20",
-		"duration":"1:12:02"
-	},
-	{
-		"title":"Dharmette: Meaning (4 of 5) Values We Live By",
-		"series":"Meaning",
-		"url":"/17127/20221020-Gil_Fronsdal-IMC-dharmette_meaning_4_of_5_values_we_live_by.mp3",
-		"ln":"en",
-		"download_url":"/17127/20221020-Gil_Fronsdal-IMC-dharmette_meaning_4_of_5_values_we_live_by.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.10.20",
-		"duration":"14:51"
-	},
-	{
-		"title":"Guided Meditation: Non-Harming",
-		"series":"Guided Meditations",
-		"url":"/17126/20221020-Gil_Fronsdal-IMC-guided_meditation_non-harming.mp3",
-		"ln":"en",
-		"download_url":"/17126/20221020-Gil_Fronsdal-IMC-guided_meditation_non-harming.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.10.20",
-		"duration":"30:19"
-	},
-	{
-		"title":"Happy Hour: Seeing Ourselves as Whole",
-		"series":"",
-		"url":"/17125/20221019-Nikki_Mirghafori-IMC-happy_hour_seeing_ourselves_as_whole.mp3",
-		"ln":"en",
-		"download_url":"/17125/20221019-Nikki_Mirghafori-IMC-happy_hour_seeing_ourselves_as_whole.mp3",
-		"speaker":"Nikki Mirghafori",
-		"date":"2022.10.19",
-		"duration":"50:02"
 	}
 	]
 }

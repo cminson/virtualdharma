@@ -12,6 +12,7 @@
 #   ./data    // directory where all data is kept
 #       raw     // the raw output .txt files from Whisper       
 #       text    // error-corrected text from raw
+#       pre    // formatted text in pre format from text
 #       html    // formatted HTML output from text
 #       pdf     // pdf output from html
 #       template    // the HTML template
@@ -23,6 +24,7 @@
 #   Execute ./filter.py
 #
 #   Cleaned text output will be in ./data/text 
+#   PRE  output will be in ./data/pre
 #   HTML output will be in ./data/html
 #   PDF output will be in ./data/pdf 
 #
@@ -41,6 +43,7 @@ PATH_RAW = "./data/raw/"
 #PATH_RAW = "./data/test/"
 PATH_TEXT = "./data/text/"
 PATH_HTML = "./data/html/"
+PATH_PRE = "./data/pre/"
 PATH_PDF = "./data/pdf/"
 PATH_TEMPLATE = "./data/template/template01.html"
 
@@ -59,6 +62,7 @@ NUMBER_LINES_IN_PARAGRAPH = 5   # number of lines in each paragraph.  arbitrary 
 # Load error-correction pairs
 # Read in current talk attributes from app Config file
 # Translate raw Whisper output to error-corrected text file, puts that into PATH_TEXT
+# Translate PATH_TEXT files into PRE, stores into PATH_PRE
 # Translate PATH_TEXT files into HTML, stores into PATH_HTML
 # Translate PATH_HTML files into PDF, stores into PATH_PDF
 # 
@@ -72,7 +76,7 @@ list_errors = f.readlines()
 f.close()
 print("ERROR CORRECTION LIST:")
 for error in list_errors:
-    (error, correction) = error.split(' ')
+    (error, correction) = error.split(':')
     error = error.strip()
     correction = correction.strip()
     DictErrorCorrections[error] = correction
@@ -141,6 +145,8 @@ for talk in talk_list_raw:
     # ensure lines are complete and always end with a period
     content_blob= ""
     for line in list_lines:
+        line = line.replace('a.m.', 'am');
+        line = line.replace('p.m.', 'pm');
         line = line.replace('\n', ' ');
         content_blob += line
     list_lines = content_blob.split('.')
@@ -213,14 +219,72 @@ for talk in talk_list_text:
         text = text + line + "\n"
         if count > NUMBER_LINES_IN_PARAGRAPH:
             text = text + "<p>\n"
-            f.writelines(text)
+            f.write(text)
             text = ""
             count = 0
 
-    f.writelines(text)
+    f.write(text)
     f.write("\n\n</body></html>\n")
 
+#
+# PRE
+#
+print("TRANSLATING TO PRE")
+
+talk_list_text = os.listdir(PATH_TEXT)
+for talk in talk_list_text:
+
+    print(path_text)
+    path_text = PATH_TEXT + talk
+    f =  open(path_text, encoding='utf-8', errors='ignore')
+    lines = f.readlines()
+    f.close()
+
+    file_name = talk.split('/')[-1]
+    file_name = file_name.replace('.txt', '')
+    if file_name not in TalkAttributes:
+        print("NOT FOUND: ", file_name)
+        continue
+
+    title = TalkAttributes[file_name][0]
+    speaker = TalkAttributes[file_name][1]
+    date = TalkAttributes[file_name][2]
+    duration = TalkAttributes[file_name][3]
+    mp3_name = talk.replace('.txt', '')
+
+    path_pre = PATH_PRE + talk
+    f = open(path_pre, 'w+')
+    print("writing: ", path_pre)
+    f.write(title)
+    f.write("\n")
+    f.write(mp3_name)
+    f.write("\n")
+    f.write(speaker)
+    f.write("\n")
+    f.write(date)
+    f.write("\n")
+    f.write(duration)
+    f.write("\n")
+    f.write("\n")
+
+    count = 0
+    text = ""
+    for line in lines:
+        line = line.strip()
+        line = line.replace('.', '. ')
+        if line == '. ': continue
+        count += 1
+        text = text + line
+        if count > NUMBER_LINES_IN_PARAGRAPH:
+            text = text + "\n\n"
+            f.write(text)
+            text = ""
+            count = 0
+
+    f.write(text)
+
 exit()
+
 
 #
 # Translate HTML files into PDF

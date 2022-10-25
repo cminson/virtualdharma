@@ -20,34 +20,34 @@ a {
 <body>
 <p><br>
 <h2>
-    Transcripts: Top 400 IMC AudioDharma Talks 
+    New Raw Transcripts
 </h2>
 
 <?php
-$PATH_HTML = "./transcripts/data/html/";
 
-//$config = file_get_contents('/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/CONFIG00.JSON');
-//$json_config = json_decode($json_config,true);
+    
+$PATH_CONFIG = "./transcripts/data/json/TRANSCRIPTS00.JSON";
+$PATH_HTML= "./transcripts/data/pre/";
 
+$config_data = file_get_contents($PATH_CONFIG);
+$config_json = json_decode($config_data,true);
+$talks = $config_json["talks"];
 
-$top200 = file_get_contents('/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP200.JSON');
-$json_top200 = json_decode($top200,true);
-
-$talks = $json_top200['talks'];
 
 foreach ($talks as $talk) {
-    $title = $talk['title'];
     $url = $talk['url'];
+    $file_name = $talk['file_name'];
+    $title = $talk['title'];
+    $speaker = $talk['speaker'];
+    $date = $talk['date'];
+    $duration = $talk['duration'];
 
-    $terms = explode("/", $url);
-    $file_name = $terms[2];
-    $path_html_page = $PATH_HTML . $file_name . '.html';
+    $path_html_page = $PATH_HTML . $file_name . '.txt';
 
-    $fullURL = $url;
-        if (file_exists($path_html_page)) {
-        print("<br>");
-        print("<a href=\"$path_html_page\">$title</a>");
-        print("<br>");
+    if (file_exists($path_html_page)) {
+        print("<br>\n");
+        print("<a href=\"$path_html_page\">$title</a>\n");
+        print("<br>\n");
     }
 }
 ?>
