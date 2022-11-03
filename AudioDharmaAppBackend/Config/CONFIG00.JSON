@@ -8,6 +8,26 @@
 	},
 	"talks":[
 	{
+		"title":"Similes for Meditation (4 of 5) Clean and Wrapped in Peace",
+		"series":"",
+		"ln":"en",
+		"url":"/17197/20221103-Gil_Fronsdal-IMC-similes_for_meditation_4_of_5_clean_and_wrapped_in_peace.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"date":"2022.11.03",
+		"duration":"16:24"
+	},
+	{
+		"title":"Guided Meditation: Spacious Body",
+		"series":"Guided Meditations",
+		"ln":"en",
+		"url":"/17196/20221103-Gil_Fronsdal-IMC-guided_meditation_spacious_body.mp3",
+		"speaker":"Gil Fronsdal",
+		"pdf":"",
+		"date":"2022.11.03",
+		"duration":"31:11"
+	},
+	{
 		"title":"Dharmette: Do you know yourself?",
 		"series":"",
 		"ln":"en",
@@ -115482,6 +115502,10 @@
 		"image":"sequence",
 		"talks": [
 		{
+			"title":"Guided Meditation: Spacious Body",
+			"url":"/17196/20221103-Gil_Fronsdal-IMC-guided_meditation_spacious_body.mp3"
+		},
+		{
 			"title":"Guided Meditation: Awareness Like Water",
 			"url":"/17192/20221102-Gil_Fronsdal-IMC-guided_meditation_awareness_like_water.mp3"
 		},
@@ -131075,62 +131099,62 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"1. Dharmette: Similes for Meditation (1 of 5) Kneading Flour",
-			"url":"/17183/20221031-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_1_of_5_kneading_flour.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"2. Guided Meditation: Kneading Awareness Through the Body",
-			"url":"/17182/20221031-Gil_Fronsdal-IMC-guided_meditation_kneading_awareness_through_the_body.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"3. Guided Meditation: Listening with a Quite Mind",
+			"title":"1. Guided Meditation: Listening with a Quite Mind",
 			"url":"/17185/20221101-Gil_Fronsdal-IMC-guided_meditation_listening_with_a_quite_mind.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"4. Restlessness, Worry & Compassion",
-			"url":"/17167/20221027-Matthew_Brensilver-IRC-thursday_dharma_talk.mp3"
+			"title":"2. Guided Meditation: Awareness Like Water",
+			"url":"/17192/20221102-Gil_Fronsdal-IMC-guided_meditation_awareness_like_water.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"5. Dharmette: Similes for Meditation (2 of 5) Refreshing Lake Spring",
+			"title":"3. Dharmette: Do you know yourself?",
+			"url":"/17195/20221102-Gil_Fronsdal-IMC-dharmette_do_you_know_yourself.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"4. Dharmette: Similes for Meditation (2 of 5) Refreshing Lake Spring",
 			"url":"/17186/20221101-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_2_of_5_refreshing_lake_spring.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"6. Ill-Will & Metta",
-			"url":"/17159/20221025-Matthew_Brensilver-IRC-tuesday_dharma_talk_webcast_from_irc.mp3"
+			"title":"5. Dharmette: Similes for Meditation (1 of 5) Kneading Flour",
+			"url":"/17183/20221031-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_1_of_5_kneading_flour.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"7. Leaving prison before you get out",
-			"url":"/17181/20221030-Kim_Moore-IMC-leaving_prison_before_you_get_out.mp3"
+			"title":"6. Restlessness, Worry & Compassion",
+			"url":"/17167/20221027-Matthew_Brensilver-IRC-thursday_dharma_talk.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"8. Wise Intention",
+			"title":"7. Dharmette: Similes for Meditation (3 of 5) Still Water",
+			"url":"/17193/20221102-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_3_of_5_still_water.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"8. Guided Meditation: Kneading Awareness Through the Body",
+			"url":"/17182/20221031-Gil_Fronsdal-IMC-guided_meditation_kneading_awareness_through_the_body.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"9. Wise Intention",
 			"url":"/17184/20221031-Mei_Elliott-IMC-wise_intention.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"9. Guided Meditation: Self and Space",
-			"url":"/17174/20221028-Matthew_Brensilver-IRC-friday_sit_with_instructions_and_announcements.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"10. The Four Roads to Spiritual Power",
-			"url":"/17139/20221023-Gil_Fronsdal-IMC-the_four_roads_to_spiritual_powergi.mp3"
+			"title":"10. Ill-Will & Metta",
+			"url":"/17159/20221025-Matthew_Brensilver-IRC-tuesday_dharma_talk_webcast_from_irc.mp3"
 		}
 		]
 	},
@@ -131150,8 +131174,8 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"2. Just Dont Do It",
-			"url":"/16808/20220814-Gil_Fronsdal-IMC-just_don_t_do_it.mp3"
+			"title":"2. Dharmette: Dharma as Existential Therapy",
+			"url":"/16825/20220819-Matthew_Brensilver-IMC-dharmette_dharma_as_existential_therapy.mp3"
 		},
 		{
 			"series":"",
@@ -131162,8 +131186,8 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"4. Dharmette: Dharma as Existential Therapy",
-			"url":"/16825/20220819-Matthew_Brensilver-IMC-dharmette_dharma_as_existential_therapy.mp3"
+			"title":"4. Just Dont Do It",
+			"url":"/16808/20220814-Gil_Fronsdal-IMC-just_don_t_do_it.mp3"
 		},
 		{
 			"series":"",
@@ -131210,8 +131234,8 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"12. Guided Meditation: Still and Quiet Awareness",
-			"url":"/16801/20220812-Gil_Fronsdal-IMC-guided_meditation_still_quiet_awareness.mp3"
+			"title":"12. Seven Factors of Awakening",
+			"url":"/16986/20220925-Matthew_Brensilver-IMC-seven_factors_of_awakening.mp3"
 		},
 		{
 			"series":"",
@@ -131222,20 +131246,20 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"14. Living From a Healthy Source",
-			"url":"/16907/20220904-Gil_Fronsdal-IMC-living_from_a_healthy_source.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"15. Dharmette: The Dharma, pt 2 (1 of 5) In This Very Life",
+			"title":"14. Dharmette: The Dharma, pt 2 (1 of 5) In This Very Life",
 			"url":"/16911/20220905-Gil_Fronsdal-IMC-dharmette_the_dharma_pt_2_1_of_5_in_this_very_life.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"16. Seven Factors of Awakening",
-			"url":"/16986/20220925-Matthew_Brensilver-IMC-seven_factors_of_awakening.mp3"
+			"title":"15. Living From a Healthy Source",
+			"url":"/16907/20220904-Gil_Fronsdal-IMC-living_from_a_healthy_source.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"16. The Four Roads to Spiritual Power",
+			"url":"/17139/20221023-Gil_Fronsdal-IMC-the_four_roads_to_spiritual_powergi.mp3"
 		},
 		{
 			"series":"",
@@ -131252,8 +131276,8 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"19. The Four Roads to Spiritual Power",
-			"url":"/17139/20221023-Gil_Fronsdal-IMC-the_four_roads_to_spiritual_powergi.mp3"
+			"title":"19. Guided Meditation: Trust",
+			"url":"/17130/20221021-Gil_Fronsdal-IMC-guided_meditation_trust.mp3"
 		},
 		{
 			"series":"",
@@ -131885,14 +131909,14 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"103. Karma",
-			"url":"/325/2003-06-01_GilFronsdal_Karma.mp3"
+			"title":"103. Improvisation and the Messiness of Experience",
+			"url":"/12261/20201015-Matthew_Brensilver-IRC-improvisation_and_the_messiness_of_experience.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"104. Improvisation and the Messiness of Experience",
-			"url":"/12261/20201015-Matthew_Brensilver-IRC-improvisation_and_the_messiness_of_experience.mp3"
+			"title":"104. Karma",
+			"url":"/325/2003-06-01_GilFronsdal_Karma.mp3"
 		},
 		{
 			"series":"",
@@ -131927,14 +131951,14 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"110. Fabrication (sankhara) - Part 2: Lecture and Question and Answer",
-			"url":"/12058/20200905-Ajaan_Thanissaro-sati-fabrication_sankhara_part_2_lecture_and_question_and_answer.mp3"
+			"title":"110. Buddhism Before the Theravada Part 1",
+			"url":"/2592/20110903-John_Peacock-IMC-buddhism_before_the_theravada_part_1.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"111. Buddhism Before the Theravada Part 1",
-			"url":"/2592/20110903-John_Peacock-IMC-buddhism_before_the_theravada_part_1.mp3"
+			"title":"111. Fabrication (sankhara) - Part 2: Lecture and Question and Answer",
+			"url":"/12058/20200905-Ajaan_Thanissaro-sati-fabrication_sankhara_part_2_lecture_and_question_and_answer.mp3"
 		},
 		{
 			"series":"",
@@ -131969,14 +131993,14 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"117. Taking the Backwards Ethical Step",
-			"url":"/11572/20200621-Matthew_Brensilver-IMC-taking_the_backwards_ethical_step.mp3"
+			"title":"117. Clinging and Craving - Part 2",
+			"url":"/9281/20180922-Ajaan_Thanissaro-sati-clinging_and_craving_part_2.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"118. Clinging and Craving - Part 2",
-			"url":"/9281/20180922-Ajaan_Thanissaro-sati-clinging_and_craving_part_2.mp3"
+			"title":"118. Taking the Backwards Ethical Step",
+			"url":"/11572/20200621-Matthew_Brensilver-IMC-taking_the_backwards_ethical_step.mp3"
 		},
 		{
 			"series":"",
@@ -132035,14 +132059,14 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"128. Why do we Have These Habits of Greed, Aversion and Delusion?",
-			"url":"/11660/20200709-Andrea_Fella-IMC-why_do_we_have_these_habits_of_greed_aversion_and_delusion.mp3"
+			"title":"128. Dharmette: Satipatthana (2) Knowing in a New Way",
+			"url":"/14810/20220104-Gil_Fronsdal-IMC-dharmette_satipatthana_2_knowing_in_a_new_way.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"129. Dharmette: Satipatthana (2) Knowing in a New Way",
-			"url":"/14810/20220104-Gil_Fronsdal-IMC-dharmette_satipatthana_2_knowing_in_a_new_way.mp3"
+			"title":"129. Why do we Have These Habits of Greed, Aversion and Delusion?",
+			"url":"/11660/20200709-Andrea_Fella-IMC-why_do_we_have_these_habits_of_greed_aversion_and_delusion.mp3"
 		},
 		{
 			"series":"",
@@ -132059,14 +132083,14 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"132. Guided Body Scan Meditation",
-			"url":"/5209/20141104-Andrea_Fella-IMC-guided_body_scan_meditation.mp3"
+			"title":"132. What is Important",
+			"url":"/12722/20210110-Gil_Fronsdal-IMC-what_is_important.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"133. What is Important",
-			"url":"/12722/20210110-Gil_Fronsdal-IMC-what_is_important.mp3"
+			"title":"133. Guided Body Scan Meditation",
+			"url":"/5209/20141104-Andrea_Fella-IMC-guided_body_scan_meditation.mp3"
 		},
 		{
 			"series":"",
@@ -132209,32 +132233,32 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"157. Web of Thoughts",
+			"title":"157. Grief",
+			"url":"/8761/20180401-Matthew_Brensilver-IMC-grief.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"158. Web of Thoughts",
 			"url":"/10131/20190610-Gil_Fronsdal-IMC-web_of_thoughts.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"158. The Perception of Impermanence",
+			"title":"159. The Perception of Impermanence",
 			"url":"/11366/20200510-Andrea_Fella-IRC-the_perception_of_impermanence.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"159. Sudden and Surprising Reactivity",
+			"title":"160. Sudden and Surprising Reactivity",
 			"url":"/12665/20201224-Andrea_Fella-IMC-sudden_and_surprising_reactivity.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"160. Mindfulness, Thinking, Mindlessness, Rumination",
+			"title":"161. Mindfulness, Thinking, Mindlessness, Rumination",
 			"url":"/14662/20211205-Matthew_Brensilver-IMC-mindfulness_thinking_mindlessness_rumination.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"161. Grief",
-			"url":"/8761/20180401-Matthew_Brensilver-IMC-grief.mp3"
 		},
 		{
 			"series":"",

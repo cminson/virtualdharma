@@ -1,6 +1,26 @@
 {
 	"talks":[
 	{
+		"title":"Similes for Meditation (4 of 5) Clean and Wrapped in Peace",
+		"series":"",
+		"url":"/17197/20221103-Gil_Fronsdal-IMC-similes_for_meditation_4_of_5_clean_and_wrapped_in_peace.mp3",
+		"ln":"en",
+		"download_url":"/17197/20221103-Gil_Fronsdal-IMC-similes_for_meditation_4_of_5_clean_and_wrapped_in_peace.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2022.11.03",
+		"duration":"16:24"
+	},
+	{
+		"title":"Guided Meditation: Spacious Body",
+		"series":"Guided Meditations",
+		"url":"/17196/20221103-Gil_Fronsdal-IMC-guided_meditation_spacious_body.mp3",
+		"ln":"en",
+		"download_url":"/17196/20221103-Gil_Fronsdal-IMC-guided_meditation_spacious_body.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2022.11.03",
+		"duration":"31:11"
+	},
+	{
 		"title":"Dharmette: Do you know yourself?",
 		"series":"",
 		"url":"/17195/20221102-Gil_Fronsdal-IMC-dharmette_do_you_know_yourself.mp3",
@@ -79,26 +99,6 @@
 		"speaker":"Gil Fronsdal",
 		"date":"2022.11.01",
 		"duration":"15:35"
-	},
-	{
-		"title":"Guided Meditation: Listening with a Quite Mind",
-		"series":"Guided Meditations",
-		"url":"/17185/20221101-Gil_Fronsdal-IMC-guided_meditation_listening_with_a_quite_mind.mp3",
-		"ln":"en",
-		"download_url":"/17185/20221101-Gil_Fronsdal-IMC-guided_meditation_listening_with_a_quite_mind.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.11.01",
-		"duration":"30:44"
-	},
-	{
-		"title":"Cultivation through the Divine Abodes",
-		"series":"",
-		"url":"/17189/20221101-Liz_Powell-IMC-cultivation_through_the_divine_abodes.mp3",
-		"ln":"en",
-		"download_url":"/17189/20221101-Liz_Powell-IMC-cultivation_through_the_divine_abodes.mp3",
-		"speaker":"Liz Powell",
-		"date":"2022.11.01",
-		"duration":"46:57"
 	}
 	]
 }

@@ -1,64 +1,64 @@
 {
 "talks": [
 {
-	"title" : "1. Dharmette: Similes for Meditation (1 of 5) Kneading Flour",
-	"url" : "/17183/20221031-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_1_of_5_kneading_flour.mp3",
-	"series" : "",
-	"score" : 107
-},
-{
-	"title" : "2. Guided Meditation: Kneading Awareness Through the Body",
-	"url" : "/17182/20221031-Gil_Fronsdal-IMC-guided_meditation_kneading_awareness_through_the_body.mp3",
-	"series" : "",
-	"score" : 103
-},
-{
-	"title" : "3. Guided Meditation: Listening with a Quite Mind",
+	"title" : "1. Guided Meditation: Listening with a Quite Mind",
 	"url" : "/17185/20221101-Gil_Fronsdal-IMC-guided_meditation_listening_with_a_quite_mind.mp3",
 	"series" : "",
-	"score" : 98
+	"score" : 117
 },
 {
-	"title" : "4. Restlessness, Worry & Compassion",
-	"url" : "/17167/20221027-Matthew_Brensilver-IRC-thursday_dharma_talk.mp3",
+	"title" : "2. Guided Meditation: Awareness Like Water",
+	"url" : "/17192/20221102-Gil_Fronsdal-IMC-guided_meditation_awareness_like_water.mp3",
 	"series" : "",
-	"score" : 66
+	"score" : 85
 },
 {
-	"title" : "5. Dharmette: Similes for Meditation (2 of 5) Refreshing Lake Spring",
+	"title" : "3. Dharmette: Do you know yourself?",
+	"url" : "/17195/20221102-Gil_Fronsdal-IMC-dharmette_do_you_know_yourself.mp3",
+	"series" : "",
+	"score" : 76
+},
+{
+	"title" : "4. Dharmette: Similes for Meditation (2 of 5) Refreshing Lake Spring",
 	"url" : "/17186/20221101-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_2_of_5_refreshing_lake_spring.mp3",
 	"series" : "",
-	"score" : 65
+	"score" : 75
 },
 {
-	"title" : "6. Ill-Will & Metta",
-	"url" : "/17159/20221025-Matthew_Brensilver-IRC-tuesday_dharma_talk_webcast_from_irc.mp3",
+	"title" : "5. Dharmette: Similes for Meditation (1 of 5) Kneading Flour",
+	"url" : "/17183/20221031-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_1_of_5_kneading_flour.mp3",
 	"series" : "",
-	"score" : 46
+	"score" : 58
 },
 {
-	"title" : "7. Leaving prison before you get out",
-	"url" : "/17181/20221030-Kim_Moore-IMC-leaving_prison_before_you_get_out.mp3",
+	"title" : "6. Restlessness, Worry & Compassion",
+	"url" : "/17167/20221027-Matthew_Brensilver-IRC-thursday_dharma_talk.mp3",
 	"series" : "",
-	"score" : 42
+	"score" : 50
 },
 {
-	"title" : "8. Wise Intention",
+	"title" : "7. Dharmette: Similes for Meditation (3 of 5) Still Water",
+	"url" : "/17193/20221102-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_3_of_5_still_water.mp3",
+	"series" : "",
+	"score" : 47
+},
+{
+	"title" : "8. Guided Meditation: Kneading Awareness Through the Body",
+	"url" : "/17182/20221031-Gil_Fronsdal-IMC-guided_meditation_kneading_awareness_through_the_body.mp3",
+	"series" : "",
+	"score" : 37
+},
+{
+	"title" : "9. Wise Intention",
 	"url" : "/17184/20221031-Mei_Elliott-IMC-wise_intention.mp3",
-	"series" : "",
-	"score" : 42
-},
-{
-	"title" : "9. The Four Roads to Spiritual Power",
-	"url" : "/17139/20221023-Gil_Fronsdal-IMC-the_four_roads_to_spiritual_powergi.mp3",
 	"series" : "",
 	"score" : 34
 },
 {
-	"title" : "10. Guided Meditation: Self and Space",
-	"url" : "/17174/20221028-Matthew_Brensilver-IRC-friday_sit_with_instructions_and_announcements.mp3",
+	"title" : "10. Ill-Will & Metta",
+	"url" : "/17159/20221025-Matthew_Brensilver-IRC-tuesday_dharma_talk_webcast_from_irc.mp3",
 	"series" : "",
-	"score" : 32
+	"score" : 34
 }
 ]
 }
