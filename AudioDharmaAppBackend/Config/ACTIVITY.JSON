@@ -1,6 +1,41 @@
 {
 "sangha_history": [
 {
+	"filename" : "20221005-Gil_Fronsdal-IMC-dharmette_consciousness_3_of_5_consious_of_pleasure.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.10.05",
+	"city" : "East Hampton",
+	"country" : "United States"
+},
+{
+	"filename" : "20221105-Kim_Allen-sati-the_dhammapada_gems_of_wisdom_1_of_3.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.11.05",
+	"city" : "Belmont",
+	"country" : "United States"
+},
+{
+	"filename" : "20220111-Gil_Fronsdal-IMC-dharmette_satipatthana_6_breathing_aware_of_the_whole_body.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.01.11",
+	"city" : "Portland",
+	"country" : "United States"
+},
+{
+	"filename" : "20221104-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_5_of_5_lake_clearly_seen.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.11.04",
+	"city" : "Carcassonne",
+	"country" : "France"
+},
+{
+	"filename" : "20201028-Gil_Fronsdal-IMC-guided_meditation_mindfulness_as_observation.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2020.10.28",
+	"city" : "Shaw",
+	"country" : "United States"
+},
+{
 	"filename" : "20221012-Gil_Fronsdal-IMC-dharmette_conditioned_consciousness_3_of_5_craving_and_aspiration.mp3",
 	"operation" : "PLAYTALK",
 	"date" : "2022.10.12",
@@ -4437,48 +4472,6 @@
 	"date" : "2022.11.02",
 	"city" : "Adelaide",
 	"country" : "Australia"
-},
-{
-	"filename" : "20221026-Matthew_Brensilver-IRC-wednesday_sit_with_instructions_and_announcements.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.10.26",
-	"city" : "Kolding",
-	"country" : "Denmark"
-},
-{
-	"filename" : "20221102-Gil_Fronsdal-IMC-dharmette_do_you_know_yourself.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.11.02",
-	"city" : "Thatcham",
-	"country" : "Great Britain"
-},
-{
-	"filename" : "20221102-Gil_Fronsdal-IMC-dharmette_do_you_know_yourself.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.11.02",
-	"city" : "Riverside",
-	"country" : "United States"
-},
-{
-	"filename" : "20120819-Ayya_Santacitta-IMC-practice_and_skillful_management_of_information_overload.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2012.08.19",
-	"city" : "Ripon",
-	"country" : "United States"
-},
-{
-	"filename" : "20221103-Gil_Fronsdal-IMC-similes_for_meditation_4_of_5_clean_and_wrapped_in_peace.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.11.03",
-	"city" : "Charlotte",
-	"country" : "United States"
-},
-{
-	"filename" : "20181020-Gil_Fronsdal-IMC-samatha_vipassana.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2018.10.20",
-	"city" : "Didcot",
-	"country" : "Great Britain"
 }
 ],
 "sangha_shares": [
