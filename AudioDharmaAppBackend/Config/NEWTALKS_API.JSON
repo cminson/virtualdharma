@@ -1,6 +1,66 @@
 {
 	"talks":[
 	{
+		"title":"Ritual",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/17210/20221106-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-ritual.mp3",
+		"ln":"en",
+		"download_url":"/17210/20221106-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-ritual.mp3",
+		"speaker":"Ying Chen",
+		"date":"2022.11.06",
+		"duration":"44:34"
+	},
+	{
+		"title":"Guided Meditation: Ritual",
+		"series":"Guided Meditations",
+		"url":"/cache/fa4d63525a9ba99fd1d03015d413cab2.mp3",
+		"ln":"en",
+		"download_url":"/cache/fa4d63525a9ba99fd1d03015d413cab2.mp3",
+		"speaker":"Ying Chen",
+		"date":"2022.11.06",
+		"duration":"--"
+	},
+	{
+		"title":"The Dhammapada: Gems of Wisdom (1 of 3)",
+		"series":"The Dhammapada: Gems of Wisdom",
+		"url":"/17206/20221105-Kim_Allen-sati-the_dhammapada_gems_of_wisdom_1_of_3.mp3",
+		"ln":"en",
+		"download_url":"/17206/20221105-Kim_Allen-sati-the_dhammapada_gems_of_wisdom_1_of_3.mp3",
+		"speaker":"Kim Allen",
+		"date":"2022.11.05",
+		"duration":"1:16:17"
+	},
+	{
+		"title":"Dharmette: Similes for Meditation (5 of 5) Lake Clearly Seen",
+		"series":"",
+		"url":"/17200/20221104-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_5_of_5_lake_clearly_seen.mp3",
+		"ln":"en",
+		"download_url":"/17200/20221104-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_5_of_5_lake_clearly_seen.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2022.11.04",
+		"duration":"17:54"
+	},
+	{
+		"title":"Guided Meditation: Seeing the Ordinary Clearly",
+		"series":"Guided Meditations",
+		"url":"/17199/20221104-Gil_Fronsdal-IMC-guided_meditation_seeing_the_ordinary_clearly.mp3",
+		"ln":"en",
+		"download_url":"/17199/20221104-Gil_Fronsdal-IMC-guided_meditation_seeing_the_ordinary_clearly.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2022.11.04",
+		"duration":"30:51"
+	},
+	{
+		"title":"Meeting Body, Heart & Mind",
+		"series":"",
+		"url":"/17205/20221103-Liz_Powell-IMC-meeting_body_heart_mind.mp3",
+		"ln":"en",
+		"download_url":"/17205/20221103-Liz_Powell-IMC-meeting_body_heart_mind.mp3",
+		"speaker":"Liz Powell",
+		"date":"2022.11.03",
+		"duration":"40:10"
+	},
+	{
 		"title":"Similes for Meditation (4 of 5) Clean and Wrapped in Peace",
 		"series":"",
 		"url":"/17197/20221103-Gil_Fronsdal-IMC-similes_for_meditation_4_of_5_clean_and_wrapped_in_peace.mp3",
@@ -21,84 +81,14 @@
 		"duration":"31:11"
 	},
 	{
-		"title":"Dharmette: Do you know yourself?",
+		"title":"Introduction to Mindfulness Meditation: breath and body",
 		"series":"",
-		"url":"/17195/20221102-Gil_Fronsdal-IMC-dharmette_do_you_know_yourself.mp3",
+		"url":"/17198/20221103-Tanya_Wiser-IMC-introduction_to_mindfulness_meditation_breath_and_body.mp3",
 		"ln":"en",
-		"download_url":"/17195/20221102-Gil_Fronsdal-IMC-dharmette_do_you_know_yourself.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.11.02",
-		"duration":"12:44"
-	},
-	{
-		"title":"Practice Notes - Unobstructed Awareness",
-		"series":"",
-		"url":"/17194/20221102-Gil_Fronsdal-IMC-practice_notes_-_unobstructed_awareness.mp3",
-		"ln":"en",
-		"download_url":"/17194/20221102-Gil_Fronsdal-IMC-practice_notes_-_unobstructed_awareness.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.11.02",
-		"duration":"02:01"
-	},
-	{
-		"title":"Dharmette: Similes for Meditation (3 of 5) Still Water",
-		"series":"",
-		"url":"/17193/20221102-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_3_of_5_still_water.mp3",
-		"ln":"en",
-		"download_url":"/17193/20221102-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_3_of_5_still_water.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.11.02",
-		"duration":"14:00"
-	},
-	{
-		"title":"Guided Meditation: Awareness Like Water",
-		"series":"Guided Meditations",
-		"url":"/17192/20221102-Gil_Fronsdal-IMC-guided_meditation_awareness_like_water.mp3",
-		"ln":"en",
-		"download_url":"/17192/20221102-Gil_Fronsdal-IMC-guided_meditation_awareness_like_water.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.11.02",
-		"duration":"31:37"
-	},
-	{
-		"title":"Consciencia e interconexión",
-		"series":"",
-		"url":"/17191/20221101-Sandra_Sanabria-IRC-consciencia_e_interconexion.mp3",
-		"ln":"es",
-		"download_url":"/17191/20221101-Sandra_Sanabria-IRC-consciencia_e_interconexion.mp3",
-		"speaker":"Sandra Sanabria",
-		"date":"2022.11.01",
-		"duration":"30:12"
-	},
-	{
-		"title":"Meditación",
-		"series":"",
-		"url":"/17190/20221101-Sandra_Sanabria-IMC-meditacion.mp3",
-		"ln":"es",
-		"download_url":"/17190/20221101-Sandra_Sanabria-IMC-meditacion.mp3",
-		"speaker":"Sandra Sanabria",
-		"date":"2022.11.01",
-		"duration":"30:33"
-	},
-	{
-		"title":"Patience",
-		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
-		"url":"/17188/20221101-Liz_Powell-IMC-patience.mp3",
-		"ln":"en",
-		"download_url":"/17188/20221101-Liz_Powell-IMC-patience.mp3",
-		"speaker":"Liz Powell",
-		"date":"2022.11.01",
-		"duration":"1:12:59"
-	},
-	{
-		"title":"Dharmette: Similes for Meditation (2 of 5) Refreshing Lake Spring",
-		"series":"Similes for Meditation",
-		"url":"/17186/20221101-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_2_of_5_refreshing_lake_spring.mp3",
-		"ln":"en",
-		"download_url":"/17186/20221101-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_2_of_5_refreshing_lake_spring.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.11.01",
-		"duration":"15:35"
+		"download_url":"/17198/20221103-Tanya_Wiser-IMC-introduction_to_mindfulness_meditation_breath_and_body.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2022.11.03",
+		"duration":"1:32:16"
 	}
 	]
 }

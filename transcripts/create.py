@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #
-# Filter.py
+# create.py
 # Christopher Minson
 #
 # Translates raw whisper output to formatted error-corrected HTML and PDF
