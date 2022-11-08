@@ -1,6 +1,46 @@
 {
 	"talks":[
 	{
+		"title":"(2 of 5) The Precepts: Keeping Us Safely on the Path",
+		"series":"",
+		"url":"/17216/20221108-Kodo_Conlin-IMC-2_of_5_the_precepts_keeping_us_safely_on_the_path.mp3",
+		"ln":"en",
+		"download_url":"/17216/20221108-Kodo_Conlin-IMC-2_of_5_the_precepts_keeping_us_safely_on_the_path.mp3",
+		"speaker":"Kodo Conlin",
+		"date":"2022.11.08",
+		"duration":"15:03"
+	},
+	{
+		"title":"Enter Here",
+		"series":"",
+		"url":"/17215/20221107-Diana_Clark-IMC-enter_here.mp3",
+		"ln":"en",
+		"download_url":"/17215/20221107-Diana_Clark-IMC-enter_here.mp3",
+		"speaker":"Diana Clark",
+		"date":"2022.11.07",
+		"duration":"45:18"
+	},
+	{
+		"title":"Happy Hour: Metta for Nature -- Including People",
+		"series":"",
+		"url":"/17214/20221107-Dawn_Neal-IRC-happy_hour_metta_for_creatures_and_nature_--_including_people.mp3",
+		"ln":"en",
+		"download_url":"/17214/20221107-Dawn_Neal-IRC-happy_hour_metta_for_creatures_and_nature_--_including_people.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2022.11.07",
+		"duration":"53:25"
+	},
+	{
+		"title":"The Precepts (1 of 5): Keeping Us Safely on the Path",
+		"series":"7am Weekday Sit & Dharmette",
+		"url":"/17212/20221107-Kodo_Conlin-IMC-the_precepts_1_of_5_keeping_us_safely_on_the_path.mp3",
+		"ln":"en",
+		"download_url":"/17212/20221107-Kodo_Conlin-IMC-the_precepts_1_of_5_keeping_us_safely_on_the_path.mp3",
+		"speaker":"Kodo Conlin",
+		"date":"2022.11.07",
+		"duration":"14:55"
+	},
+	{
 		"title":"Ritual",
 		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
 		"url":"/17210/20221106-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-ritual.mp3",
@@ -13,12 +53,12 @@
 	{
 		"title":"Guided Meditation: Ritual",
 		"series":"Guided Meditations",
-		"url":"/cache/fa4d63525a9ba99fd1d03015d413cab2.mp3",
+		"url":"/17209/20221106-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_ritual.mp3",
 		"ln":"en",
-		"download_url":"/cache/fa4d63525a9ba99fd1d03015d413cab2.mp3",
+		"download_url":"/17209/20221106-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_ritual.mp3",
 		"speaker":"Ying Chen",
 		"date":"2022.11.06",
-		"duration":"--"
+		"duration":"37:44"
 	},
 	{
 		"title":"The Dhammapada: Gems of Wisdom (1 of 3)",
@@ -32,7 +72,7 @@
 	},
 	{
 		"title":"Dharmette: Similes for Meditation (5 of 5) Lake Clearly Seen",
-		"series":"",
+		"series":"Similes for Meditation",
 		"url":"/17200/20221104-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_5_of_5_lake_clearly_seen.mp3",
 		"ln":"en",
 		"download_url":"/17200/20221104-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_5_of_5_lake_clearly_seen.mp3",
@@ -49,46 +89,6 @@
 		"speaker":"Gil Fronsdal",
 		"date":"2022.11.04",
 		"duration":"30:51"
-	},
-	{
-		"title":"Meeting Body, Heart & Mind",
-		"series":"",
-		"url":"/17205/20221103-Liz_Powell-IMC-meeting_body_heart_mind.mp3",
-		"ln":"en",
-		"download_url":"/17205/20221103-Liz_Powell-IMC-meeting_body_heart_mind.mp3",
-		"speaker":"Liz Powell",
-		"date":"2022.11.03",
-		"duration":"40:10"
-	},
-	{
-		"title":"Similes for Meditation (4 of 5) Clean and Wrapped in Peace",
-		"series":"",
-		"url":"/17197/20221103-Gil_Fronsdal-IMC-similes_for_meditation_4_of_5_clean_and_wrapped_in_peace.mp3",
-		"ln":"en",
-		"download_url":"/17197/20221103-Gil_Fronsdal-IMC-similes_for_meditation_4_of_5_clean_and_wrapped_in_peace.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.11.03",
-		"duration":"16:24"
-	},
-	{
-		"title":"Guided Meditation: Spacious Body",
-		"series":"Guided Meditations",
-		"url":"/17196/20221103-Gil_Fronsdal-IMC-guided_meditation_spacious_body.mp3",
-		"ln":"en",
-		"download_url":"/17196/20221103-Gil_Fronsdal-IMC-guided_meditation_spacious_body.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2022.11.03",
-		"duration":"31:11"
-	},
-	{
-		"title":"Introduction to Mindfulness Meditation: breath and body",
-		"series":"",
-		"url":"/17198/20221103-Tanya_Wiser-IMC-introduction_to_mindfulness_meditation_breath_and_body.mp3",
-		"ln":"en",
-		"download_url":"/17198/20221103-Tanya_Wiser-IMC-introduction_to_mindfulness_meditation_breath_and_body.mp3",
-		"speaker":"Tanya Wiser",
-		"date":"2022.11.03",
-		"duration":"1:32:16"
 	}
 	]
 }
