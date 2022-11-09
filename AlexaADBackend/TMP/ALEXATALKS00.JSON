@@ -27,29 +27,29 @@
 	{
 		"number":"Talk 3",
 		"speaker":"Gil Fronsdal",
-		"title":"Paramis: Patience",
-		"date":"April 18, 2005",
-		"url":"https://audiodharma.us-east-1.linodeobjects.com/talks//668/2005-04-18_GilFronsdal_ParamisPatience.mp3",
-		"filename":"/668/2005-04-18_GilFronsdal_ParamisPatience.mp3",
-		"minutes":"42"
+		"title":"Concentration",
+		"date":"June 14, 2004",
+		"url":"https://audiodharma.us-east-1.linodeobjects.com/talks//503/2004-06-14_GilFronsdal_Concentration.mp3",
+		"filename":"/503/2004-06-14_GilFronsdal_Concentration.mp3",
+		"minutes":"46"
 	},
 	{
 		"number":"Talk 4",
-		"speaker":"Gil Fronsdal",
-		"title":"Guided Meditation: Seeing Peacefully",
-		"date":"August 31, 2022",
-		"url":"https://audiodharma.us-east-1.linodeobjects.com/talks//16890/20220831-Gil_Fronsdal-IMC-guided_meditation_seeing_peacefully.mp3",
-		"filename":"/16890/20220831-Gil_Fronsdal-IMC-guided_meditation_seeing_peacefully.mp3",
-		"minutes":"32"
+		"speaker":"Matthew Brensilver",
+		"title":"Dharmette: Dharma as Existential Therapy",
+		"date":"August 19, 2022",
+		"url":"https://audiodharma.us-east-1.linodeobjects.com/talks//16825/20220819-Matthew_Brensilver-IMC-dharmette_dharma_as_existential_therapy.mp3",
+		"filename":"/16825/20220819-Matthew_Brensilver-IMC-dharmette_dharma_as_existential_therapy.mp3",
+		"minutes":"15"
 	},
 	{
 		"number":"Talk 5",
-		"speaker":"Matthew Brensilver",
-		"title":"Mindfulness, Thinking, Mindlessness, Rumination",
-		"date":"December 5, 2021",
-		"url":"https://audiodharma.us-east-1.linodeobjects.com/talks//14662/20211205-Matthew_Brensilver-IMC-mindfulness_thinking_mindlessness_rumination.mp3",
-		"filename":"/14662/20211205-Matthew_Brensilver-IMC-mindfulness_thinking_mindlessness_rumination.mp3",
-		"minutes":"43"
+		"speaker":"Ajaan Thanissaro",
+		"title":"War on Karma",
+		"date":"April 25, 2005",
+		"url":"https://audiodharma.us-east-1.linodeobjects.com/talks//673/2005-04-25_ThanissaroBhikkhu_WarOnKarma.mp3",
+		"filename":"/673/2005-04-25_ThanissaroBhikkhu_WarOnKarma.mp3",
+		"minutes":"52"
 	}
 	]
 }

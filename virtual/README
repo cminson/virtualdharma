@@ -1,0 +1,13 @@
+
+# list all models
+openai api fine_tunes.list
+
+# delete model
+openai api models.delete -i <FINE_TUNED_MODEL>
+
+# train model
+openai api fine_tunes.create -t /var/www/virtualdharma/httpdocs/virtual/data/training/AD.MIN -m ada
+
+
+# active models
+ft-2KlgikGJfJ3BZ3ZP7RtIUkNq

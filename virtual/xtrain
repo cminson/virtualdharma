@@ -1,1 +1,1 @@
-openai api fine_tunes.create -t /var/www/virtualdharma/httpdocs/virtual/data/training/AD.MIN -m ada
+openai api fine_tunes.create -t /var/www/virtualdharma/httpdocs/virtual/data/training/MIN.TRAIN.DATA -m ada

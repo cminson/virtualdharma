@@ -11,13 +11,15 @@ import sys
 import string
 import json
 import datetime
+import random
 
 
 PATH_JSON_CONFIG = "./CONFIG00.JSON"
-PATH_INPUT = "./data/text/"
+PATH_INPUT_TEXT = "./data/text/"
 
-PATH_TRAIN = "./data/training/AD.TRAIN"
-PATH_LINES = "./data/training/AD.LINES"
+PATH_MAX_TRAIN_DATA = "./data/training/MAX.TRAIN.DATA"
+PATH_MIN_TRAIN_DATA = "./data/training/MIN.TRAIN.DATA"
+PATH_AD_CONTENT = "./data/training/AD.CONTENT.LINES"
 
 MIN_LINE_LENGTH = 25
 
@@ -48,8 +50,8 @@ for talk in all_talks['talks']:
     TalkAttributes[mp3_name] = (title, speaker, date, duration)
 
 
-fd_lines = open(PATH_LINES, 'w')
-list_files = os.listdir(PATH_INPUT)
+fd_lines = open(PATH_AD_CONTENT, 'w')
+list_files = os.listdir(PATH_INPUT_TEXT)
 for file_name in list_files:
 
     title = ""
@@ -60,7 +62,7 @@ for file_name in list_files:
     else:
         print("ERROR: file_name not found", mp3_name)
 
-    path_transcript = PATH_INPUT + file_name
+    path_transcript = PATH_INPUT_TEXT + file_name
     f =  open(path_transcript)
     list_lines = f.readlines()
     f.close()
@@ -75,8 +77,8 @@ for file_name in list_files:
 #sys.exit()
 
 
-fd_train = open(PATH_TRAIN, 'w')
-list_files = os.listdir(PATH_INPUT)
+fd_train = open(PATH_MAX_TRAIN_DATA, 'w')
+list_files = os.listdir(PATH_INPUT_TEXT)
 for file_name in list_files:
 
     title = ""
@@ -87,7 +89,7 @@ for file_name in list_files:
     else:
         print("ERROR: file_name not found", mp3_name)
 
-    path_transcript = PATH_INPUT + file_name
+    path_transcript = PATH_INPUT_TEXT + file_name
     f =  open(path_transcript)
     list_lines = f.readlines()
     f.close()
@@ -98,6 +100,48 @@ for file_name in list_files:
         #print("{{\"prompt\": \"{0}\", \"completion\": \"{1}\"}}".format(title,line))
         if len(line) > MIN_LINE_LENGTH:
             fd_train.write(text)
+
+fd_train.close()
+
+
+fd_train = open(PATH_MIN_TRAIN_DATA, 'w')
+list_files = os.listdir(PATH_INPUT_TEXT)
+for file_name in list_files:
+
+    title = ""
+    mp3_name = file_name.replace(".txt","")
+    if mp3_name in TalkAttributes:
+        attributes = TalkAttributes[mp3_name]
+        title = attributes[0]
+    else:
+        print("ERROR: file_name not found", mp3_name)
+
+    path_transcript = PATH_INPUT_TEXT + file_name
+    f =  open(path_transcript)
+    list_lines = f.readlines()
+    f.close()
+
+    for line in list_lines:
+        r = random.randrange(10)
+        if r != 0: continue
+
+        line = line.strip()
+        text = "{{\"prompt\": \"{0}\", \"completion\": \"{1}\"}}\n".format(title,line)
+        #print("{{\"prompt\": \"{0}\", \"completion\": \"{1}\"}}".format(title,line))
+        if len(line) > MIN_LINE_LENGTH:
+            fd_train.write(text)
+
+fd_train.close()
+
+
+
+
+
+
+
+
+
+
 
 
 

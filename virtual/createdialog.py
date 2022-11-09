@@ -29,6 +29,9 @@ ModelMaxTokens = 100
 ModelFrequencyPenalty = 0.0
 ModelPresencePenalty = 0.6
 
+VALID_END_OF_LINE = ['.', '?', '!']
+
+
 
 def generateText(promptText):
 
@@ -45,13 +48,20 @@ def generateText(promptText):
     text = response['choices'][0]['text']
     print("RESPONSE: ", text)
     list_text = text.split('\n')
+
     list_text = [line for line in list_text if len(line) > MIN_LINE_LENGTH]
-    #list_text = [line for line in list_text if (line[-1]) == '.']
+    list_text = [line for line in list_text if (line[-1]) == '.' or line[-1] == '?' or line[-1] == '?']
     list_text = [line for line in list_text]
-    #print("RAW: ", list_text)
-    list_text_top = list_text[0:2]
-    print("RAW:0:2: ", list_text_top)
-    text = ' '.join([line for line in list_text_top])
+
+    if len(list_text) == 0:
+        print("ERROR: ", list_text)
+        list_text = [random.choice(Lines_All).strip()]
+        #sys.exit()
+    else:
+        list_text_top = list_text[0:2]
+        print("RAW:0:2: ", list_text_top)
+        text = ' '.join([line for line in list_text_top])
+
     print("TEXT:", text)
     return text
 
@@ -61,8 +71,8 @@ def generatePrompt(prompt_base):
     prompt_lines = [line for line in prompt_lines if len(line) > MIN_LINE_LENGTH]
     print("PROMPT_LINES: ", prompt_lines)
     prompt_start = prompt_lines[-1]
-    random_choice = random.choice(Lines_All).strip()
-    prompt = prompt_start + '. ' + random_choice 
+    random_line = random.choice(Lines_All).strip()
+    prompt = prompt_start + '. ' + random_line 
     #prompt = random_choice + ' ' + prompt_start 
 
     print("PROMPT: ", prompt)
