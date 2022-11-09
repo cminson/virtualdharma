@@ -10,4 +10,4 @@ openai api fine_tunes.create -t /var/www/virtualdharma/httpdocs/virtual/data/tra
 
 
 # active models
-ft-2KlgikGJfJ3BZ3ZP7RtIUkNq
+ada:ft-personal-2022-11-09-19-02-44

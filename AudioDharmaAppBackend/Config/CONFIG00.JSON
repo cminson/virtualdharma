@@ -8,6 +8,26 @@
 	},
 	"talks":[
 	{
+		"title":"Felt Sense, Naturally",
+		"series":"",
+		"ln":"en",
+		"url":"/17222/20221109-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-felt_sense_naturally.mp3",
+		"speaker":"Ying Chen",
+		"pdf":"",
+		"date":"2022.11.09",
+		"duration":"13:49"
+	},
+	{
+		"title":"A few Words about Felt Sense",
+		"series":"",
+		"ln":"en",
+		"url":"/17221/20221109-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-a_few_words_about_felt_sense.mp3",
+		"speaker":"Ying Chen",
+		"pdf":"",
+		"date":"2022.11.09",
+		"duration":"09:42"
+	},
+	{
 		"title":"Samãdhi y los cinco obstáculos",
 		"series":"",
 		"ln":"es",
@@ -121663,6 +121683,14 @@
 		"image":"sequence",
 		"talks": [
 		{
+			"title":"Felt Sense, Naturally",
+			"url":"/17222/20221109-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-felt_sense_naturally.mp3"
+		},
+		{
+			"title":"A few Words about Felt Sense",
+			"url":"/17221/20221109-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-a_few_words_about_felt_sense.mp3"
+		},
+		{
 			"title":"The Precepts (1 of 5): Keeping Us Safely on the Path",
 			"url":"/17212/20221107-Kodo_Conlin-IMC-the_precepts_1_of_5_keeping_us_safely_on_the_path.mp3"
 		},
@@ -131331,26 +131359,26 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"5. Dharmette: Do you know yourself?",
+			"title":"5. Dharmette: Similes for Meditation (5 of 5) Lake Clearly Seen",
+			"url":"/17200/20221104-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_5_of_5_lake_clearly_seen.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"6. Dharmette: Do you know yourself?",
 			"url":"/17195/20221102-Gil_Fronsdal-IMC-dharmette_do_you_know_yourself.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"6. Guided Meditation: Spacious Body",
+			"title":"7. Guided Meditation: Spacious Body",
 			"url":"/17196/20221103-Gil_Fronsdal-IMC-guided_meditation_spacious_body.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"7. Guided Meditation: Listening with a Quite Mind",
+			"title":"8. Guided Meditation: Listening with a Quite Mind",
 			"url":"/17185/20221101-Gil_Fronsdal-IMC-guided_meditation_listening_with_a_quite_mind.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"8. Dharmette: Similes for Meditation (5 of 5) Lake Clearly Seen",
-			"url":"/17200/20221104-Gil_Fronsdal-IMC-dharmette_similes_for_meditation_5_of_5_lake_clearly_seen.mp3"
 		},
 		{
 			"series":"",
@@ -131406,20 +131434,20 @@
 		{
 			"series":"",
 			"section":"_",
-			"title":"6. Dharmette: Dharma as Existential Therapy",
-			"url":"/16825/20220819-Matthew_Brensilver-IMC-dharmette_dharma_as_existential_therapy.mp3"
-		},
-		{
-			"series":"",
-			"section":"_",
-			"title":"7. Dharmette: Trusting Life",
+			"title":"6. Dharmette: Trusting Life",
 			"url":"/16895/20220831-Gil_Fronsdal-IMC-dharmette_trusting_life.mp3"
 		},
 		{
 			"series":"",
 			"section":"_",
-			"title":"8. Seven Factors of Awakening",
+			"title":"7. Seven Factors of Awakening",
 			"url":"/16986/20220925-Matthew_Brensilver-IMC-seven_factors_of_awakening.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"8. Dharmette: Dharma as Existential Therapy",
+			"url":"/16825/20220819-Matthew_Brensilver-IMC-dharmette_dharma_as_existential_therapy.mp3"
 		},
 		{
 			"series":"",

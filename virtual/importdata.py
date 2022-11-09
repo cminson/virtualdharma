@@ -69,6 +69,7 @@ for file_name in list_files:
 
     for line in list_lines:
         #line = line.strip()
+        line = line.replace("\"","")
         if len(line) > MIN_LINE_LENGTH:
             fd_lines.write(line)
         #print(line)
@@ -96,6 +97,8 @@ for file_name in list_files:
 
     for line in list_lines:
         line = line.strip()
+        line = line.replace("\"","")
+        title = title.replace("\"","")
         text = "{{\"prompt\": \"{0}\", \"completion\": \"{1}\"}}\n".format(title,line)
         #print("{{\"prompt\": \"{0}\", \"completion\": \"{1}\"}}".format(title,line))
         if len(line) > MIN_LINE_LENGTH:
@@ -126,6 +129,8 @@ for file_name in list_files:
         if r != 0: continue
 
         line = line.strip()
+        line = line.replace("\"","")
+        title = title.replace("\"","")
         text = "{{\"prompt\": \"{0}\", \"completion\": \"{1}\"}}\n".format(title,line)
         #print("{{\"prompt\": \"{0}\", \"completion\": \"{1}\"}}".format(title,line))
         if len(line) > MIN_LINE_LENGTH:

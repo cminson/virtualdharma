@@ -14,13 +14,13 @@ import openai
 import random
 
 
-PATH_TRAIN = "./data/training/AD.TRAIN"
-PATH_LINES = "./data/training/AD.LINES"
+PATH_CONTENT_LINES = "./data/training/AD.CONTENT.LINES"
 PATH_DATABASE = "./data/DATABASE"
 
 START_PROMPT = "Now we begin our infinite conversation. The topics will be innumberable as we explore the Dharma."
 #ACTIVE_MODEL = "text-davinci-002"
-ACTIVE_MODEL = "text-ada-001"
+ACTIVE_MODEL = 'text-ada-001'
+ACTIVE_MODEL = 'ada:ft-personal-2022-11-09-19-02-44'
 NUM_ITERATIONS = 10
 MIN_LINE_LENGTH = 10
 
@@ -81,7 +81,7 @@ def generatePrompt(prompt_base):
 
 
 
-f = open(PATH_LINES, "r")
+f = open(PATH_CONTENT_LINES, "r")
 Lines_All = f.readlines()
 
 #prompt = generatePrompt(START_PROMPT)

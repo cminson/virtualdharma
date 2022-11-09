@@ -1,6 +1,26 @@
 {
 	"talks":[
 	{
+		"title":"Felt Sense, Naturally",
+		"series":"",
+		"url":"/17222/20221109-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-felt_sense_naturally.mp3",
+		"ln":"en",
+		"download_url":"/17222/20221109-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-felt_sense_naturally.mp3",
+		"speaker":"Ying Chen",
+		"date":"2022.11.09",
+		"duration":"13:49"
+	},
+	{
+		"title":"A few Words about Felt Sense",
+		"series":"",
+		"url":"/17221/20221109-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-a_few_words_about_felt_sense.mp3",
+		"ln":"en",
+		"download_url":"/17221/20221109-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-a_few_words_about_felt_sense.mp3",
+		"speaker":"Ying Chen",
+		"date":"2022.11.09",
+		"duration":"09:42"
+	},
+	{
 		"title":"Samãdhi y los cinco obstáculos",
 		"series":"",
 		"url":"/17220/20221108-Sandra_Sanabria-IMC-samadhi_y_los_cinco_obstaculos.mp3",
@@ -79,26 +99,6 @@
 		"speaker":"Kodo Conlin",
 		"date":"2022.11.07",
 		"duration":"14:55"
-	},
-	{
-		"title":"Ritual",
-		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
-		"url":"/17210/20221106-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-ritual.mp3",
-		"ln":"en",
-		"download_url":"/17210/20221106-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-ritual.mp3",
-		"speaker":"Ying Chen",
-		"date":"2022.11.06",
-		"duration":"44:34"
-	},
-	{
-		"title":"Guided Meditation: Ritual",
-		"series":"Guided Meditations",
-		"url":"/17209/20221106-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_ritual.mp3",
-		"ln":"en",
-		"download_url":"/17209/20221106-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_ritual.mp3",
-		"speaker":"Ying Chen",
-		"date":"2022.11.06",
-		"duration":"37:44"
 	}
 	]
 }
