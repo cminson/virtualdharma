@@ -1,104 +1,104 @@
 {
 	"talks":[
 	{
-		"title":"Felt Sense, Naturally",
-		"series":"",
-		"url":"/17222/20221109-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-felt_sense_naturally.mp3",
-		"ln":"en",
-		"download_url":"/17222/20221109-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-felt_sense_naturally.mp3",
-		"speaker":"Ying Chen",
-		"date":"2022.11.09",
-		"duration":"13:49"
-	},
-	{
-		"title":"A few Words about Felt Sense",
-		"series":"",
-		"url":"/17221/20221109-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-a_few_words_about_felt_sense.mp3",
-		"ln":"en",
-		"download_url":"/17221/20221109-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-a_few_words_about_felt_sense.mp3",
-		"speaker":"Ying Chen",
-		"date":"2022.11.09",
-		"duration":"09:42"
-	},
-	{
-		"title":"Samãdhi y los cinco obstáculos",
-		"series":"",
-		"url":"/17220/20221108-Sandra_Sanabria-IMC-samadhi_y_los_cinco_obstaculos.mp3",
-		"ln":"es",
-		"download_url":"/17220/20221108-Sandra_Sanabria-IMC-samadhi_y_los_cinco_obstaculos.mp3",
-		"speaker":"Sandra Sanabria",
-		"date":"2022.11.08",
-		"duration":"35:40"
-	},
-	{
-		"title":"Meditación, todo es bienvenido",
-		"series":"",
-		"url":"/17219/20221108-Sandra_Sanabria-IMC-meditacion_todo_es_bienvenido.mp3",
-		"ln":"es",
-		"download_url":"/17219/20221108-Sandra_Sanabria-IMC-meditacion_todo_es_bienvenido.mp3",
-		"speaker":"Sandra Sanabria",
-		"date":"2022.11.08",
-		"duration":"33:34"
-	},
-	{
-		"title":"Happy Hour: Planting and Cultivating Seeds of Kindness",
-		"series":"",
-		"url":"/17218/20221108-Dawn_Neal-IMC-happy_hour_planting_and_cultivating_seeds_of_kindness.mp3",
-		"ln":"en",
-		"download_url":"/17218/20221108-Dawn_Neal-IMC-happy_hour_planting_and_cultivating_seeds_of_kindness.mp3",
-		"speaker":"Dawn Neal",
-		"date":"2022.11.08",
-		"duration":"53:23"
-	},
-	{
-		"title":"Energy",
-		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
-		"url":"/17217/20221108-Liz_Powell-IMC-energy.mp3",
-		"ln":"en",
-		"download_url":"/17217/20221108-Liz_Powell-IMC-energy.mp3",
-		"speaker":"Liz Powell",
-		"date":"2022.11.08",
-		"duration":"1:15:54"
-	},
-	{
-		"title":"(2 of 5) The Precepts: Keeping Us Safely on the Path",
-		"series":"",
-		"url":"/17216/20221108-Kodo_Conlin-IMC-2_of_5_the_precepts_keeping_us_safely_on_the_path.mp3",
-		"ln":"en",
-		"download_url":"/17216/20221108-Kodo_Conlin-IMC-2_of_5_the_precepts_keeping_us_safely_on_the_path.mp3",
-		"speaker":"Kodo Conlin",
-		"date":"2022.11.08",
-		"duration":"15:03"
-	},
-	{
-		"title":"Enter Here",
-		"series":"",
-		"url":"/17215/20221107-Diana_Clark-IMC-enter_here.mp3",
-		"ln":"en",
-		"download_url":"/17215/20221107-Diana_Clark-IMC-enter_here.mp3",
-		"speaker":"Diana Clark",
-		"date":"2022.11.07",
-		"duration":"45:18"
-	},
-	{
-		"title":"Happy Hour: Metta for Nature -- Including People",
-		"series":"",
-		"url":"/17214/20221107-Dawn_Neal-IRC-happy_hour_metta_for_creatures_and_nature_--_including_people.mp3",
-		"ln":"en",
-		"download_url":"/17214/20221107-Dawn_Neal-IRC-happy_hour_metta_for_creatures_and_nature_--_including_people.mp3",
-		"speaker":"Dawn Neal",
-		"date":"2022.11.07",
-		"duration":"53:25"
-	},
-	{
-		"title":"The Precepts (1 of 5): Keeping Us Safely on the Path",
+		"title":"Dharmette: (4 of 5) Foundations of Vipassana - Thinking",
 		"series":"7am Weekday Sit & Dharmette",
-		"url":"/17212/20221107-Kodo_Conlin-IMC-the_precepts_1_of_5_keeping_us_safely_on_the_path.mp3",
+		"url":"/17275/20221117-Mei_Elliott-IMC-dharmette_4_of_5_foundations_of_vipassana_-_thinking.mp3",
 		"ln":"en",
-		"download_url":"/17212/20221107-Kodo_Conlin-IMC-the_precepts_1_of_5_keeping_us_safely_on_the_path.mp3",
-		"speaker":"Kodo Conlin",
-		"date":"2022.11.07",
-		"duration":"14:55"
+		"download_url":"/17275/20221117-Mei_Elliott-IMC-dharmette_4_of_5_foundations_of_vipassana_-_thinking.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2022.11.17",
+		"duration":"15:45"
+	},
+	{
+		"title":"Guided Meditation: (4 of 5) Foundations of Vipassana - Thinking",
+		"series":"Guided Meditations",
+		"url":"/17274/20221117-Mei_Elliott-IMC-guided_meditation_4_of_5_foundations_of_vipassana_-_thinking.mp3",
+		"ln":"en",
+		"download_url":"/17274/20221117-Mei_Elliott-IMC-guided_meditation_4_of_5_foundations_of_vipassana_-_thinking.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2022.11.17",
+		"duration":"30:10"
+	},
+	{
+		"title":"Happy Hour: Travel Metta",
+		"series":"",
+		"url":"/17271/20221116-Nikki_Mirghafori-IMC-happy_hour_travel_metta.mp3",
+		"ln":"en",
+		"download_url":"/17271/20221116-Nikki_Mirghafori-IMC-happy_hour_travel_metta.mp3",
+		"speaker":"Nikki Mirghafori",
+		"date":"2022.11.16",
+		"duration":"54:22"
+	},
+	{
+		"title":"Dharmette: (3 of 5) Foundations of Vipassana - Emotions",
+		"series":"7am Weekday Sit & Dharmette",
+		"url":"/17268/20221116-Mei_Elliott-IMC-dharmette_3_of_5_foundations_of_vipassana_-_emotions.mp3",
+		"ln":"en",
+		"download_url":"/17268/20221116-Mei_Elliott-IMC-dharmette_3_of_5_foundations_of_vipassana_-_emotions.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2022.11.16",
+		"duration":"18:27"
+	},
+	{
+		"title":"Guided Meditation: (3 of 5) Foundations of Vipassana - Emotions",
+		"series":"Guided Meditations",
+		"url":"/17267/20221116-Mei_Elliott-IMC-guided_meditation_3_of_5_foundations_of_vipassana_-_emotions.mp3",
+		"ln":"en",
+		"download_url":"/17267/20221116-Mei_Elliott-IMC-guided_meditation_3_of_5_foundations_of_vipassana_-_emotions.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2022.11.16",
+		"duration":"29:32"
+	},
+	{
+		"title":"Meditación y dharmette - deseo sensual",
+		"series":"",
+		"url":"/17264/20221115-Sandra_Sanabria-IMC-meditacion_y_dharmette_-_deseo_sensual.mp3",
+		"ln":"es",
+		"download_url":"/17264/20221115-Sandra_Sanabria-IMC-meditacion_y_dharmette_-_deseo_sensual.mp3",
+		"speaker":"Sandra Sanabria",
+		"date":"2022.11.15",
+		"duration":"38:34"
+	},
+	{
+		"title":"Happy Hour: Cultivating Kindness, Internally and Externally",
+		"series":"",
+		"url":"/17262/20221115-Dawn_Neal-IMC-happy_hour_kindness_internally_and_externally.mp3",
+		"ln":"en",
+		"download_url":"/17262/20221115-Dawn_Neal-IMC-happy_hour_kindness_internally_and_externally.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2022.11.15",
+		"duration":"54:41"
+	},
+	{
+		"title":"Wisdom and Equanimity",
+		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
+		"url":"/17261/20221115-Dawn_Neal-IMC-wisdom_and_equanimity.mp3",
+		"ln":"en",
+		"download_url":"/17261/20221115-Dawn_Neal-IMC-wisdom_and_equanimity.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2022.11.15",
+		"duration":"1:01:49"
+	},
+	{
+		"title":"Dharmette: (2 of 5) Foundations of Vipassana - The Body",
+		"series":"7am Weekday Sit & Dharmette",
+		"url":"/17270/20221115-Mei_Elliott-IMC-dharmette_2_of_5_foundations_of_vipassana_-_the_body.mp3",
+		"ln":"en",
+		"download_url":"/17270/20221115-Mei_Elliott-IMC-dharmette_2_of_5_foundations_of_vipassana_-_the_body.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2022.11.15",
+		"duration":"15:23"
+	},
+	{
+		"title":"Guided Meditation: (2 of 5) Foundations of Vipassana - The Body",
+		"series":"Guided Meditations",
+		"url":"/17269/20221115-Mei_Elliott-IMC-guided_meditation_2_of_5_foundations_of_vipassana_-_the_body.mp3",
+		"ln":"en",
+		"download_url":"/17269/20221115-Mei_Elliott-IMC-guided_meditation_2_of_5_foundations_of_vipassana_-_the_body.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2022.11.15",
+		"duration":"27:23"
 	}
 	]
 }

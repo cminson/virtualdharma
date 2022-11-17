@@ -21,6 +21,7 @@ START_PROMPT = "Now we begin our infinite conversation. The topics will be innum
 #ACTIVE_MODEL = "text-davinci-002"
 ACTIVE_MODEL = 'text-ada-001'
 ACTIVE_MODEL = 'ada:ft-personal-2022-11-09-19-02-44'
+ACTIVE_MODEL = 'ada:ft-personal-2022-11-09-23-13-35'
 NUM_ITERATIONS = 10
 MIN_LINE_LENGTH = 10
 

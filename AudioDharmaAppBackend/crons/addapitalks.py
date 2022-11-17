@@ -192,7 +192,7 @@ new_talks = new_data['talks']
 all_talks = new_talks + current_talks
 for v in all_talks:
     if 'date' not in v:
-        print(v)
+        print("NO DATE:", v)
     if 'url' not in v:
         print(v)
         exit()
@@ -303,7 +303,7 @@ for talk in all_talks:
         minutes = int(hms[0])
         seconds = int(hms[1])
     else:
-        print("ERROR", hms)
+        print("DATE ERROR", duration, hms)
         exit()
     seconds = (hours * 60 * 60) + (minutes * 60) + seconds
     if seconds < MAX_SHORT_TALK_SECONDS:

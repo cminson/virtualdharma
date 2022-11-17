@@ -1,199 +1,56 @@
-{
-  "data": [
-    {
-      "created_at": 1659136446,
-      "fine_tuned_model": "davinci:ft-personal-2022-07-30-00-44-41",
-      "hyperparams": {
-        "batch_size": 1,
-        "learning_rate_multiplier": 0.1,
-        "n_epochs": 4,
-        "prompt_loss_weight": 0.1
-      },
-      "id": "ft-8K7jctTtRiLAeetWnkkMOiiD",
-      "model": "davinci",
-      "object": "fine-tune",
-      "organization_id": "org-H23D4CupYKrgI5NZIzbcYOrM",
-      "result_files": [
-        {
-          "bytes": 32831,
-          "created_at": 1659141883,
-          "filename": "compiled_results.csv",
-          "id": "file-zlelrwgeC9bh54KMcFTPBGa6",
-          "object": "file",
-          "purpose": "fine-tune-results",
-          "status": "processed",
-          "status_details": null
-        }
-      ],
-      "status": "succeeded",
-      "training_files": [
-        {
-          "bytes": 19722,
-          "created_at": 1659136446,
-          "filename": "TUNE01_prepared.jsonl",
-          "id": "file-Mh0GXB01U11LauwewXT3IYyX",
-          "object": "file",
-          "purpose": "fine-tune",
-          "status": "processed",
-          "status_details": null
-        }
-      ],
-      "updated_at": 1659141883,
-      "validation_files": []
-    },
-    {
-      "created_at": 1659219184,
-      "fine_tuned_model": "davinci:ft-personal-2022-07-30-23-12-10",
-      "hyperparams": {
-        "batch_size": 2,
-        "learning_rate_multiplier": 0.1,
-        "n_epochs": 4,
-        "prompt_loss_weight": 0.1
-      },
-      "id": "ft-cirzgxVlLHwb4LyamCJmHydu",
-      "model": "davinci",
-      "object": "fine-tune",
-      "organization_id": "org-H23D4CupYKrgI5NZIzbcYOrM",
-      "result_files": [
-        {
-          "bytes": 185829,
-          "created_at": 1659222732,
-          "filename": "compiled_results.csv",
-          "id": "file-V1JM7Be0CJl6NnOvj32ERN5m",
-          "object": "file",
-          "purpose": "fine-tune-results",
-          "status": "processed",
-          "status_details": null
-        }
-      ],
-      "status": "succeeded",
-      "training_files": [
-        {
-          "bytes": 224033,
-          "created_at": 1659219183,
-          "filename": "TUNE02_prepared.jsonl",
-          "id": "file-Te4NbuUhK1D06nwsAlw7CYKI",
-          "object": "file",
-          "purpose": "fine-tune",
-          "status": "processed",
-          "status_details": null
-        }
-      ],
-      "updated_at": 1659222732,
-      "validation_files": []
-    },
-    {
-      "created_at": 1663174688,
-      "fine_tuned_model": "davinci:ft-personal-2022-09-14-17-10-24",
-      "hyperparams": {
-        "batch_size": 1,
-        "learning_rate_multiplier": 0.1,
-        "n_epochs": 4,
-        "prompt_loss_weight": 0.1
-      },
-      "id": "ft-zOMVZU5usM098KEThopIGShv",
-      "model": "davinci",
-      "object": "fine-tune",
-      "organization_id": "org-H23D4CupYKrgI5NZIzbcYOrM",
-      "result_files": [
-        {
-          "bytes": 33101,
-          "created_at": 1663175426,
-          "filename": "compiled_results.csv",
-          "id": "file-f5r4zhokiw6Yk4ICkMJXw0rS",
-          "object": "file",
-          "purpose": "fine-tune-results",
-          "status": "processed",
-          "status_details": null
-        }
-      ],
-      "status": "succeeded",
-      "training_files": [
-        {
-          "bytes": 19722,
-          "created_at": 1659136402,
-          "filename": "TUNE01_prepared.jsonl",
-          "id": "file-NBDx8QT1QXJvF42TGdWtLDO8",
-          "object": "file",
-          "purpose": "fine-tune",
-          "status": "processed",
-          "status_details": null
-        }
-      ],
-      "updated_at": 1663175426,
-      "validation_files": []
-    },
-    {
-      "created_at": 1667933463,
-      "fine_tuned_model": null,
-      "hyperparams": {
-        "batch_size": null,
-        "learning_rate_multiplier": null,
-        "n_epochs": 4,
-        "prompt_loss_weight": 0.01
-      },
-      "id": "ft-91zdnScevyoxIgF3bARK6eGX",
-      "model": "ada",
-      "object": "fine-tune",
-      "organization_id": "org-H23D4CupYKrgI5NZIzbcYOrM",
-      "result_files": [],
-      "status": "cancelled",
-      "training_files": [
-        {
-          "bytes": 18233703,
-          "created_at": 1667933463,
-          "filename": "/var/www/virtualdharma/httpdocs/virtual/data/training/AD.TRAIN",
-          "id": "file-ocuPOvUIryKxjSbYA9r3lAfI",
-          "object": "file",
-          "purpose": "fine-tune",
-          "status": "error",
-          "status_details": "Invalid file format. Example 63058 cannot be parsed. Error: line contains invalid json: Expecting ',' delimiter: line 1 column 269 (char 268) (line 63058)"
-        }
-      ],
-      "updated_at": 1667933475,
-      "validation_files": []
-    },
-    {
-      "created_at": 1668019577,
-      "fine_tuned_model": "ada:ft-personal-2022-11-09-19-02-44",
-      "hyperparams": {
-        "batch_size": 16,
-        "learning_rate_multiplier": 0.1,
-        "n_epochs": 4,
-        "prompt_loss_weight": 0.01
-      },
-      "id": "ft-2KlgikGJfJ3BZ3ZP7RtIUkNq",
-      "model": "ada",
-      "object": "fine-tune",
-      "organization_id": "org-H23D4CupYKrgI5NZIzbcYOrM",
-      "result_files": [
-        {
-          "bytes": 155387,
-          "created_at": 1668020596,
-          "filename": "compiled_results.csv",
-          "id": "file-aqGMLkhA055qk7vgwzHjga6f",
-          "object": "file",
-          "purpose": "fine-tune-results",
-          "status": "processed",
-          "status_details": null
-        }
-      ],
-      "status": "succeeded",
-      "training_files": [
-        {
-          "bytes": 1853057,
-          "created_at": 1668019577,
-          "filename": "/var/www/virtualdharma/httpdocs/virtual/data/training/MIN.TRAIN.DATA",
-          "id": "file-X9JPgjvOqMFm4Wr0soSvRbvj",
-          "object": "file",
-          "purpose": "fine-tune",
-          "status": "processed",
-          "status_details": null
-        }
-      ],
-      "updated_at": 1668020596,
-      "validation_files": []
-    }
-  ],
-  "object": "list"
-}
+TEXT:  Now we begin our infinite conversation. The topics will be innumberable as we explore the Dharma.
+RESPONSE:   And we'll be exploring this topic in the Dharma, and the topics will be, you know, the teachings of the Buddha and the teachings of the Dharma. So there will be a lot of talk about the teachings of the Buddha and the teachings of the Dharma. And we'll be exploring that topic in the Dharma. So it's kind of like the Dharma talks to us, and we listen to it. And then we can learn. So we're really taking in the Dharma, and we learn
+ERROR:  []
+TEXT:  And we'll be exploring this topic in the Dharma, and the topics will be, you know, the teachings of the Buddha and the teachings of the Dharma. So there will be a lot of talk about the teachings of the Buddha and the teachings of the Dharma. And we'll be exploring that topic in the Dharma. So it's kind of like the Dharma talks to us, and we listen to it. And then we can learn. So we're really taking in the Dharma, and we learn
+PROMPT_LINES:  [" And we'll be exploring this topic in the Dharma, and the topics will be, you know, the teachings of the Buddha and the teachings of the Dharma", ' So there will be a lot of talk about the teachings of the Buddha and the teachings of the Dharma', " And we'll be exploring that topic in the Dharma", " So it's kind of like the Dharma talks to us, and we listen to it", ' And then we can learn', " So we're really taking in the Dharma, and we learn"]
+PROMPT:   So we're really taking in the Dharma, and we learn. And that brings up fear.
+RESPONSE:   We're afraid that we'll never be able to do it. And so we're always looking for an excuse. We're afraid of the consequences of our own actions. So we're putting up these stories about how we can do it. We're afraid of what happens if we don't do it. We're afraid of being caught. We're afraid of being punished. We're afraid of having a heart attack. We're afraid of not being able to get married. We're afraid of not
+ERROR:  []
+TEXT:  We're afraid that we'll never be able to do it. And so we're always looking for an excuse. We're afraid of the consequences of our own actions. So we're putting up these stories about how we can do it. We're afraid of what happens if we don't do it. We're afraid of being caught. We're afraid of being punished. We're afraid of having a heart attack. We're afraid of not being able to get married. We're afraid of not
+PROMPT_LINES:  [" We're afraid that we'll never be able to do it", " And so we're always looking for an excuse", " We're afraid of the consequences of our own actions", " So we're putting up these stories about how we can do it", " We're afraid of what happens if we don't do it", " We're afraid of being caught", " We're afraid of being punished", " We're afraid of having a heart attack", " We're afraid of not being able to get married", " We're afraid of not"]
+PROMPT:   We're afraid of not. So when the Buddha taught the Eighth Fold Path, he taught, the first step in the Eighth Fold Path, was getting that right orientation, finding it.
+RESPONSE:   And the Second Step of the Eightfold Path, he taught this. And the Third step, he said, is right view, right understanding, right speech. And the Fourth step, right action, right livelihood. And the Fifth step, right effort, right effort, right mindfulness. And the Sixth step, right concentration, right concentration, right concentration. And the Seventh step, right concentration, right concentration. And the Eighth step, right mindfulness. And so the Eighth Fold Path is a path of
+ERROR:  []
+TEXT:  And the Second Step of the Eightfold Path, he taught this. And the Third step, he said, is right view, right understanding, right speech. And the Fourth step, right action, right livelihood. And the Fifth step, right effort, right effort, right mindfulness. And the Sixth step, right concentration, right concentration, right concentration. And the Seventh step, right concentration, right concentration. And the Eighth step, right mindfulness. And so the Eighth Fold Path is a path of
+PROMPT_LINES:  [' And the Second Step of the Eightfold Path, he taught this', ' And the Third step, he said, is right view, right understanding, right speech', ' And the Fourth step, right action, right livelihood', ' And the Fifth step, right effort, right effort, right mindfulness', ' And the Sixth step, right concentration, right concentration, right concentration', ' And the Seventh step, right concentration, right concentration', ' And the Eighth step, right mindfulness', ' And so the Eighth Fold Path is a path of']
+PROMPT:   And so the Eighth Fold Path is a path of. And since we had a little extra time, I came to the original, I can, you know, I almost think of it as the original reason that I came to this path, which was when 44 years ago, I had a tumor on my hearing nerves.
+RESPONSE:   And I was very, very ill for many years, and this was a very debilitating time. And so the thought of being able to hear again was very inspiring, and I think that's one of the reasons why I've been going on this path. So that's the Eightfold Path. The Eightfold Path. So it's not just hearing, it's not just sight, it's not just smell, it's not just taste, it's not just touch, it's not just smell
+ERROR:  []
+TEXT:  And I was very, very ill for many years, and this was a very debilitating time. And so the thought of being able to hear again was very inspiring, and I think that's one of the reasons why I've been going on this path. So that's the Eightfold Path. The Eightfold Path. So it's not just hearing, it's not just sight, it's not just smell, it's not just taste, it's not just touch, it's not just smell
+PROMPT_LINES:  [' And I was very, very ill for many years, and this was a very debilitating time', " And so the thought of being able to hear again was very inspiring, and I think that's one of the reasons why I've been going on this path", " So that's the Eightfold Path", ' The Eightfold Path', " So it's not just hearing, it's not just sight, it's not just smell, it's not just taste, it's not just touch, it's not just smell"]
+PROMPT:   So it's not just hearing, it's not just sight, it's not just smell, it's not just taste, it's not just touch, it's not just smell. And right near the end, there was this horrible, horrible screech in the room.
+RESPONSE:   And I just saw it, I saw it, I saw it. And then I heard it. And I was like, oh my gosh, oh my gosh, what's going on here? And so I was just kind of kind of falling apart. And then I decided to just go to the bathroom and then I knew what was going to happen. But it was a really bad screech. And then I thought, well, I'm going to just sit there and watch it.
+RAW:0:2:  [" And I just saw it, I saw it, I saw it. And then I heard it. And I was like, oh my gosh, oh my gosh, what's going on here? And so I was just kind of kind of falling apart. And then I decided to just go to the bathroom and then I knew what was going to happen. But it was a really bad screech. And then I thought, well, I'm going to just sit there and watch it."]
+TEXT:  And I just saw it, I saw it, I saw it. And then I heard it. And I was like, oh my gosh, oh my gosh, what's going on here? And so I was just kind of kind of falling apart. And then I decided to just go to the bathroom and then I knew what was going to happen. But it was a really bad screech. And then I thought, well, I'm going to just sit there and watch it.
+PROMPT_LINES:  [' And I just saw it, I saw it, I saw it', ' And then I heard it', " And I was like, oh my gosh, oh my gosh, what's going on here? And so I was just kind of kind of falling apart", ' And then I decided to just go to the bathroom and then I knew what was going to happen', ' But it was a really bad screech', " And then I thought, well, I'm going to just sit there and watch it"]
+PROMPT:   And then I thought, well, I'm going to just sit there and watch it. So the main point I wanted to say was this idea that we want to get a foothold.
+RESPONSE:   We want to get a foothold in the mind and then we can begin to see into what's happening in our experience. So I'm going to talk about this one more time. The fifth is that we want to get a foothold in the mind so that we can begin to see into what's happening in our experience. So this is the first of the five aspects of the Buddha's teachings on the Four Noble Truths. This is the first one that I would like to mention. So this is
+ERROR:  []
+TEXT:  We want to get a foothold in the mind and then we can begin to see into what's happening in our experience. So I'm going to talk about this one more time. The fifth is that we want to get a foothold in the mind so that we can begin to see into what's happening in our experience. So this is the first of the five aspects of the Buddha's teachings on the Four Noble Truths. This is the first one that I would like to mention. So this is
+PROMPT_LINES:  [" We want to get a foothold in the mind and then we can begin to see into what's happening in our experience", " So I'm going to talk about this one more time", " The fifth is that we want to get a foothold in the mind so that we can begin to see into what's happening in our experience", " So this is the first of the five aspects of the Buddha's teachings on the Four Noble Truths", ' This is the first one that I would like to mention', ' So this is']
+PROMPT:   So this is. All those who are doing this are going the wrong way as opposed to the state of pursuing this is suffering.
+RESPONSE:   So this is the, this is the state of the mind that is going wrong. This is the state of the heart that's going wrong. And so we need to look at all of those. We need to look at, you know, we need to look at our relationship to them. We need to look at what I'm doing. We can't just say, well, I'm going to be happy if you're going to be unhappy. You know, there's a lot of things
+ERROR:  []
+TEXT:  So this is the, this is the state of the mind that is going wrong. This is the state of the heart that's going wrong. And so we need to look at all of those. We need to look at, you know, we need to look at our relationship to them. We need to look at what I'm doing. We can't just say, well, I'm going to be happy if you're going to be unhappy. You know, there's a lot of things
+PROMPT_LINES:  [' So this is the, this is the state of the mind that is going wrong', " This is the state of the heart that's going wrong", ' And so we need to look at all of those', ' We need to look at, you know, we need to look at our relationship to them', " We need to look at what I'm doing", " We can't just say, well, I'm going to be happy if you're going to be unhappy", " You know, there's a lot of things"]
+PROMPT:   You know, there's a lot of things. But the whole, what the Buddha was pointing to was, yes, there are things that happen out there.
+RESPONSE:   And we have to be aware of them. We have to be mindful of them. And we have to be able to let go of those things that are not helpful. And the Buddha pointed to that. He pointed to that. And he pointed to that. You know, so you can't make it happen. You know, there's nothing that can make it happen. But sometimes it does happen. It's a lot of things that happen. And then you know, you can't make it
+ERROR:  []
+TEXT:  And we have to be aware of them. We have to be mindful of them. And we have to be able to let go of those things that are not helpful. And the Buddha pointed to that. He pointed to that. And he pointed to that. You know, so you can't make it happen. You know, there's nothing that can make it happen. But sometimes it does happen. It's a lot of things that happen. And then you know, you can't make it
+PROMPT_LINES:  [' And we have to be aware of them', ' We have to be mindful of them', ' And we have to be able to let go of those things that are not helpful', ' And the Buddha pointed to that', ' He pointed to that', ' And he pointed to that', " You know, so you can't make it happen", " You know, there's nothing that can make it happen", ' But sometimes it does happen', " It's a lot of things that happen", " And then you know, you can't make it"]
+PROMPT:   And then you know, you can't make it. What a marvel is what can happen is that it feels like we're being meditated.
+RESPONSE:   But it's not. It's just like, oh yeah, I'm being meditated. And then you know, I don't know what happens next. And then you know, the person who's meditating, the person who's not meditating, it's like, oh, it feels like we're being meditated. And then you know, I don't know what happens next. So maybe you'll have a different experience. Maybe you'll have a different experience. And so if
+ERROR:  []
+TEXT:  But it's not. It's just like, oh yeah, I'm being meditated. And then you know, I don't know what happens next. And then you know, the person who's meditating, the person who's not meditating, it's like, oh, it feels like we're being meditated. And then you know, I don't know what happens next. So maybe you'll have a different experience. Maybe you'll have a different experience. And so if
+PROMPT_LINES:  [" But it's not", " It's just like, oh yeah, I'm being meditated", " And then you know, I don't know what happens next", " And then you know, the person who's meditating, the person who's not meditating, it's like, oh, it feels like we're being meditated", " And then you know, I don't know what happens next", " So maybe you'll have a different experience", " Maybe you'll have a different experience"]
+PROMPT:   Maybe you'll have a different experience. You have the boosters, and then when the booster is done its job, the booster has to be dropped so that it can actually get the capsule all the way up to the moon.
+RESPONSE:   You can't see it. You're supposed to be able to see it. So, you know, it's a whole process of getting the booster up there. You can't just go and do that. So, you know, it's a whole different experience. So, you know, I'm going to talk about both the boosters, but also the capsule itself. So the booster is a little bit more complex. It's a little bit more complicated than the capsule. So, you know
+ERROR:  []
+TEXT:  You can't see it. You're supposed to be able to see it. So, you know, it's a whole process of getting the booster up there. You can't just go and do that. So, you know, it's a whole different experience. So, you know, I'm going to talk about both the boosters, but also the capsule itself. So the booster is a little bit more complex. It's a little bit more complicated than the capsule. So, you know
+PROMPT_LINES:  [" You can't see it", " You're supposed to be able to see it", " So, you know, it's a whole process of getting the booster up there", " You can't just go and do that", " So, you know, it's a whole different experience", " So, you know, I'm going to talk about both the boosters, but also the capsule itself", ' So the booster is a little bit more complex', " It's a little bit more complicated than the capsule", ' So, you know']
+PROMPT:   So, you know. And we've come to the last category, the last bucket, which is one that includes everything.
+RESPONSE:   And it's a rich category. And so, you know, there's a lot of things that are not included in this category. So, you know, we're talking about the whole range of human experience. So, I mean, there's a lot of things that are not included in this category. So, those who are here, they're aware of that. And then there's another category, which is one that is not included in this category, but is a very important part of
+ERROR:  []
+TEXT:  And it's a rich category. And so, you know, there's a lot of things that are not included in this category. So, you know, we're talking about the whole range of human experience. So, I mean, there's a lot of things that are not included in this category. So, those who are here, they're aware of that. And then there's another category, which is one that is not included in this category, but is a very important part of
+PROMPT_LINES:  [" And it's a rich category", " And so, you know, there's a lot of things that are not included in this category", " So, you know, we're talking about the whole range of human experience", " So, I mean, there's a lot of things that are not included in this category", " So, those who are here, they're aware of that", " And then there's another category, which is one that is not included in this category, but is a very important part of"]
+PROMPT:   And then there's another category, which is one that is not included in this category, but is a very important part of. So we begin to see with the more continuous mindfulness how reactivity generates suffering right here and right now.
