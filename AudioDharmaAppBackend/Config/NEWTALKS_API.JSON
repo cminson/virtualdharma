@@ -1,104 +1,484 @@
 {
 	"talks":[
 	{
-		"title":"Dharmette: (4 of 5) Foundations of Vipassana - Thinking",
-		"series":"7am Weekday Sit & Dharmette",
-		"url":"/17275/20221117-Mei_Elliott-IMC-dharmette_4_of_5_foundations_of_vipassana_-_thinking.mp3",
+		"title":"Vitality",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/19333/20231203-Gil_Fronsdal-IMC-vitality.mp3",
 		"ln":"en",
-		"download_url":"/17275/20221117-Mei_Elliott-IMC-dharmette_4_of_5_foundations_of_vipassana_-_thinking.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2022.11.17",
-		"duration":"15:45"
+		"download_url":"/19333/20231203-Gil_Fronsdal-IMC-vitality.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.12.03",
+		"duration":"45:57"
 	},
 	{
-		"title":"Guided Meditation: (4 of 5) Foundations of Vipassana - Thinking",
+		"title":"Gils Story (5 of 5) Starting with Vipassana",
+		"series":"Gils Story",
+		"url":"/19325/20231201-Gil_Fronsdal-IMC-gil_s_story_5_of_5_starting_with_vipassana.mp3",
+		"ln":"en",
+		"download_url":"/19325/20231201-Gil_Fronsdal-IMC-gil_s_story_5_of_5_starting_with_vipassana.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.12.01",
+		"duration":"13:56"
+	},
+	{
+		"title":"Guided Meditation: Meditation as Peace",
 		"series":"Guided Meditations",
-		"url":"/17274/20221117-Mei_Elliott-IMC-guided_meditation_4_of_5_foundations_of_vipassana_-_thinking.mp3",
+		"url":"/19324/20231201-Gil_Fronsdal-IMC-guided_meditation_meditation_as_peace.mp3",
 		"ln":"en",
-		"download_url":"/17274/20221117-Mei_Elliott-IMC-guided_meditation_4_of_5_foundations_of_vipassana_-_thinking.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2022.11.17",
-		"duration":"30:10"
+		"download_url":"/19324/20231201-Gil_Fronsdal-IMC-guided_meditation_meditation_as_peace.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.12.01",
+		"duration":"32:13"
 	},
 	{
-		"title":"Happy Hour: Travel Metta",
-		"series":"",
-		"url":"/17271/20221116-Nikki_Mirghafori-IMC-happy_hour_travel_metta.mp3",
+		"title":"Gils Story (4 of 5)",
+		"series":"Gils Story",
+		"url":"/19319/20231130-Gil_Fronsdal-IMC-gil_s_story_4_of_5.mp3",
 		"ln":"en",
-		"download_url":"/17271/20221116-Nikki_Mirghafori-IMC-happy_hour_travel_metta.mp3",
-		"speaker":"Nikki Mirghafori",
-		"date":"2022.11.16",
-		"duration":"54:22"
+		"download_url":"/19319/20231130-Gil_Fronsdal-IMC-gil_s_story_4_of_5.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.30",
+		"duration":"16:49"
 	},
 	{
-		"title":"Dharmette: (3 of 5) Foundations of Vipassana - Emotions",
-		"series":"7am Weekday Sit & Dharmette",
-		"url":"/17268/20221116-Mei_Elliott-IMC-dharmette_3_of_5_foundations_of_vipassana_-_emotions.mp3",
-		"ln":"en",
-		"download_url":"/17268/20221116-Mei_Elliott-IMC-dharmette_3_of_5_foundations_of_vipassana_-_emotions.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2022.11.16",
-		"duration":"18:27"
-	},
-	{
-		"title":"Guided Meditation: (3 of 5) Foundations of Vipassana - Emotions",
+		"title":"Guided Meditation: Meditation as Love",
 		"series":"Guided Meditations",
-		"url":"/17267/20221116-Mei_Elliott-IMC-guided_meditation_3_of_5_foundations_of_vipassana_-_emotions.mp3",
+		"url":"/19318/20231130-Gil_Fronsdal-IMC-guided_meditation_meditation_as_love.mp3",
 		"ln":"en",
-		"download_url":"/17267/20221116-Mei_Elliott-IMC-guided_meditation_3_of_5_foundations_of_vipassana_-_emotions.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2022.11.16",
-		"duration":"29:32"
+		"download_url":"/19318/20231130-Gil_Fronsdal-IMC-guided_meditation_meditation_as_love.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.30",
+		"duration":"30:35"
 	},
 	{
-		"title":"Meditación y dharmette - deseo sensual",
+		"title":"Dharmette: Everything that is Not You",
 		"series":"",
-		"url":"/17264/20221115-Sandra_Sanabria-IMC-meditacion_y_dharmette_-_deseo_sensual.mp3",
-		"ln":"es",
-		"download_url":"/17264/20221115-Sandra_Sanabria-IMC-meditacion_y_dharmette_-_deseo_sensual.mp3",
-		"speaker":"Sandra Sanabria",
-		"date":"2022.11.15",
-		"duration":"38:34"
-	},
-	{
-		"title":"Happy Hour: Cultivating Kindness, Internally and Externally",
-		"series":"",
-		"url":"/17262/20221115-Dawn_Neal-IMC-happy_hour_kindness_internally_and_externally.mp3",
+		"url":"/19315/20231129-Maria_Straatmann-IMC-dharmette_everything_that_is_not_you.mp3",
 		"ln":"en",
-		"download_url":"/17262/20221115-Dawn_Neal-IMC-happy_hour_kindness_internally_and_externally.mp3",
-		"speaker":"Dawn Neal",
-		"date":"2022.11.15",
-		"duration":"54:41"
+		"download_url":"/19315/20231129-Maria_Straatmann-IMC-dharmette_everything_that_is_not_you.mp3",
+		"speaker":"Maria Straatmann",
+		"date":"2023.11.29",
+		"duration":"12:56"
 	},
 	{
-		"title":"Wisdom and Equanimity",
+		"title":"Practice Notes: Everything Not You",
+		"series":"",
+		"url":"/19314/20231129-Maria_Straatmann-IMC-practice_notes_everything_not_you.mp3",
+		"ln":"en",
+		"download_url":"/19314/20231129-Maria_Straatmann-IMC-practice_notes_everything_not_you.mp3",
+		"speaker":"Maria Straatmann",
+		"date":"2023.11.29",
+		"duration":"06:27"
+	},
+	{
+		"title":"Guided Meditation: Meditation as Honesty",
+		"series":"Guided Meditations",
+		"url":"/19313/20231129-Gil_Fronsdal-IMC-guided_meditation_meditation_as_honesty.mp3",
+		"ln":"en",
+		"download_url":"/19313/20231129-Gil_Fronsdal-IMC-guided_meditation_meditation_as_honesty.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.29",
+		"duration":"30:35"
+	},
+	{
+		"title":"Dharmette: Gils Story (3 of 5) In Pursuit of Integrity",
+		"series":"Gils Story",
+		"url":"/19312/20231129-Gil_Fronsdal-IMC-dharmette_gil_s_story_3_of_5_in_pursuit_of_integrity.mp3",
+		"ln":"en",
+		"download_url":"/19312/20231129-Gil_Fronsdal-IMC-dharmette_gil_s_story_3_of_5_in_pursuit_of_integrity.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.29",
+		"duration":"15:06"
+	},
+	{
+		"title":"Similes for the Five Hindrances",
 		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
-		"url":"/17261/20221115-Dawn_Neal-IMC-wisdom_and_equanimity.mp3",
+		"url":"/19317/20231128-Marjolein_Janssen-IMC-similes_for_the_five_hindrances.mp3",
 		"ln":"en",
-		"download_url":"/17261/20221115-Dawn_Neal-IMC-wisdom_and_equanimity.mp3",
-		"speaker":"Dawn Neal",
-		"date":"2022.11.15",
-		"duration":"1:01:49"
+		"download_url":"/19317/20231128-Marjolein_Janssen-IMC-similes_for_the_five_hindrances.mp3",
+		"speaker":"Marjolein Janssen",
+		"date":"2023.11.28",
+		"duration":"35:56"
 	},
 	{
-		"title":"Dharmette: (2 of 5) Foundations of Vipassana - The Body",
-		"series":"7am Weekday Sit & Dharmette",
-		"url":"/17270/20221115-Mei_Elliott-IMC-dharmette_2_of_5_foundations_of_vipassana_-_the_body.mp3",
-		"ln":"en",
-		"download_url":"/17270/20221115-Mei_Elliott-IMC-dharmette_2_of_5_foundations_of_vipassana_-_the_body.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2022.11.15",
-		"duration":"15:23"
-	},
-	{
-		"title":"Guided Meditation: (2 of 5) Foundations of Vipassana - The Body",
+		"title":"Guided Meditation: Opening to the Hindrances",
 		"series":"Guided Meditations",
-		"url":"/17269/20221115-Mei_Elliott-IMC-guided_meditation_2_of_5_foundations_of_vipassana_-_the_body.mp3",
+		"url":"/19316/20231128-Marjolein_Janssen-IMC-guided_meditation_opening_to_the_hindrances.mp3",
 		"ln":"en",
-		"download_url":"/17269/20221115-Mei_Elliott-IMC-guided_meditation_2_of_5_foundations_of_vipassana_-_the_body.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2022.11.15",
-		"duration":"27:23"
+		"download_url":"/19316/20231128-Marjolein_Janssen-IMC-guided_meditation_opening_to_the_hindrances.mp3",
+		"speaker":"Marjolein Janssen",
+		"date":"2023.11.28",
+		"duration":"30:32"
+	},
+	{
+		"title":"Dharmette: Gils Story (2 of 5) Getting Ready for Zen",
+		"series":"Gils Story",
+		"url":"/19311/20231128-Gil_Fronsdal-IMC-dharmette_gil_s_story_2_of_5_getting_ready_for_zen.mp3",
+		"ln":"en",
+		"download_url":"/19311/20231128-Gil_Fronsdal-IMC-dharmette_gil_s_story_2_of_5_getting_ready_for_zen.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.28",
+		"duration":"13:12"
+	},
+	{
+		"title":"Guided Meditation: Meditation as Integrity",
+		"series":"Guided Meditations",
+		"url":"/19310/20231128-Gil_Fronsdal-IMC-guided_meditation_meditation_as_integrity.mp3",
+		"ln":"en",
+		"download_url":"/19310/20231128-Gil_Fronsdal-IMC-guided_meditation_meditation_as_integrity.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.28",
+		"duration":"32:07"
+	},
+	{
+		"title":"Gratitude for the Four Elements",
+		"series":"",
+		"url":"/19309/20231127-Jim_Podolske-IMC-gratitude_for_the_four_elements.mp3",
+		"ln":"en",
+		"download_url":"/19309/20231127-Jim_Podolske-IMC-gratitude_for_the_four_elements.mp3",
+		"speaker":"Jim Podolske",
+		"date":"2023.11.27",
+		"duration":"32:54"
+	},
+	{
+		"title":"Dharmette: Gils Story (1 of 5) First Interest in Buddhism",
+		"series":"Gils Story",
+		"url":"/19306/20231127-Gil_Fronsdal-IMC-dharmette_gil_s_story_1_of_5_first_interest_in_buddhism.mp3",
+		"ln":"en",
+		"download_url":"/19306/20231127-Gil_Fronsdal-IMC-dharmette_gil_s_story_1_of_5_first_interest_in_buddhism.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.27",
+		"duration":"14:26"
+	},
+	{
+		"title":"Guided Meditation: Meditation as Friendship",
+		"series":"Guided Meditations",
+		"url":"/19305/20231127-Gil_Fronsdal-IMC-guided_meditation_meditation_as_friendship.mp3",
+		"ln":"en",
+		"download_url":"/19305/20231127-Gil_Fronsdal-IMC-guided_meditation_meditation_as_friendship.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.27",
+		"duration":"31:15"
+	},
+	{
+		"title":"Near Friends of the Five Hindrances",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/19302/20231126-Gil_Fronsdal-IMC-near_friends_of_the_five_hindrances.mp3",
+		"ln":"en",
+		"download_url":"/19302/20231126-Gil_Fronsdal-IMC-near_friends_of_the_five_hindrances.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.26",
+		"duration":"37:37"
+	},
+	{
+		"title":"Happy Hour: Embodied Gratitude",
+		"series":"",
+		"url":"/19299/20231124-Nikki_Mirghafori-IMC-happy_hour_embodied_gratitude.mp3",
+		"ln":"en",
+		"download_url":"/19299/20231124-Nikki_Mirghafori-IMC-happy_hour_embodied_gratitude.mp3",
+		"speaker":"Nikki Mirghafori",
+		"date":"2023.11.24",
+		"duration":"36:23"
+	},
+	{
+		"title":"Dharmette: Attitudes (5 of 5) From Stress to Freedom",
+		"series":"Attitudes",
+		"url":"/19294/20231124-Gil_Fronsdal-IMC-dharmette_attitudes_5_of_5_from_stress_to_freedom.mp3",
+		"ln":"en",
+		"download_url":"/19294/20231124-Gil_Fronsdal-IMC-dharmette_attitudes_5_of_5_from_stress_to_freedom.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.24",
+		"duration":"11:46"
+	},
+	{
+		"title":"Guided Meditation: Contentment",
+		"series":"Guided Meditations",
+		"url":"/19293/20231124-Gil_Fronsdal-IMC-guided_meditation_contentment.mp3",
+		"ln":"en",
+		"download_url":"/19293/20231124-Gil_Fronsdal-IMC-guided_meditation_contentment.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.24",
+		"duration":"31:31"
+	},
+	{
+		"title":"Dharmette: Attitudes (4 of 5) From Self-Preoccuption to Gratitude",
+		"series":"Attitudes",
+		"url":"/19292/20231123-Gil_Fronsdal-IMC-dharmette_attitudes_4_of_5_from_self-preoccuption_to_gratitude.mp3",
+		"ln":"en",
+		"download_url":"/19292/20231123-Gil_Fronsdal-IMC-dharmette_attitudes_4_of_5_from_self-preoccuption_to_gratitude.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.23",
+		"duration":"12:22"
+	},
+	{
+		"title":"Guided Meditation: Grateful",
+		"series":"Guided Meditations",
+		"url":"/19291/20231123-Gil_Fronsdal-IMC-guided_meditation_grateful.mp3",
+		"ln":"en",
+		"download_url":"/19291/20231123-Gil_Fronsdal-IMC-guided_meditation_grateful.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.23",
+		"duration":"32:18"
+	},
+	{
+		"title":"Happy Hour: Simple, Yet Profound, Gratitude",
+		"series":"",
+		"url":"/19290/20231122-Nikki_Mirghafori-IMC-happy_hour_simple_yet_profound_gratitude.mp3",
+		"ln":"en",
+		"download_url":"/19290/20231122-Nikki_Mirghafori-IMC-happy_hour_simple_yet_profound_gratitude.mp3",
+		"speaker":"Nikki Mirghafori",
+		"date":"2023.11.22",
+		"duration":"35:10"
+	},
+	{
+		"title":"Practice Note: No Problems",
+		"series":"",
+		"url":"/19289/20231122-Gil_Fronsdal-IMC-practice_note_no_problems.mp3",
+		"ln":"en",
+		"download_url":"/19289/20231122-Gil_Fronsdal-IMC-practice_note_no_problems.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.22",
+		"duration":"06:03"
+	},
+	{
+		"title":"Dharmette: An Attitude of Respect",
+		"series":"",
+		"url":"/19288/20231122-Gil_Fronsdal-IMC-dharmette_an_attitude_of_respect.mp3",
+		"ln":"en",
+		"download_url":"/19288/20231122-Gil_Fronsdal-IMC-dharmette_an_attitude_of_respect.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.22",
+		"duration":"13:25"
+	},
+	{
+		"title":"Dharmette: Attitudes (3 of 5) From Aversion to Curiousity",
+		"series":"Attitudes",
+		"url":"/19286/20231122-Gil_Fronsdal-IMC-dharmette_attitudes_3_of_5_from_aversion_to_curiousity.mp3",
+		"ln":"en",
+		"download_url":"/19286/20231122-Gil_Fronsdal-IMC-dharmette_attitudes_3_of_5_from_aversion_to_curiousity.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.22",
+		"duration":"11:38"
+	},
+	{
+		"title":"Guided Meditation: Not-Knowing",
+		"series":"Guided Meditations",
+		"url":"/19285/20231122-Gil_Fronsdal-IMC-guided_meditation_not-knowing.mp3",
+		"ln":"en",
+		"download_url":"/19285/20231122-Gil_Fronsdal-IMC-guided_meditation_not-knowing.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.22",
+		"duration":"30:05"
+	},
+	{
+		"title":"Happy Hour: The Gift of The First Precept",
+		"series":"",
+		"url":"/19284/20231121-Liz_Powell-IMC-happy_hour_the_gift_of_the_first_precept.mp3",
+		"ln":"en",
+		"download_url":"/19284/20231121-Liz_Powell-IMC-happy_hour_the_gift_of_the_first_precept.mp3",
+		"speaker":"Liz Powell",
+		"date":"2023.11.21",
+		"duration":"54:33"
+	},
+	{
+		"title":"Uncovering Awakening: Transforming Obstacles into Stepping Stones",
+		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
+		"url":"/19300/20231121-Dawn_Neal-IMC-uncovering_awakening_from_obstacles_to_stepping_stones.mp3",
+		"ln":"en",
+		"download_url":"/19300/20231121-Dawn_Neal-IMC-uncovering_awakening_from_obstacles_to_stepping_stones.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2023.11.21",
+		"duration":"39:45"
+	},
+	{
+		"title":"Guided Meditation: Interested in Awareness",
+		"series":"Guided Meditations",
+		"url":"/19301/20231121-Dawn_Neal-IMC-guided_meditation_interested_in_awareness.mp3",
+		"ln":"en",
+		"download_url":"/19301/20231121-Dawn_Neal-IMC-guided_meditation_interested_in_awareness.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2023.11.21",
+		"duration":"33:37"
+	},
+	{
+		"title":"Dharmette: Attitudes (2 of 5) From Fear to Being Present",
+		"series":"Attitudes",
+		"url":"/19280/20231121-Gil_Fronsdal-IMC-dharmette_attitudes_2_of_5_from_fear_to_being_present.mp3",
+		"ln":"en",
+		"download_url":"/19280/20231121-Gil_Fronsdal-IMC-dharmette_attitudes_2_of_5_from_fear_to_being_present.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.21",
+		"duration":"12:54"
+	},
+	{
+		"title":"Guided Meditation: Embodied Presence",
+		"series":"Guided Meditations",
+		"url":"/19279/20231121-Gil_Fronsdal-IMC-guided_meditation_embodied_presence.mp3",
+		"ln":"en",
+		"download_url":"/19279/20231121-Gil_Fronsdal-IMC-guided_meditation_embodied_presence.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.21",
+		"duration":"28:55"
+	},
+	{
+		"title":"Vehicle of Fear",
+		"series":"",
+		"url":"/19278/20231120-Diana_Clark-IMC-vehicle_of_fear.mp3",
+		"ln":"en",
+		"download_url":"/19278/20231120-Diana_Clark-IMC-vehicle_of_fear.mp3",
+		"speaker":"Diana Clark",
+		"date":"2023.11.20",
+		"duration":"45:16"
+	},
+	{
+		"title":"Happy Hour: Compassion for the Suffering We Cause Through Self-ing",
+		"series":"",
+		"url":"/19277/20231120-Nikki_Mirghafori-IMC-happy_hour_compassion_for_the_suffering_we_cause_through_self-ing.mp3",
+		"ln":"en",
+		"download_url":"/19277/20231120-Nikki_Mirghafori-IMC-happy_hour_compassion_for_the_suffering_we_cause_through_self-ing.mp3",
+		"speaker":"Nikki Mirghafori",
+		"date":"2023.11.20",
+		"duration":"42:08"
+	},
+	{
+		"title":"Dharmette: Attitudes (1 of 5) From Desire to Contentment",
+		"series":"Attitudes",
+		"url":"/19275/20231120-Gil_Fronsdal-IMC-dharmette_attitudes_1_of_5_from_desire_to_contentment.mp3",
+		"ln":"en",
+		"download_url":"/19275/20231120-Gil_Fronsdal-IMC-dharmette_attitudes_1_of_5_from_desire_to_contentment.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.20",
+		"duration":"14:39"
+	},
+	{
+		"title":"Guided Meditation: Settling into Wholeness",
+		"series":"Guided Meditations",
+		"url":"/19274/20231120-Gil_Fronsdal-IMC-guided_meditation_settling_into_wholeness.mp3",
+		"ln":"en",
+		"download_url":"/19274/20231120-Gil_Fronsdal-IMC-guided_meditation_settling_into_wholeness.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2023.11.20",
+		"duration":"28:12"
+	},
+	{
+		"title":"Guided Meditation: Connecting with Earth and Sangha",
+		"series":"Guided Meditations",
+		"url":"/19287/20231119-Hilary_Borison-IMC-guided_meditation_connecting_with_earth_and_sangha.mp3",
+		"ln":"en",
+		"download_url":"/19287/20231119-Hilary_Borison-IMC-guided_meditation_connecting_with_earth_and_sangha.mp3",
+		"speaker":"Hilary Borison",
+		"date":"2023.11.19",
+		"duration":"33:59"
+	},
+	{
+		"title":"The Peace of Practice",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/19276/20231119-Hilary_Borison-IMC-the_peace_of_practice.mp3",
+		"ln":"en",
+		"download_url":"/19276/20231119-Hilary_Borison-IMC-the_peace_of_practice.mp3",
+		"speaker":"Hilary Borison",
+		"date":"2023.11.19",
+		"duration":"33:05"
+	},
+	{
+		"title":"Happy Hour -- Metta Means Not Judging Comparing or Fixing",
+		"series":"",
+		"url":"/19262/20231117-Kim_Allen-IMC-happy_hour_--_metta_means_not_judging_comparing_or_fixing.mp3",
+		"ln":"en",
+		"download_url":"/19262/20231117-Kim_Allen-IMC-happy_hour_--_metta_means_not_judging_comparing_or_fixing.mp3",
+		"speaker":"Kim Allen",
+		"date":"2023.11.17",
+		"duration":"42:11"
+	},
+	{
+		"title":"Faculties for Fearlessness: Panna (5 of 5)",
+		"series":"7am Weekday Sit & Dharmette",
+		"url":"/19253/20231117-Diana_Clark-IMC-faculties_for_fearlessness_panna_5_of_5.mp3",
+		"ln":"en",
+		"download_url":"/19253/20231117-Diana_Clark-IMC-faculties_for_fearlessness_panna_5_of_5.mp3",
+		"speaker":"Diana Clark",
+		"date":"2023.11.17",
+		"duration":"22:43"
+	},
+	{
+		"title":"Faculties for Fearlessness Guided Meditation  (5 of 5)",
+		"series":"Guided Meditations",
+		"url":"/19252/20231117-Diana_Clark-IMC-faculties_for_fearlessness_guided_meditation_5_of_5.mp3",
+		"ln":"en",
+		"download_url":"/19252/20231117-Diana_Clark-IMC-faculties_for_fearlessness_guided_meditation_5_of_5.mp3",
+		"speaker":"Diana Clark",
+		"date":"2023.11.17",
+		"duration":"29:43"
+	},
+	{
+		"title":"Happy Hour: Refuges",
+		"series":"",
+		"url":"/19250/20231116-Liz_Powell-IMC-happy_hour_refuges.mp3",
+		"ln":"en",
+		"download_url":"/19250/20231116-Liz_Powell-IMC-happy_hour_refuges.mp3",
+		"speaker":"Liz Powell",
+		"date":"2023.11.16",
+		"duration":"56:52"
+	},
+	{
+		"title":"Faculties of Fearlessness: Viriya (4 of 5)",
+		"series":"7am Weekday Sit & Dharmette",
+		"url":"/19244/20231116-Diana_Clark-IMC-faculties_of_fearlessness_viriya_4_of_5.mp3",
+		"ln":"en",
+		"download_url":"/19244/20231116-Diana_Clark-IMC-faculties_of_fearlessness_viriya_4_of_5.mp3",
+		"speaker":"Diana Clark",
+		"date":"2023.11.16",
+		"duration":"19:56"
+	},
+	{
+		"title":"Faculties for Fearlessness (4 of 5) Guided Meditation",
+		"series":"Guided Meditations",
+		"url":"/19245/20231116-Diana_Clark-IMC-faculties_for_fearlessness_4_of_5_guided_meditation.mp3",
+		"ln":"en",
+		"download_url":"/19245/20231116-Diana_Clark-IMC-faculties_for_fearlessness_4_of_5_guided_meditation.mp3",
+		"speaker":"Diana Clark",
+		"date":"2023.11.16",
+		"duration":"29:16"
+	},
+	{
+		"title":"Working With Resistance",
+		"series":"",
+		"url":"/19221/20231115-Diana_Clark-IMC-working_with_resistance.mp3",
+		"ln":"en",
+		"download_url":"/19221/20231115-Diana_Clark-IMC-working_with_resistance.mp3",
+		"speaker":"Diana Clark",
+		"date":"2023.11.15",
+		"duration":"14:00"
+	},
+	{
+		"title":"Noticing Resistance",
+		"series":"",
+		"url":"/19220/20231115-Diana_Clark-IMC-noticing_resistance.mp3",
+		"ln":"en",
+		"download_url":"/19220/20231115-Diana_Clark-IMC-noticing_resistance.mp3",
+		"speaker":"Diana Clark",
+		"date":"2023.11.15",
+		"duration":"02:41"
+	},
+	{
+		"title":"Faculties for Fearlessness: Saddha (3 of 5)",
+		"series":"7am Weekday Sit & Dharmette",
+		"url":"/19215/20231115-Diana_Clark-IMC-faculties_of_fearlessness_saddha_3_of_5.mp3",
+		"ln":"en",
+		"download_url":"/19215/20231115-Diana_Clark-IMC-faculties_of_fearlessness_saddha_3_of_5.mp3",
+		"speaker":"Diana Clark",
+		"date":"2023.11.15",
+		"duration":"18:40"
+	},
+	{
+		"title":"Faculties for Fearlessness: Saddha (3 of 5) Guided Meditation",
+		"series":"Guided Meditations",
+		"url":"/19214/20231115-Diana_Clark-IMC-faculties_of_fearlessness_saddha_3_of_5_guided_meditation.mp3",
+		"ln":"en",
+		"download_url":"/19214/20231115-Diana_Clark-IMC-faculties_of_fearlessness_saddha_3_of_5_guided_meditation.mp3",
+		"speaker":"Diana Clark",
+		"date":"2023.11.15",
+		"duration":"29:37"
 	}
 	]
 }

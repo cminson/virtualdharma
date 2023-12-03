@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/bin/python
 #
 # Run locally on Mac to check PDF correctness
 #
@@ -8,28 +8,25 @@ import os
 PATH_NEW_TRANSCRIPTS = "/Users/Chris/Documents/PDF"
 LIST_CORRECT_PDFS = []
 
+PATH_CONFIG_JSON = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/CONFIG00.JSON"
 
-fd = open('CONFIG00.JSON','r')
-data  = json.load(fd)
 
-talks = data['talks']
-for talk in talks:
+test = '20210714-Nikki_Mirghafori-IMC-samadhi_3_5_relaxed_body_receptive_awareness.mp3'
+
+set_mp3 = set()
+list_mp3 = []
+list_talks = []
+with open(PATH_CONFIG_JSON,'r') as fd:
+    data  = json.load(fd)
+    list_talks = data['talks']
+
+for talk in list_talks:
     url = talk['url']
-    mp3_name = url.split("/")[-1]
-    correct_pdf_name = mp3_name.replace(".mp3", ".pdf")
-    LIST_CORRECT_PDFS.append(correct_pdf_name)
-
-
-for pdf_name in os.listdir(PATH_NEW_TRANSCRIPTS):
-    if ".pdf" not in pdf_name: continue
-    if pdf_name in LIST_CORRECT_PDFS:
-        print("CORRECT: {}".format(pdf_name))
-    else:
-        print("DOES NOT EXIST: {}".format(pdf_name))
-        match_name = pdf_name[0:30]
-        for correct_pdf_name in LIST_CORRECT_PDFS:
-            if match_name in correct_pdf_name:
-                print("mv {} {}".format(pdf_name, correct_pdf_name))
-                break
+    file_mp3 = os.path.basename(url)
+    #print(file_mp3)
+    if file_mp3 in set_mp3:
+        print('bad: ', file_mp3)
+        continue
+    set_mp3.add(file_mp3)
 
 

@@ -28,7 +28,7 @@ PATH_TALKS_TRENDING = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Con
 PATH_TALKS_TOP3MONTHS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP90DAYS.JSON"
 
 URL_RECENT_TALKS = "https://www.audiodharma.org/playables/recent.json" # endpoint to get new talks from AudioDharma
-MAX_NEW_TALKS = 10  # max number of new talks we will get
+MAX_NEW_TALKS = 100  # max number of new talks we will get
 
 AllTalks = []
 WORD = re.compile(r'\w+')
