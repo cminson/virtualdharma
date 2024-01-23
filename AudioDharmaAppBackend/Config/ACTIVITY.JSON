@@ -1,6 +1,34 @@
 {
 "sangha_history": [
 {
+	"filename" : "2004-06-21_GilFronsdal_Discernment.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2004.06.21",
+	"city" : "Haarlem",
+	"country" : "Netherlands"
+},
+{
+	"filename" : "20130629-Andrea_Fella-IRC-guided_meditation.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2013.06.29",
+	"city" : "Addis Ababa",
+	"country" : "Ethiopia"
+},
+{
+	"filename" : "20240117-Gil_Fronsdal-IMC-don_t_make_it_worse.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.01.17",
+	"city" : "Arvada",
+	"country" : "United States"
+},
+{
+	"filename" : "20240115-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_6_of_25_listening_to_the_body.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.01.15",
+	"city" : "Belmont",
+	"country" : "United States"
+},
+{
 	"filename" : "20231126-Gil_Fronsdal-IMC-near_friends_of_the_five_hindrances.mp3",
 	"operation" : "PLAYTALK",
 	"date" : "2023.11.26",
@@ -6355,13 +6383,6 @@
 	"date" : "2024.01.17",
 	"city" : "Melbourne",
 	"country" : "Australia"
-},
-{
-	"filename" : "20201105-Gil_Fronsdal-IMC-eightfold_path_right_speech_1_of_3.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2020.11.05",
-	"city" : "New York",
-	"country" : "United States"
 }
 ],
 "sangha_shares": [
