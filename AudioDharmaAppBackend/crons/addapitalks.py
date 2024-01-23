@@ -242,12 +242,14 @@ configPrint("\t\"talks\":[")
 
 for talk in all_talks:
     url = talk['url']
+    print(talk)
 
     if "NA" in url:
         continue
 
     mp3_file_name = url.split("/")[-1]
     title = talk["title"]
+    print(title)
     #title = capitalizeWords(title)
 
     series = talk["series"]
@@ -275,8 +277,16 @@ for talk in all_talks:
     if "&amp;" in series:
         series = series.replace("&amp;", "&")
 
+    if "Tuesday Sitting" in series:
+        series = "Tuesday Sitting"
+    if "Sunday Morning " in series:
+        series = "Sunday Morning"
+    if "Monday Night " in series:
+        series = "Monday Night"
+
     if "Guided Meditation" in title:
         AllGuidedMeditions.append(talk)
+        series = "Guided Meditations"
 
 
     # flag spanish content
@@ -304,8 +314,9 @@ for talk in all_talks:
         minutes = int(hms[0])
         seconds = int(hms[1])
     else:
-        print("DATE ERROR", duration, hms)
-        exit()
+        print("DURATION ERROR", duration, hms)
+        continue
+        #exit()
     seconds = (hours * 60 * 60) + (minutes * 60) + seconds
     if seconds < MAX_SHORT_TALK_SECONDS:
         AllShortTalks.append(talk)
