@@ -1,6 +1,13 @@
 {
 "sangha_history": [
 {
+	"filename" : "20231126-Gil_Fronsdal-IMC-near_friends_of_the_five_hindrances.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2023.11.26",
+	"city" : "Denver",
+	"country" : "United States"
+},
+{
 	"filename" : "20210617-Andrea_Fella-IMC-guided_meditation_relaxation_supports_awareness.mp3",
 	"operation" : "PLAYTALK",
 	"date" : "2021.06.17",
@@ -6354,13 +6361,6 @@
 	"operation" : "PLAYTALK",
 	"date" : "2020.11.05",
 	"city" : "New York",
-	"country" : "United States"
-},
-{
-	"filename" : "980214_GilFronsdal_Dependent_Co-Arising.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "1998.02.14",
-	"city" : "Houston",
 	"country" : "United States"
 }
 ],
