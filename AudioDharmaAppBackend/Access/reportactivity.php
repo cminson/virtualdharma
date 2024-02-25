@@ -35,6 +35,9 @@ if (strlen($devicetype) < 1) {
 }
 
 
+//
+// First, try to get the geolocations from our cache ...
+// 
 $country = $city = "NA";
 $mysqli = new mysqli("localhost", "cminson", "ireland", "ad");
 $query= "SELECT country,city from ipmap where ip=\"$ip\" LIMIT 1";
@@ -55,23 +58,25 @@ while ($row = mysqli_fetch_array($results))
         $city = trim($city);
 } 
 if ($country != "") {
-    mylog("IP FOUND:  $ip $country $city");
+    mylog("CACHED IP FOUND:  $ip $country $city");
 } 
 
+//
+// if cache failed, then got to ipstack and use that to geolocate
+// and then cache the results for use next time
 //
 // ipstack.com
 // christopherminson@icloud.com ireland
 
 if ($country == "") {
 
-    //curl http://api.ipstack.com/68.185.3.215?access_key=b1f6f872938649344848b999593cf71d
-    //$command = "curl freegeoip.net/json/$ip";
-    mylog("IP NOT FOUND:  Doing lookup on $country $city");
-    $command = "curl http://api.ipstack.com/$ip?access_key=e2716847045121a9863e6b098557bb41
+    mylog("CACHED IP NOT FOUND:  Doing lookup on $ip");
+    $command = "curl https://api.ipstack.com/$ip?access_key=e2716847045121a9863e6b098557bb41
 ";
-    mylog($command);
+    mylog("Curl IP Command: $command");
     $result = exec("$command 2>&1", $lines, $ConvertResultCode);
     $json = json_decode($result,TRUE);
+    mylog("$json");
     $country= $json["country_code"];
     $state = $json["region_code"];
     $city = $json["city"];
@@ -141,13 +146,11 @@ $result = $mysqli->query($query);
 
 function mylog($msg) 
 {
-	/*
     $LOGFILE= "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Access/ad.log";
 
     $fp = fopen($LOGFILE, 'a+');
     fputs($fp, "$msg\n");
     fclose($fp);
-	 */
 }
 
 function getVar($var) 

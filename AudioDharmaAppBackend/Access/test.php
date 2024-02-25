@@ -1,6 +1,7 @@
 #!/usr/bin/php
 <?php
 
+print("\n<p>");
 /* 
  * Record into the database that a talk has been played or shared.
  * This access point is called directly by the app.
@@ -25,6 +26,7 @@ $longitude = getVar("LONGITUDE");
 $seconds = time();
 $ip = $_SERVER['REMOTE_ADDR'];
 $date = gmdate("Y.m.d");
+print($ip);
 
 if ($devicetype == "NA") {
     $devicetype = "iphone";
@@ -54,6 +56,8 @@ while ($row = mysqli_fetch_array($results))
 		if (($city != '') && ($city != "NA")) break;
 } 
 
+print("<p>$city <br>$country");
+
 //
 // ipstack.com
 // christopherminson@icloud.com ireland
@@ -61,12 +65,13 @@ while ($row = mysqli_fetch_array($results))
 
 if ($country == "") {
 
-    //curl http://api.ipstack.com/68.185.3.215?access_key=b1f6f872938649344848b999593cf71d
-    //$command = "curl freegeoip.net/json/$ip";
-    $command = "curl http://api.ipstack.com/$ip?access_key=b1f6f872938649344848b999593cf71d";
-    //mylog($command);
+    $command = "curl https://api.ipstack.com/$ip?access_key=e2716847045121a9863e6b098557bb41";
+    mylog($command);
+    print("<p>$command");
     $result = exec("$command 2>&1", $lines, $ConvertResultCode);
     $json = json_decode($result,TRUE);
+    mylog($json);
+    print("<p>$json");
     $country= $json["country_code"];
     $state = $json["region_code"];
     $city = $json["city"];

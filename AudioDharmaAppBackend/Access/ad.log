@@ -1,0 +1,76 @@
+IP FOUND:  97.82.109.21 US Medford
+IP NOT FOUND:  Doing lookup on  
+curl https://api.ipstack.com/192.184.162.157?access_key=e2716847045121a9863e6b098557bb41
+
+IPStack Lookup Result: 192.184.162.157 Country:  City:
+IP NOT FOUND:  Doing lookup on  
+curl https://api.ipstack.com/196.188.225.27?access_key=e2716847045121a9863e6b098557bb41
+
+IPStack Lookup Result: 196.188.225.27 Country:  City:
+IP FOUND:  77.174.76.93 NL Eibergen
+IP FOUND:  73.159.50.86 US Rochester
+curl http://api.ipstack.com/97.82.109.21?access_key=b1f6f872938649344848b999593cf71d
+IP FOUND:  69.130.201.155 US Elephant Butte
+curl http://api.ipstack.com/97.82.109.21?access_key=b1f6f872938649344848b999593cf71d
+curl http://api.ipstack.com/97.82.109.21?access_key=b1f6f872938649344848b999593cf71d
+curl http://api.ipstack.com/97.82.109.21?access_key=b1f6f872938649344848b999593cf71d
+IP FOUND:  58.168.113.161 AU Sydney
+IP FOUND:  104.28.116.47 US Flagami
+IP FOUND:  70.29.213.135 CA Montréal
+IP FOUND:  77.174.76.93 NL Eibergen
+IP NOT FOUND:  Doing lookup on  
+curl https://api.ipstack.com/184.61.9.207?access_key=e2716847045121a9863e6b098557bb41
+
+IPStack Lookup Result: 184.61.9.207 Country:  City:
+IP FOUND:  77.174.76.93 NL Eibergen
+CACHED IP FOUND:  104.178.187.216 US Wauwatosa
+CACHED IP FOUND:  14.177.215.68 VN Hanoi
+CACHED IP FOUND:  50.65.232.183 CA Edmonton
+CACHED IP FOUND:  174.194.203.163 US Santa Clara
+CACHED IP FOUND:  97.82.109.21 US Medford
+CACHED IP NOT FOUND:  Doing lookup on 97.82.109.21
+Curl IP Command: curl https://api.ipstack.com/97.82.109.21?access_key=e2716847045121a9863e6b098557bb41
+
+IPStack Lookup Result: 97.82.109.21 Country:  City:
+curl http://api.ipstack.com/97.82.109.21?access_key=b1f6f872938649344848b999593cf71d
+CACHED IP NOT FOUND:  Doing lookup on 172.56.233.217
+Curl IP Command: curl https://api.ipstack.com/172.56.233.217?access_key=e2716847045121a9863e6b098557bb41
+
+IPStack Lookup Result: 172.56.233.217 Country:  City:
+CACHED IP NOT FOUND:  Doing lookup on 83.6.29.197
+Curl IP Command: curl https://api.ipstack.com/83.6.29.197?access_key=e2716847045121a9863e6b098557bb41
+
+</html>
+IPStack Lookup Result: 83.6.29.197 Country:  City:
+CACHED IP NOT FOUND:  Doing lookup on 174.196.196.95
+Curl IP Command: curl https://api.ipstack.com/174.196.196.95?access_key=e2716847045121a9863e6b098557bb41
+
+</html>
+IPStack Lookup Result: 174.196.196.95 Country:  City:
+CACHED IP FOUND:  73.92.127.7 US Fairfield
+CACHED IP FOUND:  147.235.194.174 IL Jerusalem
+CACHED IP NOT FOUND:  Doing lookup on 129.7.0.178
+Curl IP Command: curl https://api.ipstack.com/129.7.0.178?access_key=e2716847045121a9863e6b098557bb41
+
+</html>
+IPStack Lookup Result: 129.7.0.178 Country:  City:
+CACHED IP FOUND:  147.235.194.174 IL Jerusalem
+curl http://api.ipstack.com/97.82.109.21?access_key=b1f6f872938649344848b999593cf71d
+CACHED IP FOUND:  104.28.125.2 AU Sydney
+curl https://api.ipstack.com/97.82.109.21?access_key=e2716847045121a9863e6b098557bb41
+
+CACHED IP NOT FOUND:  Doing lookup on 73.15.147.238
+Curl IP Command: curl https://api.ipstack.com/73.15.147.238?access_key=e2716847045121a9863e6b098557bb41
+
+
+IPStack Lookup Result: 73.15.147.238 Country:  City:
+CACHED IP FOUND:  73.92.127.7 US Fairfield
+curl https://api.ipstack.com/97.82.109.21?access_key=e2716847045121a9863e6b098557bb41
+
+CACHED IP NOT FOUND:  Doing lookup on 174.196.196.95
+Curl IP Command: curl https://api.ipstack.com/174.196.196.95?access_key=e2716847045121a9863e6b098557bb41
+
+
+IPStack Lookup Result: 174.196.196.95 Country:  City:
+CACHED IP FOUND:  99.240.113.60 CA Willowdale
+CACHED IP FOUND:  194.230.148.170 CH Stadt Winterthur (Kreis 1)
