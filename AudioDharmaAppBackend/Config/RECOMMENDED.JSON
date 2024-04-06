@@ -1,103 +1,448 @@
-[
-"20170417-Gil_Fronsdal-IMC-karma.mp3",
-"20100414-Gil_Fronsdal-IMC-practice_notes_where_does_thinking_occur.mp3",
-"20161012-Gil_Fronsdal-IMC-introduction_to_meditation_part_1_overview.mp3",
-"20071003-Gil_Fronsdal-IMC-introduction_to_meditation_breath_part_1.mp3",
-"20010101-No_Teacher-IMC-brief_instructions_for_sitting_meditation.mp3",
-"20010101-No_Teacher-IMC-instructions_for_walking_meditation.mp3",
-"20051002-Gil_Fronsdal-IMC-introduction_to_mindfulness_meditation.mp3",
-"20080720-Gil_Fronsdal-IMC-mental_noting.mp3",
-"20030717-Gil_Fronsdal-IMC-guided_body_scan.mp3",
-"20010906-Gil_Fronsdal-IMC-guided_metta.mp3",
-"2005-01-10_GilFronsdal_FourNobleTruths.mp3",
-"2003-08-18_GilFronsdal_8FoldPath.mp3",
-"20060903-Gil_Fronsdal-IMC-the_eightfold_path_finding_an_ancient_path.mp3",
-"2003-06-01_GilFronsdal_Karma.mp3",
-"2006-04-03_GilFronsdal_KarmaAndIntention.mp3",
-"2005-05-16_GilFronsdal_Impermanence.mp3",
-"2005-01-16_GilFronsdal_CessationOfSuffering.mp3",
-"2005-06-13_GilFronsdal_ThreeCharacteristicsNotSelf.mp3",
-"2004-04-28_GilFronsdal_Foundations-Wk1Pt1.mp3",
-"2004-04-28_GilFronsdal_Foundations-Wk1Pt2.mp3",
-"2006-10-08_GilFronsdal_RightIntention.mp3",
-"2003-07-20_GilFronsdal_Ahimsa.mp3",
-"2006-04-10_GilFronsdal_LovingKindness.mp3",
-"2004-12-12_GilFronsdal_RenunciationAndEase.mp3",
-"2003-08-07_GilFronsdal_Ethics.mp3",
-"2005-10-03_GilFronsdal_FivePrecepts.mp3",
-"2005-10-10_GilFronsdal_ThePrecepts-NotKilling.mp3",
-"2005-10-17_GilFronsdal_Precepts-NotTakingWhatIsNotGiven.mp3",
-"2005-10-24_GilFronsdal_Precepts-NotCommittingSexualMisconduct.mp3",
-"2005-11-07_GilFronsdal_Precepts-NotLying.mp3",
-"2005-11-14_GilFronsdal_Precepts-NotTakingIntoxicants.mp3",
-"2005-05-23_GilFronsdal_ParamisTruth.mp3",
-"2007-01-28_GilFronsdal_RightLivelihood.mp3",
-"2004-05-17_GilFronsdal_Effort.mp3",
-"2005-11-13_GilFronsdal_FourRightEfforts.mp3",
-"2005-11-20_GilFronsdal_LettingGo.mp3",
-"2005-12-04_GilFronsdal_RightEffortMaintainingWholesomeStates.mp3",
-"2004-06-13_GilFronsdal_Mindfulness.mp3",
-"2004-06-14_GilFronsdal_Concentration.mp3",
-"2006-06-25_GilFronsdal_ContrastingMindfulnessAndConcentration.mp3",
-"20081013-Gil_Fronsdal-IMC-the_five_hindrances_introduction.mp3",
-"20041103-Gil_Fronsdal-IMC-guided_meditation_hindrances.mp3",
-"20081020-Gil_Fronsdal-IMC-the_five_hindrances_sensual_desire.mp3",
-"20090520-Ines_Freedman-IMC-guided_meditation_wanting.mp3",
-"20081027-Gil_Fronsdal-IMC-the_five_hindrances_ill_will.mp3",
-"20010906-Gil_Fronsdal-IMC-guided_metta.mp3",
-"20081110-Gil_Fronsdal-IMC-the_five_hindrances_sloth_and_torpor.mp3",
-"20090705-Ines_Freedman-IMC-guided_meditation_energy.mp3",
-"20081117-Gil_Fronsdal-IMC-the_five_hindrances_restlessness_and_worry.mp3",
-"20090712-Ines_Freedman-IMC-guided_meditation_big_mind.mp3",
-"20081124-Gil_Fronsdal-IMC-the_five_hindrances_doubt.mp3",
-"20090501-Gil_Fronsdal-IMC-guided_meditation_confidence.mp3",
-"20070114-Gil_Fronsdal-IMC-taking_refuge.mp3",
-"2006-05-29_GilFronsdal_DesireAndCraving.mp3",
-"2005-08-29_GilFronsdal_Anger.mp3",
-"2007-04-08_GilFronsdal_Delusion.mp3",
-"20040927-Gil_Fronsdal-IMC-the_seven_factors_of_awakening.mp3",
-"2002-09-16_GilFronsdal_4NTand4FM.mp3",
-"2001-09-06_GilFronsdal_Metta.mp3",
-"2001-09-06_GilFronsdal_GuidedMetta.mp3",
-"2003-01-20_GilFronsdal_Fear.mp3",
-"2002-11-11_GilFronsdal_Pain.mp3",
-"2002-03-18_GilFronsdal_Investigation.mp3",
-"2004-09-27_GilFronsdal_SevenFactorsOfAwakening.mp3",
-"20100423-Gil_Fronsdal-IMC-seven_factors_of_enlightenment_concentration_part_1.mp3",
-"20050420-Gil_Fronsdal-IMC-concentration_week_1_part_1.mp3",
-"20020429-Gil_Fronsdal-IMC-introduction_to_concentration_the_path.mp3",
-"20020501-Gil_Fronsdal-IMC-concentration_week_1.mp3",
-"20040510-Gil_Fronsdal-IMC-faith_confidence.mp3",
-"20040517-Gil_Fronsdal-IMC-effort.mp3",
-"20040524-Gil_Fronsdal-IMC-mindfulness.mp3",
-"20040614-Gil_Fronsdal-IMC-concentration.mp3",
-"20040621-Gil_Fronsdal-IMC-wisdom_discernment.mp3",
-"20041004-Gil_Fronsdal-IMC-the_paramis.mp3",
-"20041011-Gil_Fronsdal-IMC-the_paramis_generosity.mp3",
-"20041108-Gil_Fronsdal-IMC-the_paramis_virtue.mp3",
-"20041206-Gil_Fronsdal-IMC-paramis_renunciation.mp3",
-"20050124-Gil_Fronsdal-IMC-paramis_wisdom.mp3",
-"20050207-Gil_Fronsdal-IMC-paramis_effort.mp3",
-"20050418-Gil_Fronsdal-IMC-paramis_patience.mp3",
-"20050523-Gil_Fronsdal-IMC-paramis_truth.mp3",
-"20050718-Gil_Fronsdal-IMC-paramis_resolve.mp3",
-"20050725-Gil_Fronsdal-IMC-paramis_loving_kindness.mp3",
-"20050919-Gil_Fronsdal-IMC-equanimity.mp3",
-"20060116-Gil_Fronsdal-IMC-not_self_introduction_background_1_of_5.mp3",
-"20060123-Gil_Fronsdal-IMC-not_self_selfing_2_of_5.mp3",
-"20060130-Gil_Fronsdal-IMC-not_self_finding_oneself_3_of_5.mp3",
-"20170412-Gil_Fronsdal-IMC-dharmette_one_or_the_other.mp3",
-"20101027-Gil_Fronsdal-IMC-practice_notes_mindfulness_of_emotions.mp3",
-"20120325-Gil_Fronsdal-IMC-something_about_nothing.mp3",
-"20130116-Gil_Fronsdal-IMC-self_and_not_self.mp3",
-"20070611-Gil_Fronsdal-IMC-just_to_be_alive_is_enough.mp3",
-"20101027-Gil_Fronsdal-IMC-exploring_emotions.mp3",
-"20101103-Gil_Fronsdal-IMC-practice_notes_thinking.mp3",
-"20101103-Gil_Fronsdal-IMC-thinking.mp3",
-"20101110-Gil_Fronsdal-IMC-practice_notes_mindfulness_of_the_mind.mp3",
-"20101110-Gil_Fronsdal-IMC-mindfulness_of_the_mind.mp3",
-"20111113-Gil_Fronsdal-IMC-investigating_desire.mp3",
-"20140430-Gil_Fronsdal-IMC-suffering_is_more_complex.mp3",
-"20101201-Gil_Fronsdal-IMC-understanding_the_purpose_of_practice.mp3",
-"20060206-Gil_Fronsdal-IMC-not_self_the_buddhas_teachings_4_of_5.mp3"
-]
+	{
+		"talks": [
+		{
+			"series":"Introduction to Mindfulness",
+			"section":"_",
+			"title":"Part 1: Overview",
+			"url":"/7170/20161012-Gil_Fronsdal-IMC-introduction_to_meditation_part_1_overview.mp3"
+		},
+		{
+			"series":"Introduction to Mindfulness",
+			"section":"_",
+			"title":"Part 2: Mindfulness of the Body",
+			"url":"/7193/20161019-Gil_Fronsdal-IMC-introduction_to_meditation_part_2_mindfulness_of_the_body.mp3"
+		},
+		{
+			"series":"Introduction to Mindfulness",
+			"section":"_",
+			"title":"Part 3: Mindfulness of Emotions",
+			"url":"/7201/20161026-Gil_Fronsdal-IMC-introduction_to_meditation_part_3_mindfulness_of_emotions.mp3"
+		},
+		{
+			"series":"Introduction to Mindfulness",
+			"section":"_",
+			"title":"Part 4: Mindfulness of Thoughts",
+			"url":"/7235/20161102-Gil_Fronsdal-IMC-introduction_to_meditation_part_4_mindfulness_of_thoughts.mp3"
+		},
+		{
+			"series":"Introduction to Mindfulness",
+			"section":"_",
+			"title":"Beginner Mindfulness",
+			"url":"/7256/20161109-Gil_Fronsdal-IMC-beginner_mindfulness_class_5.mp3"
+		},
+		{
+			"series":"Introduction to Mindfulness",
+			"section":"_",
+			"title":"Breath",
+			"url":"/1176/2007-10-03_GilFronsdal_IntroductionToMeditation_1of6.mp3"
+		},
+		{
+			"series":"Introduction to Mindfulness",
+			"section":"_",
+			"title":"Body",
+			"url":"/1180/2007-10-10_GilFronsdal_IntroductionToMeditation_2of6.mp3"
+		},
+		{
+			"series":"Introduction to Mindfulness",
+			"section":"_",
+			"title":"Emotions",
+			"url":"/1194/2007-10-17_GilFronsdal_IntroductionToMeditation_3of6.mp3"
+		},
+		{
+			"series":"Introduction to Mindfulness",
+			"section":"_",
+			"title":"Thinking",
+			"url":"/1763/20080130-Gil_Fronsdal-IMC-introduction_to_meditation_thinking_part_4.mp3"
+		},
+		{
+			"series":"Introduction to Mindfulness",
+			"section":"_",
+			"title":"Mind",
+			"url":"/1764/2008-10-29_GilFronsdal_IntroductionToMeditation_5of6.mp3"
+		},
+		{
+			"series":"Introduction to Mindfulness",
+			"section":"_",
+			"title":"Daily Life",
+			"url":"/1765/2008-02-13_GilFronsdal_IntroductionToMeditation_6of6.mp3"
+		},
+		{
+			"series":"Introduction to Meditation",
+			"section":"_",
+			"title":"Brief Instructions for Sitting Meditation",
+			"url":"/3279/20010101-No_Teacher-IMC-brief_instructions_for_sitting_meditation.mp3"
+		},
+		{
+			"series":"Introduction to Meditation",
+			"section":"_",
+			"title":"Instructions for Walking Meditation",
+			"url":"/3280/20010101-No_Teacher-IMC-instructions_for_walking_meditation.mp3"
+		},
+		{
+			"series":"Introduction to Meditation",
+			"section":"_",
+			"title":"Mindfulness Meditation as a Buddhist Practice",
+			"url":"/3281/20010101-No_Teacher-IMC-mindfulness_meditation_as_a_buddhist_practice.mp3"
+		},
+		{
+			"series":"Introduction to Meditation",
+			"section":"_",
+			"title":"Introduction to Mindfulness Meditation",
+			"url":"/774/2005-10-02_GilFronsdal_IntroductionToMindfulnessMeditation.mp3"
+		},
+		{
+			"series":"Introduction to Meditation",
+			"section":"_",
+			"title":"Mental Noting",
+			"url":"/1369/20080720-Gil_Fronsdal-IMC-mental_noting.mp3"
+		},
+		{
+			"series":"Introduction to Meditation",
+			"section":"_",
+			"title":"Guided Body Scan",
+			"url":"/353/2003-07-17_GilFronsdal_GuidedBodyScan.mp3"
+		},
+		{
+			"series":"Introduction to Meditation",
+			"section":"_",
+			"title":"Guided Metta",
+			"url":"/44/2001-09-06_GilFronsdal_GuidedMetta.mp3"
+		},
+		{
+			"series":"",
+			"section":"_",
+			"title":"Four Noble Truths",
+			"url":"/627/2005-01-10_GilFronsdal_FourNobleTruths.mp3"
+		},
+		{
+			"series":"Four Noble Truths & The Eightfold Path",
+			"section":"_",
+			"title":"Eightfold Path",
+			"url":"/942/2006-09-03_GilFronsdal_TheEightfoldPathFindingAnAncientPath.mp3"
+		},
+		{
+			"series":"Four Noble Truths & The Eightfold Path",
+			"section":"_",
+			"title":"#1 Right Understanding",
+			"url":"/1124/2007-07-23_GilFronsdal_RightUnderstanding.mp3"
+		},
+		{
+			"series":"Four Noble Truths & The Eightfold Path",
+			"section":"_",
+			"title":"#2 Right Intention",
+			"url":"/961/2006-10-08_GilFronsdal_RightIntention.mp3"
+		},
+		{
+			"series":"Four Noble Truths & The Eightfold Path",
+			"section":"_",
+			"title":"#3 Right Action",
+			"url":"/362/2003-08-07_GilFronsdal_Ethics.mp3"
+		},
+		{
+			"series":"Four Noble Truths & The Eightfold Path",
+			"section":"_",
+			"title":"#4 Right Speech",
+			"url":"/700/2005-05-23_GilFronsdal_ParamisTruth.mp3"
+		},
+		{
+			"series":"Four Noble Truths & The Eightfold Path",
+			"section":"_",
+			"title":"#5 Right Livelihood",
+			"url":"/1015/2007-01-28_GilFronsdal_RightLivelihood.mp3"
+		},
+		{
+			"series":"Four Noble Truths & The Eightfold Path",
+			"section":"_",
+			"title":"#6 Right Effort",
+			"url":"/487/2004-05-17_GilFronsdal_Effort.mp3"
+		},
+		{
+			"series":"Four Noble Truths & The Eightfold Path",
+			"section":"_",
+			"title":"#7 Right Mindfulness",
+			"url":"/502/2004-06-13_GilFronsdal_Mindfulness.mp3"
+		},
+		{
+			"series":"Four Noble Truths & The Eightfold Path",
+			"section":"_",
+			"title":"#8 Right Concentration",
+			"url":"/503/2004-06-14_GilFronsdal_Concentration.mp3"
+		},
+		{
+			"series":"The Five Hindrances",
+			"section":"_",
+			"title":"The Five Hindrances: Introduction",
+			"url":"/1399/20081013-Gil_Fronsdal-IMC-the_five_hindrances_introduction.mp3"
+		},
+		{
+			"series":"The Five Hindrances",
+			"section":"_",
+			"title":"Guided Meditation: Hindrances",
+			"url":"/1769/20090520-Ines_Freedman-IMC-guided_meditation_wanting.mp3"
+		},
+		{
+			"series":"The Five Hindrances",
+			"section":"_",
+			"title":"The Five Hindrances: Sensual Desire",
+			"url":"/1402/20081020-Gil_Fronsdal-IMC-the_five_hindrances_sensual_desire.mp3"
+		},
+		{
+			"series":"The Five Hindrances",
+			"section":"_",
+			"title":"The Five Hindrances: Ill Will",
+			"url":"/1405/20081027-Gil_Fronsdal-IMC-the_five_hindrances_ill_will.mp3"
+		},
+		{
+			"series":"The Five Hindrances",
+			"section":"_",
+			"title":"The Five Hindrances: Restlessness and Worry",
+			"url":"/1417/20081117-Gil_Fronsdal-IMC-the_five_hindrances_restlessness_and_worry.mp3"
+		},
+		{
+			"series":"The Five Hindrances",
+			"section":"_",
+			"title":"The Five Hindrances: Sloth and Torpor",
+			"url":"/1414/20081110-Gil_Fronsdal-IMC-the_five_hindrances_sloth_and_torpor.mp3"
+		},
+		{
+			"series":"The Five Hindrances",
+			"section":"_",
+			"title":"The Five Hindrances: Doubt",
+			"url":"/1420/20081124-Gil_Fronsdal-IMC-the_five_hindrances_doubt.mp3"
+		},
+		{
+			"series":"Seven Factors of Enlightenment",
+			"section":"_",
+			"title":"Seven Factors of Enlightenment Part 1",
+			"url":"20100423-Gil_Fronsdal-IMC-seven_factors_of_enlightenment_concentration_part_1.mp3"
+		},
+		{
+			"series":"Seven Factors of Enlightenment",
+			"section":"_",
+			"title":"Seven Factors of Enlightenment Part 2",
+			"url":"20100423-Gil_Fronsdal-IMC-seven_factors_of_enlightenment_concentration_part_2.mp3"
+		},
+		{
+			"series":"Seven Factors of Enlightenment",
+			"section":"_",
+			"title":"Seven Factors of Enlightenment Part 3",
+			"url":"20100423-Gil_Fronsdal-IMC-seven_factors_of_enlightenment_concentration_part_3.mp3"
+		},
+		{
+			"series":"Seven Factors of Enlightenment",
+			"section":"_",
+			"title":"Seven Factors of Enlightenment Part 4",
+			"url":"20100423-Gil_Fronsdal-IMC-seven_factors_of_enlightenment_concentration_part_4.mp3"
+		},
+		{
+			"series":"Seven Factors of Enlightenment",
+			"section":"_",
+			"title":"Seven Factors of Enlightenment Part 5",
+			"url":"20100423-Gil_Fronsdal-IMC-seven_factors_of_enlightenment_concentration_part_5.mp3"
+		},
+		{
+			"series":"Seven Factors of Enlightenment",
+			"section":"_",
+			"title":"Seven Factors of Enlightenment Part 6",
+			"url":"20100423-Gil_Fronsdal-IMC-seven_factors_of_enlightenment_concentration_part_6.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Taking Refuge",
+			"url":"/1009/2007-01-14_GilFronsdal_TakingRefuge.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Three Poisons: Desire & Craving",
+			"url":"2006-05-29_GilFronsdal_DesireAndCraving.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Three Poisons: Aversion & Anger",
+			"url":"2005-08-29_GilFronsdal_Anger.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Three Poisons: Delusion",
+			"url":"2007-04-08_GilFronsdal_Delusion.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Seven Factors of Enlightenment",
+			"url":"/572/2004-09-27_GilFronsdal_SevenFactorsOfAwakening.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Four Foundations of Mindfulness",
+			"url":"2002-09-16_GilFronsdal_4NTand4FM.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Metta: Guided Metta",
+			"url":"2001-09-06_GilFronsdal_Metta.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Metta: Guided Forgiveness",
+			"url":"2001-09-06_GilFronsdal_GuidedMetta.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Mindfulness: Fear",
+			"url":"2003-01-20_GilFronsdal_Fear.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Mindfulness: Pain",
+			"url":"2002-11-11_GilFronsdal_Pain.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Mindfulness: Investigation",
+			"url":"2002-03-18_GilFronsdal_Investigation.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Mindfulness: Heart-mind Quality",
+			"url":"2004-09-27_GilFronsdal_SevenFactorsOfAwakening.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Faith & Confidence",
+			"url":"/483/2004-05-10_GilFronsdal_Faith.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Effort",
+			"url":"/487/2004-05-17_GilFronsdal_Effort.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Mindfulness",
+			"url":"/492/2004-05-24_GilFronsdal_Mindfulness.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Concentration",
+			"url":"/503/2004-06-14_GilFronsdal_Concentration.mp3"
+		},
+		{
+			"series":"Deepening Practice",
+			"section":"_",
+			"title":"Wisdom & Discernment",
+			"url":"/506/2004-06-21_GilFronsdal_Discernment.mp3"
+		},
+		{
+			"series":"The Five Spiritual Faculties",
+			"section":"_",
+			"title":"The Paramis",
+			"url":"/574/2004-10-04_GilFronsdal_Paramis.mp3"
+		},
+		{
+			"series":"The Five Spiritual Faculties",
+			"section":"_",
+			"title":"Generosity",
+			"url":"/577/2004-10-11_GilFronsdal_Generosity.mp3"
+		},
+		{
+			"series":"The Five Spiritual Faculties",
+			"section":"_",
+			"title":"Virtue",
+			"url":"/590/2004-11-08_GilFronsdal_ParamisVirtue.mp3"
+		},
+		{
+			"series":"The Five Spiritual Faculties",
+			"section":"_",
+			"title":"Renunciation",
+			"url":"/613/2004-12-06_GilFronsdal_ParamisRenunciation.mp3"
+		},
+		{
+			"series":"The Five Spiritual Faculties",
+			"section":"_",
+			"title":"Wisdom",
+			"url":"/633/2005-01-24_GilFronsdal_ParamisWisdom.mp3"
+		},
+		{
+			"series":"The Five Spiritual Faculties",
+			"section":"_",
+			"title":"Effort",
+			"url":"/639/2005-02-07_GilFronsdal_ParamisEffort.mp3"
+		},
+		{
+			"series":"The Five Spiritual Faculties",
+			"section":"_",
+			"title":"Patience",
+			"url":"/668/2005-04-18_GilFronsdal_ParamisPatience.mp3"
+		},
+		{
+			"series":"The Five Spiritual Faculties",
+			"section":"_",
+			"title":"Truth",
+			"url":"/700/2005-05-23_GilFronsdal_ParamisTruth.mp3"
+		},
+		{
+			"series":"The Five Spiritual Faculties",
+			"section":"_",
+			"title":"Resolve",
+			"url":"/728/2005-07-18_GilFronsdal_ParamisResolve.mp3"
+		},
+		{
+			"series":"The Five Spiritual Faculties",
+			"section":"_",
+			"title":"Loving Kindness",
+			"url":"/733/2005-07-25_GilFronsdal_ParamisLovingKindness.mp3"
+		},
+		{
+			"series":"The Five Spiritual Faculties",
+			"section":"_",
+			"title":"Equanimity",
+			"url":"/765/2005-09-19_GilFronsdal_Equanimity.mp3"
+		},
+		{
+			"series":"Not Self (Anatta)",
+			"section":"_",
+			"title":"Introduction - Background",
+			"url":"/834/2006-01-16_GilFronsdal_NotSelf-IntroductionBackground-1of5.mp3"
+		},
+		{
+			"series":"Not Self (Anatta)",
+			"section":"_",
+			"title":"Selfing",
+			"url":"/837/2006-01-23_GilFronsdal_NotSelf-Selfing-2of5.mp3"
+		},
+		{
+			"series":"Not Self (Anatta)",
+			"section":"_",
+			"title":"Finding Oneself",
+			"url":"/843/2006-01-30_GilFronsdal_NotSelf-FindingOneself-3of5.mp3"
+		},
+		{
+			"series":"Not Self (Anatta)",
+			"section":"_",
+			"title":"The Buddha's Teachings",
+			"url":"/845/2006-02-06_GilFronsdal_NotSelf-TheBuddhasTeachings-4of5.mp3"
+		},
+		{
+			"series":"Not Self (Anatta)",
+			"section":"_",
+			"title":"Wrap-up",
+			"url":"/847/2006-02-13_GilFronsdal_NotSelf-WrapUp-5of5.mp3"
+		}
+		]
+	}
