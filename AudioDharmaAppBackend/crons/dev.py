@@ -36,7 +36,6 @@ PATH_TALKS_TOP = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/T
 PATH_TALKS_TRENDING = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP2DAYS.JSON"
 PATH_TALKS_TOP3MONTHS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP90DAYS.JSON"
 
-PATH_IMPORT_TRANSCRIPTS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/IMPORT_PDF/"
 PATH_ACTIVE_TRANSCRIPTS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/PDF/"
 URL_ACTIVE_TRANSCRIPTS = "http://virtualdharma.org/AudioDharmaAppBackend/data/PDF/"
 
@@ -249,8 +248,11 @@ print("addNewTalks: generating new candidate config file")
 
 ConfigDict["talks"] = all_talks
 
+i = get_album_index(ConfigDict["albums"], "TOPTALKS")
+ConfigDict["albums"][i]["talks"] = reduce_fields(TopTalks[0:200])
+
 i = get_album_index(ConfigDict["albums"], "TRENDING")
-ConfigDict["albums"][i]["talks"] = reduce_fields(TrendingTalks[0:200])
+ConfigDict["albums"][i]["talks"] = reduce_fields(TrendingTalks[0:20])
 
 i = get_album_index(ConfigDict["albums"], "TOP3MONTHS")
 ConfigDict["albums"][i]["talks"] = reduce_fields(Top3MonthsTalks)
@@ -268,16 +270,13 @@ ConfigDict["albums"][i]["talks"] = reduce_fields(AllTranscriptTalks)
 
 try:
     fd = open(PATH_CONFIG_CANDIDATE_JSON, 'w')
-    json.dump(ConfigDict, fd, indent=4)
+    json.dump(ConfigDict, fd, indent=4, ensure_ascii=False)
 except Exception as e:
     error = "Error %d: %s" % (e.args[0],e.args[1])
     print(error)
     sys.exit(1)
 
 exit()
-
-
-
 
     
 #

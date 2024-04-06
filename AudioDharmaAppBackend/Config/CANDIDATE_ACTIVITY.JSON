@@ -1,6 +1,34 @@
 {
 "sangha_history": [
 {
+	"filename" : "20240405-Diana_Clark-IMC-dharmette_the_inner_critic_5_of_5_the_clash_of_the_critic_and_the_candid.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.05",
+	"city" : "Ware",
+	"country" : "Great Britain"
+},
+{
+	"filename" : "20240319-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulnes_12_bundle_of_feelings.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.19",
+	"city" : "Belmont",
+	"country" : "United States"
+},
+{
+	"filename" : "20240331-Gil_Fronsdal-IMC-from_the_sense_of_self_to_sensing.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.31",
+	"city" : "Luton",
+	"country" : "Great Britain"
+},
+{
+	"filename" : "20240331-Gil_Fronsdal-IMC-from_the_sense_of_self_to_sensing.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.31",
+	"city" : "Harringay",
+	"country" : "Great Britain"
+},
+{
 	"filename" : "20240131-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_13_of_25_wisdom_of_feeling_emotions.mp3",
 	"operation" : "PLAYTALK",
 	"date" : "2024.01.31",
@@ -4856,34 +4884,6 @@
 	"operation" : "PLAYTALK",
 	"date" : "2023.12.18",
 	"city" : "Colorado Springs",
-	"country" : "United States"
-},
-{
-	"filename" : "20230320-Gil_Fronsdal-IMC-guided_meditation_awareness_for_compassion.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2023.03.20",
-	"city" : "Aberdeen",
-	"country" : "Hong Kong"
-},
-{
-	"filename" : "20240221-Gil_Fronsdal-IMC-intro_to_mindfulness_-_thinking.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.02.21",
-	"city" : "Quezon City",
-	"country" : "Philippines"
-},
-{
-	"filename" : "20140622-Robert_Thomas-IMC-practice_with_possibility.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2014.06.22",
-	"city" : "East Concord",
-	"country" : "United States"
-},
-{
-	"filename" : "20210428-Paul_Haller-IMC-unbiased_awareness_of_biases.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2021.04.28",
-	"city" : "Folsom",
 	"country" : "United States"
 }
 ],
