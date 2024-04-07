@@ -1,6 +1,16 @@
 {
 	"talks":[
 	{
+		"title":"The Body: Cave of Wonders",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/20141/20240407-Gil_Fronsdal-IMC-the_body_cave_of_wonders.mp3",
+		"ln":"en",
+		"download_url":"/20141/20240407-Gil_Fronsdal-IMC-the_body_cave_of_wonders.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.07",
+		"duration":"46:17"
+	},
+	{
 		"title":"Dharmette: The Inner Critic (5 of 5) The Clash of the Critic and the Candid",
 		"series":"Working with the Inner Critic",
 		"url":"/20128/20240405-Diana_Clark-IMC-dharmette_the_inner_critic_5_of_5_the_clash_of_the_critic_and_the_candid.mp3",
@@ -479,16 +489,6 @@
 		"speaker":"Marjolein Janssen",
 		"date":"2024.03.19",
 		"duration":"23:08"
-	},
-	{
-		"title":"Guided Meditation: Allowing the Flow of Experience",
-		"series":"Guided Meditations",
-		"url":"/20032/20240319-Marjolein_Janssen-IMC-guided_meditation_allowing_the_flow_of_experience.mp3",
-		"ln":"en",
-		"download_url":"/20032/20240319-Marjolein_Janssen-IMC-guided_meditation_allowing_the_flow_of_experience.mp3",
-		"speaker":"Marjolein Janssen",
-		"date":"2024.03.19",
-		"duration":"32:45"
 	}
 	]
 }

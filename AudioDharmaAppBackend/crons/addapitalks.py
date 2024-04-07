@@ -14,6 +14,7 @@ import json
 import operator
 import re, math
 import time
+import shutil
 from subprocess import call
 
 PATH_CRON_SCRIPTS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/crons"
@@ -30,15 +31,17 @@ PATH_CONFIG_CANDIDATE_ZIP = "CONFIG00.ZIP"
 #PATH_CONFIG_JSON = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/DEV.JSON"
 #PATH_CONFIG_CANDIDATE_JSON = "DEV.JSON"
 #PATH_CONFIG_CANDIDATE_ZIP = "DEV.ZIP"
+#PATH_CONFIG_ZIP = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/DEV.ZIP"
 
+PATH_TALKS_RECOMMENDED = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/RECOMMENDED.JSON"
 PATH_TALKS_TOP = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP200.JSON"
 PATH_TALKS_TRENDING = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP2DAYS.JSON"
 PATH_TALKS_TOP3MONTHS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP90DAYS.JSON"
-PATH_LOCAL_MP3CACHE = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/TALKS/"
 
-PATH_IMPORT_TRANSCRIPTS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/IMPORT_PDF/"
 PATH_ACTIVE_TRANSCRIPTS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/PDF/"
 URL_ACTIVE_TRANSCRIPTS = "http://virtualdharma.org/AudioDharmaAppBackend/data/PDF/"
+
+PATH_SUMMARIES = "/var/www/audiodharma/httpdocs/data/summaries/";
 
 # max duration to be classified as short talk.  15 minutes
 MAX_SHORT_TALK_SECONDS = 15 * 60
@@ -56,29 +59,47 @@ AllSpanishTalks = []
 AllShortTalks = []
 AllTranscriptTalks = []
 
-SPANISH_TERMS = [' El ', ' y ', ' de ', ' el ', ' la ', ' del ', 'Meditación', 'Atención', 'Introducción', ' tono ', 'Reflexión', 'Sobre', 'Contemplaciones', 'Emociones', 'Sentir', ' para ', ' con ', 'Diálogo', 'Respiración', 'Equilibrio', 'Transiciones', 'Lugar', 'Vida', 'Tranquilizantes', 'sabidura', 'espacio', 'creando', ' este ','discurso', 'cinco', 'cautro', 'ocho', 'nuevos', 'pregunta', ' siete', 'diez', 'parte', 'sendero' ]
-
-def configPrint(text):
-
-    FH_CONFIG_CANDIDATE.write(text)
-    FH_CONFIG_CANDIDATE.write("\n")
+ConfigDict = {}
 
 
-def capitalizeWords(text):
+def get_album_index(list_albums, key):
 
-    new_words = []
-    words = text.split()
-    word_len = len(words)
+    for i, album in enumerate(list_albums):
 
-    for idx, word in enumerate(words):
-        new_word = word
-        if idx == 0:
-            new_word = new_word.capitalize()
-        elif len(new_word) > 3:
-            new_word = new_word.capitalize()
-        new_words.append(new_word)
+        if album["content"] == key:
+            return i
 
-    return " ".join(new_words)
+    print(f"KEY NOT FOUND:  {key}")
+    exit()
+
+
+def reduce_fields(list_talks):
+
+    new_talk_list = []
+
+    for talk in list_talks:
+
+        filtered_talk = {k: v for k, v in talk.items() if k in ['url', 'title']}
+        new_talk_list.append(filtered_talk)
+
+    return new_talk_list
+
+
+def capitalize(s):
+
+    words = s.split()
+    if words:
+        first_word = words[0][0].upper() + words[0][1:]
+        return ' '.join([first_word] + words[1:])
+    else:
+        return s
+
+
+def first_two_sentences(text):
+
+    sentences = re.split(r'(?<=[.!?]) +', text)
+    return ' '.join(sentences[:2])
+
 
 
 #
@@ -94,17 +115,8 @@ def capitalizeWords(text):
 # 6 - Validate candidate config.  Exit if not valid.
 # 7 - Zip the candidate config
 # 8 - Copy the validated candidate config json and zip to Config directory
-# 9 - [If FullCrawl] generate new transcripts and recompute simililarties
 #
 
-
-FullCrawl = True
-arglen = len(sys.argv)
-if arglen > 2:
-    print("usage: addNewTalks.py <CRAWL_ONLY>")
-    sys.exit(1)
-if arglen == 2:
-    FullCrawl = False
 
 # Build dict of all PDFs.  Any new ones (not in the Config) will get inserted below when we build a new Config
 for pdf in os.listdir(PATH_ACTIVE_TRANSCRIPTS):
@@ -113,30 +125,30 @@ for pdf in os.listdir(PATH_ACTIVE_TRANSCRIPTS):
 
 #
 # Step 1:
-# Get top talks and trending talks
+# Gather all albums
 #
-print("addNewTalks: getting top talks and trending talks")
+print("addNewTalks: gathering top albums and recommended albums")
 try:
     with open(PATH_TALKS_TOP,'r') as fd:
-        TopTalks  = json.load(fd)
-except e:
-    error = "Error %d: %s" % (e.args[0],e.args[1])
+        TopTalks  = json.load(fd)["talks"]
+except Exception as e:
+    error = "Error: %s" % str(e)
     print(error)
     sys.exit(1)
 
 try:
     with open(PATH_TALKS_TRENDING,'r') as fd:
-        TrendingTalks  = json.load(fd)
-except e:
-    error = "Error %d: %s" % (e.args[0],e.args[1])
+        TrendingTalks  = json.load(fd)["talks"]
+except Exception as e:
+    error = "Error: %s" % str(e)
     print(error)
     sys.exit(1)
 
 try:
     with open(PATH_TALKS_TOP3MONTHS,'r') as fd:
-        Top3MonthsTalks  = json.load(fd)
-except e:
-    error = "Error %d: %s" % (e.args[0],e.args[1])
+        Top3MonthsTalks  = json.load(fd)["talks"]
+except Exception as e:
+    error = "Error: %s" % str(e)
     print(error)
     sys.exit(1)
 
@@ -147,9 +159,9 @@ except e:
 #
 print("addNewTalks: getting new talks")
 try:
-    with open(PATH_NEW_TALKS_API,'r') as myfile:
-        new_data = json.load(myfile)
-except:
+    with open(PATH_NEW_TALKS_API,'r') as fd :
+        new_talks = json.load(fd)["talks"]
+except Exception as e:
     e = sys.exc_info()[0]
     print("NEW TALKS JSON ERROR: %s" % e)
     exit(0)
@@ -161,9 +173,9 @@ except:
 #
 print("addNewTalks: loading and validating current config")
 try:
-    with open(PATH_CONFIG_JSON,'r') as currenttalks:
-        current_data  = json.load(currenttalks)
-except:
+    with open(PATH_CONFIG_JSON,'r') as fd:
+        ConfigDict  = json.load(fd)
+except Exception as e:
     e = sys.exc_info()[0]
     print("CONFIG JSON ERROR: %s" % e)
     exit(0)
@@ -175,19 +187,7 @@ except:
 #
 print("addNewTalks: building candidate config")
 
-MP3_SOURCE = 'https://audiodharma.us-east-1.linodeobjects.com/talks'
-current_config = current_data['config']
-MP3_HOST = current_config["URL_MP3_HOST"]
-USE_NATIVE_MP3PATHS = current_config["USE_NATIVE_MP3PATHS"]
-SHARE_URL_MP3_HOST = current_config["SHARE_URL_MP3_HOST"]
-UPDATE_SANGHA_INTERVAL = current_config["UPDATE_SANGHA_INTERVAL"]
-MAX_TALKHISTORY_COUNT = current_config["MAX_TALKHISTORY_COUNT"]
-albums = current_data['albums']
-
-albums_spanish = current_data['albums_spanish']
-current_talks = current_data['talks']
-new_talks = new_data['talks']
-
+current_talks = ConfigDict['talks']
 
 # these lines 1) removes duplicates for all talks (old + new)and 2) generates a sorted list of the result
 all_talks = new_talks + current_talks
@@ -201,110 +201,65 @@ unique_talks = dict((v['url'],v) for v in all_talks).values()
 all_talks= sorted(unique_talks, key=lambda k: k['date'], reverse=True)
 
 
-
-#
-# Step 5:
-# Generate new candidate config which contains all new talks 
-# First the global part of the config, then all the talks, then the albums
-#
-print("addNewTalks: generating new candidate config file")
-try:
-    FH_CONFIG_CANDIDATE = open(PATH_CONFIG_CANDIDATE_JSON, 'w')
-except  e:
-    error = "Error %d: %s" % (e.args[0],e.args[1])
-    print(error)
-    sys.exit(1)
-
-configPrint("{")
-configPrint("\t\"config\": {")
-configPrint("\t\t\"URL_MP3_HOST\":\"" + MP3_HOST + "\",")
-configPrint("\t\t\"SHARE_URL_MP3_HOST\":\"" + SHARE_URL_MP3_HOST + "\",")
-
-#
-# If True, that means we are getting talks using the full path (talk_id + filename) as expressed in CONFIG00.JSON
-# If False, means we are getting talks using just the filename
-# 
-# for now should always be TRUE
-# this is somewhat a legacy. originally designed to help use MP3s that aren't nativey stored on AudioDharma
-# keeping this capability for now, as it may have some future use
-#
-if USE_NATIVE_MP3PATHS == True:
-    configPrint("\t\t\"USE_NATIVE_MP3PATHS\":true,")
-else:
-    configPrint("\t\t\"USE_NATIVE_MP3PATHS\":false,")
-
-configPrint("\t\t\"UPDATE_SANGHA_INTERVAL\":" + str(UPDATE_SANGHA_INTERVAL) + ",")
-configPrint("\t\t\"MAX_TALKHISTORY_COUNT\":" + str(MAX_TALKHISTORY_COUNT) + "")
-configPrint("\t},")
-
-configPrint("\t\"talks\":[")
-
-
+# clean up the talks and annotates with summaries
 for talk in all_talks:
-    url = talk['url']
-    print(talk)
 
-    if "NA" in url:
+    #print(talk["title"])
+    if "NA" in talk["url"]:
         continue
 
-    mp3_file_name = url.split("/")[-1]
-    title = talk["title"]
-    print(title)
-    #title = capitalizeWords(title)
+    summary = "[No summary]"
+    file_name = talk["url"].split('/')[-1]
+    file_name = file_name.replace(".mp3", ".short")
+    key = f"talk.{file_name}"
+    path_summary_short = f"{PATH_SUMMARIES}talk.{file_name}"
+    if os.path.exists(path_summary_short):
+        with open(path_summary_short, 'r', encoding='utf-8') as fd:
+            summary = fd.read()
 
-    series = talk["series"]
-    if "speaker" not in talk:
-        speaker = "Ari Crellin"
-    else:
-        speaker = talk["speaker"]
-    speaker = speaker.replace("<multiple>", "Multiple")
+    prefix = "Discusses"
+    if summary.startswith(prefix):
+        summary =  summary[len(prefix):]
+        summary = summary.strip()
+        summary = capitalize(summary)
 
-    date = talk["date"]
-    date = date.replace("-", ".")
-    duration = talk["duration"]
-    pdf = keys = ""
+    summary = first_two_sentences(summary)
 
-    if "pdf" in talk:
-        pdf = talk["pdf"]
-    if "keys" in talk:
-        keys = talk["keys"]
-    ln = "en"
-    if "ln" in talk:
-        ln = talk["ln"]
+    talk["sum"] = summary
 
-    if "&amp;" in title:
-        title = title.replace("&amp;", "&")
-    if "&amp;" in series:
-        series = series.replace("&amp;", "&")
+    talk["title"] = talk["title"].replace("&amp;", "&")
+    talk["speaker"] = talk["speaker"].replace("<multiple>", "Multiple")
+    talk["date"] = talk["date"].replace("-", ".")
 
-    if "Tuesday Sitting" in series:
-        series = "Tuesday Sitting"
-    if "Sunday Morning " in series:
-        series = "Sunday Morning"
-    if "Monday Night " in series:
-        series = "Monday Night"
-
-    if "Guided Meditation" in title:
+    if "series" not in talk:
+        talk["series"] = ""
+    talk["series"] = talk["series"].replace("&amp;", "&")
+    if "Tuesday Sitting " in talk["series"]:
+        talk["series"] = "Tuesday Sitting"
+    if "Sunday Morning " in talk["series"]:
+        talk["series"] = "Sunday Morning"
+    if "Monday Night " in talk["series"]:
+        talk["series"] = "Sunday Morning "
+    if "Guided Meditation" in talk["series"]:
+        talk["series"] = "Guided Meditations"
         AllGuidedMeditions.append(talk)
-        series = "Guided Meditations"
 
-
-    # flag spanish content
-    if ln == "es":
+    # detect and record Spanish content
+    if talk["ln"] == "es":
         #CJM DEV - necessary for some reason, to prevent series showing in RECOMMENDATIONS
-        talk['series'] = ""
+        #talk['series'] = ""
         AllSpanishTalks.append(talk)
-        ln = "es"
 
+    # detect and record PDF for talks
+    mp3_file_name = talk["url"].split("/")[-1]
     if mp3_file_name in MP3ToTranscriptDict and not pdf:
         pdf  = MP3ToTranscriptDict[mp3_file_name]
         print("NEW TRANSCRIPT", pdf)
-
     if pdf:
         AllTranscriptTalks.append(talk)
 
-
-    hms = duration.split(':')
+    # detect and record short talks
+    hms = talk["duration"].split(':')
     hours = 0
     minutes = 0
     seconds = 0
@@ -321,171 +276,36 @@ for talk in all_talks:
     if seconds < MAX_SHORT_TALK_SECONDS:
         AllShortTalks.append(talk)
 
-    filename = url.split('/')[-1]
-
-    configPrint("\t{")
-
-    configPrint("\t\t\"title\":\"" + title + "\",")
-    configPrint("\t\t\"series\":\"" + series +  "\",")
-    configPrint("\t\t\"ln\":\"" + ln + "\",")
-    configPrint("\t\t\"url\":\"" + url + "\",")
-    configPrint("\t\t\"speaker\":\"" + speaker + "\",")
-
-    configPrint("\t\t\"pdf\":\"" + pdf + "\",")
-    configPrint("\t\t\"date\":\"" + date + "\",")
-    configPrint("\t\t\"duration\":\"" + duration + "\"")
-
-    if talk == all_talks[-1]:
-        configPrint("\t}")
-    else:
-        configPrint("\t},")
-
-configPrint("\t],")
-
 
 #
-# output the english-language albums
+# Step 5:
+# Generate new candidate config which contains all new talks 
 #
-configPrint("\t\"albums\":[")
-for album in albums:
 
-    section = album['section']
-    section2 = album['section2']
-    title = album['title']
-    content = album['content']
-    image = album['image']
+print("addNewTalks: generating new candidate config file")
 
-    if "&amp;" in title:
-        title = title.replace("&amp;", "&")
+ConfigDict["talks"] = all_talks
 
-    configPrint("\t{")
-    configPrint("\t\t\"section\":\"" + section + "\",")
-    configPrint("\t\t\"section2\":\"" + section2 + "\",")
-    configPrint("\t\t\"title\":\"" + title + "\",")
-    configPrint("\t\t\"content\":\"" + content + "\",")
-    if "talks" in album:
-        configPrint("\t\t\"image\":\"" + image + "\",")
-    else:
-        configPrint("\t\t\"image\":\"" + image + "\"")
+i = get_album_index(ConfigDict["albums"], "TOPTALKS")
+ConfigDict["albums"][i]["talks"] = reduce_fields(TopTalks[0:200])
 
-    talkCount = 0
-    if "talks" in album:
-        configPrint("\t\t\"talks\": [")
-        if content == 'TOPTALKS':
-            talks = TopTalks['talks'][0:200]
-        elif content == 'TRENDING':
-            talks = TrendingTalks['talks']
-        elif content == 'TOP3MONTHS':
-            talks = Top3MonthsTalks['talks']
-        elif content == 'KEY_GUIDED_MEDITATIONS':
-            talks = AllGuidedMeditions
-        elif content == 'KEY_ALBUMROOT_SPANISH':
-            talks = AllSpanishTalks
-        elif content == 'KEY_SHORT_TALKS':
-            talks = AllShortTalks
-        elif content == 'KEY_TRANSCRIPT_TALKS':
-            talks = AllTranscriptTalks
-        else:
-            talks = album["talks"]
-        for talk in talks:
+i = get_album_index(ConfigDict["albums"], "TRENDING")
+ConfigDict["albums"][i]["talks"] = reduce_fields(TrendingTalks[0:20])
 
-            if "section" in talk:
-                section = talk['section']
-            else:
-                section = "_"
-            if "series" in talk:
-                series = talk['series']
-            else:
-                series = ""
+i = get_album_index(ConfigDict["albums"], "TOP3MONTHS")
+ConfigDict["albums"][i]["talks"] = reduce_fields(Top3MonthsTalks)
 
-            title = talk['title']
-            #title = capitalizeWords(title)
+i = get_album_index(ConfigDict["albums"], "KEY_GUIDED_MEDITATIONS")
+ConfigDict["albums"][i]["talks"] = reduce_fields(AllGuidedMeditions)
 
-            url = talk['url']
+i = get_album_index(ConfigDict["albums"], "KEY_SHORT_TALKS")
+ConfigDict["albums"][i]["talks"] = reduce_fields(AllShortTalks)
 
-            configPrint("\t\t{")
-            if content != "KEY_GUIDED_MEDITATIONS" and content != "KEY_SHORT_TALKS" and content != "KEY_TRANSCRIPT_TALKS":
-                configPrint("\t\t\t\"series\":\"" + series + "\",")
-                configPrint("\t\t\t\"section\":\"" + section + "\",")
+i = get_album_index(ConfigDict["albums"], "KEY_TRANSCRIPT_TALKS")
+ConfigDict["albums"][i]["talks"] = reduce_fields(AllTranscriptTalks)
 
-            configPrint("\t\t\t\"title\":\"" + title + "\",")
-            configPrint("\t\t\t\"url\":\"" + url + "\"")
-
-            if url == talks[-1]["url"]:
-                configPrint("\t\t}")
-            else:
-                configPrint("\t\t},")
-    
-        configPrint("\t\t]")
-
-    if content == albums[-1]["content"]:
-        configPrint("\t}")
-    else:
-        configPrint("\t},")
-
-configPrint("\t],")
-
-#
-# # output the spanish-language albums
-#
-configPrint("\t\"albums_spanish\":[")
-for album in albums_spanish:
-
-    album_title = album['title']
-    content = album['content']
-    image = album['image']
-
-    if "&amp;" in album_title:
-        album_title = album_title.replace("&amp;", "&")
-
-    configPrint("\t{")
-    configPrint("\t\t\"title\":\"" + album_title + "\",")
-    configPrint("\t\t\"content\":\"" + content + "\",")
-    if "talks" in album:
-        configPrint("\t\t\"image\":\"" + image + "\",")
-    else:
-        configPrint("\t\t\"image\":\"" + image + "\"")
-
-    talkCount = 0
-    if "talks" in album:
-        configPrint("\t\t\"talks\": [")
-        talks = album["talks"]
-        for talk in talks:
-            #configPrint(talk)
-            if "section" in talk:
-                section = talk['section']
-            else:
-                section = "_"
-            if "series" in talk:
-                series = talk['series']
-            else:
-                series = ""
-
-            title = talk['title']
-            url = talk['url']
-
-            configPrint("\t\t{")
-            configPrint("\t\t\t\"series\":\"" + series + "\",")
-            configPrint("\t\t\t\"section\":\"" + section + "\",")
-            configPrint("\t\t\t\"title\":\"" + title + "\",")
-            configPrint("\t\t\t\"url\":\"" + url + "\"")
-
-            if url == talks[-1]["url"]:
-                configPrint("\t\t}")
-            else:
-                configPrint("\t\t},")
-
-        configPrint("\t\t]")
-
-    if content == albums_spanish[-1]["content"]:
-        configPrint("\t}")
-    else:
-        configPrint("\t},")
-
-configPrint("\t]")
-configPrint("}")
-
-FH_CONFIG_CANDIDATE.close()
+i = get_album_index(ConfigDict["albums"], "KEY_ALBUMROOT_SPANISH")
+ConfigDict["albums"][i]["talks"] = AllSpanishTalks
 
 
 #
@@ -494,27 +314,14 @@ FH_CONFIG_CANDIDATE.close()
 #
 print("addNewTalks: validating candidate config")
 try:
-    with open(PATH_CONFIG_CANDIDATE_JSON,'r') as config:
-        _  = json.load(config)
-except:
-    e = sys.exc_info()[0]
-    print(PATH_CONFIG_CANDIDATE_JSON)
-    print("CONFIG CANDIDATE JSON ERROR: %s" % e)
-    exit(0)
-
-#CJM DEV
-#exit(0)
-
-#
-# Step 7:
-# Update the number of talks in this Config
-#
-try:
-    FH_CONFIG_SIZE = open(PATH_CONFIG_SIZE_JSON, 'w')
-except  e:
+    fd = open(PATH_CONFIG_CANDIDATE_JSON, 'w')
+    json.dump(ConfigDict, fd, indent=4, ensure_ascii=False)
+    fd.close()
+except Exception as e:
     error = "Error %d: %s" % (e.args[0],e.args[1])
     print(error)
     sys.exit(1)
+
 
     
 #
@@ -531,20 +338,10 @@ call(["zip",PATH_CONFIG_CANDIDATE_ZIP, PATH_CONFIG_CANDIDATE_JSON])
 # Copy candidate config json+zip to config deploy directory
 #
 print("addNewTalks: deploying config")
-call(["cp", PATH_CONFIG_CANDIDATE_JSON, PATH_CONFIG_JSON])
-call(["cp", PATH_CONFIG_JSON, PATH_AI_CONFIG_JSON])
-call(["cp", PATH_CONFIG_CANDIDATE_ZIP, PATH_CONFIG_ZIP])
-call(["cp", PATH_CONFIG_CANDIDATE_ZIP, PATH_CONFIG_ZIP])
+shutil.copy(PATH_CONFIG_CANDIDATE_JSON, PATH_CONFIG_JSON)
+shutil.copy(PATH_CONFIG_JSON, PATH_AI_CONFIG_JSON)
+shutil.copy(PATH_CONFIG_CANDIDATE_ZIP, PATH_CONFIG_ZIP)
 
-
-#
-# Step 10:
-# Generate similarities
-#
-os.chdir(PATH_CRON_SCRIPTS)
-print("addNewTalks: generating similarities")
-cmd = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/crons/gensimilar.py"
-call([cmd, "50"])
 
 print("crawler: complete")
 

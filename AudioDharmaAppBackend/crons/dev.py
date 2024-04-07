@@ -14,6 +14,7 @@ import json
 import operator
 import re, math
 import time
+import shutil
 from subprocess import call
 
 PATH_CRON_SCRIPTS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/crons"
@@ -27,9 +28,10 @@ PATH_CONFIG_SIZE_JSON = "CONFIGSIZE.JSON"
 PATH_CONFIG_CANDIDATE_JSON = "CONFIG00.JSON"
 PATH_CONFIG_CANDIDATE_ZIP = "CONFIG00.ZIP"
 
-PATH_CONFIG_JSON = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/DEV.JSON"
-PATH_CONFIG_CANDIDATE_JSON = "DEV.JSON"
-PATH_CONFIG_CANDIDATE_ZIP = "DEV.ZIP"
+#PATH_CONFIG_JSON = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/DEV.JSON"
+#PATH_CONFIG_CANDIDATE_JSON = "DEV.JSON"
+#PATH_CONFIG_CANDIDATE_ZIP = "DEV.ZIP"
+#PATH_CONFIG_ZIP = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/DEV.ZIP"
 
 PATH_TALKS_RECOMMENDED = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/RECOMMENDED.JSON"
 PATH_TALKS_TOP = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP200.JSON"
@@ -38,6 +40,8 @@ PATH_TALKS_TOP3MONTHS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/C
 
 PATH_ACTIVE_TRANSCRIPTS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/PDF/"
 URL_ACTIVE_TRANSCRIPTS = "http://virtualdharma.org/AudioDharmaAppBackend/data/PDF/"
+
+PATH_SUMMARIES = "/var/www/audiodharma/httpdocs/data/summaries/";
 
 # max duration to be classified as short talk.  15 minutes
 MAX_SHORT_TALK_SECONDS = 15 * 60
@@ -80,6 +84,21 @@ def reduce_fields(list_talks):
 
     return new_talk_list
 
+
+def capitalize(s):
+
+    words = s.split()
+    if words:
+        first_word = words[0][0].upper() + words[0][1:]
+        return ' '.join([first_word] + words[1:])
+    else:
+        return s
+
+
+def first_two_sentences(text):
+
+    sentences = re.split(r'(?<=[.!?]) +', text)
+    return ' '.join(sentences[:2])
 
 
 
@@ -182,12 +201,31 @@ unique_talks = dict((v['url'],v) for v in all_talks).values()
 all_talks= sorted(unique_talks, key=lambda k: k['date'], reverse=True)
 
 
-# clean up the talks of various artifacts
+# clean up the talks and annotates with summaries
 for talk in all_talks:
 
     #print(talk["title"])
     if "NA" in talk["url"]:
         continue
+
+    summary = "[No summary]"
+    file_name = talk["url"].split('/')[-1]
+    file_name = file_name.replace(".mp3", ".short")
+    key = f"talk.{file_name}"
+    path_summary_short = f"{PATH_SUMMARIES}talk.{file_name}"
+    if os.path.exists(path_summary_short):
+        with open(path_summary_short, 'r', encoding='utf-8') as fd:
+            summary = fd.read()
+
+    prefix = "Discusses"
+    if summary.startswith(prefix):
+        summary =  summary[len(prefix):]
+        summary = summary.strip()
+        summary = capitalize(summary)
+
+    summary = first_two_sentences(summary)
+
+    talk["sum"] = summary
 
     talk["title"] = talk["title"].replace("&amp;", "&")
     talk["speaker"] = talk["speaker"].replace("<multiple>", "Multiple")
@@ -209,7 +247,7 @@ for talk in all_talks:
     # detect and record Spanish content
     if talk["ln"] == "es":
         #CJM DEV - necessary for some reason, to prevent series showing in RECOMMENDATIONS
-        talk['series'] = ""
+        #talk['series'] = ""
         AllSpanishTalks.append(talk)
 
     # detect and record PDF for talks
@@ -266,17 +304,36 @@ ConfigDict["albums"][i]["talks"] = reduce_fields(AllShortTalks)
 i = get_album_index(ConfigDict["albums"], "KEY_TRANSCRIPT_TALKS")
 ConfigDict["albums"][i]["talks"] = reduce_fields(AllTranscriptTalks)
 
+i = get_album_index(ConfigDict["albums"], "KEY_ALBUMROOT_SPANISH")
+ConfigDict["albums"][i]["talks"] = AllSpanishTalks
+
+
+#
+# Step 6:
+# Validate the candidate config
+#
+print("addNewTalks: validating candidate config")
+print(PATH_CONFIG_CANDIDATE_JSON)
+try:
+    with open(PATH_CONFIG_CANDIDATE_JSON,'r') as config:
+        _  = json.load(config)
+except:
+    e = sys.exc_info()[0]
+    print(PATH_CONFIG_CANDIDATE_JSON)
+    print("CONFIG CANDIDATE JSON ERROR: %s" % e)
+    exit(0)
+
 
 
 try:
     fd = open(PATH_CONFIG_CANDIDATE_JSON, 'w')
     json.dump(ConfigDict, fd, indent=4, ensure_ascii=False)
+    fd.close()
 except Exception as e:
     error = "Error %d: %s" % (e.args[0],e.args[1])
     print(error)
     sys.exit(1)
 
-exit()
 
     
 #
@@ -293,20 +350,10 @@ call(["zip",PATH_CONFIG_CANDIDATE_ZIP, PATH_CONFIG_CANDIDATE_JSON])
 # Copy candidate config json+zip to config deploy directory
 #
 print("addNewTalks: deploying config")
-call(["cp", PATH_CONFIG_CANDIDATE_JSON, PATH_CONFIG_JSON])
-call(["cp", PATH_CONFIG_JSON, PATH_AI_CONFIG_JSON])
-call(["cp", PATH_CONFIG_CANDIDATE_ZIP, PATH_CONFIG_ZIP])
-call(["cp", PATH_CONFIG_CANDIDATE_ZIP, PATH_CONFIG_ZIP])
+shutil.copy(PATH_CONFIG_CANDIDATE_JSON, PATH_CONFIG_JSON)
+shutil.copy(PATH_CONFIG_JSON, PATH_AI_CONFIG_JSON)
+shutil.copy(PATH_CONFIG_CANDIDATE_ZIP, PATH_CONFIG_ZIP)
 
-
-#
-# Step 10:
-# Generate similarities
-#
-os.chdir(PATH_CRON_SCRIPTS)
-print("addNewTalks: generating similarities")
-cmd = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/crons/gensimilar.py"
-call([cmd, "50"])
 
 print("crawler: complete")
 
