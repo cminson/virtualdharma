@@ -252,10 +252,9 @@ for talk in all_talks:
 
     # detect and record PDF for talks
     mp3_file_name = talk["url"].split("/")[-1]
-    if mp3_file_name in MP3ToTranscriptDict and not pdf:
+    if mp3_file_name in MP3ToTranscriptDict:
         pdf  = MP3ToTranscriptDict[mp3_file_name]
-        print("NEW TRANSCRIPT", pdf)
-    if pdf:
+        print("TRANSCRIPT: ", mp3_file_name)
         AllTranscriptTalks.append(talk)
 
     # detect and record short talks

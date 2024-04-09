@@ -1,64 +1,64 @@
 {
 "talks": [
 {
-	"title" : "1. Dharmette: New Questions",
+	"title" : "1. The Body: Cave of Wonders",
+	"url" : "/20141/20240407-Gil_Fronsdal-IMC-the_body_cave_of_wonders.mp3",
+	"series" : "",
+	"score" : 166
+},
+{
+	"title" : "2. Four Inspirational Blessings (1 of 5); Guided Meditation; Making Beneficial Distinctions",
+	"url" : "/20144/20240408-Kim_Allen-IMC-four_inspirational_blessings_1_of_5_guided_meditation_making_beneficial_distinctions.mp3",
+	"series" : "",
+	"score" : 64
+},
+{
+	"title" : "3. Dharmette: New Questions",
 	"url" : "/20106/20240403-Matthew_Brensilver-IMC-dharmette_new_questions.mp3",
 	"series" : "",
-	"score" : 70
-},
-{
-	"title" : "2. Guided Meditation: The Inner Critic (1 of 5)",
-	"url" : "/20084/20240401-Diana_Clark-IMC-guided_meditation_the_inner_critic_1_of_5.mp3",
-	"series" : "",
-	"score" : 66
-},
-{
-	"title" : "3. Dharmette: The Inner Critic (5 of 5) The Clash of the Critic and the Candid",
-	"url" : "/20128/20240405-Diana_Clark-IMC-dharmette_the_inner_critic_5_of_5_the_clash_of_the_critic_and_the_candid.mp3",
-	"series" : "",
-	"score" : 58
+	"score" : 52
 },
 {
 	"title" : "4. Guided Meditation: Whats Already Here?",
 	"url" : "/20105/20240403-Matthew_Brensilver-IMC-guided_meditation_what_s_already_here.mp3",
 	"series" : "",
-	"score" : 46
+	"score" : 52
 },
 {
-	"title" : "5. Guided Meditation: The Inner Critic (5 of 5)",
-	"url" : "/20127/20240405-Diana_Clark-IMC-guided_meditation_the_inner_critic_5_of_5.mp3",
+	"title" : "5. Dharmette; Not Neglecting Wisdom",
+	"url" : "/20145/20240408-Kim_Allen-IMC-dharmette_not_neglecting_wisdom.mp3",
 	"series" : "",
-	"score" : 46
+	"score" : 52
 },
 {
-	"title" : "6. From the sense of self to sensing",
-	"url" : "/20080/20240331-Gil_Fronsdal-IMC-from_the_sense_of_self_to_sensing.mp3",
+	"title" : "6. Guided Meditation: The Inner Critic (1 of 5)",
+	"url" : "/20084/20240401-Diana_Clark-IMC-guided_meditation_the_inner_critic_1_of_5.mp3",
 	"series" : "",
-	"score" : 38
+	"score" : 48
 },
 {
 	"title" : "7. Guided Meditation: Non-Clinging Thinking",
 	"url" : "/20070/20240329-Gil_Fronsdal-IMC-guided_meditation_non-clinging_thinking.mp3",
 	"series" : "",
+	"score" : 41
+},
+{
+	"title" : "8. Dharmette: The Inner Critic (5 of 5) The Clash of the Critic and the Candid",
+	"url" : "/20128/20240405-Diana_Clark-IMC-dharmette_the_inner_critic_5_of_5_the_clash_of_the_critic_and_the_candid.mp3",
+	"series" : "",
+	"score" : 38
+},
+{
+	"title" : "9. Coming Home to Oneself",
+	"url" : "/20148/20240408-Diana_Clark-IMC-coming_home_to_oneself.mp3",
+	"series" : "",
+	"score" : 38
+},
+{
+	"title" : "10. From the sense of self to sensing",
+	"url" : "/20080/20240331-Gil_Fronsdal-IMC-from_the_sense_of_self_to_sensing.mp3",
+	"series" : "",
 	"score" : 33
-},
-{
-	"title" : "8. Mindfulness as a New Perspective",
-	"url" : "/20079/20240330-Gil_Fronsdal-IMC-mindfulness_as_a_new_perspective.mp3",
-	"series" : "",
-	"score" : 32
-},
-{
-	"title" : "9. Guided Meditation: The Inner Critic (2 of 5)",
-	"url" : "/20093/20240402-Diana_Clark-IMC-guided_meditation_the_inner_critic_2_of_5.mp3",
-	"series" : "",
-	"score" : 32
-},
-{
-	"title" : "10. Guided Meditation: The Inner Critic (3 of 5)",
-	"url" : "/20101/20240403-Diana_Clark-IMC-guided_meditation_the_inner_critic_3_of_5.mp3",
-	"series" : "",
-	"score" : 30
 }
 ]
 }
