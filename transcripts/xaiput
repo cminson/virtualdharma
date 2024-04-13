@@ -1,4 +1,0 @@
-#
-scp -i /home/ubuntu/KEYS/kakapo.pem ./data/mp3/*.mp3  ec2-user@$AI_SPOT:/home/ec2-user/whisper/input
-#
-

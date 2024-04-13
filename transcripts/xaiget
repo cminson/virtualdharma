@@ -1,3 +1,0 @@
-#
-scp -i /home/ubuntu/KEYS/kakapo.pem ec2-user@$AI_SPOT:/home/ec2-user/whisper/output/*.txt ./data/import
-#

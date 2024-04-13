@@ -1,4 +1,0 @@
-cp filter.py /home/ubuntu/dev/whisperfilter
-cp ERROR_CORRECTIONS /home/ubuntu/dev/whisperfilter
-cp CONFIG00.JSON /home/ubuntu/dev/whisperfilter
-cp ./data/raw/* /home/ubuntu/dev/whisperfilter/data/raw
