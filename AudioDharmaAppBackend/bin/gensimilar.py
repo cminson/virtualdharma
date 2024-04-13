@@ -50,16 +50,18 @@ for talk in getAllTalks():
     list_talks = []
     for result in list_results:
 
-        similar_talk = result.payload
+        payload = result.payload
         score = round(result.score, 2)
 
-        url = similar_talk['url']
+        url = payload['url']
         if url in DictRankedTalks:
             pop_score = DictRankedTalks[url]['score']
             pop_score_adjustment = pop_score / 10000
             score = score  + pop_score_adjustment
             if score > 0.9: score = 0.90
 
+        similar_talk = {}
+        similar_talk['filename'] = os.path.basename(url)
         similar_talk['score'] = score
         list_talks.append(similar_talk)
 
@@ -69,10 +71,11 @@ for talk in getAllTalks():
     data = {}
     with open(path_similar, "w") as fd:
         data['title'] = title
-        data['list_elements'] = list_talks
+        data['SIMILAR'] = list_talks
         json.dump(data, fd, indent=4)
         count_similar += 1
 
+"""
 
 LOG('gensimilar generating similar speakers')
 for speaker, list_elements in getAllSpeakers():
@@ -129,6 +132,7 @@ for speaker, list_elements in getAllSpeakers():
         speakerJSON['list_elements'] = list_similar_speakers
         json.dump(speakerJSON, fd, indent=4)
 
+"""
 
 
 LOG('gensimilar completes')

@@ -16,7 +16,7 @@ import socket
 #BASE_URL = 'https://www.audiodharma.ai/'
 #PATH_OPENAI_KEYS =  '/var/www/audiodharma/KEYS/OPENAI.KEYS'
 
-BASE_PATH = '/var/www/virtualdharma/httpdocs: cd AudioDharmaAppBackend/'
+BASE_PATH = '/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/'
 BASE_URL = 'http://www.virtualdharma.org/'
 PATH_OPENAI_KEYS =  '/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/KEYS/OPENAI.KEYS'
 
@@ -33,10 +33,10 @@ PATH_TALK_FILES = BASE_PATH + 'data/talks'
 PATH_TMP_FILES = BASE_PATH + 'data/tmp'
 PATH_MP3_FILES = BASE_PATH + 'data/mp3'
 PATH_BIOGRAPHY_FILES = BASE_PATH + 'data/biographies'
-PATH_RANKED_TALKS = BASE_PATH + 'config/RANKEDTALKS.JSON'
-PATH_RULE_ACTIONS = BASE_PATH + 'config/RULES.JSON'
-PATH_CONFIG_TALKS = BASE_PATH + 'config/ALLTALKS.JSON'
-PATH_KEYWORDS = BASE_PATH + 'config/KEYWORDS.JSON'
+PATH_RANKED_TALKS = BASE_PATH + 'Config/RANKEDTALKS.JSON'
+PATH_RULE_ACTIONS = BASE_PATH + 'Config/RULES.JSON'
+PATH_CONFIG_TALKS = BASE_PATH + 'Config/CONFIG00.JSON'
+PATH_KEYWORDS = BASE_PATH + 'Config/KEYWORDS.JSON'
 
 PATH_SPEAKER_IMAGES =  BASE_PATH + 'resources/teachers'
 URL_IMAGE_SPEAKER  = BASE_URL + 'resources/teachers/'
@@ -273,7 +273,8 @@ def getTranscriptPath(talk):
 
 def getTalkSimilarPath(talk):
 
-    file_similar = 'talk.sim.' + os.path.basename(talk['url']) + '.json'
+    file_name = os.path.basename(talk['url'])
+    file_similar = file_name.replace(".mp3", "")
     path_similar_talks = os.path.join(PATH_SIMILAR_FILES, file_similar)
 
     return path_similar_talks
