@@ -1,6 +1,41 @@
 {
 "sangha_history": [
 {
+	"filename" : "20240325-Nikki_Mirghafori-IMC-happy_hour_the_sun_of_wisdom_can_disperse_the_fog_of_unease_within_the_spaciousness_of_metta.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.25",
+	"city" : "Chicago",
+	"country" : "United States"
+},
+{
+	"filename" : "20240306-Gil_Fronsdal-IMC-guided_meditation_accompyanying.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.06",
+	"city" : "Winton",
+	"country" : "New Zealand"
+},
+{
+	"filename" : "20231220-Gil_Fronsdal-IMC-dharmette_wise_thinking_3_of_5_independent_of_thoughts.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2023.12.20",
+	"city" : "Brisbane",
+	"country" : "Australia"
+},
+{
+	"filename" : "20240407-Gil_Fronsdal-IMC-the_body_cave_of_wonders.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.07",
+	"city" : "New Orleans",
+	"country" : "United States"
+},
+{
+	"filename" : "20231220-Gil_Fronsdal-IMC-guided_meditation_thinking_from_the_source.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2023.12.20",
+	"city" : "Perth",
+	"country" : "Australia"
+},
+{
 	"filename" : "20240412-Kim_Allen-IMC-guided_meditation_blessing_of_just_doing_the_practice.mp3",
 	"operation" : "PLAYTALK",
 	"date" : "2024.04.12",
@@ -4527,34 +4562,6 @@
 	"operation" : "PLAYTALK",
 	"date" : "2024.04.07",
 	"city" : "Manhattan",
-	"country" : "United States"
-},
-{
-	"filename" : "20240119-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_10_of_25_benefirts_of_sensory_awareness.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.01.19",
-	"city" : "Brookline",
-	"country" : "United States"
-},
-{
-	"filename" : "20120416-Gil_Fronsdal-IMC-letting_go_clinging_and_peace.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2012.04.16",
-	"city" : "Singapore",
-	"country" : "Singapore"
-},
-{
-	"filename" : "20190707-Gil_Fronsdal-IMC-letting_go.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2019.07.07",
-	"city" : "Burton",
-	"country" : "United States"
-},
-{
-	"filename" : "20240405-Diana_Clark-IMC-guided_meditation_the_inner_critic_5_of_5.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.05",
-	"city" : "Castro Valley",
 	"country" : "United States"
 }
 ],

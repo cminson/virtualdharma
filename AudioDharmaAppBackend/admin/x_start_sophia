@@ -1,0 +1,1 @@
+nohup /var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/bin/sophia.py > /dev/null 2>&1 &
