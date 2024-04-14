@@ -1,6 +1,706 @@
 {
 "sangha_history": [
 {
+	"filename" : "20220705-Gil_Fronsdal-IMC-dharmette_grief_2_of_5_elements_of_grief.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.07.05",
+	"city" : "Balwyn North",
+	"country" : "Australia"
+},
+{
+	"filename" : "20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.14",
+	"city" : "Luton",
+	"country" : "Great Britain"
+},
+{
+	"filename" : "20220630-Andrea_Fella-IMC-clearly_knowing_body_experience_helps_us_recognize_mental_experience.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.06.30",
+	"city" : "Rome",
+	"country" : "Italy"
+},
+{
+	"filename" : "20150314-Diana_Clark-sati-life_of_the_buddha_part_1.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2015.03.14",
+	"city" : "Sydney",
+	"country" : "Australia"
+},
+{
+	"filename" : "20240408-Kim_Allen-IMC-dharmette_not_neglecting_wisdom.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.08",
+	"city" : "Adelaide",
+	"country" : "Australia"
+},
+{
+	"filename" : "20240313-Matthew_Brensilver-IMC-dharmette_faith_in_love_3_of_5.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.13",
+	"city" : "Richmond",
+	"country" : "United States"
+},
+{
+	"filename" : "20240322-Gil_Fronsdal-IMC-guided_meditation_letting_go.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.22",
+	"city" : "San Jose",
+	"country" : "United States"
+},
+{
+	"filename" : "20240402-Diana_Clark-IMC-guided_meditation_the_inner_critic_2_of_5.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.02",
+	"city" : "Edmonton",
+	"country" : "Canada"
+},
+{
+	"filename" : "20210318-Gil_Fronsdal-IMC-guided_meditation_57_absorption.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2021.03.18",
+	"city" : "Wettingen",
+	"country" : "Switzerland"
+},
+{
+	"filename" : "2010-01-29_PaulHallerJacquesVerduin_PrisonChaplaincy_Pt3.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2010.01.29",
+	"city" : "Salem",
+	"country" : "United States"
+},
+{
+	"filename" : "20230908-Gil_Fronsdal-IMC-dharmette_listening_with_love.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2023.09.08",
+	"city" : "Campbell",
+	"country" : "United States"
+},
+{
+	"filename" : "2005-05-16_GilFronsdal_Impermanence.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2005.05.16",
+	"city" : "Murrysville",
+	"country" : "United States"
+},
+{
+	"filename" : "20210305-Gil_Fronsdal-IMC-guided_meditation_enacting_freedom.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2021.03.05",
+	"city" : "Harringay",
+	"country" : "Great Britain"
+},
+{
+	"filename" : "20230907-Gil_Fronsdal-IMC-dharmette_wise_listening_4_of_5_listening_beneficially.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2023.09.07",
+	"city" : "Campbell",
+	"country" : "United States"
+},
+{
+	"filename" : "20240331-Gil_Fronsdal-IMC-from_the_sense_of_self_to_sensing.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.31",
+	"city" : "Thousand Oaks",
+	"country" : "United States"
+},
+{
+	"filename" : "20240315-Matthew_Brensilver-IMC-dharmette_faith_in_letting_go_5_of_5.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.15",
+	"city" : "Stockholm",
+	"country" : "Sweden"
+},
+{
+	"filename" : "20231201-Gil_Fronsdal-IMC-guided_meditation_meditation_as_peace.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2023.12.01",
+	"city" : "Four Corners",
+	"country" : "United States"
+},
+{
+	"filename" : "20240319-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulnes_12_bundle_of_feelings.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.19",
+	"city" : "Solvang",
+	"country" : "United States"
+},
+{
+	"filename" : "20240308-Gil_Fronsdal-IMC-guided_meditation_discernment.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.08",
+	"city" : "Boca Raton",
+	"country" : "United States"
+},
+{
+	"filename" : "20240403-Matthew_Brensilver-IMC-guided_meditation_what_s_already_here.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.03",
+	"city" : "Albuquerque",
+	"country" : "United States"
+},
+{
+	"filename" : "20240408-Kim_Allen-IMC-four_inspirational_blessings_1_of_5_guided_meditation_making_beneficial_distinctions.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.08",
+	"city" : "Adelaide",
+	"country" : "Australia"
+},
+{
+	"filename" : "20240412-Kim_Allen-IMC-dharmette_four_inspirational_blessings_5_of_5_inspirational_blessings.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.12",
+	"city" : "Ware",
+	"country" : "Great Britain"
+},
+{
+	"filename" : "20240409-Kim_Allen-IMC-four_inspirational_blessings_2_of_5_guided_meditation_sitting_in_deep_honesty.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.09",
+	"city" : "Albuquerque",
+	"country" : "United States"
+},
+{
+	"filename" : "20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.14",
+	"city" : "Suwanee",
+	"country" : "United States"
+},
+{
+	"filename" : "20240331-Gil_Fronsdal-IMC-from_the_sense_of_self_to_sensing.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.31",
+	"city" : "Montevideo",
+	"country" : "Uruguay"
+},
+{
+	"filename" : "20240412-Kim_Allen-IMC-guided_meditation_blessing_of_just_doing_the_practice.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.12",
+	"city" : "Banning",
+	"country" : "United States"
+},
+{
+	"filename" : "20230906-Gil_Fronsdal-IMC-dharmette_wise_listening_3_of_5_listening_from_the_heart.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2023.09.06",
+	"city" : "Campbell",
+	"country" : "United States"
+},
+{
+	"filename" : "20240331-Gil_Fronsdal-IMC-from_the_sense_of_self_to_sensing.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.31",
+	"city" : "Denver",
+	"country" : "United States"
+},
+{
+	"filename" : "20230903-Nikki_Mirghafori-IRC-boundary-less_metta_self_and_not-self_forgiveness.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2023.09.03",
+	"city" : "Willowdale",
+	"country" : "Canada"
+},
+{
+	"filename" : "20240310-Gil_Fronsdal-IMC-hatred_ends_with_love.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.10",
+	"city" : "Denver",
+	"country" : "United States"
+},
+{
+	"filename" : "20151020-Gil_Fronsdal-IRC-principles_of_cordiality_metta_in_thought.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2015.10.20",
+	"city" : "Sollentuna",
+	"country" : "Sweden"
+},
+{
+	"filename" : "20240109-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_2_of_25_relaxing_distractability.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.01.09",
+	"city" : "Traverse City",
+	"country" : "United States"
+},
+{
+	"filename" : "20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.14",
+	"city" : "Lubbock",
+	"country" : "United States"
+},
+{
+	"filename" : "20240301-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_pt_2_5_hindrance_of_doubt.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.01",
+	"city" : "West Albany",
+	"country" : "United States"
+},
+{
+	"filename" : "20191111-Gil_Fronsdal-IMC-doing_whats_beautiful.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2019.11.11",
+	"city" : "Murrysville",
+	"country" : "United States"
+},
+{
+	"filename" : "20230905-Gil_Fronsdal-IMC-dharmette_wise_listening_2_of_5_listening_to_what_is_true.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2023.09.05",
+	"city" : "Campbell",
+	"country" : "United States"
+},
+{
+	"filename" : "20240320-Gil_Fronsdal-IMC-guided_meditation_not_knowing.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.20",
+	"city" : "Cypress",
+	"country" : "United States"
+},
+{
+	"filename" : "20240412-Kim_Allen-IMC-dharmette_four_inspirational_blessings_5_of_5_inspirational_blessings.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.12",
+	"city" : "Stockton",
+	"country" : "United States"
+},
+{
+	"filename" : "20090727-Gil_Fronsdal-IMC-emotions_happiness.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2009.07.27",
+	"city" : "Arlington",
+	"country" : "United States"
+},
+{
+	"filename" : "20220508-Gil_Fronsdal-IMC-deep_as_the_ocean_not_clinging_to_divisions.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.05.08",
+	"city" : "Hanworth",
+	"country" : "Great Britain"
+},
+{
+	"filename" : "20200904-Gil_Fronsdal-IMC-guided_meditation_not_clinging_to_thoughts.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2020.09.04",
+	"city" : "Hanworth",
+	"country" : "Great Britain"
+},
+{
+	"filename" : "20081027-Gil_Fronsdal-IMC-the_five_hindrances_ill_will.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2008.10.27",
+	"city" : "Lompoc",
+	"country" : "United States"
+},
+{
+	"filename" : "20240410-Kim_Allen-IMC-four_inspirational_blessings_3_of_5_dharmette_cultivating_relinquishment.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.10",
+	"city" : "Regina",
+	"country" : "Canada"
+},
+{
+	"filename" : "20230904-Gil_Fronsdal-IMC-dharmette_wise_listening_1_of_5_listening_deeply.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2023.09.04",
+	"city" : "Campbell",
+	"country" : "United States"
+},
+{
+	"filename" : "20180401-Matthew_Brensilver-IMC-grief.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2018.04.01",
+	"city" : "Murrysville",
+	"country" : "United States"
+},
+{
+	"filename" : "20240328-Gil_Fronsdal-IMC-guided_meditation_simplicity.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.28",
+	"city" : "Burnaby",
+	"country" : "Canada"
+},
+{
+	"filename" : "20240325-Nikki_Mirghafori-IMC-happy_hour_the_sun_of_wisdom_can_disperse_the_fog_of_unease_within_the_spaciousness_of_metta.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.25",
+	"city" : "Willowdale",
+	"country" : "Canada"
+},
+{
+	"filename" : "20240403-Diana_Clark-IMC-dharmette_expectations_and_the_facts_of_life.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.03",
+	"city" : "Amsterdam",
+	"country" : "Netherlands"
+},
+{
+	"filename" : "2003-07-17_GilFronsdal_GuidedBodyScan.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2003.07.17",
+	"city" : "Vacaville",
+	"country" : "United States"
+},
+{
+	"filename" : "20240325-Gil_Fronsdal-IMC-guided_meditation_tranquility.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.25",
+	"city" : "Bern",
+	"country" : "Switzerland"
+},
+{
+	"filename" : "20240327-Gil_Fronsdal-IMC-guided_meditation_happiness.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.27",
+	"city" : "Bern",
+	"country" : "Switzerland"
+},
+{
+	"filename" : "20191110-Gil_Fronsdal-IMC-thinking_that_quiets_thinking.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2019.11.10",
+	"city" : "South Croydon",
+	"country" : "Great Britain"
+},
+{
+	"filename" : "2004-09-27_GilFronsdal_SevenFactorsOfAwakening.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2004.09.27",
+	"city" : "Kulim",
+	"country" : "Malaysia"
+},
+{
+	"filename" : "20240228-Gil_Fronsdal-IMC-wednesday_evening_introduction_to_meditation_-_with_wisdom.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.02.28",
+	"city" : "Union City",
+	"country" : "United States"
+},
+{
+	"filename" : "20240326-Gil_Fronsdal-IMC-guided_meditation_spaciousness.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.26",
+	"city" : "Erie",
+	"country" : "United States"
+},
+{
+	"filename" : "20240330-Gil_Fronsdal-IMC-mindfulness_as_a_new_perspective.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.30",
+	"city" : "Bern",
+	"country" : "Switzerland"
+},
+{
+	"filename" : "20231214-Tanya_Wiser-IMC-emotions_body_and_conditioning.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2023.12.14",
+	"city" : "Tallinn",
+	"country" : "Estonia"
+},
+{
+	"filename" : "20200918-Gil_Fronsdal-IMC-mindfulness_of_the_body_5_of_5_concluding_instruction.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2020.09.18",
+	"city" : "Cairo",
+	"country" : "Egypt"
+},
+{
+	"filename" : "20220407-Gil_Fronsdal-IMC-guided_meditation_seeing_entanglement.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.04.07",
+	"city" : "Elyria",
+	"country" : "United States"
+},
+{
+	"filename" : "20240225-Gil_Fronsdal-IMC-depth_of_dharma.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.02.25",
+	"city" : "Denver",
+	"country" : "United States"
+},
+{
+	"filename" : "20231221-Gil_Fronsdal-IMC-guided_meditation_calming_thoughts.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2023.12.21",
+	"city" : "Zaragoza",
+	"country" : "Spain"
+},
+{
+	"filename" : "20240320-Gil_Fronsdal-IMC-guided_meditation_not_knowing.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.20",
+	"city" : "Salmon Arm",
+	"country" : "Canada"
+},
+{
+	"filename" : "20240330-Gil_Fronsdal-IMC-mindfulness_as_a_new_perspective.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.30",
+	"city" : "Erie",
+	"country" : "United States"
+},
+{
+	"filename" : "20220906-Gil_Fronsdal-IMC-guided_meditation_now.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2022.09.06",
+	"city" : "Elyria",
+	"country" : "United States"
+},
+{
+	"filename" : "20240327-Gil_Fronsdal-IMC-practice_notes_simplicity_of_being.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.27",
+	"city" : "Erie",
+	"country" : "United States"
+},
+{
+	"filename" : "20240325-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_pt_2_16_the_calm_of_non-clinging.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.25",
+	"city" : "Zagreb",
+	"country" : "Croatia"
+},
+{
+	"filename" : "2006-06-17_AjahnAmaro_DevotionOnThePathOfAwakening-Pt3.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2006.06.17",
+	"city" : "Maidstone",
+	"country" : "Great Britain"
+},
+{
+	"filename" : "20081013-Gil_Fronsdal-IMC-the_five_hindrances_introduction.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2008.10.13",
+	"city" : "San Luis Obispo",
+	"country" : "United States"
+},
+{
+	"filename" : "20240306-Gil_Fronsdal-IMC-guided_meditation_accompyanying.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.06",
+	"city" : "Baton Rouge",
+	"country" : "United States"
+},
+{
+	"filename" : "20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.14",
+	"city" : "Melbourne",
+	"country" : "Australia"
+},
+{
+	"filename" : "20240310-Gil_Fronsdal-IMC-hatred_ends_with_love.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.10",
+	"city" : "San Luis Obispo",
+	"country" : "United States"
+},
+{
+	"filename" : "20190109-Gil_Fronsdal-IMC-introduction_to_concentration_class_1.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2019.01.09",
+	"city" : "San Jose",
+	"country" : "United States"
+},
+{
+	"filename" : "20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.14",
+	"city" : "Guildford",
+	"country" : "Great Britain"
+},
+{
+	"filename" : "20240409-Marjolein_Janssen-IMC-guided_meditation_noticing_wholesomeness.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.09",
+	"city" : "Milpitas",
+	"country" : "United States"
+},
+{
+	"filename" : "20240410-Matthew_Brensilver-IMC-guided_meditation_aperture_vividness_stability_effort.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.10",
+	"city" : "Qualicum Beach",
+	"country" : "Canada"
+},
+{
+	"filename" : "20240410-Kim_Allen-IMC-four_inspirational_blessings_3_of_5_guided_meditation_letting_be_and_letting_go.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.10",
+	"city" : "Sydney",
+	"country" : "Australia"
+},
+{
+	"filename" : "20240320-Gil_Fronsdal-IMC-guided_meditation_not_knowing.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.20",
+	"city" : "Anchorage",
+	"country" : "United States"
+},
+{
+	"filename" : "20080629-Carla_Brennan-IMC-awakening_in_nature.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2008.06.29",
+	"city" : "Bastrop",
+	"country" : "United States"
+},
+{
+	"filename" : "20240329-Gil_Fronsdal-IMC-guided_meditation_non-clinging_thinking.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.29",
+	"city" : "Brisbane",
+	"country" : "Australia"
+},
+{
+	"filename" : "20240201-Gil_Fronsdal-IMC-guided_meditation_making_room_for_emotions.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.02.01",
+	"city" : "Seaside",
+	"country" : "United States"
+},
+{
+	"filename" : "2004-06-21_GilFronsdal_Discernment.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2004.06.21",
+	"city" : "Ampang",
+	"country" : "Malaysia"
+},
+{
+	"filename" : "20240326-Dawn_Neal-IMC-wise_effort_part_2_of_3_preventing_and_abandoning_the_unwholesome.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.26",
+	"city" : "Alhambra",
+	"country" : "United States"
+},
+{
+	"filename" : "20240211-Gil_Fronsdal-IMC-finding_the_dharma_in_the_listening.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.02.11",
+	"city" : "Denver",
+	"country" : "United States"
+},
+{
+	"filename" : "20240410-Matthew_Brensilver-IMC-guided_meditation_aperture_vividness_stability_effort.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.10",
+	"city" : "San Francisco",
+	"country" : "United States"
+},
+{
+	"filename" : "20240326-Gil_Fronsdal-IMC-guided_meditation_spaciousness.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.26",
+	"city" : "Athens",
+	"country" : "Greece"
+},
+{
+	"filename" : "20110603-Gil_Fronsdal-IMC-the_paramis_equanimity_pt_2.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2011.06.03",
+	"city" : "Bengaluru",
+	"country" : "India"
+},
+{
+	"filename" : "20240306-Gil_Fronsdal-IMC-intro_to_mindifulness_pt_2_8_faculty_of_mindfulness.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.03.06",
+	"city" : "Baton Rouge",
+	"country" : "United States"
+},
+{
+	"filename" : "20210119-Gil_Fronsdal-IMC-guided_meditation_exhale_and_relax.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2021.01.19",
+	"city" : "Santa Clara",
+	"country" : "United States"
+},
+{
+	"filename" : "20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.14",
+	"city" : "Four Corners",
+	"country" : "United States"
+},
+{
+	"filename" : "20240410-Matthew_Brensilver-IMC-dharmette_becoming_unintimidated_by_suffering.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.10",
+	"city" : "Farmington Hills",
+	"country" : "United States"
+},
+{
+	"filename" : "20240410-Kim_Allen-IMC-four_inspirational_blessings_3_of_5_guided_meditation_letting_be_and_letting_go.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.10",
+	"city" : "Burnaby",
+	"country" : "Canada"
+},
+{
+	"filename" : "2005-05-23_GilFronsdal_ParamisTruth.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2005.05.23",
+	"city" : "Belmont",
+	"country" : "United States"
+},
+{
+	"filename" : "20240410-Matthew_Brensilver-IMC-guided_meditation_aperture_vividness_stability_effort.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.10",
+	"city" : "Lombard",
+	"country" : "United States"
+},
+{
+	"filename" : "20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.14",
+	"city" : "Mott Haven",
+	"country" : "United States"
+},
+{
+	"filename" : "20240204-Gil_Fronsdal-IMC-onward_leading_journey.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.02.04",
+	"city" : "Centennial",
+	"country" : "United States"
+},
+{
+	"filename" : "20231030-Gil_Fronsdal-IMC-guided_meditation_deactivation.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2023.10.30",
+	"city" : "Montréal",
+	"country" : "Canada"
+},
+{
+	"filename" : "2002-07-18_GloriaTaraniyaAmbrosia_GuidedMeditation.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2002.07.18",
+	"city" : "Frankfurt am Main",
+	"country" : "Germany"
+},
+{
+	"filename" : "20240410-Matthew_Brensilver-IMC-dharmette_becoming_unintimidated_by_suffering.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.10",
+	"city" : "Grass Valley",
+	"country" : "United States"
+},
+{
+	"filename" : "20240407-Gil_Fronsdal-IMC-the_body_cave_of_wonders.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2024.04.07",
+	"city" : "Austin",
+	"country" : "United States"
+},
+{
+	"filename" : "20130630-Andrea_Fella-IRC-guided_meditation.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2013.06.30",
+	"city" : "Addis Ababa",
+	"country" : "Ethiopia"
+},
+{
 	"filename" : "20240408-Kim_Allen-IMC-four_inspirational_blessings_1_of_5_guided_meditation_making_beneficial_distinctions.mp3",
 	"operation" : "PLAYTALK",
 	"date" : "2024.04.08",
@@ -4171,485 +4871,16 @@
 	"date" : "2024.03.29",
 	"city" : "Perth",
 	"country" : "Australia"
-},
-{
-	"filename" : "20160904-Gil_Fronsdal-IMC-kindness_and_the_ecology_of_clinging.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2016.09.04",
-	"city" : "Hanworth",
-	"country" : "Great Britain"
-},
-{
-	"filename" : "20220224-Andrea_Fella-IMC-taking_in_the_world.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.02.24",
-	"city" : "Long Beach",
-	"country" : "United States"
-},
-{
-	"filename" : "20230203-Gil_Fronsdal-IMC-guided_meditation_confidence.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2023.02.03",
-	"city" : "Grass Valley",
-	"country" : "United States"
-},
-{
-	"filename" : "20240401-Diana_Clark-IMC-dharmette_deactivating_the_critic_of_the_critic.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.01",
-	"city" : "Magdalena Contreras",
-	"country" : "Mexico"
-},
-{
-	"filename" : "20240410-Matthew_Brensilver-IMC-guided_meditation_aperture_vividness_stability_effort.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.10",
-	"city" : "Adelaide",
-	"country" : "Australia"
-},
-{
-	"filename" : "20140322-Diana_Clark-IMC-paths_of_practice_part_1.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2014.03.22",
-	"city" : "Sydney",
-	"country" : "Australia"
-},
-{
-	"filename" : "20090502-Thanissaro_Bhikkhu-IMC-anatta_1_of_3.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2009.05.02",
-	"city" : "Melbourne",
-	"country" : "Australia"
-},
-{
-	"filename" : "20240410-Matthew_Brensilver-IMC-guided_meditation_aperture_vividness_stability_effort.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.10",
-	"city" : "Victoria",
-	"country" : "Canada"
-},
-{
-	"filename" : "20240403-Matthew_Brensilver-IMC-dharmette_new_questions.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.03",
-	"city" : "Ashkum",
-	"country" : "United States"
-},
-{
-	"filename" : "20240330-Gil_Fronsdal-IMC-mindfulness_as_a_new_perspective.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.30",
-	"city" : "Pittsburgh",
-	"country" : "United States"
-},
-{
-	"filename" : "20240410-Matthew_Brensilver-IMC-dharmette_becoming_unintimidated_by_suffering.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.10",
-	"city" : "West Sacramento",
-	"country" : "United States"
-},
-{
-	"filename" : "20110430-Thanissaro_Bhikkhu-IMC-karma_and_causality_part_1.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2011.04.30",
-	"city" : "Castlebar",
-	"country" : "Ireland"
-},
-{
-	"filename" : "20231224-Gil_Fronsdal-IMC-return_to_your_center.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2023.12.24",
-	"city" : "San Francisco",
-	"country" : "United States"
-},
-{
-	"filename" : "20120416-Gil_Fronsdal-IMC-letting_go_clinging_and_peace.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2012.04.16",
-	"city" : "Hanworth",
-	"country" : "Great Britain"
-},
-{
-	"filename" : "20240307-Gil_Fronsdal-IMC-guided_meditation_collectedness.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.07",
-	"city" : "Boca Raton",
-	"country" : "United States"
-},
-{
-	"filename" : "20210303-Gil_Fronsdal-IMC-guided_meditation_investigation_and_freedom.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2021.03.03",
-	"city" : "Harringay",
-	"country" : "Great Britain"
-},
-{
-	"filename" : "20231013-Gil_Fronsdal-IMC-guided_meditation_this_too_will_pass.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2023.10.13",
-	"city" : "Wettingen",
-	"country" : "Switzerland"
-},
-{
-	"filename" : "20240320-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_13_bundle_of_perceptions.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.20",
-	"city" : "Minneapolis",
-	"country" : "United States"
-},
-{
-	"filename" : "20190109-Gil_Fronsdal-IMC-introduction_to_concentration_class_1.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2019.01.09",
-	"city" : "San Jose",
-	"country" : "United States"
-},
-{
-	"filename" : "20240410-Matthew_Brensilver-IMC-dharmette_becoming_unintimidated_by_suffering.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.10",
-	"city" : "Victoria",
-	"country" : "Canada"
-},
-{
-	"filename" : "20220830-Gil_Fronsdal-IMC-guided_meditation_the_extended_present.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.08.30",
-	"city" : "Tracy",
-	"country" : "United States"
-},
-{
-	"filename" : "20240408-Kim_Allen-IMC-dharmette_not_neglecting_wisdom.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.08",
-	"city" : "Melbourne",
-	"country" : "Australia"
-},
-{
-	"filename" : "20240117-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_8_of_25_relaxation_as_a_guide.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.01.17",
-	"city" : "Duarte",
-	"country" : "United States"
-},
-{
-	"filename" : "20220609-Andrea_Fella-IMC-letting_the_fires_cool.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.06.09",
-	"city" : "Long Beach",
-	"country" : "United States"
-},
-{
-	"filename" : "20240403-Matthew_Brensilver-IMC-dharmette_new_questions.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.03",
-	"city" : "Flagami",
-	"country" : "United States"
-},
-{
-	"filename" : "20240327-Gil_Fronsdal-IMC-dharmette_finding_refuge_in_dharma.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.27",
-	"city" : "Fairfield",
-	"country" : "United States"
-},
-{
-	"filename" : "20240221-Gil_Fronsdal-IMC-guided_meditation_meeting_ourself.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.02.21",
-	"city" : "Manhattan",
-	"country" : "United States"
-},
-{
-	"filename" : "20240409-Kim_Allen-IMC-dharmette_preserving_truth.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.09",
-	"city" : "Limoise",
-	"country" : "France"
-},
-{
-	"filename" : "20200914-Gil_Fronsdal-IMC-mindfulness_of_the_body_1_of_5_the_conscious_body.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2020.09.14",
-	"city" : "Santa Clara",
-	"country" : "United States"
-},
-{
-	"filename" : "20240310-Gil_Fronsdal-IMC-hatred_ends_with_love.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.10",
-	"city" : "San Francisco",
-	"country" : "United States"
-},
-{
-	"filename" : "20240324-Gil_Fronsdal-IMC-seeing_the_sense_of_self.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.24",
-	"city" : "Minneapolis",
-	"country" : "United States"
-},
-{
-	"filename" : "20240410-Matthew_Brensilver-IMC-dharmette_becoming_unintimidated_by_suffering.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.10",
-	"city" : "Brussels",
-	"country" : "Belgium"
-},
-{
-	"filename" : "20240304-Gil_Fronsdal-IMC-guided_meditation_moving_into_the_present.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.04",
-	"city" : "Anchorage",
-	"country" : "United States"
-},
-{
-	"filename" : "20240331-Gil_Fronsdal-IMC-from_the_sense_of_self_to_sensing.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.31",
-	"city" : "Flatbush",
-	"country" : "United States"
-},
-{
-	"filename" : "20240411-Kim_Allen-IMC-guided_meditation_opening_to_peace.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.11",
-	"city" : "Sydney",
-	"country" : "Australia"
-},
-{
-	"filename" : "20240411-Kim_Allen-IMC-guided_meditation_opening_to_peace.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.11",
-	"city" : "Orinda",
-	"country" : "United States"
-},
-{
-	"filename" : "20240411-Kim_Allen-IMC-dharmette_four_inspirational_blessings_4_of_5_training_for_peace.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.11",
-	"city" : "Sydney",
-	"country" : "Australia"
-},
-{
-	"filename" : "20240327-Gil_Fronsdal-IMC-guided_meditation_happiness.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.27",
-	"city" : "Renens",
-	"country" : "Switzerland"
-},
-{
-	"filename" : "20240112-Gil_Fronsdal-IMC-dharmette_introduction_to_mindfulness_5_of_25_breathing_with_ease.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.01.12",
-	"city" : "Walthamstow",
-	"country" : "Great Britain"
-},
-{
-	"filename" : "20240411-Tanya_Wiser-IMC-wise_intention.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.11",
-	"city" : "Guildford",
-	"country" : "Great Britain"
-},
-{
-	"filename" : "20240329-Gil_Fronsdal-IMC-guided_meditation_non-clinging_thinking.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.29",
-	"city" : "Logan City",
-	"country" : "Australia"
-},
-{
-	"filename" : "20181126-Gil_Fronsdal-IMC-letting_go.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2018.11.26",
-	"city" : "San Jose",
-	"country" : "United States"
-},
-{
-	"filename" : "20240206-Gil_Fronsdal-IMC-guided_meditation_relaxing_thinking.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.02.06",
-	"city" : "Zaragoza",
-	"country" : "Spain"
-},
-{
-	"filename" : "20220719-Gil_Fronsdal-IMC-dharmette_2_of_5_helping_fear_feel_safe.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.07.19",
-	"city" : "Shepherds Bush",
-	"country" : "Great Britain"
-},
-{
-	"filename" : "20240412-Kim_Allen-IMC-guided_meditation_blessing_of_just_doing_the_practice.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.12",
-	"city" : "Ashland",
-	"country" : "United States"
-},
-{
-	"filename" : "20161012-Gil_Fronsdal-IMC-introduction_to_meditation_part_1_overview.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2016.10.12",
-	"city" : "Winton",
-	"country" : "New Zealand"
-},
-{
-	"filename" : "20100417-Thanissaro_Bhikkhu-IMC-mindfulness_and_concentration_part_2.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2010.04.17",
-	"city" : "Portland",
-	"country" : "United States"
-},
-{
-	"filename" : "20240219-Gil_Fronsdal-IMC-guided_meditation_without_baggage.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.02.19",
-	"city" : "Växjö",
-	"country" : "Sweden"
-},
-{
-	"filename" : "20240412-Kim_Allen-IMC-guided_meditation_blessing_of_just_doing_the_practice.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.12",
-	"city" : "San Francisco",
-	"country" : "United States"
-},
-{
-	"filename" : "20231215-Matthew_Brensilver-IMC-guided_meditation_resting_in_care.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2023.12.15",
-	"city" : "Coos Bay",
-	"country" : "United States"
-},
-{
-	"filename" : "20220718-Gil_Fronsdal-IMC-dharmette_1_of_5_stories_and_fear.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.07.18",
-	"city" : "Shepherds Bush",
-	"country" : "Great Britain"
-},
-{
-	"filename" : "20240304-Gil_Fronsdal-IMC-guided_meditation_moving_into_the_present.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.04",
-	"city" : "Bedford",
-	"country" : "United States"
-},
-{
-	"filename" : "20240315-Matthew_Brensilver-IMC-guided_meditation_faith_in_silence.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.15",
-	"city" : "Stockholm",
-	"country" : "Sweden"
-},
-{
-	"filename" : "2006-01-30_GilFronsdal_NotSelf-FindingOneself-3of5.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2006.01.30",
-	"city" : "Thousand Oaks",
-	"country" : "United States"
-},
-{
-	"filename" : "20240411-Kim_Allen-IMC-dharmette_four_inspirational_blessings_4_of_5_training_for_peace.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.11",
-	"city" : "New Brighton",
-	"country" : "United States"
-},
-{
-	"filename" : "20220930-Matthew_Brensilver-IMC-dharmette_the_pleasure_of_spiritual_friendship.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.09.30",
-	"city" : "San Francisco",
-	"country" : "United States"
-},
-{
-	"filename" : "20240410-Matthew_Brensilver-IMC-dharmette_becoming_unintimidated_by_suffering.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.10",
-	"city" : "San Francisco",
-	"country" : "United States"
-},
-{
-	"filename" : "20240411-Kim_Allen-IMC-guided_meditation_opening_to_peace.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.11",
-	"city" : "Tallinn",
-	"country" : "Estonia"
-},
-{
-	"filename" : "20220425-Gil_Fronsdal-IMC-holding_not_holding_on.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2022.04.25",
-	"city" : "West Linn",
-	"country" : "United States"
-},
-{
-	"filename" : "20180825-Gil_Fronsdal-IMC-being_here_and_the_five_faculties_part_4.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2018.08.25",
-	"city" : "Perth",
-	"country" : "Australia"
-},
-{
-	"filename" : "20240315-Matthew_Brensilver-IMC-dharmette_faith_in_letting_go_5_of_5.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.15",
-	"city" : "Stockholm",
-	"country" : "Sweden"
-},
-{
-	"filename" : "20240328-Gil_Fronsdal-IMC-guided_meditation_simplicity.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.28",
-	"city" : "Winton",
-	"country" : "New Zealand"
-},
-{
-	"filename" : "20240411-Kim_Allen-IMC-dharmette_four_inspirational_blessings_4_of_5_training_for_peace.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.11",
-	"city" : "Peterborough",
-	"country" : "United States"
-},
-{
-	"filename" : "20240329-Gil_Fronsdal-IMC-guided_meditation_non-clinging_thinking.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.03.29",
-	"city" : "Joensuu",
-	"country" : "Finland"
-},
-{
-	"filename" : "20180321-Gil_Fronsdal-IRC-talk_cultivating_confidence_for_insight.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2018.03.21",
-	"city" : "Willowdale",
-	"country" : "Canada"
-},
-{
-	"filename" : "20240402-Diana_Clark-IMC-guided_meditation_the_inner_critic_2_of_5.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.02",
-	"city" : "Amherst",
-	"country" : "United States"
-},
-{
-	"filename" : "20240411-Tanya_Wiser-IMC-wise_intention.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.11",
-	"city" : "Ashburn",
-	"country" : "United States"
-},
-{
-	"filename" : "20240407-Gil_Fronsdal-IMC-the_body_cave_of_wonders.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.04.07",
-	"city" : "Denver",
-	"country" : "United States"
 }
 ],
 "sangha_shares": [
+{
+	"filename" : "20240407-Gil_Fronsdal-IMC-the_body_cave_of_wonders.mp3",
+	"operation" : "SHARETALK",
+	"date" : "2024.04.07",
+	"city" : "San Jose",
+	"country" : "United States"
+},
 {
 	"filename" : "20240311-Matthew_Brensilver-IMC-faith_in_our_dharma_path_1_of_5.mp3",
 	"operation" : "SHARETALK",

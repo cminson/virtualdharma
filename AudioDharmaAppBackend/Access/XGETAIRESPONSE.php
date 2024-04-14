@@ -17,17 +17,18 @@ $SOPHIA_PORT = 3022;
 $MAX_RESPONSE_SIZE = 10000;
 
 // Get the QUERY and COMMAND arguments from the CGI request
-$query = isset($_GET['QUERY']) ? $_GET['QUERY'] : '';
-$command = isset($_GET['COMMAND']) ? $_GET['COMMAND'] : '';
+$query = $_GET["QUERY"];
 
+mylog($query);
 $command = "GET_EXPLORE";
-$query = "love";
 
 // Make sure QUERY and COMMAND are not empty
+/*
 if (empty($query) || empty($command)) {
     echo "QUERY and COMMAND parameters are required.";
     exit(1);
 }
+ */
 
 // Construct the GET parameters
 $get_params = http_build_query(array('ARG_COMMAND' => $command, 'ARG_QUERY' => $query));
@@ -62,6 +63,7 @@ while ($out = socket_read($socket, $MAX_RESPONSE_SIZE)) {
 
 // Close the socket
 socket_close($socket);
+
 
 // Print the response
 echo $response;

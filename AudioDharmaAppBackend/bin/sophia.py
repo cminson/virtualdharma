@@ -321,250 +321,22 @@ def getExploreTalksJSON(query, _):
             list_talks = []
             break
 
+    match_list_talks = []
+    for talk in list_talks:
+
+        match_talk = {}
+        url = talk['url']
+        match_talk['filename'] = os.path.basename(url)
+        match_list_talks.append(match_talk)
+
     responseJSON = {}
     responseJSON['title'] = ''
-    responseJSON['list_elements'] = list_talks
+    responseJSON['list_talks'] = match_list_talks
     responseJSON['ai_response']  = ai_response
     return responseJSON 
     
 
-def getSimilarTalksJSON(file_mp3, _):
 
-    time.sleep(1)
-    responseJSON = {}
-
-    path_similar = getTalkNameSimilarPath(file_mp3)
-    if not os.path.exists(path_similar): return responseJSON
-    with open(path_similar, 'r') as fd:
-        responseJSON = json.load(fd)
-
-    all_text = ''
-    list_talks = responseJSON["list_elements"]
-
-    # ensure first talk matches itself 10%
-    if len(list_talks) > 0:  list_talks[0]['score'] = 1.00
-
-    for talk in list_talks[:MAX_TALKS_TO_SUMMARIZE]:
-
-        speaker = talk['speaker']
-        title = talk['title']
-        summary_long = talk['summary_long']
-        duration = talk['duration']
-        url = talk['url']
-        file_mp3 = os.path.basename(url)
-        date = talk['date']
-        #text = f'{title} {speaker} {summary_long}'
-        text = summary_long
-        all_text += text
-
-
-    prompt_summarize = f'Provide brief guidance on the following topic.  Do not say the following words: talk, talks.  Limit your response to {MAX_WORDS_AI_RESPONSE} words or {MAX_WORDS_AI_RESPONSE*8} characters. Your response is based on, and strictly adheres, to the following text: {all_text}.  Your answer must be less than {MAX_WORDS_AI_RESPONSE} words'
-
-    ai_response = genAIResponse(SYSTEM_PROMPT_EXPLORE, prompt_summarize, file_mp3, all_text, file_mp3)
-
-
-    responseJSON['ai_response'] = ai_response
-    return responseJSON
-
-
-
-def getTalkJSON(file_mp3, _):
-
-    responseJSON = {}
-
-    path_talk = getTalkPath(file_mp3)
-    if not os.path.exists(path_talk): return responseJSON
-
-    with open(path_talk, 'r') as fd:
-        responseJSON =  json.load(fd)
-
-    transcript_text = ''
-
-    file_transcript = 'transcript.' + file_mp3.replace('.mp3', '.txt')
-    path_transcript = os.path.join(PATH_TRANSCRIPTS, file_transcript)
-
-    if os.path.exists(path_transcript): 
-        with open(path_transcript) as fd:
-            transcript_text = fd.read()
-
-    responseJSON['transcript'] = transcript_text
-
-    return responseJSON
-
-
-def getAllTalksInSectionJSON(section, _):
-
-    responseJSON = {}
-
-    path_index_talks = getIndexPath('talks', str(section))
-    if not os.path.exists(path_index_talks): return responseJSON
-
-    with open(path_index_talks, 'r') as fd:
-        responseJSON = json.load(fd)
-
-    return responseJSON
-
-
-def getAllSpeakersJSON(*_):
-
-    time.sleep(1)
-
-    responseJSON = {}
-    path_index = getIndexPath('speakers', '')
-    if not os.path.exists(path_index): return responseJSON
-
-    with open(path_index, 'r') as fd:
-        responseJSON = json.load(fd)
-
-    return responseJSON
-
-
-def getSpeakerTalksJSON(speaker, _):
-
-    time.sleep(1)
-
-    responseJSON = {}
-    path_speaker = getSpeakerPath(speaker)
-    LOG(f'path_speaker  {path_speaker}')
-    if not os.path.exists(path_speaker): return responseJSON
-
-    with open(path_speaker,'r') as fd:
-        responseJSON = json.load(fd)
-
-    return responseJSON
-
-
-def getSimilarSpeakersJSON(speaker, _):
-
-    time.sleep(1)
-
-    responseJSON = {}
-
-    path_similar = getSpeakerSimilarPath(speaker)
-    if not os.path.exists(path_similar): return responseJSON
-    with open(path_similar, 'r') as fd:
-        responseJSON = json.loads(fd.read())
-
-    return responseJSON
-
-
-def getAllSeriesJSON(*_):
-
-    time.sleep(1)
-
-    responseJSON = {}
-    path_index = getIndexPath('series', '')
-    if not os.path.exists(path_index): return responseJSON
-
-    with open(path_index, 'r') as fd:
-        responseJSON = json.load(fd)
-
-    return responseJSON
-
-
-def getSeriesTalksJSON(series, _):
-
-    time.sleep(1)
-
-    path_series = getSeriesPath(series)
-    responseJSON = {'title': 'Updating - Temporarily Unavailable', 'list_elements': []}
-
-    if not os.path.exists(path_series): return responseJSON
-
-    with open(path_series,'r') as fd:
-        responseJSON = json.load(fd)
-    return responseJSON
-
-
-
-#
-# generate chat response for given query and history
-#
-def getChat(query, history):
-
-    global ERROR_CHAT_SUMMARY
-
-    LOG(f'CHAT SESSION')
-    LOG(f'QUERY: {query} HISTORY: {history}')
-
-    # the dict we will return back to the UI
-    response_data = {}
-    response_data['history'] = history
-
-    if type(query) != str:
-        response_data['responseText'] = ERROR_CHAT_SUMMARY
-        return response_data
-    if len(query) == 0:
-        response_data['responseText'] = ERROR_CHAT_SUMMARY
-        return response_data
-
-    # get the vector for this query
-    error, query_vector = vectorizeText(query)
-    if error:
-        response_data['responseText'] = ERROR_CHAT_SUMMARY
-        return response_data
-
-    # get talks that best match this chat text query
-    list_talks = getVecDBMatchingTalks(query)
-
-    list_best_talks = [talk for talk in list_talks if talk['score'] > MIN_SCORE_THRESHOLD]
-    LOG(f'list_best_matches: {list_best_talks}')
-    response_data['list_talks'] = list_best_talks
-
-    # if no content is particularly relevant, reset prompt to basic state and reinforce personality
-    if not list_best_talks:
-        summaryText = PROMPT_SYSTEM
-    else:
-        summaryText = ''
-        for _, talk in enumerate(list_best_talks[:min(MAX_TOP_PROMPT_TALKS, len(list_best_talks))]):
-
-            score = talk['score']
-            title = talk['title']
-            summary = talk['summary_long']
-            summaryText += summary
-            summaryText += ' '
-            #LOG(f'best_match: {score} {title} {summaryText}')
-
-
-    # add summaries of top matching talks to the history
-    history = history + '  ' + summaryText
-
-    # cap the prompt so as to not exceed AI prompt window
-    words = history.split()
-    if len(words) > MAX_PROMPT_WORDS:
-        history =  ' '.join(words[-MAX_PROMPT_WORDS:])
-
-    LOG(f'history = {history}')
-    message_prompt = f'All your responses are based on, and strictly adhere, to  the following text: {history}.  Answer this question: {query}'
-
-    # now get the AI response to this prompt
-    openai.api_key = OPENAI_API_KEY
-    modelCurrentTemp = random.choice(LIST_TEMPS)
-    try:
-        response = openai.ChatCompletion.create(
-            model=ACTIVE_MODEL,
-            temperature=modelCurrentTemp,
-            messages=[
-                {"role": "system", "content": PROMPT_SYSTEM},
-                {"role": "user", "content": message_prompt}
-                # {"role": "assistant", "content": ""},
-                # {"role": "user", "content": "tell me more about the second one"}
-            ]
-        )
-    except Exception as e:
-        LOG(f'An error occurred: {e}')
-        return(ERROR_MESSAGE_01)
-
-    responseText  = response['choices'][0]['message']['content']
-
-    history = history + '  ' + responseText
-    #LOG(f'HISTORY: {history}')
-
-    response_data['responseText'] = responseText
-    response_data['history'] = history
-
-    LOG(f'getChat Response: {response_data}')
-    return response_data
 
 
 #
@@ -581,16 +353,7 @@ def handle_query(command, query, history):
 
 # all supported API command operations
 DictSofiaCommands = {
-    "GET_ALL_TALKS": getAllTalksInSectionJSON,
-    "GET_TALK": getTalkJSON,
-    "GET_ALL_SPEAKERS": getAllSpeakersJSON,
-    "GET_SPEAKER_TALKS": getSpeakerTalksJSON,
-    "GET_ALL_SERIES": getAllSeriesJSON,
-    "GET_SERIES_TALKS": getSeriesTalksJSON,
-    "GET_EXPLORE": getExploreTalksJSON,
-    "GET_SIMILAR_TALKS": getSimilarTalksJSON,
-    "GET_SIMILAR_SPEAKERS": getSimilarSpeakersJSON,
-    "CHAT": getChat
+    "GET_EXPLORE": getExploreTalksJSON
 }
 
 
@@ -605,30 +368,8 @@ VectorizatonModel = SentenceTransformer('all-MiniLM-L6-v2', device='cpu')
 DEBUG = 1
 DEBUG = 0
 if DEBUG:
-    history = ''
-    command = 'GET_ALL_TALKS'
-    command = 'SEARCH'
-    query = 'love'
-    query = '20230801-Gil_Fronsdal-IMC-dharmette_comapassionate_action_2_of_5_for_the_sake_of_oneself.mp3'
-    query = 'Gil Fronsdal'
-
-    command = 'GET_ALL_TALKS'
-    query = '0'
-    command = 'GET_SPEAKER_TALKS'
-    query = 'Diana Clark'
-    command = 'CHAT'
-    command = 'GET_SIMILAR_TALKS'
-
-
-    command = 'GET_SIMILAR_TALKS'
-    query = '20230801-Gil_Fronsdal-IMC-dharmette_comapassionate_action_2_of_5_for_the_sake_of_oneself.mp3'
-    query = '20231023-Gil_Fronsdal-IMC-dharmette_non-violence_1_of_5_non-harming_is_the_essence_of_the_dharma.mp3'
-    query = '20180616-Nirali_Shah-IMC-buddhism_and_kingian_nonviolence_1.mp3'
-
     command = 'GET_EXPLORE'
-    query = 'ines love'
-    command = 'GET_TALK'
-    query = '20230801-Gil_Fronsdal-IMC-dharmette_comapassionate_action_2_of_5_for_the_sake_of_oneself.mp3'
+    query = 'love'
 
     output_data = handle_query(command, query, history)
     print(output_data)
@@ -646,9 +387,9 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         super().end_headers()
 
     def do_GET(self):
-        self.send_response(200)
-        self.send_header('Content-type', 'text/html')
-        self.end_headers()
+        #self.send_response(200)
+        #self.send_header('Content-type', 'text/html')
+        #self.end_headers()
         #self.wfile.write(b"Hello, world!")
 
         command = query = history = ''
