@@ -5,6 +5,7 @@
  */
 
 $SIMILAR_PATH = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/SIMILAR/";
+$SIMILAR_PATH = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/";
 $NOFILE = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/SIMILAR/NOFILE";
 $MIN_RESULT_SIZE = 300;
 
@@ -20,8 +21,9 @@ function mylog($msg)
 
 $Key = $_GET["KEY"];
 $path = $SIMILAR_PATH . $Key;
-//mylog($path);
+mylog($path);
 $contents = file_get_contents($path);
+
 
 // if file not there or not big enough, send back a default
 if ($contents == False) {

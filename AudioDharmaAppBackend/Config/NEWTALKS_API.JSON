@@ -1,6 +1,16 @@
 {
 	"talks":[
 	{
+		"title":"Reactivity and Non Reactivity",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/20173/20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity.mp3",
+		"ln":"en",
+		"download_url":"/20173/20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2024.04.14",
+		"duration":"41:51"
+	},
+	{
 		"title":"Dharmette: Four Inspirational Blessings (5 of 5) Inspirational Blessings",
 		"series":"Four Inspirational Blessings",
 		"url":"/20166/20240412-Kim_Allen-IMC-dharmette_four_inspirational_blessings_5_of_5_inspirational_blessings.mp3",
@@ -469,16 +479,6 @@
 		"speaker":"Gil Fronsdal",
 		"date":"2024.03.27",
 		"duration":"02:07"
-	},
-	{
-		"title":"Dharmette: Intro to Mindfulness Pt 2 (18) Happiness of Non-Clinging",
-		"series":"Introduction to Mindfulness Part 2",
-		"url":"/20063/20240327-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_pt_2_18_happiness_of_non-clinging.mp3",
-		"ln":"en",
-		"download_url":"/20063/20240327-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_pt_2_18_happiness_of_non-clinging.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.03.27",
-		"duration":"12:33"
 	}
 	]
 }

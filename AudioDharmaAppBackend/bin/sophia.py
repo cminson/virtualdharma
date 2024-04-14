@@ -21,6 +21,7 @@ import http.server
 import socketserver
 from common import is_port_available, HOST, SOPHIA_SERVER_PORT
 
+
 # check to see if any other instance of sophia running, by checking binding of its port
 # do this here, to avoid the cost of imports below, plus any logging pollution
 if not is_port_available(HOST, SOPHIA_SERVER_PORT): 
@@ -673,6 +674,35 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         LOG(query)
         self.wfile.write(json_data)
 
+
+
+def run(server_class=socketserver.TCPServer, handler_class=Handler, port=SOPHIA_SERVER_PORT):
+
+    LOG('Sophia Running')
+
+    server_address = ('', port)
+    httpd = server_class(server_address, handler_class)
+
+    print(f'Starting httpd on port {port}...')
+    httpd.serve_forever()
+
+if __name__ == "__main__":
+
+    run()
+
+
+
+
+
+###############
+
+"""
+
+#
+# KEEP THIS CODE
+# This is how to run the socket under SSL.  
+# Currently unnecessary, but that might change
+#
 def run(server_class=ThreadedHTTPServer, handler_class=Handler, port=SOPHIA_SERVER_PORT):
 
     LOG('Sophia Running')
@@ -690,10 +720,5 @@ def run(server_class=ThreadedHTTPServer, handler_class=Handler, port=SOPHIA_SERV
     print(f'Starting httpd on port {port}...')
     httpd.serve_forever()
 
-if __name__ == "__main__":
-
-
-
-    run()
-
+"""
 

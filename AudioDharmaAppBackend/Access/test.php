@@ -1,120 +1,10 @@
-#!/usr/bin/php
 <?php
-
-print("\n<p>");
-/* 
- * Record into the database that a talk has been played or shared.
- * This access point is called directly by the app.
+/*
+ * Returns a response from the server for a query
+ * This entry point is called directly from the app
  */
 
-$MAX_DUPLICATE_WINDOW = 100;
-$MAX_DUPLICATE_SHARE = 20;
-
-$deviceID = $operation = $sharetype = $filename = "NA";
-$deviceID = $city = $country = $zip = $altitude = $latitude = $longitude = "NA";
-
-$devicetype = getVar("DEVICETYPE");
-$deviceID = getVar("DEVICEID");
-$operation = getVar("OPERATION");
-$sharetype = getVar("SHARETYPE");
-$filename = getVar("FILENAME");
-$zip = getVar("ZIP");
-$altitude = getVar("ALTITUDE");
-$latitude = getVar("LATITUDE");
-$longitude = getVar("LONGITUDE");
-
-$seconds = time();
-$ip = $_SERVER['REMOTE_ADDR'];
-$date = gmdate("Y.m.d");
-print($ip);
-
-if ($devicetype == "NA") {
-    $devicetype = "iphone";
-}
-
-if (strlen($devicetype) < 1) {
-    $devicetype = "iphone";
-}
-
-
-$country = $city = "NA";
-$mysqli = new mysqli("localhost", "cminson", "ireland", "ad");
-$query= "SELECT country,city from ops where ip=\"$ip\"";
-
-if (!$result = $mysqli->query($query)) {
-    exit;
-}
-
-$city = $country = $state = "";
-
-$results = $mysqli->query($query);
-while ($row = mysqli_fetch_array($results))
-{
-    	$country = $row['country'];
-    	$city = $row['city'];
-		if (($country != '') && ($country != "NA")) break;
-		if (($city != '') && ($city != "NA")) break;
-} 
-
-print("<p>$city <br>$country");
-
-//
-// ipstack.com
-// christopherminson@icloud.com ireland
-// 
-
-if ($country == "") {
-
-    $command = "curl https://api.ipstack.com/$ip?access_key=e2716847045121a9863e6b098557bb41";
-    mylog($command);
-    print("<p>$command");
-    $result = exec("$command 2>&1", $lines, $ConvertResultCode);
-    $json = json_decode($result,TRUE);
-    mylog($json);
-    print("<p>$json");
-    $country= $json["country_code"];
-    $state = $json["region_code"];
-    $city = $json["city"];
-}
-
-$attr1 = $attr2 = $attr3 = "";
-
-
-$mysqli = new mysqli("localhost", "cminson", "ireland", "ad");
-
-// check for recent excess duplicate traffic, exit if any seen
-$shareCount = 0;
-$query = "SELECT * FROM ops ORDER by id DESC LIMIT $MAX_DUPLICATE_WINDOW";
-$result = $mysqli->query($query);
-if (mysqli_num_rows($result) > 0) 
-{
-    while ($row = mysqli_fetch_assoc($result)) 
-    {
-        $row_ip = $row['ip'];
-        $row_filename = $row['filename'];
-        $row_operation = $row['operation'];
-
-		// if duplicate plays of talk seen for given ip, exit
-        if (($row_ip == $ip) && ($row_filename == $filename) && ($row_operation == 'PLAYTALK'))
-        {
-            return;
-        }
-
-		// if too many shares for a talk seen, exit
-        if (($row_ip == $ip) && ($row_filename == $filename) && ($row_operation == 'SHARETALK'))
-        {
-			$shareCount += 1;
-			if ($shareCount > $MAX_DUPLICATE_SHARE) return;
-        }
-    }
-}
-
-// insert the record
-$query= "INSERT INTO ops(ip, deviceID, operation, devicetype, sharetype, filename, date, seconds, city, state,country, zip, latitude, longitude, attr1, attr2, attr3) VALUES('$ip', '$deviceID', '$operation', '$devicetype', '$sharetype', '$filename', '$date', '$seconds', '$city', '$state', '$country', '$zip', '$latitude', '$longitude', '$attr1', '$attr2', '$attr3')";
-$result = $mysqli->query($query);
-
-
-function mylog($msg) 
+function mylog($msg)
 {
     $LOGFILE= "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Access/ad.log";
 
@@ -123,17 +13,57 @@ function mylog($msg)
     fclose($fp);
 }
 
-function getVar($var) 
-{
-    if (isset($_POST[$var]))
-    {
-        return $_POST[$var];
-    }
-    if (isset($_GET[$var]))
-    {
-        return $_GET[$var];
-    }
-    return "";
+$SOPHIA_PORT = 3022;
+$MAX_RESPONSE_SIZE = 10000;
+
+// Get the QUERY and COMMAND arguments from the CGI request
+$query = isset($_GET['QUERY']) ? $_GET['QUERY'] : '';
+$command = isset($_GET['COMMAND']) ? $_GET['COMMAND'] : '';
+
+$command = "GET_EXPLORE";
+$query = "love";
+
+// Make sure QUERY and COMMAND are not empty
+if (empty($query) || empty($command)) {
+    echo "QUERY and COMMAND parameters are required.";
+    exit(1);
 }
 
+// Construct the GET parameters
+$get_params = http_build_query(array('ARG_COMMAND' => $command, 'ARG_QUERY' => $query));
+
+// Create a TCP/IP socket
+$socket = socket_create(AF_INET, SOCK_STREAM, SOL_TCP);
+if ($socket === false) {
+    echo "socket_create() failed: " . socket_strerror(socket_last_error());
+    exit(1);
+}
+
+// Connect to the local program listening on port 3022
+$result = socket_connect($socket, 'localhost', 3022);
+if ($result === false) {
+    echo "socket_connect() failed: " . socket_strerror(socket_last_error());
+    exit(1);
+}
+
+// Construct the HTTP request
+$http_request = "GET /?" . $get_params . " HTTP/1.1\r\n";
+$http_request .= "Host: localhost:3022\r\n";
+$http_request .= "Connection: close\r\n\r\n";
+
+// Send the HTTP request to the local program
+socket_write($socket, $http_request, strlen($http_request));
+
+// Receive the response from the local program
+$response = '';
+while ($out = socket_read($socket, $MAX_RESPONSE_SIZE)) {
+    $response .= $out;
+}
+
+// Close the socket
+socket_close($socket);
+
+// Print the response
+echo $response;
 ?>
+
