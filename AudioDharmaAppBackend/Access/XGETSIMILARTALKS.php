@@ -20,7 +20,10 @@ function mylog($msg)
 }
 
 $Key = $_GET["KEY"];
-$path = $SIMILAR_PATH . $Key;
+
+$fileName = str_replace(".mp3", "", $Key);
+
+$path = $SIMILAR_PATH . $fileName;
 mylog($path);
 $contents = file_get_contents($path);
 

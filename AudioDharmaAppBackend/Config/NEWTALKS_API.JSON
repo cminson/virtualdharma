@@ -1,6 +1,26 @@
 {
 	"talks":[
 	{
+		"title":"Dharmette: Spiritual Power",
+		"series":"7am Sit & Dharmette",
+		"url":"/20183/20240415-Dawn_Neal-IMC-dharmette_spiritual_power.mp3",
+		"ln":"en",
+		"download_url":"/20183/20240415-Dawn_Neal-IMC-dharmette_spiritual_power.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2024.04.15",
+		"duration":"13:45"
+	},
+	{
+		"title":"Guided Meditation: Engaged with the Moment",
+		"series":"Guided Meditations",
+		"url":"/20182/20240415-Dawn_Neal-IMC-guided_meditation_engaged_with_the_moment.mp3",
+		"ln":"en",
+		"download_url":"/20182/20240415-Dawn_Neal-IMC-guided_meditation_engaged_with_the_moment.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2024.04.15",
+		"duration":"31:27"
+	},
+	{
 		"title":"Reactivity and Non Reactivity",
 		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
 		"url":"/20173/20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity.mp3",
@@ -9,6 +29,16 @@
 		"speaker":"Tanya Wiser",
 		"date":"2024.04.14",
 		"duration":"41:51"
+	},
+	{
+		"title":"Introduction to Buddhist Chaplaincy",
+		"series":"",
+		"url":"/20180/20240413-Jennifer_Block-sati-introduction_to_buddhist_chaplaincy.mp3",
+		"ln":"en",
+		"download_url":"/20180/20240413-Jennifer_Block-sati-introduction_to_buddhist_chaplaincy.mp3",
+		"speaker":"<multiple>",
+		"date":"2024.04.13",
+		"duration":"2:48:46"
 	},
 	{
 		"title":"Dharmette: Four Inspirational Blessings (5 of 5) Inspirational Blessings",
@@ -439,46 +469,6 @@
 		"speaker":"Gil Fronsdal",
 		"date":"2024.03.28",
 		"duration":"31:12"
-	},
-	{
-		"title":"Conditioning",
-		"series":"",
-		"url":"/20069/20240328-Tanya_Wiser-IMC-conditioning.mp3",
-		"ln":"en",
-		"download_url":"/20069/20240328-Tanya_Wiser-IMC-conditioning.mp3",
-		"speaker":"Tanya Wiser",
-		"date":"2024.03.28",
-		"duration":"50:51"
-	},
-	{
-		"title":"Happy Hour -- The Compassion of Modeling",
-		"series":"",
-		"url":"/20066/20240327-Kim_Allen-IMC-happy_hour_--_the_compassion_of_modeling.mp3",
-		"ln":"en",
-		"download_url":"/20066/20240327-Kim_Allen-IMC-happy_hour_--_the_compassion_of_modeling.mp3",
-		"speaker":"Kim Allen",
-		"date":"2024.03.27",
-		"duration":"42:49"
-	},
-	{
-		"title":"Dharmette: Being a Refuge for Ourself",
-		"series":"",
-		"url":"/20065/20240327-Gil_Fronsdal-IMC-dharmette_finding_refuge_in_dharma.mp3",
-		"ln":"en",
-		"download_url":"/20065/20240327-Gil_Fronsdal-IMC-dharmette_finding_refuge_in_dharma.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.03.27",
-		"duration":"13:31"
-	},
-	{
-		"title":"Practice Notes: Simplicity of Being",
-		"series":"",
-		"url":"/20064/20240327-Gil_Fronsdal-IMC-practice_notes_simplicity_of_being.mp3",
-		"ln":"en",
-		"download_url":"/20064/20240327-Gil_Fronsdal-IMC-practice_notes_simplicity_of_being.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.03.27",
-		"duration":"02:07"
 	}
 	]
 }

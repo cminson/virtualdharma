@@ -19,7 +19,7 @@ $MAX_RESPONSE_SIZE = 10000;
 // Get the QUERY and COMMAND arguments from the CGI request
 $query = $_GET["QUERY"];
 
-mylog($query);
+//mylog($query);
 $command = "GET_EXPLORE";
 
 // Make sure QUERY and COMMAND are not empty

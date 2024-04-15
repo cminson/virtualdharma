@@ -1,14 +1,14 @@
 {
 "talks": [
 {
-	"title" : "1. Dharmette: Becoming Unintimidated by Suffering",
-	"url" : "/20160/20240410-Matthew_Brensilver-IMC-dharmette_becoming_unintimidated_by_suffering.mp3",
+	"title" : "1. Reactivity and Non Reactivity",
+	"url" : "/20173/20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity.mp3",
 	"series" : "",
-	"score" : 80
+	"score" : 131
 },
 {
-	"title" : "2. Guided Meditation: Blessing of Just Doing the Practice",
-	"url" : "/20165/20240412-Kim_Allen-IMC-guided_meditation_blessing_of_just_doing_the_practice.mp3",
+	"title" : "2. Dharmette: Becoming Unintimidated by Suffering",
+	"url" : "/20160/20240410-Matthew_Brensilver-IMC-dharmette_becoming_unintimidated_by_suffering.mp3",
 	"series" : "",
 	"score" : 78
 },
@@ -16,49 +16,49 @@
 	"title" : "3. Guided Meditation: Aperture, Vividness, Stability, Effort",
 	"url" : "/20159/20240410-Matthew_Brensilver-IMC-guided_meditation_aperture_vividness_stability_effort.mp3",
 	"series" : "",
-	"score" : 74
+	"score" : 62
 },
 {
-	"title" : "4. Wise Intention",
+	"title" : "4. Guided Meditation: Blessing of Just Doing the Practice",
+	"url" : "/20165/20240412-Kim_Allen-IMC-guided_meditation_blessing_of_just_doing_the_practice.mp3",
+	"series" : "",
+	"score" : 52
+},
+{
+	"title" : "5. Wise Intention",
 	"url" : "/20163/20240411-Tanya_Wiser-IMC-wise_intention.mp3",
 	"series" : "",
-	"score" : 69
+	"score" : 50
 },
 {
-	"title" : "5. Dharmette: Four Inspirational Blessings (5 of 5) Inspirational Blessings",
-	"url" : "/20166/20240412-Kim_Allen-IMC-dharmette_four_inspirational_blessings_5_of_5_inspirational_blessings.mp3",
-	"series" : "",
-	"score" : 54
-},
-{
-	"title" : "6. Dharmette: Four Inspirational Blessings (4 of 5) Training for Peace",
-	"url" : "/20162/20240411-Kim_Allen-IMC-dharmette_four_inspirational_blessings_4_of_5_training_for_peace.mp3",
-	"series" : "",
-	"score" : 38
-},
-{
-	"title" : "7. The Body: Cave of Wonders",
+	"title" : "6. The Body: Cave of Wonders",
 	"url" : "/20141/20240407-Gil_Fronsdal-IMC-the_body_cave_of_wonders.mp3",
 	"series" : "",
-	"score" : 34
+	"score" : 49
+},
+{
+	"title" : "7. Dharmette: Four Inspirational Blessings (5 of 5) Inspirational Blessings",
+	"url" : "/20166/20240412-Kim_Allen-IMC-dharmette_four_inspirational_blessings_5_of_5_inspirational_blessings.mp3",
+	"series" : "",
+	"score" : 46
 },
 {
 	"title" : "8. Guided Meditation: Opening to Peace",
 	"url" : "/20161/20240411-Kim_Allen-IMC-guided_meditation_opening_to_peace.mp3",
 	"series" : "",
+	"score" : 38
+},
+{
+	"title" : "9. Mindfulness as a New Perspective",
+	"url" : "/20079/20240330-Gil_Fronsdal-IMC-mindfulness_as_a_new_perspective.mp3",
+	"series" : "",
+	"score" : 31
+},
+{
+	"title" : "10. Guided Meditation: The Inner Critic (1)",
+	"url" : "/20084/20240401-Diana_Clark-IMC-guided_meditation_the_inner_critic_1_of_5.mp3",
+	"series" : "",
 	"score" : 28
-},
-{
-	"title" : "9. Guided Meditation: Non-Clinging Thinking",
-	"url" : "/20070/20240329-Gil_Fronsdal-IMC-guided_meditation_non-clinging_thinking.mp3",
-	"series" : "",
-	"score" : 26
-},
-{
-	"title" : "10. Guided Meditation: Whats Already Here?",
-	"url" : "/20105/20240403-Matthew_Brensilver-IMC-guided_meditation_what_s_already_here.mp3",
-	"series" : "",
-	"score" : 24
 }
 ]
 }

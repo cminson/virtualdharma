@@ -84111,3 +84111,1773 @@ Parrots and dogs
 Planets
 Love
 Peace
+CACHED IP NOT FOUND:  Doing lookup on 201.201.215.104
+Curl IP Command: curl https://api.ipstack.com/201.201.215.104?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 201.201.215.104 Country: CR City:Patarrá
+STORING IP INTO CACHE: CR Patarrá 201.201.215.104
+INSERT INTO ipmap(ip, country, city) VALUES('201.201.215.104', 'CR', 'Patarrá')
+CACHED IP FOUND:  101.115.131.126 AU Balwyn North
+CACHED IP FOUND:  217.162.232.159 CH Wettingen
+CACHED IP NOT FOUND:  Doing lookup on 37.10.235.92
+Curl IP Command: curl https://api.ipstack.com/37.10.235.92?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 37.10.235.92 Country: ES City:Madrid
+STORING IP INTO CACHE: ES Madrid 37.10.235.92
+INSERT INTO ipmap(ip, country, city) VALUES('37.10.235.92', 'ES', 'Madrid')
+CACHED IP FOUND:  107.116.89.93 US Stockton
+CACHED IP FOUND:  101.115.131.126 AU Balwyn North
+CACHED IP FOUND:  75.249.14.3 US Bethany
+CACHED IP FOUND:  108.233.248.60 US San Rafael
+CACHED IP FOUND:  119.18.2.225 AU Parramatta
+CACHED IP FOUND:  101.115.131.126 AU Balwyn North
+CACHED IP FOUND:  91.176.207.130 BE Charleroi
+CACHED IP FOUND:  76.242.90.238 US San Jose
+CACHED IP FOUND:  173.189.209.22 US Trussville
+CACHED IP NOT FOUND:  Doing lookup on 174.195.84.39
+Curl IP Command: curl https://api.ipstack.com/174.195.84.39?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.195.84.39 Country: US City:Los Angeles
+STORING IP INTO CACHE: US Los Angeles 174.195.84.39
+INSERT INTO ipmap(ip, country, city) VALUES('174.195.84.39', 'US', 'Los Angeles')
+CACHED IP FOUND:  173.189.209.22 US Trussville
+CACHED IP FOUND:  76.242.90.238 US San Jose
+CACHED IP FOUND:  89.24.224.205 CZ Prague
+CACHED IP FOUND:  108.251.1.133 US Antioch
+CACHED IP FOUND:  24.211.96.178 US Summerville
+CACHED IP FOUND:  107.127.14.66 US San Francisco
+CACHED IP NOT FOUND:  Doing lookup on 184.53.32.95
+Curl IP Command: curl https://api.ipstack.com/184.53.32.95?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 184.53.32.95 Country: US City:Germantown
+STORING IP INTO CACHE: US Germantown 184.53.32.95
+INSERT INTO ipmap(ip, country, city) VALUES('184.53.32.95', 'US', 'Germantown')
+CACHED IP FOUND:  104.28.32.149 US Mountain Brook
+CACHED IP FOUND:  73.170.77.203 US Millbrae
+CACHED IP NOT FOUND:  Doing lookup on 172.59.224.187
+Curl IP Command: curl https://api.ipstack.com/172.59.224.187?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.59.224.187 Country: US City:Aurora
+STORING IP INTO CACHE: US Aurora 172.59.224.187
+INSERT INTO ipmap(ip, country, city) VALUES('172.59.224.187', 'US', 'Aurora')
+CACHED IP FOUND:  73.202.202.22 US San Jose
+CACHED IP FOUND:  107.127.56.48 US Hacienda Heights
+CACHED IP NOT FOUND:  Doing lookup on 76.113.48.151
+Curl IP Command: curl https://api.ipstack.com/76.113.48.151?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 76.113.48.151 Country: US City:Albuquerque
+STORING IP INTO CACHE: US Albuquerque 76.113.48.151
+INSERT INTO ipmap(ip, country, city) VALUES('76.113.48.151', 'US', 'Albuquerque')
+CACHED IP FOUND:  73.223.214.69 US Napa
+CACHED IP FOUND:  174.249.150.153 US Castro Valley
+CACHED IP FOUND:  75.67.183.248 US Buzzards Bay
+CACHED IP NOT FOUND:  Doing lookup on 1.132.18.185
+Curl IP Command: curl https://api.ipstack.com/1.132.18.185?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 1.132.18.185 Country: AU City:Brisbane
+STORING IP INTO CACHE: AU Brisbane 1.132.18.185
+INSERT INTO ipmap(ip, country, city) VALUES('1.132.18.185', 'AU', 'Brisbane')
+CACHED IP FOUND:  216.147.126.218 US Denver
+CACHED IP NOT FOUND:  Doing lookup on 1.129.28.224
+Curl IP Command: curl https://api.ipstack.com/1.129.28.224?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 1.129.28.224 Country: AU City:Parramatta
+STORING IP INTO CACHE: AU Parramatta 1.129.28.224
+INSERT INTO ipmap(ip, country, city) VALUES('1.129.28.224', 'AU', 'Parramatta')
+CACHED IP FOUND:  135.180.145.133 US Berkeley
+CACHED IP FOUND:  153.208.219.197 JP Tokyo
+CACHED IP FOUND:  93.173.247.84 IL Haifa
+CACHED IP NOT FOUND:  Doing lookup on 172.58.166.24
+Curl IP Command: curl https://api.ipstack.com/172.58.166.24?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.58.166.24 Country: US City:Oak Park
+STORING IP INTO CACHE: US Oak Park 172.58.166.24
+INSERT INTO ipmap(ip, country, city) VALUES('172.58.166.24', 'US', 'Oak Park')
+CACHED IP FOUND:  24.144.190.210 US Ashland
+CACHED IP NOT FOUND:  Doing lookup on 166.198.34.126
+Curl IP Command: curl https://api.ipstack.com/166.198.34.126?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 166.198.34.126 Country: US City:San Jose
+STORING IP INTO CACHE: US San Jose 166.198.34.126
+INSERT INTO ipmap(ip, country, city) VALUES('166.198.34.126', 'US', 'San Jose')
+CACHED IP NOT FOUND:  Doing lookup on 104.28.32.156
+Curl IP Command: curl https://api.ipstack.com/104.28.32.156?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 104.28.32.156 Country: US City:Montgomery
+STORING IP INTO CACHE: US Montgomery 104.28.32.156
+INSERT INTO ipmap(ip, country, city) VALUES('104.28.32.156', 'US', 'Montgomery')
+CACHED IP NOT FOUND:  Doing lookup on 146.75.222.99
+Curl IP Command: curl https://api.ipstack.com/146.75.222.99?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 146.75.222.99 Country: US City:Oviedo
+STORING IP INTO CACHE: US Oviedo 146.75.222.99
+INSERT INTO ipmap(ip, country, city) VALUES('146.75.222.99', 'US', 'Oviedo')
+CACHED IP FOUND:  104.28.32.156 US Montgomery
+CACHED IP FOUND:  76.113.88.173 US Albuquerque
+CACHED IP NOT FOUND:  Doing lookup on 172.59.210.29
+Curl IP Command: curl https://api.ipstack.com/172.59.210.29?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.59.210.29 Country: US City:Irvington
+STORING IP INTO CACHE: US Irvington 172.59.210.29
+INSERT INTO ipmap(ip, country, city) VALUES('172.59.210.29', 'US', 'Irvington')
+CACHED IP FOUND:  98.234.164.187 US San Jose
+CACHED IP FOUND:  91.170.223.77 FR Saint-Ouen
+CACHED IP FOUND:  24.38.252.207 US Flatbush
+CACHED IP FOUND:  184.170.163.15 US West Lafayette
+CACHED IP FOUND:  172.100.106.81 US West Albany
+CACHED IP FOUND:  104.28.76.199 US Norfolk
+CACHED IP FOUND:  91.170.223.77 FR Saint-Ouen
+CACHED IP FOUND:  185.229.154.0 DK Copenhagen
+CACHED IP FOUND:  24.127.123.168 US Monroe
+CACHED IP FOUND:  91.170.223.77 FR Saint-Ouen
+CACHED IP FOUND:  99.231.75.5 CA Toronto
+CACHED IP FOUND:  104.28.56.16 US Islip
+CACHED IP FOUND:  99.151.10.122 US Santa Clara
+CACHED IP FOUND:  91.170.223.77 FR Saint-Ouen
+CACHED IP NOT FOUND:  Doing lookup on 73.154.26.200
+Curl IP Command: curl https://api.ipstack.com/73.154.26.200?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 73.154.26.200 Country: US City:Pittsburgh
+STORING IP INTO CACHE: US Pittsburgh 73.154.26.200
+INSERT INTO ipmap(ip, country, city) VALUES('73.154.26.200', 'US', 'Pittsburgh')
+CACHED IP FOUND:  73.154.26.200 US Pittsburgh
+CACHED IP FOUND:  73.154.26.200 US Pittsburgh
+CACHED IP FOUND:  207.191.155.35 US Minnetonka Mills
+CACHED IP FOUND:  73.108.120.124 US Savannah
+CACHED IP FOUND:  24.38.252.207 US Flatbush
+CACHED IP FOUND:  100.19.30.139 US Nicetown-Tioga
+CACHED IP FOUND:  207.138.205.3 US Winona
+CACHED IP NOT FOUND:  Doing lookup on 174.249.151.103
+Curl IP Command: curl https://api.ipstack.com/174.249.151.103?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.249.151.103 Country: US City:Dublin
+STORING IP INTO CACHE: US Dublin 174.249.151.103
+INSERT INTO ipmap(ip, country, city) VALUES('174.249.151.103', 'US', 'Dublin')
+CACHED IP FOUND:  174.20.45.173 US Minneapolis
+CACHED IP FOUND:  92.184.102.152 FR Arcueil
+CACHED IP FOUND:  207.138.205.3 US Winona
+CACHED IP FOUND:  174.249.151.103 US Dublin
+CACHED IP FOUND:  169.150.254.33 US Dallas
+CACHED IP FOUND:  100.33.78.38 US North Valley Stream
+CACHED IP FOUND:  207.191.155.35 US Minnetonka Mills
+CACHED IP FOUND:  38.242.11.36 US Concord
+CACHED IP FOUND:  67.180.189.11 US Seaside
+CACHED IP FOUND:  73.56.72.137 US Delray Beach
+CACHED IP FOUND:  107.192.106.147 US Belmont
+CACHED IP FOUND:  107.199.79.201 US Live Oak
+CACHED IP FOUND:  86.28.189.115 GB Cheadle Hulme
+CACHED IP FOUND:  172.59.210.29 US Irvington
+CACHED IP FOUND:  104.48.42.18 US Clemson
+CACHED IP FOUND:  104.28.133.19 CA Toronto
+CACHED IP FOUND:  169.150.254.33 US Dallas
+CACHED IP FOUND:  104.28.57.244 US Manhattan
+CACHED IP FOUND:  198.40.47.67 US Sausalito
+CACHED IP FOUND:  174.2.65.167 CA Saskatoon
+CACHED IP NOT FOUND:  Doing lookup on 104.28.39.122
+Curl IP Command: curl https://api.ipstack.com/104.28.39.122?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 104.28.39.122 Country: US City:Manhattan
+STORING IP INTO CACHE: US Manhattan 104.28.39.122
+INSERT INTO ipmap(ip, country, city) VALUES('104.28.39.122', 'US', 'Manhattan')
+CACHED IP FOUND:  198.40.47.67 US Sausalito
+CACHED IP FOUND:  104.28.123.69 US San Jose
+CACHED IP FOUND:  146.199.97.40 GB Frome
+CACHED IP FOUND:  76.100.132.49 US South Laurel
+CACHED IP FOUND:  122.171.22.38 IN Bengaluru
+CACHED IP FOUND:  104.28.132.145 US Manhattan
+CACHED IP FOUND:  68.7.66.121 US San Diego
+CACHED IP NOT FOUND:  Doing lookup on 104.28.39.121
+Curl IP Command: curl https://api.ipstack.com/104.28.39.121?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 104.28.39.121 Country: US City:Manhattan
+STORING IP INTO CACHE: US Manhattan 104.28.39.121
+INSERT INTO ipmap(ip, country, city) VALUES('104.28.39.121', 'US', 'Manhattan')
+CACHED IP FOUND:  174.204.138.245 US Mott Haven
+CACHED IP FOUND:  73.137.235.175 US Candler-McAfee
+CACHED IP FOUND:  174.63.77.132 US Boulder
+CACHED IP FOUND:  174.63.77.132 US Boulder
+CACHED IP FOUND:  174.2.65.167 CA Saskatoon
+CACHED IP FOUND:  174.63.77.132 US Boulder
+CACHED IP FOUND:  174.48.186.182 US Palm Beach Gardens
+CACHED IP FOUND:  70.160.15.29 US Portsmouth
+CACHED IP NOT FOUND:  Doing lookup on 72.83.145.57
+Curl IP Command: curl https://api.ipstack.com/72.83.145.57?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 72.83.145.57 Country: US City:Bethesda
+STORING IP INTO CACHE: US Bethesda 72.83.145.57
+INSERT INTO ipmap(ip, country, city) VALUES('72.83.145.57', 'US', 'Bethesda')
+CACHED IP FOUND:  172.6.80.219 US San Francisco
+CACHED IP FOUND:  174.63.77.132 US Boulder
+CACHED IP FOUND:  99.240.113.60 CA Willowdale
+CACHED IP FOUND:  91.170.223.77 FR Saint-Ouen
+CACHED IP FOUND:  107.199.79.201 US Live Oak
+CACHED IP FOUND:  76.95.156.69 US Santa Monica
+CACHED IP FOUND:  162.236.27.230 US Richardson
+CACHED IP FOUND:  174.63.77.132 US Boulder
+CACHED IP FOUND:  99.29.118.128 US Holly Springs
+CACHED IP FOUND:  146.75.222.0 US Manhattan
+CACHED IP FOUND:  146.75.222.0 US Manhattan
+CACHED IP FOUND:  146.75.222.0 US Manhattan
+CACHED IP FOUND:  174.63.77.132 US Boulder
+CACHED IP FOUND:  73.137.235.175 US Candler-McAfee
+CACHED IP FOUND:  86.26.37.36 GB Cambridge
+CACHED IP FOUND:  174.84.163.241 US Traverse City
+CACHED IP FOUND:  104.28.57.54 US Portland
+CACHED IP FOUND:  108.190.183.215 US Clearwater
+CACHED IP FOUND:  184.187.40.130 US Perry
+CACHED IP FOUND:  67.150.18.89 US Pasadena
+CACHED IP FOUND:  174.2.65.167 CA Saskatoon
+CACHED IP FOUND:  73.137.235.175 US Candler-McAfee
+CACHED IP FOUND:  216.80.61.6 US Chicago
+CACHED IP FOUND:  99.240.113.60 CA Willowdale
+CACHED IP FOUND:  73.34.8.69 US Aurora
+CACHED IP FOUND:  73.105.14.181 US Jacksonville
+CACHED IP FOUND:  174.84.163.241 US Traverse City
+CACHED IP FOUND:  172.87.1.36 US Grand Marais
+CACHED IP FOUND:  104.28.39.100 US New Haven
+CACHED IP FOUND:  24.76.202.209 CA Winnipeg
+CACHED IP FOUND:  73.29.56.32 US Pleasantville
+CACHED IP FOUND:  100.34.49.189 US Willow Grove
+CACHED IP FOUND:  76.176.194.236 US San Diego
+CACHED IP NOT FOUND:  Doing lookup on 172.225.64.52
+Curl IP Command: curl https://api.ipstack.com/172.225.64.52?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.225.64.52 Country: AU City:Sydney
+STORING IP INTO CACHE: AU Sydney 172.225.64.52
+INSERT INTO ipmap(ip, country, city) VALUES('172.225.64.52', 'AU', 'Sydney')
+CACHED IP NOT FOUND:  Doing lookup on 174.194.195.37
+Curl IP Command: curl https://api.ipstack.com/174.194.195.37?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.194.195.37 Country: US City:Danville
+STORING IP INTO CACHE: US Danville 174.194.195.37
+INSERT INTO ipmap(ip, country, city) VALUES('174.194.195.37', 'US', 'Danville')
+CACHED IP FOUND:  184.148.155.209 CA Toronto
+CACHED IP FOUND:  104.28.48.73 US Denver
+CACHED IP FOUND:  104.28.116.140 US Four Corners
+CACHED IP FOUND:  174.101.160.206 US Xenia
+CACHED IP FOUND:  70.27.82.55 CA London
+CACHED IP FOUND:  104.28.55.233 US San Jose
+CACHED IP FOUND:  64.121.112.161 US Allentown
+CACHED IP FOUND:  68.0.250.118 US Enfield
+CACHED IP FOUND:  74.101.203.147 US Manhattan
+CACHED IP NOT FOUND:  Doing lookup on 146.75.154.82
+Curl IP Command: curl https://api.ipstack.com/146.75.154.82?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 146.75.154.82 Country: US City:Hayward
+STORING IP INTO CACHE: US Hayward 146.75.154.82
+INSERT INTO ipmap(ip, country, city) VALUES('146.75.154.82', 'US', 'Hayward')
+CACHED IP FOUND:  104.28.77.148 US Manhattan
+CACHED IP FOUND:  104.28.57.244 US Manhattan
+CACHED IP FOUND:  140.177.103.170 US North Peoria
+CACHED IP FOUND:  100.33.78.38 US North Valley Stream
+CACHED IP FOUND:  104.28.57.244 US Manhattan
+CACHED IP FOUND:  75.158.171.200 CA Calgary
+CACHED IP FOUND:  184.187.40.130 US Perry
+CACHED IP FOUND:  104.28.77.148 US Manhattan
+CACHED IP FOUND:  104.28.55.228 US San Jose
+CACHED IP FOUND:  73.83.41.22 US Oak Harbor
+CACHED IP FOUND:  173.79.62.124 US Shaw
+CACHED IP NOT FOUND:  Doing lookup on 79.215.150.27
+Curl IP Command: curl https://api.ipstack.com/79.215.150.27?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 79.215.150.27 Country: DE City:Frankfurt am Main
+STORING IP INTO CACHE: DE Frankfurt am Main 79.215.150.27
+INSERT INTO ipmap(ip, country, city) VALUES('79.215.150.27', 'DE', 'Frankfurt am Main')
+CACHED IP FOUND:  73.137.235.175 US Candler-McAfee
+CACHED IP FOUND:  98.49.162.117 US Reading
+CACHED IP FOUND:  158.51.162.71 US Espanola
+CACHED IP FOUND:  75.4.201.162 US San Jose
+CACHED IP FOUND:  72.205.98.240 US Goleta
+CACHED IP FOUND:  170.203.209.156 CA Calgary
+CACHED IP FOUND:  104.28.130.139 SI Ljubljana
+CACHED IP NOT FOUND:  Doing lookup on 147.236.165.5
+Curl IP Command: curl https://api.ipstack.com/147.236.165.5?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 147.236.165.5 Country: IL City:Petaẖ Tiqva
+STORING IP INTO CACHE: IL Petaẖ Tiqva 147.236.165.5
+INSERT INTO ipmap(ip, country, city) VALUES('147.236.165.5', 'IL', 'Petaẖ Tiqva')
+CACHED IP FOUND:  98.233.203.193 US Baltimore
+CACHED IP FOUND:  24.4.131.160 US Mountain View
+CACHED IP FOUND:  71.34.105.114 US Portland
+CACHED IP FOUND:  72.229.137.73 US Mott Haven
+CACHED IP FOUND:  196.188.224.95 ET Addis Ababa
+CACHED IP FOUND:  104.28.123.180 US San Jose
+CACHED IP FOUND:  104.28.111.171 US San Jose
+CACHED IP FOUND:  99.113.33.194 US Santa Clara
+CACHED IP NOT FOUND:  Doing lookup on 174.206.98.80
+Curl IP Command: curl https://api.ipstack.com/174.206.98.80?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.206.98.80 Country: US City:Williamsburg
+STORING IP INTO CACHE: US Williamsburg 174.206.98.80
+INSERT INTO ipmap(ip, country, city) VALUES('174.206.98.80', 'US', 'Williamsburg')
+CACHED IP FOUND:  76.242.90.238 US San Jose
+CACHED IP FOUND:  174.2.65.167 CA Saskatoon
+CACHED IP FOUND:  92.23.62.140 GB Okehampton
+CACHED IP NOT FOUND:  Doing lookup on 92.40.169.107
+Curl IP Command: curl https://api.ipstack.com/92.40.169.107?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 92.40.169.107 Country: GB City:Maidenhead
+STORING IP INTO CACHE: GB Maidenhead 92.40.169.107
+INSERT INTO ipmap(ip, country, city) VALUES('92.40.169.107', 'GB', 'Maidenhead')
+CACHED IP FOUND:  76.242.90.238 US San Jose
+CACHED IP FOUND:  76.242.90.238 US San Jose
+CACHED IP FOUND:  76.242.90.238 US San Jose
+CACHED IP FOUND:  76.242.90.238 US San Jose
+CACHED IP FOUND:  104.28.130.139 SI Ljubljana
+CACHED IP FOUND:  86.246.196.130 FR Saint-Ouen
+CACHED IP FOUND:  104.28.116.20 US Flagami
+CACHED IP FOUND:  91.40.89.100 DE Itzehoe
+CACHED IP FOUND:  24.20.102.187 US Hazel Dell
+CACHED IP FOUND:  2.248.7.125 SE Kristinehamn
+CACHED IP NOT FOUND:  Doing lookup on 37.250.90.138
+Curl IP Command: curl https://api.ipstack.com/37.250.90.138?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 37.250.90.138 Country: SE City:Stockholm
+STORING IP INTO CACHE: SE Stockholm 37.250.90.138
+INSERT INTO ipmap(ip, country, city) VALUES('37.250.90.138', 'SE', 'Stockholm')
+CACHED IP FOUND:  104.28.130.139 SI Ljubljana
+CACHED IP FOUND:  52.119.89.138 US Manhattan
+CACHED IP FOUND:  76.26.106.38 US Albuquerque
+CACHED IP FOUND:  104.28.35.17 AU Brisbane
+CACHED IP FOUND:  93.214.217.19 DE Weilheim
+CACHED IP FOUND:  72.229.137.73 US Mott Haven
+CACHED IP FOUND:  93.214.217.19 DE Weilheim
+CACHED IP FOUND:  104.28.123.179 US San Jose
+CACHED IP FOUND:  162.120.144.96 US Morrisville
+CACHED IP FOUND:  174.242.67.215 US Amesbury
+CACHED IP FOUND:  75.168.196.17 US Saint Paul
+CACHED IP FOUND:  92.190.129.209 ES Cardedeu
+CACHED IP FOUND:  104.28.116.139 US Tacoma
+CACHED IP FOUND:  216.174.142.56 CA Regina
+CACHED IP FOUND:  216.174.142.56 CA Regina
+CACHED IP NOT FOUND:  Doing lookup on 194.230.148.118
+Curl IP Command: curl https://api.ipstack.com/194.230.148.118?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 194.230.148.118 Country: CH City:Zürich
+STORING IP INTO CACHE: CH Zürich 194.230.148.118
+INSERT INTO ipmap(ip, country, city) VALUES('194.230.148.118', 'CH', 'Zürich')
+CACHED IP FOUND:  216.174.142.56 CA Regina
+CACHED IP FOUND:  184.153.35.135 US Manhattan
+CACHED IP FOUND:  84.169.90.2 DE Düsseldorf
+CACHED IP FOUND:  154.5.160.211 CA Squamish
+CACHED IP FOUND:  76.26.106.38 US Albuquerque
+CACHED IP FOUND:  176.10.136.204 SE Sollentuna
+CACHED IP FOUND:  83.177.193.68 SE Västerås
+CACHED IP FOUND:  83.177.193.68 SE Västerås
+CACHED IP FOUND:  192.0.242.90 CA East Gwillimbury
+CACHED IP FOUND:  146.75.212.4 CA Calgary
+CACHED IP FOUND:  174.65.249.112 US San Diego
+CACHED IP FOUND:  162.236.27.230 US Richardson
+CACHED IP FOUND:  66.74.129.23 US Compton
+CACHED IP FOUND:  91.40.89.100 DE Itzehoe
+CACHED IP FOUND:  50.92.149.222 CA West End
+CACHED IP FOUND:  73.65.253.168 US Logan
+CACHED IP FOUND:  86.173.198.60 GB Hanworth
+CACHED IP FOUND:  184.153.35.135 US Manhattan
+CACHED IP NOT FOUND:  Doing lookup on 92.17.32.112
+Curl IP Command: curl https://api.ipstack.com/92.17.32.112?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 92.17.32.112 Country: GB City:Liverpool
+STORING IP INTO CACHE: GB Liverpool 92.17.32.112
+INSERT INTO ipmap(ip, country, city) VALUES('92.17.32.112', 'GB', 'Liverpool')
+CACHED IP FOUND:  154.5.160.211 CA Squamish
+CACHED IP FOUND:  75.3.107.233 US Lubbock
+CACHED IP FOUND:  98.37.233.109 US Napa
+CACHED IP FOUND:  92.190.129.209 ES Cardedeu
+CACHED IP NOT FOUND:  Doing lookup on 80.187.100.41
+Curl IP Command: curl https://api.ipstack.com/80.187.100.41?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 80.187.100.41 Country: DE City:Bruchköbel
+STORING IP INTO CACHE: DE Bruchköbel 80.187.100.41
+INSERT INTO ipmap(ip, country, city) VALUES('80.187.100.41', 'DE', 'Bruchköbel')
+CACHED IP FOUND:  193.77.49.195 SI Ljubljana
+CACHED IP FOUND:  71.204.163.203 US Live Oak
+CACHED IP FOUND:  24.4.131.160 US Mountain View
+CACHED IP FOUND:  174.204.138.245 US Mott Haven
+CACHED IP FOUND:  131.93.25.191 US Madison
+CACHED IP FOUND:  67.166.189.170 US Culpeper
+CACHED IP FOUND:  81.105.219.152 GB Manchester
+CACHED IP FOUND:  61.69.70.10 AU Adelaide
+CACHED IP FOUND:  66.58.153.57 US Anchorage
+CACHED IP FOUND:  104.28.105.25 NO Oslo
+CACHED IP FOUND:  174.24.122.154 US Colorado Springs
+CACHED IP NOT FOUND:  Doing lookup on 207.109.190.226
+Curl IP Command: curl https://api.ipstack.com/207.109.190.226?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 207.109.190.226 Country: US City:Kapaa
+STORING IP INTO CACHE: US Kapaa 207.109.190.226
+INSERT INTO ipmap(ip, country, city) VALUES('207.109.190.226', 'US', 'Kapaa')
+CACHED IP FOUND:  78.150.86.247 GB Finchley
+CACHED IP FOUND:  78.150.86.247 GB Finchley
+CACHED IP FOUND:  81.105.219.152 GB Manchester
+CACHED IP FOUND:  67.150.18.89 US Pasadena
+CACHED IP FOUND:  72.205.98.240 US Goleta
+CACHED IP FOUND:  91.42.68.119 DE Gilching
+CACHED IP FOUND:  75.7.7.233 US San Pablo
+CACHED IP NOT FOUND:  Doing lookup on 148.252.133.225
+Curl IP Command: curl https://api.ipstack.com/148.252.133.225?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 148.252.133.225 Country: GB City:Newbury
+STORING IP INTO CACHE: GB Newbury 148.252.133.225
+INSERT INTO ipmap(ip, country, city) VALUES('148.252.133.225', 'GB', 'Newbury')
+CACHED IP FOUND:  216.84.200.9 US Oakdale
+CACHED IP FOUND:  148.252.133.225 GB Newbury
+CACHED IP FOUND:  104.28.78.112 US Hough
+CACHED IP NOT FOUND:  Doing lookup on 172.0.15.161
+Curl IP Command: curl https://api.ipstack.com/172.0.15.161?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.0.15.161 Country: US City:Murphy
+STORING IP INTO CACHE: US Murphy 172.0.15.161
+INSERT INTO ipmap(ip, country, city) VALUES('172.0.15.161', 'US', 'Murphy')
+CACHED IP FOUND:  81.105.219.152 GB Manchester
+CACHED IP FOUND:  104.28.124.67 US San Jose
+CACHED IP FOUND:  73.202.202.22 US San Jose
+CACHED IP NOT FOUND:  Doing lookup on 104.28.86.9
+Curl IP Command: curl https://api.ipstack.com/104.28.86.9?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 104.28.86.9 Country: FR City:Paris
+STORING IP INTO CACHE: FR Paris 104.28.86.9
+INSERT INTO ipmap(ip, country, city) VALUES('104.28.86.9', 'FR', 'Paris')
+CACHED IP FOUND:  86.159.38.37 GB Guildford
+CACHED IP NOT FOUND:  Doing lookup on 91.129.97.105
+Curl IP Command: curl https://api.ipstack.com/91.129.97.105?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 91.129.97.105 Country: EE City:Tallinn
+STORING IP INTO CACHE: EE Tallinn 91.129.97.105
+INSERT INTO ipmap(ip, country, city) VALUES('91.129.97.105', 'EE', 'Tallinn')
+CACHED IP NOT FOUND:  Doing lookup on 86.172.134.27
+Curl IP Command: curl https://api.ipstack.com/86.172.134.27?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 86.172.134.27 Country: GB City:Finchley
+STORING IP INTO CACHE: GB Finchley 86.172.134.27
+INSERT INTO ipmap(ip, country, city) VALUES('86.172.134.27', 'GB', 'Finchley')
+CACHED IP FOUND:  176.24.207.80 GB Dronfield
+CACHED IP FOUND:  162.236.27.230 US Richardson
+CACHED IP FOUND:  98.194.170.213 US Pecan Grove
+CACHED IP FOUND:  68.74.154.246 US Irvine
+CACHED IP FOUND:  71.212.146.83 US Seattle
+CACHED IP FOUND:  145.224.68.170 IE Dublin
+CACHED IP FOUND:  73.34.8.69 US Aurora
+CACHED IP NOT FOUND:  Doing lookup on 174.194.198.183
+Curl IP Command: curl https://api.ipstack.com/174.194.198.183?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.194.198.183 Country: US City:Alameda
+STORING IP INTO CACHE: US Alameda 174.194.198.183
+INSERT INTO ipmap(ip, country, city) VALUES('174.194.198.183', 'US', 'Alameda')
+CACHED IP FOUND:  107.77.92.93 US San Jose
+CACHED IP NOT FOUND:  Doing lookup on 174.243.145.126
+Curl IP Command: curl https://api.ipstack.com/174.243.145.126?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.243.145.126 Country: US City:Los Angeles
+STORING IP INTO CACHE: US Los Angeles 174.243.145.126
+INSERT INTO ipmap(ip, country, city) VALUES('174.243.145.126', 'US', 'Los Angeles')
+CACHED IP FOUND:  86.159.38.37 GB Guildford
+CACHED IP FOUND:  104.28.116.28 US Flagami
+CACHED IP FOUND:  99.240.113.60 CA Willowdale
+CACHED IP FOUND:  104.28.103.188 US Dallas
+CACHED IP FOUND:  61.92.113.47 HK Aberdeen
+CACHED IP FOUND:  107.219.255.68 US Richardson
+CACHED IP NOT FOUND:  Doing lookup on 50.145.12.150
+Curl IP Command: curl https://api.ipstack.com/50.145.12.150?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 50.145.12.150 Country: US City:Sunnyvale
+STORING IP INTO CACHE: US Sunnyvale 50.145.12.150
+INSERT INTO ipmap(ip, country, city) VALUES('50.145.12.150', 'US', 'Sunnyvale')
+CACHED IP NOT FOUND:  Doing lookup on 64.43.50.87
+Curl IP Command: curl https://api.ipstack.com/64.43.50.87?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 64.43.50.87 Country: IE City:Droichead Nua
+STORING IP INTO CACHE: IE Droichead Nua 64.43.50.87
+INSERT INTO ipmap(ip, country, city) VALUES('64.43.50.87', 'IE', 'Droichead Nua')
+CACHED IP FOUND:  67.166.189.170 US Culpeper
+CACHED IP NOT FOUND:  Doing lookup on 23.122.129.194
+Curl IP Command: curl https://api.ipstack.com/23.122.129.194?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 23.122.129.194 Country: US City:San Jose
+STORING IP INTO CACHE: US San Jose 23.122.129.194
+INSERT INTO ipmap(ip, country, city) VALUES('23.122.129.194', 'US', 'San Jose')
+CACHED IP FOUND:  73.162.234.218 US San Jose
+CACHED IP FOUND:  107.77.92.93 US San Jose
+CACHED IP NOT FOUND:  Doing lookup on 92.40.168.2
+Curl IP Command: curl https://api.ipstack.com/92.40.168.2?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 92.40.168.2 Country: GB City:Maidenhead
+STORING IP INTO CACHE: GB Maidenhead 92.40.168.2
+INSERT INTO ipmap(ip, country, city) VALUES('92.40.168.2', 'GB', 'Maidenhead')
+CACHED IP FOUND:  104.28.116.28 US Flagami
+CACHED IP FOUND:  209.16.129.161 US Laguna Woods
+CACHED IP FOUND:  73.202.202.22 US San Jose
+CACHED IP FOUND:  104.28.124.67 US San Jose
+CACHED IP FOUND:  69.181.67.23 US Palo Alto
+CACHED IP FOUND:  173.33.181.173 CA Richmond Hill
+CACHED IP FOUND:  104.28.116.28 US Flagami
+CACHED IP FOUND:  162.236.27.230 US Richardson
+CACHED IP FOUND:  196.135.119.41 EG Cairo
+CACHED IP FOUND:  104.28.116.28 US Flagami
+CACHED IP FOUND:  79.171.251.72 SE Karlskrona
+CACHED IP FOUND:  73.202.202.22 US San Jose
+CACHED IP FOUND:  109.228.182.75 SE Sollentuna
+CACHED IP FOUND:  2.28.88.173 GB Willesden
+CACHED IP FOUND:  107.202.42.158 US Rocklin
+CACHED IP FOUND:  162.236.27.230 US Richardson
+CACHED IP FOUND:  104.28.55.231 US Manhattan
+CACHED IP FOUND:  31.20.245.95 NL Groningen
+CACHED IP FOUND:  79.171.251.72 SE Karlskrona
+CACHED IP FOUND:  73.166.116.64 US Houston
+CACHED IP FOUND:  100.33.78.38 US North Valley Stream
+CACHED IP FOUND:  68.40.189.66 US Ann Arbor
+CACHED IP FOUND:  196.135.119.41 EG Cairo
+CACHED IP FOUND:  79.171.251.72 SE Karlskrona
+CACHED IP FOUND:  205.250.74.97 CA Cranbrook
+CACHED IP FOUND:  73.96.240.71 US Portland
+CACHED IP FOUND:  173.33.181.173 CA Richmond Hill
+CACHED IP FOUND:  109.228.182.75 SE Sollentuna
+CACHED IP FOUND:  212.132.233.184 GB City of Westminster
+CACHED IP NOT FOUND:  Doing lookup on 92.40.169.109
+Curl IP Command: curl https://api.ipstack.com/92.40.169.109?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 92.40.169.109 Country: GB City:Maidenhead
+STORING IP INTO CACHE: GB Maidenhead 92.40.169.109
+INSERT INTO ipmap(ip, country, city) VALUES('92.40.169.109', 'GB', 'Maidenhead')
+CACHED IP FOUND:  92.40.169.109 GB Maidenhead
+CACHED IP FOUND:  107.116.89.48 US Antioch
+CACHED IP FOUND:  93.163.101.180 DK Kolding
+CACHED IP FOUND:  99.199.111.54 CA West End
+CACHED IP NOT FOUND:  Doing lookup on 120.22.144.217
+Curl IP Command: curl https://api.ipstack.com/120.22.144.217?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 120.22.144.217 Country: AU City:Brisbane
+STORING IP INTO CACHE: AU Brisbane 120.22.144.217
+INSERT INTO ipmap(ip, country, city) VALUES('120.22.144.217', 'AU', 'Brisbane')
+CACHED IP NOT FOUND:  Doing lookup on 71.212.100.137
+Curl IP Command: curl https://api.ipstack.com/71.212.100.137?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 71.212.100.137 Country: US City:Seattle
+STORING IP INTO CACHE: US Seattle 71.212.100.137
+INSERT INTO ipmap(ip, country, city) VALUES('71.212.100.137', 'US', 'Seattle')
+CACHED IP FOUND:  196.135.119.41 EG Cairo
+CACHED IP FOUND:  174.204.132.116 US East Tremont
+CACHED IP FOUND:  104.28.116.28 US Flagami
+CACHED IP FOUND:  104.28.133.18 CA Toronto
+CACHED IP FOUND:  173.33.181.173 CA Richmond Hill
+CACHED IP FOUND:  162.236.27.230 US Richardson
+CACHED IP FOUND:  73.124.242.189 US Boca Raton
+CACHED IP FOUND:  107.195.93.25 US Jacksonville
+CACHED IP FOUND:  86.26.37.36 GB Cambridge
+CACHED IP FOUND:  104.28.116.28 US Flagami
+CACHED IP FOUND:  69.2.177.12 US Easton
+CACHED IP FOUND:  162.236.27.230 US Richardson
+CACHED IP FOUND:  100.33.78.38 US North Valley Stream
+CACHED IP FOUND:  73.124.242.189 US Boca Raton
+CACHED IP FOUND:  98.37.233.109 US Napa
+CACHED IP FOUND:  104.28.48.73 US Denver
+CACHED IP FOUND:  104.28.116.50 US Eugene
+CACHED IP FOUND:  174.204.132.116 US East Tremont
+CACHED IP FOUND:  82.8.169.209 GB Grimsby
+CACHED IP FOUND:  174.204.132.116 US East Tremont
+CACHED IP FOUND:  173.33.181.173 CA Richmond Hill
+CACHED IP FOUND:  100.33.78.38 US North Valley Stream
+CACHED IP FOUND:  104.28.55.232 US San Jose
+CACHED IP FOUND:  69.181.40.78 US Napa
+CACHED IP FOUND:  100.33.78.38 US North Valley Stream
+CACHED IP FOUND:  140.177.103.170 US North Peoria
+CACHED IP FOUND:  101.127.247.213 SG Singapore
+CACHED IP FOUND:  104.28.116.50 US Eugene
+CACHED IP FOUND:  174.204.132.116 US East Tremont
+CACHED IP FOUND:  73.124.242.189 US Boca Raton
+CACHED IP FOUND:  46.189.138.149 PT Alfragide
+CACHED IP FOUND:  174.204.132.116 US East Tremont
+CACHED IP FOUND:  217.162.232.159 CH Wettingen
+CACHED IP FOUND:  24.202.25.34 CA Montréal
+CACHED IP FOUND:  50.98.167.195 CA Victoria
+CACHED IP FOUND:  104.28.48.75 US Denver
+CACHED IP NOT FOUND:  Doing lookup on 162.120.151.7
+Curl IP Command: curl https://api.ipstack.com/162.120.151.7?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 162.120.151.7 Country: US City:Alhambra
+STORING IP INTO CACHE: US Alhambra 162.120.151.7
+INSERT INTO ipmap(ip, country, city) VALUES('162.120.151.7', 'US', 'Alhambra')
+CACHED IP FOUND:  104.28.57.241 US Manhattan
+CACHED IP FOUND:  180.150.113.187 AU Adelaide
+CACHED IP FOUND:  72.87.109.192 US Coventry
+CACHED IP FOUND:  202.28.108.35 TH 
+CACHED IP FOUND:  100.33.78.38 US North Valley Stream
+CACHED IP FOUND:  72.87.109.192 US Coventry
+CACHED IP FOUND:  108.63.181.212 CA Mississauga
+CACHED IP FOUND:  67.166.189.170 US Culpeper
+CACHED IP FOUND:  202.28.108.35 TH 
+CACHED IP FOUND:  162.120.151.7 US Alhambra
+CACHED IP FOUND:  162.236.27.230 US Richardson
+CACHED IP FOUND:  100.33.78.38 US North Valley Stream
+CACHED IP FOUND:  51.148.177.216 GB Harringay
+CACHED IP FOUND:  185.153.179.59 CA West End
+CACHED IP FOUND:  162.236.27.230 US Richardson
+CACHED IP FOUND:  72.87.109.192 US Coventry
+CACHED IP FOUND:  73.101.179.195 US Hanover
+CACHED IP FOUND:  108.4.52.100 US Bon Air
+CACHED IP FOUND:  104.28.123.167 US Arden-Arcade
+CACHED IP FOUND:  198.7.5.99 US Manhattan
+CACHED IP FOUND:  51.148.177.216 GB Harringay
+CACHED IP FOUND:  74.63.204.211 US Dallas
+CACHED IP FOUND:  162.120.151.7 US Alhambra
+CACHED IP FOUND:  162.236.27.230 US Richardson
+CACHED IP FOUND:  100.33.78.38 US North Valley Stream
+CACHED IP NOT FOUND:  Doing lookup on 72.224.98.40
+Curl IP Command: curl https://api.ipstack.com/72.224.98.40?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 72.224.98.40 Country: US City:Gates-North Gates
+STORING IP INTO CACHE: US Gates-North Gates 72.224.98.40
+INSERT INTO ipmap(ip, country, city) VALUES('72.224.98.40', 'US', 'Gates-North Gates')
+CACHED IP FOUND:  24.218.118.172 US Hamden
+CACHED IP FOUND:  184.167.9.142 US Jackson
+CACHED IP FOUND:  67.166.189.170 US Culpeper
+CACHED IP FOUND:  72.87.109.192 US Coventry
+CACHED IP FOUND:  67.166.189.170 US Culpeper
+CACHED IP FOUND:  69.180.49.108 US Atlanta
+CACHED IP NOT FOUND:  Doing lookup on 162.120.138.198
+Curl IP Command: curl https://api.ipstack.com/162.120.138.198?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 162.120.138.198 Country: US City:Latham
+STORING IP INTO CACHE: US Latham 162.120.138.198
+INSERT INTO ipmap(ip, country, city) VALUES('162.120.138.198', 'US', 'Latham')
+CACHED IP FOUND:  99.240.113.60 CA Willowdale
+CACHED IP FOUND:  71.125.11.195 US White Plains
+CACHED IP FOUND:  104.28.123.165 US Rancho Cordova
+CACHED IP FOUND:  104.28.55.229 US Manhattan
+CACHED IP NOT FOUND:  Doing lookup on 147.235.220.138
+Curl IP Command: curl https://api.ipstack.com/147.235.220.138?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 147.235.220.138 Country: IL City:Naẕerat ‘Illit
+STORING IP INTO CACHE: IL Naẕerat ‘Illit 147.235.220.138
+INSERT INTO ipmap(ip, country, city) VALUES('147.235.220.138', 'IL', 'Naẕerat ‘Illit')
+CACHED IP FOUND:  73.143.98.31 US Meriden
+CACHED IP FOUND:  162.236.27.230 US Richardson
+CACHED IP NOT FOUND:  Doing lookup on 156.202.1.109
+Curl IP Command: curl https://api.ipstack.com/156.202.1.109?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 156.202.1.109 Country: EG City:Cairo
+STORING IP INTO CACHE: EG Cairo 156.202.1.109
+INSERT INTO ipmap(ip, country, city) VALUES('156.202.1.109', 'EG', 'Cairo')
+CACHED IP FOUND:  68.142.33.132 US Bristol
+CACHED IP FOUND:  71.136.154.237 US Fort Lauderdale
+CACHED IP FOUND:  24.0.142.237 US Ocean Acres
+CACHED IP FOUND:  24.254.140.206 US Salem
+CACHED IP NOT FOUND:  Doing lookup on 147.235.220.138
+Curl IP Command: curl https://api.ipstack.com/147.235.220.138?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 147.235.220.138 Country: IL City:Naẕerat ‘Illit
+STORING IP INTO CACHE: IL Naẕerat ‘Illit 147.235.220.138
+INSERT INTO ipmap(ip, country, city) VALUES('147.235.220.138', 'IL', 'Naẕerat ‘Illit')
+CACHED IP FOUND:  104.28.50.210 US San Antonio
+CACHED IP FOUND:  73.31.245.127 US Highland Springs
+CACHED IP NOT FOUND:  Doing lookup on 174.216.148.48
+Curl IP Command: curl https://api.ipstack.com/174.216.148.48?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.216.148.48 Country: US City:Severn
+STORING IP INTO CACHE: US Severn 174.216.148.48
+INSERT INTO ipmap(ip, country, city) VALUES('174.216.148.48', 'US', 'Severn')
+CACHED IP FOUND:  162.236.27.230 US Richardson
+CACHED IP FOUND:  107.77.94.112 US Atlanta
+CACHED IP FOUND:  99.155.33.154 US Oakland
+CACHED IP FOUND:  104.28.103.22 US San Jose
+CACHED IP FOUND:  99.225.9.47 CA Etobicoke
+CACHED IP NOT FOUND:  Doing lookup on 166.196.103.118
+Curl IP Command: curl https://api.ipstack.com/166.196.103.118?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 166.196.103.118 Country: US City:Sewell
+STORING IP INTO CACHE: US Sewell 166.196.103.118
+INSERT INTO ipmap(ip, country, city) VALUES('166.196.103.118', 'US', 'Sewell')
+CACHED IP FOUND:  47.226.146.48 US Tullahoma
+CACHED IP FOUND:  173.183.60.185 CA North Vancouver
+CACHED IP FOUND:  75.249.14.3 US Bethany
+CACHED IP FOUND:  104.28.50.64 US Minneapolis
+CACHED IP FOUND:  208.89.175.242 US David City
+CACHED IP FOUND:  73.162.234.218 US San Jose
+CACHED IP FOUND:  23.115.138.174 US San Leandro
+CACHED IP FOUND:  147.219.136.46 US Madison
+CACHED IP FOUND:  74.64.70.41 US Newburgh
+CACHED IP FOUND:  68.199.127.109 US Ossining
+CACHED IP FOUND:  47.37.160.205 US Ventura
+CACHED IP FOUND:  153.208.219.197 JP Tokyo
+CACHED IP FOUND:  73.63.228.70 US San Jose
+CACHED IP FOUND:  72.79.46.92 US Summit
+CACHED IP FOUND:  104.28.79.152 US Manhattan
+CACHED IP FOUND:  38.49.72.196 US Saginaw
+CACHED IP FOUND:  162.236.27.230 US Richardson
+CACHED IP FOUND:  104.28.58.15 US Islip
+CACHED IP FOUND:  135.180.172.130 US San Carlos
+CACHED IP FOUND:  104.28.103.86 US San Jose
+CACHED IP FOUND:  73.162.124.242 US Salinas
+CACHED IP FOUND:  70.171.48.117 US Gainesville
+CACHED IP FOUND:  73.1.110.189 US Vero Beach
+CACHED IP NOT FOUND:  Doing lookup on 172.56.197.10
+Curl IP Command: curl https://api.ipstack.com/172.56.197.10?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.56.197.10 Country: US City:Boston
+STORING IP INTO CACHE: US Boston 172.56.197.10
+INSERT INTO ipmap(ip, country, city) VALUES('172.56.197.10', 'US', 'Boston')
+CACHED IP FOUND:  198.90.93.44 CA Halifax
+CACHED IP FOUND:  104.28.132.7 CA Brampton
+CACHED IP FOUND:  50.102.203.5 US Worthington
+CACHED IP NOT FOUND:  Doing lookup on 159.196.171.159
+Curl IP Command: curl https://api.ipstack.com/159.196.171.159?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 159.196.171.159 Country: AU City:Sydney
+STORING IP INTO CACHE: AU Sydney 159.196.171.159
+INSERT INTO ipmap(ip, country, city) VALUES('159.196.171.159', 'AU', 'Sydney')
+CACHED IP NOT FOUND:  Doing lookup on 79.127.222.203
+Curl IP Command: curl https://api.ipstack.com/79.127.222.203?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 79.127.222.203 Country: US City:McAllen
+STORING IP INTO CACHE: US McAllen 79.127.222.203
+INSERT INTO ipmap(ip, country, city) VALUES('79.127.222.203', 'US', 'McAllen')
+CACHED IP FOUND:  104.28.58.15 US Islip
+CACHED IP FOUND:  73.63.228.70 US San Jose
+CACHED IP FOUND:  207.109.190.226 US Kapaa
+CACHED IP NOT FOUND:  Doing lookup on 14.201.126.176
+Curl IP Command: curl https://api.ipstack.com/14.201.126.176?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 14.201.126.176 Country: AU City:Sydney
+STORING IP INTO CACHE: AU Sydney 14.201.126.176
+INSERT INTO ipmap(ip, country, city) VALUES('14.201.126.176', 'AU', 'Sydney')
+CACHED IP FOUND:  207.109.190.226 US Kapaa
+CACHED IP FOUND:  104.28.110.88 US Manhattan
+CACHED IP NOT FOUND:  Doing lookup on 174.195.112.243
+Curl IP Command: curl https://api.ipstack.com/174.195.112.243?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.195.112.243 Country: US City:Casas Adobes
+STORING IP INTO CACHE: US Casas Adobes 174.195.112.243
+INSERT INTO ipmap(ip, country, city) VALUES('174.195.112.243', 'US', 'Casas Adobes')
+CACHED IP NOT FOUND:  Doing lookup on 172.56.221.39
+Curl IP Command: curl https://api.ipstack.com/172.56.221.39?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.56.221.39 Country: US City:King of Prussia
+STORING IP INTO CACHE: US King of Prussia 172.56.221.39
+INSERT INTO ipmap(ip, country, city) VALUES('172.56.221.39', 'US', 'King of Prussia')
+CACHED IP NOT FOUND:  Doing lookup on 68.133.27.160
+Curl IP Command: curl https://api.ipstack.com/68.133.27.160?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 68.133.27.160 Country: US City:Kenmore
+STORING IP INTO CACHE: US Kenmore 68.133.27.160
+INSERT INTO ipmap(ip, country, city) VALUES('68.133.27.160', 'US', 'Kenmore')
+CACHED IP FOUND:  98.149.228.212 US Palm Desert
+CACHED IP FOUND:  172.8.241.127 US Chicago
+CACHED IP FOUND:  104.28.55.228 US San Jose
+CACHED IP FOUND:  173.17.254.107 US Urbandale
+CACHED IP NOT FOUND:  Doing lookup on 47.150.209.81
+Curl IP Command: curl https://api.ipstack.com/47.150.209.81?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 47.150.209.81 Country: US City:Fountain Valley
+STORING IP INTO CACHE: US Fountain Valley 47.150.209.81
+INSERT INTO ipmap(ip, country, city) VALUES('47.150.209.81', 'US', 'Fountain Valley')
+CACHED IP FOUND:  166.181.80.63 US Madison
+CACHED IP FOUND:  173.17.254.107 US Urbandale
+CACHED IP FOUND:  76.129.69.218 US Murray
+CACHED IP FOUND:  123.253.57.162 NZ Winton
+CACHED IP FOUND:  172.56.161.241 US Manhattan
+CACHED IP FOUND:  92.20.104.114 GB Gainsborough
+CACHED IP FOUND:  71.238.214.10 US Little Rock
+CACHED IP FOUND:  73.159.8.65 US Northampton
+CACHED IP FOUND:  73.159.8.65 US Northampton
+CACHED IP FOUND:  73.159.8.65 US Northampton
+CACHED IP FOUND:  73.159.8.65 US Northampton
+CACHED IP NOT FOUND:  Doing lookup on 186.178.108.88
+Curl IP Command: curl https://api.ipstack.com/186.178.108.88?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 186.178.108.88 Country: EC City:Quito
+STORING IP INTO CACHE: EC Quito 186.178.108.88
+INSERT INTO ipmap(ip, country, city) VALUES('186.178.108.88', 'EC', 'Quito')
+CACHED IP FOUND:  73.159.8.65 US Northampton
+CACHED IP FOUND:  104.48.42.18 US Clemson
+CACHED IP FOUND:  162.236.247.157 US Live Oak
+CACHED IP FOUND:  101.184.2.246 AU Sydney
+CACHED IP FOUND:  73.159.8.65 US Northampton
+CACHED IP FOUND:  73.159.8.65 US Northampton
+CACHED IP FOUND:  179.125.71.13 BR São Paulo
+CACHED IP FOUND:  73.159.8.65 US Northampton
+CACHED IP FOUND:  104.28.116.48 US Flagami
+CACHED IP FOUND:  73.159.8.65 US Northampton
+CACHED IP FOUND:  101.184.2.246 AU Sydney
+CACHED IP FOUND:  73.73.225.40 US Park Ridge
+CACHED IP FOUND:  47.150.209.81 US Fountain Valley
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20200730-Gil_Fronsdal-IMC-wise_speech_4_of_5_is_it_beneficial
+CACHED IP FOUND:  186.178.108.88 EC Quito
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20200729-Gil_Fronsdal-IMC-wise_speech_3_of_5_is_it_nourishing
+CACHED IP FOUND:  73.97.67.51 US Spokane
+CACHED IP FOUND:  70.104.139.212 US Manhattan
+CACHED IP FOUND:  67.240.56.153 US Albany
+CACHED IP FOUND:  67.182.44.22 US Los Banos
+CACHED IP NOT FOUND:  Doing lookup on 89.24.51.222
+Curl IP Command: curl https://api.ipstack.com/89.24.51.222?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 89.24.51.222 Country: CZ City:Prague
+STORING IP INTO CACHE: CZ Prague 89.24.51.222
+INSERT INTO ipmap(ip, country, city) VALUES('89.24.51.222', 'CZ', 'Prague')
+CACHED IP FOUND:  172.58.230.171 US Manhattan
+CACHED IP FOUND:  108.173.182.61 CA Calgary
+CACHED IP FOUND:  186.178.108.88 EC Quito
+CACHED IP NOT FOUND:  Doing lookup on 24.126.14.196
+Curl IP Command: curl https://api.ipstack.com/24.126.14.196?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 24.126.14.196 Country: US City:Greater Upper Marlboro
+STORING IP INTO CACHE: US Greater Upper Marlboro 24.126.14.196
+INSERT INTO ipmap(ip, country, city) VALUES('24.126.14.196', 'US', 'Greater Upper Marlboro')
+CACHED IP FOUND:  166.181.80.63 US Madison
+CACHED IP FOUND:  108.173.182.61 CA Calgary
+CACHED IP FOUND:  24.130.60.126 US San Francisco
+CACHED IP FOUND:  73.97.67.51 US Spokane
+CACHED IP FOUND:  186.178.108.88 EC Quito
+CACHED IP NOT FOUND:  Doing lookup on 172.59.186.170
+Curl IP Command: curl https://api.ipstack.com/172.59.186.170?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.59.186.170 Country: US City:Maywood
+STORING IP INTO CACHE: US Maywood 172.59.186.170
+INSERT INTO ipmap(ip, country, city) VALUES('172.59.186.170', 'US', 'Maywood')
+CACHED IP FOUND:  73.34.8.69 US Aurora
+CACHED IP FOUND:  67.170.125.187 US Shoreline
+CACHED IP NOT FOUND:  Doing lookup on 172.59.24.3
+Curl IP Command: curl https://api.ipstack.com/172.59.24.3?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.59.24.3 Country: US City:Hudson
+STORING IP INTO CACHE: US Hudson 172.59.24.3
+INSERT INTO ipmap(ip, country, city) VALUES('172.59.24.3', 'US', 'Hudson')
+CACHED IP FOUND:  184.71.225.110 CA Kimberley
+CACHED IP FOUND:  73.4.115.229 US Amherst Center
+CACHED IP FOUND:  98.234.164.187 US San Jose
+CACHED IP FOUND:  104.28.103.23 US San Jose
+CACHED IP NOT FOUND:  Doing lookup on 100.11.74.10
+Curl IP Command: curl https://api.ipstack.com/100.11.74.10?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 100.11.74.10 Country: US City:Nicetown-Tioga
+STORING IP INTO CACHE: US Nicetown-Tioga 100.11.74.10
+INSERT INTO ipmap(ip, country, city) VALUES('100.11.74.10', 'US', 'Nicetown-Tioga')
+CACHED IP FOUND:  104.28.88.127 US San Jose
+CACHED IP FOUND:  71.198.153.32 US San Francisco
+CACHED IP FOUND:  71.198.153.32 US San Francisco
+CACHED IP NOT FOUND:  Doing lookup on 172.59.128.125
+Curl IP Command: curl https://api.ipstack.com/172.59.128.125?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.59.128.125 Country: US City:Moraga
+STORING IP INTO CACHE: US Moraga 172.59.128.125
+INSERT INTO ipmap(ip, country, city) VALUES('172.59.128.125', 'US', 'Moraga')
+CACHED IP FOUND:  97.120.71.217 US Portland
+CACHED IP FOUND:  67.182.44.22 US Los Banos
+CACHED IP FOUND:  142.119.29.145 CA Québec
+CACHED IP FOUND:  172.6.80.219 US San Francisco
+CACHED IP FOUND:  72.74.173.92 US Weymouth
+CACHED IP FOUND:  50.91.55.102 US Bakersfield
+CACHED IP NOT FOUND:  Doing lookup on 96.248.50.28
+Curl IP Command: curl https://api.ipstack.com/96.248.50.28?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 96.248.50.28 Country: US City:Newburgh
+STORING IP INTO CACHE: US Newburgh 96.248.50.28
+INSERT INTO ipmap(ip, country, city) VALUES('96.248.50.28', 'US', 'Newburgh')
+CACHED IP FOUND:  156.202.1.109 EG Cairo
+CACHED IP FOUND:  156.202.1.109 EG Cairo
+CACHED IP FOUND:  107.202.42.158 US Rocklin
+CACHED IP FOUND:  107.77.68.18 US Atlanta
+CACHED IP FOUND:  73.213.41.43 US Lewes
+CACHED IP FOUND:  76.126.204.81 US Daly City
+CACHED IP NOT FOUND:  Doing lookup on 89.138.206.229
+Curl IP Command: curl https://api.ipstack.com/89.138.206.229?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 89.138.206.229 Country: IL City:Netanya
+STORING IP INTO CACHE: IL Netanya 89.138.206.229
+INSERT INTO ipmap(ip, country, city) VALUES('89.138.206.229', 'IL', 'Netanya')
+CACHED IP FOUND:  172.87.1.36 US Grand Marais
+CACHED IP FOUND:  67.170.125.187 US Shoreline
+CACHED IP FOUND:  76.242.90.238 US San Jose
+CACHED IP FOUND:  73.4.115.229 US Amherst Center
+CACHED IP FOUND:  23.119.164.80 US Live Oak
+CACHED IP FOUND:  107.202.42.158 US Rocklin
+CACHED IP FOUND:  107.137.70.109 US Menlo Park
+CACHED IP FOUND:  76.242.90.238 US San Jose
+CACHED IP FOUND:  108.173.182.61 CA Calgary
+CACHED IP FOUND:  76.242.90.238 US San Jose
+CACHED IP FOUND:  107.77.70.55 US New York
+CACHED IP FOUND:  104.28.55.233 US San Jose
+CACHED IP FOUND:  73.159.8.65 US Northampton
+CACHED IP FOUND:  207.153.49.137 US Minneapolis
+CACHED IP FOUND:  73.202.202.22 US San Jose
+CACHED IP FOUND:  198.7.228.102 US Cranston
+CACHED IP FOUND:  104.28.55.226 US San Jose
+CACHED IP FOUND:  112.141.17.172 AU Sydney
+CACHED IP FOUND:  192.184.216.80 US Daly City
+CACHED IP NOT FOUND:  Doing lookup on 172.56.187.191
+Curl IP Command: curl https://api.ipstack.com/172.56.187.191?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.56.187.191 Country: US City:North Tustin
+STORING IP INTO CACHE: US North Tustin 172.56.187.191
+INSERT INTO ipmap(ip, country, city) VALUES('172.56.187.191', 'US', 'North Tustin')
+CACHED IP FOUND:  107.115.147.110 US Kenner
+CACHED IP FOUND:  69.9.156.136 US Chiloquin
+CACHED IP FOUND:  172.59.128.125 US Moraga
+CACHED IP FOUND:  69.181.45.233 US San Francisco
+CACHED IP FOUND:  91.156.208.226 FI Joensuu
+CACHED IP FOUND:  62.163.6.241 NL Diemen
+CACHED IP FOUND:  104.28.50.61 US Minneapolis
+CACHED IP FOUND:  31.20.245.95 NL Groningen
+CACHED IP FOUND:  73.124.242.189 US Boca Raton
+CACHED IP FOUND:  104.28.55.226 US San Jose
+CACHED IP FOUND:  137.83.66.217 US Ocean City
+CACHED IP FOUND:  24.5.63.166 US San Rafael
+CACHED IP FOUND:  104.28.55.226 US San Jose
+CACHED IP FOUND:  75.82.55.251 US San Fernando
+CACHED IP FOUND:  198.7.228.102 US Cranston
+CACHED IP NOT FOUND:  Doing lookup on 172.59.97.69
+Curl IP Command: curl https://api.ipstack.com/172.59.97.69?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.59.97.69 Country: US City:Brookfield
+STORING IP INTO CACHE: US Brookfield 172.59.97.69
+INSERT INTO ipmap(ip, country, city) VALUES('172.59.97.69', 'US', 'Brookfield')
+CACHED IP NOT FOUND:  Doing lookup on 174.225.105.130
+Curl IP Command: curl https://api.ipstack.com/174.225.105.130?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.225.105.130 Country: US City:Riverview
+STORING IP INTO CACHE: US Riverview 174.225.105.130
+INSERT INTO ipmap(ip, country, city) VALUES('174.225.105.130', 'US', 'Riverview')
+CACHED IP NOT FOUND:  Doing lookup on 174.93.234.37
+Curl IP Command: curl https://api.ipstack.com/174.93.234.37?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.93.234.37 Country: CA City:Montréal
+STORING IP INTO CACHE: CA Montréal 174.93.234.37
+INSERT INTO ipmap(ip, country, city) VALUES('174.93.234.37', 'CA', 'Montréal')
+CACHED IP NOT FOUND:  Doing lookup on 174.246.140.182
+Curl IP Command: curl https://api.ipstack.com/174.246.140.182?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.246.140.182 Country: US City:Mesquite
+STORING IP INTO CACHE: US Mesquite 174.246.140.182
+INSERT INTO ipmap(ip, country, city) VALUES('174.246.140.182', 'US', 'Mesquite')
+CACHED IP NOT FOUND:  Doing lookup on 46.6.153.207
+Curl IP Command: curl https://api.ipstack.com/46.6.153.207?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 46.6.153.207 Country: ES City:Mieres
+STORING IP INTO CACHE: ES Mieres 46.6.153.207
+INSERT INTO ipmap(ip, country, city) VALUES('46.6.153.207', 'ES', 'Mieres')
+CACHED IP FOUND:  104.28.124.179 US San Jose
+CACHED IP NOT FOUND:  Doing lookup on 24.114.106.77
+Curl IP Command: curl https://api.ipstack.com/24.114.106.77?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 24.114.106.77 Country: CA City:Montréal
+STORING IP INTO CACHE: CA Montréal 24.114.106.77
+INSERT INTO ipmap(ip, country, city) VALUES('24.114.106.77', 'CA', 'Montréal')
+CACHED IP FOUND:  98.239.64.5 US Fresno
+CACHED IP FOUND:  76.33.142.138 US Lawndale
+CACHED IP FOUND:  104.28.124.179 US San Jose
+CACHED IP FOUND:  72.205.98.240 US Goleta
+CACHED IP FOUND:  80.2.82.108 GB Acton
+CACHED IP NOT FOUND:  Doing lookup on 174.196.135.23
+Curl IP Command: curl https://api.ipstack.com/174.196.135.23?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.196.135.23 Country: US City:Tysons Corner
+STORING IP INTO CACHE: US Tysons Corner 174.196.135.23
+INSERT INTO ipmap(ip, country, city) VALUES('174.196.135.23', 'US', 'Tysons Corner')
+CACHED IP NOT FOUND:  Doing lookup on 174.198.146.92
+Curl IP Command: curl https://api.ipstack.com/174.198.146.92?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.198.146.92 Country: US City:Denver
+STORING IP INTO CACHE: US Denver 174.198.146.92
+INSERT INTO ipmap(ip, country, city) VALUES('174.198.146.92', 'US', 'Denver')
+CACHED IP FOUND:  73.158.207.37 US South San Francisco
+CACHED IP FOUND:  47.25.225.1 US Dallas
+CACHED IP NOT FOUND:  Doing lookup on 107.127.56.128
+Curl IP Command: curl https://api.ipstack.com/107.127.56.128?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 107.127.56.128 Country: US City:Montebello
+STORING IP INTO CACHE: US Montebello 107.127.56.128
+INSERT INTO ipmap(ip, country, city) VALUES('107.127.56.128', 'US', 'Montebello')
+CACHED IP FOUND:  73.202.202.22 US San Jose
+CACHED IP NOT FOUND:  Doing lookup on 162.224.144.16
+Curl IP Command: curl https://api.ipstack.com/162.224.144.16?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 162.224.144.16 Country: US City:Goodlettsville
+STORING IP INTO CACHE: US Goodlettsville 162.224.144.16
+INSERT INTO ipmap(ip, country, city) VALUES('162.224.144.16', 'US', 'Goodlettsville')
+CACHED IP FOUND:  50.244.85.129 US Savannah
+CACHED IP NOT FOUND:  Doing lookup on 162.224.144.16
+Curl IP Command: curl https://api.ipstack.com/162.224.144.16?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 162.224.144.16 Country: US City:Goodlettsville
+STORING IP INTO CACHE: US Goodlettsville 162.224.144.16
+INSERT INTO ipmap(ip, country, city) VALUES('162.224.144.16', 'US', 'Goodlettsville')
+CACHED IP FOUND:  162.234.252.111 US Santa Clara
+CACHED IP FOUND:  185.86.178.218 FR Saint-Ouen
+CACHED IP FOUND:  162.234.252.111 US Santa Clara
+CACHED IP FOUND:  50.244.85.129 US Savannah
+CACHED IP FOUND:  208.117.115.183 US Truth or Consequences
+CACHED IP FOUND:  71.238.87.154 US Portland
+CACHED IP FOUND:  91.156.208.226 FI Joensuu
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  185.86.178.218 FR Saint-Ouen
+CACHED IP FOUND:  73.202.202.22 US San Jose
+CACHED IP FOUND:  104.28.48.72 US Denver
+CACHED IP NOT FOUND:  Doing lookup on 185.251.19.202
+Curl IP Command: curl https://api.ipstack.com/185.251.19.202?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 185.251.19.202 Country: US City:Shaw
+STORING IP INTO CACHE: US Shaw 185.251.19.202
+INSERT INTO ipmap(ip, country, city) VALUES('185.251.19.202', 'US', 'Shaw')
+CACHED IP FOUND:  104.28.123.181 US San Jose
+CACHED IP FOUND:  24.245.120.47 US White Stone
+CACHED IP FOUND:  98.234.164.187 US San Jose
+CACHED IP FOUND:  76.176.194.236 US San Diego
+CACHED IP FOUND:  73.239.66.43 US Seattle
+CACHED IP FOUND:  72.218.115.73 US Norfolk
+CACHED IP FOUND:  73.202.202.22 US San Jose
+CACHED IP NOT FOUND:  Doing lookup on 73.16.127.202
+Curl IP Command: curl https://api.ipstack.com/73.16.127.202?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 73.16.127.202 Country: US City:Brunswick
+STORING IP INTO CACHE: US Brunswick 73.16.127.202
+INSERT INTO ipmap(ip, country, city) VALUES('73.16.127.202', 'US', 'Brunswick')
+CACHED IP NOT FOUND:  Doing lookup on 157.211.207.131
+Curl IP Command: curl https://api.ipstack.com/157.211.207.131?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 157.211.207.131 Country: AU City:Melbourne
+STORING IP INTO CACHE: AU Melbourne 157.211.207.131
+INSERT INTO ipmap(ip, country, city) VALUES('157.211.207.131', 'AU', 'Melbourne')
+CACHED IP FOUND:  146.75.136.236 US Renton
+CACHED IP FOUND:  104.28.32.227 US Charlotte
+CACHED IP FOUND:  104.28.50.130 US Dallas
+CACHED IP FOUND:  107.77.92.93 US San Jose
+CACHED IP FOUND:  108.4.52.100 US Bon Air
+CACHED IP FOUND:  104.28.50.130 US Dallas
+CACHED IP FOUND:  104.28.111.146 US Diamond Bar
+CACHED IP NOT FOUND:  Doing lookup on 174.218.85.103
+Curl IP Command: curl https://api.ipstack.com/174.218.85.103?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.218.85.103 Country: US City:Los Angeles
+STORING IP INTO CACHE: US Los Angeles 174.218.85.103
+INSERT INTO ipmap(ip, country, city) VALUES('174.218.85.103', 'US', 'Los Angeles')
+CACHED IP FOUND:  208.117.115.183 US Truth or Consequences
+CACHED IP NOT FOUND:  Doing lookup on 174.192.2.251
+Curl IP Command: curl https://api.ipstack.com/174.192.2.251?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.192.2.251 Country: US City:Providence
+STORING IP INTO CACHE: US Providence 174.192.2.251
+INSERT INTO ipmap(ip, country, city) VALUES('174.192.2.251', 'US', 'Providence')
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  192.0.242.90 CA East Gwillimbury
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  104.28.125.3 US San Jose
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  154.20.88.162 CA Victoria
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP FOUND:  174.61.164.104 US Seattle
+CACHED IP NOT FOUND:  Doing lookup on 174.238.0.90
+Curl IP Command: curl https://api.ipstack.com/174.238.0.90?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.238.0.90 Country: US City:Tempe
+STORING IP INTO CACHE: US Tempe 174.238.0.90
+INSERT INTO ipmap(ip, country, city) VALUES('174.238.0.90', 'US', 'Tempe')
+CACHED IP FOUND:  207.109.190.226 US Kapaa
+CACHED IP FOUND:  108.4.52.100 US Bon Air
+CACHED IP FOUND:  107.77.97.111 US Bellevue
+CACHED IP FOUND:  146.75.136.237 US Fairwood
+CACHED IP NOT FOUND:  Doing lookup on 46.135.16.77
+Curl IP Command: curl https://api.ipstack.com/46.135.16.77?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 46.135.16.77 Country: CZ City:Prague
+STORING IP INTO CACHE: CZ Prague 46.135.16.77
+INSERT INTO ipmap(ip, country, city) VALUES('46.135.16.77', 'CZ', 'Prague')
+CACHED IP FOUND:  70.24.122.229 CA Montréal
+CACHED IP FOUND:  201.191.5.38 CR San Francisco
+CACHED IP FOUND:  138.84.54.114 MX Magdalena Contreras
+CACHED IP FOUND:  166.137.244.35 US Norristown
+CACHED IP NOT FOUND:  Doing lookup on 107.122.189.75
+Curl IP Command: curl https://api.ipstack.com/107.122.189.75?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 107.122.189.75 Country: US City:Deer Park
+STORING IP INTO CACHE: US Deer Park 107.122.189.75
+INSERT INTO ipmap(ip, country, city) VALUES('107.122.189.75', 'US', 'Deer Park')
+CACHED IP FOUND:  107.77.92.93 US San Jose
+CACHED IP NOT FOUND:  Doing lookup on 86.133.103.243
+Curl IP Command: curl https://api.ipstack.com/86.133.103.243?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 86.133.103.243 Country: GB City:Finchley
+STORING IP INTO CACHE: GB Finchley 86.133.103.243
+INSERT INTO ipmap(ip, country, city) VALUES('86.133.103.243', 'GB', 'Finchley')
+CACHED IP FOUND:  209.52.88.98 CA Delta
+CACHED IP FOUND:  146.75.136.237 US Fairwood
+CACHED IP FOUND:  75.7.7.233 US San Pablo
+CACHED IP NOT FOUND:  Doing lookup on 174.126.186.192
+Curl IP Command: curl https://api.ipstack.com/174.126.186.192?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.126.186.192 Country: US City:Prescott Valley
+STORING IP INTO CACHE: US Prescott Valley 174.126.186.192
+INSERT INTO ipmap(ip, country, city) VALUES('174.126.186.192', 'US', 'Prescott Valley')
+CACHED IP FOUND:  136.49.112.61 US Austin
+CACHED IP FOUND:  66.43.39.186 US Cherryville
+CACHED IP FOUND:  107.127.56.48 US Hacienda Heights
+CACHED IP FOUND:  2.222.77.96 GB Canning Town
+CACHED IP FOUND:  73.149.197.153 US Somerville
+CACHED IP FOUND:  209.52.88.73 CA North Vancouver
+CACHED IP FOUND:  50.68.173.121 CA Vernon
+CACHED IP FOUND:  107.122.189.75 US Deer Park
+CACHED IP NOT FOUND:  Doing lookup on 172.58.167.108
+Curl IP Command: curl https://api.ipstack.com/172.58.167.108?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.58.167.108 Country: US City:La Grange
+STORING IP INTO CACHE: US La Grange 172.58.167.108
+INSERT INTO ipmap(ip, country, city) VALUES('172.58.167.108', 'US', 'La Grange')
+CACHED IP FOUND:  86.133.103.243 GB Finchley
+CACHED IP FOUND:  166.137.242.75 US 
+CACHED IP FOUND:  73.140.188.239 US Bellingham
+CACHED IP FOUND:  216.84.200.9 US Oakdale
+CACHED IP FOUND:  73.149.197.153 US Somerville
+CACHED IP FOUND:  174.194.198.183 US Alameda
+CACHED IP FOUND:  146.75.136.237 US Fairwood
+CACHED IP FOUND:  99.240.113.60 CA Willowdale
+CACHED IP FOUND:  146.75.136.236 US Renton
+CACHED IP FOUND:  107.127.14.18 US Antioch
+CACHED IP FOUND:  104.28.116.134 US Flagami
+CACHED IP FOUND:  107.128.8.143 US Brighton
+CACHED IP FOUND:  73.64.164.93 US Harrisburg
+CACHED IP FOUND:  75.70.66.221 US Fort Collins
+CACHED IP FOUND:  47.33.138.175 US The Dalles
+CACHED IP FOUND:  99.145.199.48 US Berkeley
+CACHED IP NOT FOUND:  Doing lookup on 174.194.200.223
+Curl IP Command: curl https://api.ipstack.com/174.194.200.223?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.194.200.223 Country: US City:Hayward
+STORING IP INTO CACHE: US Hayward 174.194.200.223
+INSERT INTO ipmap(ip, country, city) VALUES('174.194.200.223', 'US', 'Hayward')
+CACHED IP FOUND:  216.84.200.9 US Oakdale
+CACHED IP FOUND:  104.28.116.134 US Flagami
+CACHED IP FOUND:  98.51.114.65 US San Francisco
+CACHED IP FOUND:  174.194.200.224 US San Jose
+CACHED IP FOUND:  104.28.123.70 US San Jose
+CACHED IP NOT FOUND:  Doing lookup on 107.119.53.8
+Curl IP Command: curl https://api.ipstack.com/107.119.53.8?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 107.119.53.8 Country: US City:Paramount
+STORING IP INTO CACHE: US Paramount 107.119.53.8
+INSERT INTO ipmap(ip, country, city) VALUES('107.119.53.8', 'US', 'Paramount')
+CACHED IP FOUND:  66.241.88.46 US Ashland
+CACHED IP NOT FOUND:  Doing lookup on 76.154.178.39
+Curl IP Command: curl https://api.ipstack.com/76.154.178.39?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 76.154.178.39 Country: US City:Arvada
+STORING IP INTO CACHE: US Arvada 76.154.178.39
+INSERT INTO ipmap(ip, country, city) VALUES('76.154.178.39', 'US', 'Arvada')
+CACHED IP FOUND:  170.64.89.126 US Scottsbluff
+CACHED IP FOUND:  99.240.113.60 CA Willowdale
+CACHED IP FOUND:  166.198.34.126 US San Jose
+CACHED IP FOUND:  104.28.116.130 US Flagami
+CACHED IP FOUND:  24.159.97.216 US Suwanee
+CACHED IP FOUND:  51.148.177.216 GB Harringay
+CACHED IP FOUND:  166.198.34.126 US San Jose
+CACHED IP FOUND:  104.28.116.133 US Flagami
+CACHED IP FOUND:  50.222.131.210 US Lancaster
+CACHED IP FOUND:  51.148.177.216 GB Harringay
+CACHED IP FOUND:  174.194.198.239 US Redwood City
+CACHED IP NOT FOUND:  Doing lookup on 89.214.123.65
+Curl IP Command: curl https://api.ipstack.com/89.214.123.65?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 89.214.123.65 Country: PT City:Lisbon
+STORING IP INTO CACHE: PT Lisbon 89.214.123.65
+INSERT INTO ipmap(ip, country, city) VALUES('89.214.123.65', 'PT', 'Lisbon')
+CACHED IP FOUND:  98.51.114.65 US San Francisco
+CACHED IP FOUND:  73.150.245.33 US New Egypt
+CACHED IP FOUND:  73.150.245.33 US New Egypt
+CACHED IP FOUND:  99.199.47.101 CA Burnaby
+CACHED IP NOT FOUND:  Doing lookup on 174.193.195.208
+Curl IP Command: curl https://api.ipstack.com/174.193.195.208?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.193.195.208 Country: US City:Los Angeles
+STORING IP INTO CACHE: US Los Angeles 174.193.195.208
+INSERT INTO ipmap(ip, country, city) VALUES('174.193.195.208', 'US', 'Los Angeles')
+CACHED IP FOUND:  69.181.102.144 US Hayward
+CACHED IP FOUND:  98.45.194.242 US Sunnyvale
+CACHED IP FOUND:  91.214.67.188 NL Diemen
+CACHED IP FOUND:  166.198.34.126 US San Jose
+CACHED IP NOT FOUND:  Doing lookup on 42.191.109.24
+Curl IP Command: curl https://api.ipstack.com/42.191.109.24?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 42.191.109.24 Country: MY City:Sungai Petani
+STORING IP INTO CACHE: MY Sungai Petani 42.191.109.24
+INSERT INTO ipmap(ip, country, city) VALUES('42.191.109.24', 'MY', 'Sungai Petani')
+CACHED IP FOUND:  62.57.60.228 ES Barcelona
+CACHED IP FOUND:  75.70.66.221 US Fort Collins
+CACHED IP FOUND:  166.198.34.15 US Pittsburg
+CACHED IP FOUND:  107.115.29.92 US San Jose
+CACHED IP FOUND:  76.17.140.70 US New Brighton
+CACHED IP FOUND:  156.202.1.109 EG Cairo
+CACHED IP FOUND:  75.4.201.162 US San Jose
+CACHED IP NOT FOUND:  Doing lookup on 174.216.53.168
+Curl IP Command: curl https://api.ipstack.com/174.216.53.168?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.216.53.168 Country: US City:Chester
+STORING IP INTO CACHE: US Chester 174.216.53.168
+INSERT INTO ipmap(ip, country, city) VALUES('174.216.53.168', 'US', 'Chester')
+CACHED IP FOUND:  75.70.66.221 US Fort Collins
+CACHED IP FOUND:  47.215.230.138 US Sedona
+CACHED IP FOUND:  75.58.123.254 US Sacramento
+CACHED IP NOT FOUND:  Doing lookup on 213.55.226.142
+Curl IP Command: curl https://api.ipstack.com/213.55.226.142?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 213.55.226.142 Country: CH City:Horgen
+STORING IP INTO CACHE: CH Horgen 213.55.226.142
+INSERT INTO ipmap(ip, country, city) VALUES('213.55.226.142', 'CH', 'Horgen')
+CACHED IP FOUND:  107.3.169.10 US Live Oak
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20090806-Andrea_Fella-IMC-guided_meditation_loving_kindness
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240401-Diana_Clark-IMC-dharmette_deactivating_the_critic_of_the_critic
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20220921-Diana_Clark-IMC-dharmette_managing_the_inner_critic
+CACHED IP FOUND:  213.55.226.142 CH Horgen
+CACHED IP FOUND:  178.119.230.34 BE Mechelen
+CACHED IP NOT FOUND:  Doing lookup on 147.236.165.5
+Curl IP Command: curl https://api.ipstack.com/147.236.165.5?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 147.236.165.5 Country: IL City:Petaẖ Tiqva
+STORING IP INTO CACHE: IL Petaẖ Tiqva 147.236.165.5
+INSERT INTO ipmap(ip, country, city) VALUES('147.236.165.5', 'IL', 'Petaẖ Tiqva')
+CACHED IP NOT FOUND:  Doing lookup on 70.74.123.66
+Curl IP Command: curl https://api.ipstack.com/70.74.123.66?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 70.74.123.66 Country: CA City:Edmonton
+STORING IP INTO CACHE: CA Edmonton 70.74.123.66
+INSERT INTO ipmap(ip, country, city) VALUES('70.74.123.66', 'CA', 'Edmonton')
+CACHED IP FOUND:  49.37.241.55 IN Bengaluru
+CACHED IP FOUND:  47.215.230.138 US Sedona
+CACHED IP NOT FOUND:  Doing lookup on 92.40.216.123
+Curl IP Command: curl https://api.ipstack.com/92.40.216.123?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 92.40.216.123 Country: GB City:Chalk Farm
+STORING IP INTO CACHE: GB Chalk Farm 92.40.216.123
+INSERT INTO ipmap(ip, country, city) VALUES('92.40.216.123', 'GB', 'Chalk Farm')
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240411-Tanya_Wiser-IMC-wise_intention
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240410-Nikki_Mirghafori-IMC-happy_hour_compassion_as_equal_measures_of_empathy_and_love
+CACHED IP FOUND:  76.117.210.31 US Camden
+CACHED IP FOUND:  107.77.92.64 US Cupertino
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240411-Tanya_Wiser-IMC-wise_intention
+CACHED IP FOUND:  24.144.190.210 US Ashland
+CACHED IP FOUND:  104.28.85.155 US Ashburn
+CACHED IP FOUND:  104.28.85.155 US Ashburn
+CACHED IP FOUND:  104.28.85.155 US Ashburn
+CACHED IP FOUND:  104.28.85.155 US Ashburn
+CACHED IP FOUND:  156.202.1.109 EG Cairo
+CACHED IP FOUND:  104.28.85.155 US Ashburn
+CACHED IP FOUND:  104.28.85.155 US Ashburn
+CACHED IP FOUND:  104.28.85.155 US Ashburn
+CACHED IP FOUND:  104.28.85.155 US Ashburn
+CACHED IP FOUND:  104.28.85.155 US Ashburn
+CACHED IP FOUND:  173.215.45.23 US South English
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240412-Kim_Allen-IMC-dharmette_four_inspirational_blessings_5_of_5_inspirational_blessings
+CACHED IP FOUND:  67.180.245.163 US Live Oak
+CACHED IP FOUND:  166.137.252.84 US New York
+CACHED IP FOUND:  173.215.45.23 US South English
+CACHED IP NOT FOUND:  Doing lookup on 147.235.220.138
+Curl IP Command: curl https://api.ipstack.com/147.235.220.138?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 147.235.220.138 Country: IL City:Naẕerat ‘Illit
+STORING IP INTO CACHE: IL Naẕerat ‘Illit 147.235.220.138
+INSERT INTO ipmap(ip, country, city) VALUES('147.235.220.138', 'IL', 'Naẕerat ‘Illit')
+CACHED IP FOUND:  107.77.92.48 US San Francisco
+CACHED IP NOT FOUND:  Doing lookup on 1.146.23.2
+Curl IP Command: curl https://api.ipstack.com/1.146.23.2?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 1.146.23.2 Country: AU City:Mountain Creek
+STORING IP INTO CACHE: AU Mountain Creek 1.146.23.2
+INSERT INTO ipmap(ip, country, city) VALUES('1.146.23.2', 'AU', 'Mountain Creek')
+CACHED IP NOT FOUND:  Doing lookup on 147.235.220.138
+Curl IP Command: curl https://api.ipstack.com/147.235.220.138?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 147.235.220.138 Country: IL City:Naẕerat ‘Illit
+STORING IP INTO CACHE: IL Naẕerat ‘Illit 147.235.220.138
+INSERT INTO ipmap(ip, country, city) VALUES('147.235.220.138', 'IL', 'Naẕerat ‘Illit')
+CACHED IP FOUND:  1.146.23.2 AU Mountain Creek
+CACHED IP NOT FOUND:  Doing lookup on 174.160.210.175
+Curl IP Command: curl https://api.ipstack.com/174.160.210.175?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.160.210.175 Country: US City:Chicago
+STORING IP INTO CACHE: US Chicago 174.160.210.175
+INSERT INTO ipmap(ip, country, city) VALUES('174.160.210.175', 'US', 'Chicago')
+CACHED IP FOUND:  104.28.116.141 US Murray
+CACHED IP FOUND:  174.160.210.175 US Chicago
+CACHED IP FOUND:  47.146.10.157 US Duarte
+CACHED IP FOUND:  87.178.212.210 DE Frankfurt am Main
+CACHED IP NOT FOUND:  Doing lookup on 76.224.187.92
+Curl IP Command: curl https://api.ipstack.com/76.224.187.92?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 76.224.187.92 Country: US City:San Rafael
+STORING IP INTO CACHE: US San Rafael 76.224.187.92
+INSERT INTO ipmap(ip, country, city) VALUES('76.224.187.92', 'US', 'San Rafael')
+CACHED IP NOT FOUND:  Doing lookup on 147.235.202.150
+Curl IP Command: curl https://api.ipstack.com/147.235.202.150?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 147.235.202.150 Country: IL City:Tel Aviv
+STORING IP INTO CACHE: IL Tel Aviv 147.235.202.150
+INSERT INTO ipmap(ip, country, city) VALUES('147.235.202.150', 'IL', 'Tel Aviv')
+CACHED IP FOUND:  172.56.104.138 US Burien
+CACHED IP FOUND:  172.58.231.57 US Kensington
+CACHED IP NOT FOUND:  Doing lookup on 172.56.198.106
+Curl IP Command: curl https://api.ipstack.com/172.56.198.106?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.56.198.106 Country: US City:South Plainfield
+STORING IP INTO CACHE: US South Plainfield 172.56.198.106
+INSERT INTO ipmap(ip, country, city) VALUES('172.56.198.106', 'US', 'South Plainfield')
+CACHED IP FOUND:  217.180.219.158 US Okemos
+CACHED IP FOUND:  104.28.123.163 US Santa Rosa
+CACHED IP FOUND:  87.178.212.210 DE Frankfurt am Main
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20191110-Gil_Fronsdal-IMC-thinking_that_quiets_thinking
+CACHED IP FOUND:  63.153.8.37 US Billings
+CACHED IP FOUND:  217.180.219.158 US Okemos
+CACHED IP FOUND:  47.146.10.157 US Duarte
+CACHED IP NOT FOUND:  Doing lookup on 207.194.98.191
+Curl IP Command: curl https://api.ipstack.com/207.194.98.191?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 207.194.98.191 Country: CA City:Whistler
+STORING IP INTO CACHE: CA Whistler 207.194.98.191
+INSERT INTO ipmap(ip, country, city) VALUES('207.194.98.191', 'CA', 'Whistler')
+CACHED IP FOUND:  47.146.10.157 US Duarte
+CACHED IP FOUND:  47.146.10.157 US Duarte
+CACHED IP FOUND:  47.146.10.157 US Duarte
+CACHED IP FOUND:  47.146.10.157 US Duarte
+CACHED IP FOUND:  47.146.10.157 US Duarte
+CACHED IP FOUND:  47.146.10.157 US Duarte
+CACHED IP FOUND:  47.146.10.157 US Duarte
+CACHED IP FOUND:  47.146.10.157 US Duarte
+CACHED IP FOUND:  195.181.172.241 NL Diemen
+CACHED IP FOUND:  198.7.228.102 US Cranston
+CACHED IP FOUND:  87.92.248.212 FI Helsinki
+CACHED IP FOUND:  73.9.48.133 US Chicago
+CACHED IP FOUND:  96.230.29.90 US Brookline
+CACHED IP NOT FOUND:  Doing lookup on 174.208.161.106
+Curl IP Command: curl https://api.ipstack.com/174.208.161.106?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.208.161.106 Country: US City:Rosemont
+STORING IP INTO CACHE: US Rosemont 174.208.161.106
+INSERT INTO ipmap(ip, country, city) VALUES('174.208.161.106', 'US', 'Rosemont')
+CACHED IP FOUND:  204.195.43.71 US Depoe Bay
+CACHED IP NOT FOUND:  Doing lookup on 107.115.21.21
+Curl IP Command: curl https://api.ipstack.com/107.115.21.21?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 107.115.21.21 Country: US City:Drexel Hill
+STORING IP INTO CACHE: US Drexel Hill 107.115.21.21
+INSERT INTO ipmap(ip, country, city) VALUES('107.115.21.21', 'US', 'Drexel Hill')
+CACHED IP FOUND:  95.44.195.32 IE Cork
+CACHED IP FOUND:  209.99.205.223 US Vergennes
+CACHED IP FOUND:  41.216.203.67 ZA Rondebosch
+CACHED IP FOUND:  49.229.200.254 TH Bangkok
+CACHED IP FOUND:  77.249.0.17 NL Haarlem
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  73.189.81.85 US San Francisco
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240403-Diana_Clark-IMC-dharmette_expectations_and_the_facts_of_life
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  173.49.152.238 US Nicetown-Tioga
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  149.167.165.54 AU Brisbane
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP NOT FOUND:  Doing lookup on 108.11.33.148
+Curl IP Command: curl https://api.ipstack.com/108.11.33.148?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 108.11.33.148 Country: US City:Pleasantville
+STORING IP INTO CACHE: US Pleasantville 108.11.33.148
+INSERT INTO ipmap(ip, country, city) VALUES('108.11.33.148', 'US', 'Pleasantville')
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  104.175.244.13 US Avocado Heights
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  184.53.32.95 US Germantown
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP FOUND:  38.57.182.72 US Yuma
+CACHED IP NOT FOUND:  Doing lookup on 176.198.200.71
+Curl IP Command: curl https://api.ipstack.com/176.198.200.71?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 176.198.200.71 Country: DE City:Düsseldorf
+STORING IP INTO CACHE: DE Düsseldorf 176.198.200.71
+INSERT INTO ipmap(ip, country, city) VALUES('176.198.200.71', 'DE', 'Düsseldorf')
+CACHED IP FOUND:  104.28.125.3 US San Jose
+CACHED IP FOUND:  121.209.6.13 AU Parramatta
+CACHED IP FOUND:  176.198.200.71 DE Düsseldorf
+CACHED IP FOUND:  104.28.85.111 US Ashburn
+CACHED IP FOUND:  172.225.34.224 SI Ljubljana
+CACHED IP NOT FOUND:  Doing lookup on 1.146.41.214
+Curl IP Command: curl https://api.ipstack.com/1.146.41.214?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 1.146.41.214 Country: AU City:Kuluin
+STORING IP INTO CACHE: AU Kuluin 1.146.41.214
+INSERT INTO ipmap(ip, country, city) VALUES('1.146.41.214', 'AU', 'Kuluin')
+CACHED IP FOUND:  172.59.129.129 US Castro Valley
+CACHED IP FOUND:  146.255.182.75 EE Tallinn
+CACHED IP FOUND:  47.150.209.81 US Fountain Valley
+CACHED IP FOUND:  68.199.56.186 US Peekskill
+CACHED IP FOUND:  84.68.68.166 GB Shepherds Bush
+CACHED IP FOUND:  24.67.39.99 CA Salmon Arm
+CACHED IP FOUND:  104.28.97.110 US Aurora
+CACHED IP FOUND:  104.28.116.140 US Four Corners
+CACHED IP FOUND:  69.244.0.77 US Casas Adobes
+CACHED IP FOUND:  65.209.203.202 US Alameda
+CACHED IP NOT FOUND:  Doing lookup on 72.143.229.181
+Curl IP Command: curl https://api.ipstack.com/72.143.229.181?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 72.143.229.181 Country: CA City:West End
+STORING IP INTO CACHE: CA West End 72.143.229.181
+INSERT INTO ipmap(ip, country, city) VALUES('72.143.229.181', 'CA', 'West End')
+CACHED IP NOT FOUND:  Doing lookup on 179.61.240.121
+Curl IP Command: curl https://api.ipstack.com/179.61.240.121?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 179.61.240.121 Country: NZ City:New Lynn
+STORING IP INTO CACHE: NZ New Lynn 179.61.240.121
+INSERT INTO ipmap(ip, country, city) VALUES('179.61.240.121', 'NZ', 'New Lynn')
+CACHED IP FOUND:  77.249.0.17 NL Haarlem
+CACHED IP FOUND:  58.173.42.187 AU Perth
+CACHED IP FOUND:  172.225.41.186 SI Ljubljana
+CACHED IP NOT FOUND:  Doing lookup on 191.125.145.132
+Curl IP Command: curl https://api.ipstack.com/191.125.145.132?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 191.125.145.132 Country: CL City:Santiago
+STORING IP INTO CACHE: CL Santiago 191.125.145.132
+INSERT INTO ipmap(ip, country, city) VALUES('191.125.145.132', 'CL', 'Santiago')
+CACHED IP NOT FOUND:  Doing lookup on 191.125.39.60
+Curl IP Command: curl https://api.ipstack.com/191.125.39.60?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 191.125.39.60 Country: CL City:Santiago
+STORING IP INTO CACHE: CL Santiago 191.125.39.60
+INSERT INTO ipmap(ip, country, city) VALUES('191.125.39.60', 'CL', 'Santiago')
+CACHED IP NOT FOUND:  Doing lookup on 86.46.10.174
+Curl IP Command: curl https://api.ipstack.com/86.46.10.174?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 86.46.10.174 Country: IE City:Dublin
+STORING IP INTO CACHE: IE Dublin 86.46.10.174
+INSERT INTO ipmap(ip, country, city) VALUES('86.46.10.174', 'IE', 'Dublin')
+CACHED IP NOT FOUND:  Doing lookup on 2.126.248.131
+Curl IP Command: curl https://api.ipstack.com/2.126.248.131?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 2.126.248.131 Country: GB City:City of Westminster
+STORING IP INTO CACHE: GB City of Westminster 2.126.248.131
+INSERT INTO ipmap(ip, country, city) VALUES('2.126.248.131', 'GB', 'City of Westminster')
+CACHED IP FOUND:  97.120.71.217 US Portland
+CACHED IP NOT FOUND:  Doing lookup on 86.173.53.119
+Curl IP Command: curl https://api.ipstack.com/86.173.53.119?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 86.173.53.119 Country: GB City:Shrewsbury
+STORING IP INTO CACHE: GB Shrewsbury 86.173.53.119
+INSERT INTO ipmap(ip, country, city) VALUES('86.173.53.119', 'GB', 'Shrewsbury')
+CACHED IP FOUND:  104.28.116.13 US Flagami
+CACHED IP NOT FOUND:  Doing lookup on 51.7.91.184
+Curl IP Command: curl https://api.ipstack.com/51.7.91.184?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 51.7.91.184 Country: GB City:Stowmarket
+STORING IP INTO CACHE: GB Stowmarket 51.7.91.184
+INSERT INTO ipmap(ip, country, city) VALUES('51.7.91.184', 'GB', 'Stowmarket')
+CACHED IP NOT FOUND:  Doing lookup on 104.162.83.152
+Curl IP Command: curl https://api.ipstack.com/104.162.83.152?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 104.162.83.152 Country: US City:Flatbush
+STORING IP INTO CACHE: US Flatbush 104.162.83.152
+INSERT INTO ipmap(ip, country, city) VALUES('104.162.83.152', 'US', 'Flatbush')
+CACHED IP NOT FOUND:  Doing lookup on 95.193.156.177
+Curl IP Command: curl https://api.ipstack.com/95.193.156.177?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 95.193.156.177 Country: SE City:Solna
+STORING IP INTO CACHE: SE Solna 95.193.156.177
+INSERT INTO ipmap(ip, country, city) VALUES('95.193.156.177', 'SE', 'Solna')
+CACHED IP FOUND:  77.174.76.93 NL Eibergen
+CACHED IP FOUND:  35.151.38.11 US Paso Robles
+CACHED IP NOT FOUND:  Doing lookup on 136.226.80.209
+Curl IP Command: curl https://api.ipstack.com/136.226.80.209?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 136.226.80.209 Country: US City:Manhattan
+STORING IP INTO CACHE: US Manhattan 136.226.80.209
+INSERT INTO ipmap(ip, country, city) VALUES('136.226.80.209', 'US', 'Manhattan')
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240411-Kim_Allen-IMC-dharmette_four_inspirational_blessings_4_of_5_training_for_peace
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240411-Kim_Allen-IMC-dharmette_four_inspirational_blessings_4_of_5_training_for_peace
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+CACHED IP FOUND:  136.226.80.209 US Manhattan
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240411-Tanya_Wiser-IMC-wise_intention
+CACHED IP NOT FOUND:  Doing lookup on 86.129.194.199
+Curl IP Command: curl https://api.ipstack.com/86.129.194.199?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 86.129.194.199 Country: GB City:Southend-on-Sea
+STORING IP INTO CACHE: GB Southend-on-Sea 86.129.194.199
+INSERT INTO ipmap(ip, country, city) VALUES('86.129.194.199', 'GB', 'Southend-on-Sea')
+CACHED IP NOT FOUND:  Doing lookup on 104.28.50.115
+Curl IP Command: curl https://api.ipstack.com/104.28.50.115?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 104.28.50.115 Country: US City:Denver
+STORING IP INTO CACHE: US Denver 104.28.50.115
+INSERT INTO ipmap(ip, country, city) VALUES('104.28.50.115', 'US', 'Denver')
+CACHED IP NOT FOUND:  Doing lookup on 174.210.230.215
+Curl IP Command: curl https://api.ipstack.com/174.210.230.215?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.210.230.215 Country: US City:Holt
+STORING IP INTO CACHE: US Holt 174.210.230.215
+INSERT INTO ipmap(ip, country, city) VALUES('174.210.230.215', 'US', 'Holt')
+CACHED IP FOUND:  72.132.142.224 US Banning
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240411-Kim_Allen-IMC-dharmette_four_inspirational_blessings_4_of_5_training_for_peace
+CACHED IP FOUND:  24.10.31.177 US Grass Valley
+CACHED IP NOT FOUND:  Doing lookup on 174.195.136.169
+Curl IP Command: curl https://api.ipstack.com/174.195.136.169?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 174.195.136.169 Country: US City:Corona
+STORING IP INTO CACHE: US Corona 174.195.136.169
+INSERT INTO ipmap(ip, country, city) VALUES('174.195.136.169', 'US', 'Corona')
+CACHED IP FOUND:  58.173.42.187 AU Perth
+CACHED IP FOUND:  58.173.42.187 AU Perth
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240411-Kim_Allen-IMC-dharmette_four_inspirational_blessings_4_of_5_training_for_peace
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240411-Kim_Allen-IMC-dharmette_four_inspirational_blessings_4_of_5_training_for_peace
+CACHED IP FOUND:  12.70.63.2 US Burlingame
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240411-Kim_Allen-IMC-guided_meditation_opening_to_peace
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240411-Tanya_Wiser-IMC-wise_intention
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240411-Kim_Allen-IMC-guided_meditation_opening_to_peace
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240410-Matthew_Brensilver-IMC-guided_meditation_aperture_vividness_stability_effort
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240314-Matthew_Brensilver-IMC-guided_meditation_lightly_guided_meditation
+CACHED IP FOUND:  23.93.23.185 US Orinda
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240410-Nikki_Mirghafori-IMC-happy_hour_compassion_as_equal_measures_of_empathy_and_love
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20190220-Diana_Clark-IMC-happy_hour_loving_kindness
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240412-Kim_Allen-IMC-dharmette_four_inspirational_blessings_5_of_5_inspirational_blessings
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240412-Kim_Allen-IMC-guided_meditation_blessing_of_just_doing_the_practice
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240410-Bhikkhu_Sambodhi-sati-on_the_vital_importance_of_one_s_mind_s_training_being_g_r_a_d_u_a_l
+CACHED IP FOUND:  104.178.187.216 US Wauwatosa
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240410-Bhikkhu_Sambodhi-sati-on_the_vital_importance_of_one_s_mind_s_training_being_g_r_a_d_u_a_l
+CACHED IP FOUND:  98.97.141.232 US Los Angeles
+CACHED IP NOT FOUND:  Doing lookup on 188.198.5.16
+Curl IP Command: curl https://api.ipstack.com/188.198.5.16?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 188.198.5.16 Country: SI City:Ljubljana
+STORING IP INTO CACHE: SI Ljubljana 188.198.5.16
+INSERT INTO ipmap(ip, country, city) VALUES('188.198.5.16', 'SI', 'Ljubljana')
+CACHED IP NOT FOUND:  Doing lookup on 185.111.172.10
+Curl IP Command: curl https://api.ipstack.com/185.111.172.10?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 185.111.172.10 Country: GB City:Plumstead
+STORING IP INTO CACHE: GB Plumstead 185.111.172.10
+INSERT INTO ipmap(ip, country, city) VALUES('185.111.172.10', 'GB', 'Plumstead')
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240412-Kim_Allen-IMC-dharmette_four_inspirational_blessings_5_of_5_inspirational_blessings
+CACHED IP FOUND:  77.174.76.93 NL Eibergen
+CACHED IP FOUND:  185.111.172.10 GB Plumstead
+CACHED IP FOUND:  86.173.53.119 GB Shrewsbury
+CACHED IP FOUND:  172.56.216.148 US Radnor
+CACHED IP NOT FOUND:  Doing lookup on 172.58.89.194
+Curl IP Command: curl https://api.ipstack.com/172.58.89.194?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 172.58.89.194 Country: US City:Oakland
+STORING IP INTO CACHE: US Oakland 172.58.89.194
+INSERT INTO ipmap(ip, country, city) VALUES('172.58.89.194', 'US', 'Oakland')
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240410-Matthew_Brensilver-IMC-guided_meditation_aperture_vividness_stability_effort
+CACHED IP FOUND:  73.149.18.213 US Cambridge
+CACHED IP NOT FOUND:  Doing lookup on 92.184.102.119
+Curl IP Command: curl https://api.ipstack.com/92.184.102.119?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 92.184.102.119 Country: FR City:Saint-Fons
+STORING IP INTO CACHE: FR Saint-Fons 92.184.102.119
+INSERT INTO ipmap(ip, country, city) VALUES('92.184.102.119', 'FR', 'Saint-Fons')
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240331-Gil_Fronsdal-IMC-from_the_sense_of_self_to_sensing
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240321-David_Cohn-IMC-senior_sangha_march_2024_generosity
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20220120-David_Cohn-IMC-senior_sangha_meeting_for_january
+CACHED IP FOUND:  24.10.31.177 US Grass Valley
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20240328-Tanya_Wiser-IMC-conditioning
+/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/similar/20230427-Liz_Powell-IMC-awareness_leading_to_discernment
+CACHED IP FOUND:  42.191.109.24 MY Sungai Petani
+CACHED IP NOT FOUND:  Doing lookup on 1.145.67.254
+Curl IP Command: curl https://api.ipstack.com/1.145.67.254?access_key=e2716847045121a9863e6b098557bb41
+
+Array
+IPStack Lookup Result: 1.145.67.254 Country: AU City:Hornsby
+STORING IP INTO CACHE: AU Hornsby 1.145.67.254
+INSERT INTO ipmap(ip, country, city) VALUES('1.145.67.254', 'AU', 'Hornsby')
