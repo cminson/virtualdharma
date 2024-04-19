@@ -72,7 +72,40 @@ def talk_download(source_url, path_mp3):
     return True
 
 
+
 def talk_transcribe(path_mp3, path_raw_transcript):
+    global CountTranscripts
+
+    LOG(f'Transcribing: {path_mp3} to: {path_raw_transcript}')
+
+    # DEV CJM
+    if 'chaplainc' in path_mp3:
+        print(f'Skipping: {path_mp3} to: {path_raw_transcript}')
+        return
+
+    try:
+        # Load the Whisper model
+        model = whisper.load_model("medium")
+
+        # Perform transcription
+        result = model.transcribe(path_mp3)
+        text = result["text"]
+
+        # Write the transcription to a file
+        with open(path_raw_transcript, 'w') as fd:
+            fd.write(text)
+
+    except whisper.WhisperException as we:
+        print(f"Whisper-specific error occurred: {we}")
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
+    finally:
+        print("Attempt to transcribe has finished.")
+
+
+
+
+def xtalk_transcribe(path_mp3, path_raw_transcript):
 
     global CountTranscripts
 

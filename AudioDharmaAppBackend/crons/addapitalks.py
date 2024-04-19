@@ -41,7 +41,7 @@ PATH_TALKS_TOP3MONTHS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/C
 PATH_ACTIVE_TRANSCRIPTS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/PDF/"
 URL_ACTIVE_TRANSCRIPTS = "http://virtualdharma.org/AudioDharmaAppBackend/data/PDF/"
 
-PATH_SUMMARIES = "/var/www/audiodharma/httpdocs/data/summaries/";
+PATH_SUMMARIES = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/summaries/"
 
 # max duration to be classified as short talk.  15 minutes
 MAX_SHORT_TALK_SECONDS = 15 * 60
@@ -204,11 +204,12 @@ all_talks= sorted(unique_talks, key=lambda k: k['date'], reverse=True)
 # clean up the talks and annotates with summaries
 for talk in all_talks:
 
-    #print(talk["title"])
+    print(talk["title"])
     if "NA" in talk["url"]:
+        print("SKIPPING")
         continue
 
-    summary = "[No summary]"
+    summary = ""
     file_name = talk["url"].split('/')[-1]
     file_name = file_name.replace(".mp3", ".short")
     key = f"talk.{file_name}"
@@ -216,6 +217,11 @@ for talk in all_talks:
     if os.path.exists(path_summary_short):
         with open(path_summary_short, 'r', encoding='utf-8') as fd:
             summary = fd.read()
+            print(path_summary_short)
+            print(summary)
+    else:
+        print(f"skipping {path_summary_short}")
+
 
     prefix = "Discusses"
     if summary.startswith(prefix):

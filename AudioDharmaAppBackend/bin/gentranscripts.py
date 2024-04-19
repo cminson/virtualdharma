@@ -78,7 +78,7 @@ for idx, (talk, path_transcript_raw, path_transcript) in enumerate(getAllTranscr
         line_count += 1
         text = text + line + ' '
         if line_count > lines_in_paragraph:
-            text += "\n<p>\n"
+            text += "\n\n"
             lines_in_paragraph = random.choice(LINES_IN_PARAGRAPH)
             line_count = 0
 

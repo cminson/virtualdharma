@@ -258,6 +258,7 @@ OPENAI_API_KEY = configureOpenAIKey()
 #
 # generate summaries for every speaker
 #
+"""
 LOG('generating speaker summaries')
 
 for idx, (speaker, list_talks) in enumerate(getAllSpeakers()):
@@ -339,6 +340,7 @@ for series, list_talks in getAllSeries():
             print("Creating: ", path_summary_short)
             fd.write(summary_text_short)
 
+"""
 
 #
 # generate summaries for every talk

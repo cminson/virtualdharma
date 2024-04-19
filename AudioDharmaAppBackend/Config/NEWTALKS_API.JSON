@@ -1,8 +1,168 @@
 {
 	"talks":[
 	{
-		"title":"Dharmette: Spiritual Power",
-		"series":"7am Sit & Dharmette",
+		"title":"Knowing the Mind Frees the Mind",
+		"series":"",
+		"url":"/20199/20240418-Ari_Crellin-Quick-IMC-knowing_the_mind.mp3",
+		"ln":"en",
+		"download_url":"/20199/20240418-Ari_Crellin-Quick-IMC-knowing_the_mind.mp3",
+		"speaker":"Ari Crellin-Quick",
+		"date":"2024.04.18",
+		"duration":"20:17"
+	},
+	{
+		"title":"Guided Meditation: Remembering to Recognize the Present Moment",
+		"series":"Guided Meditations",
+		"url":"/20198/20240418-Ari_Crellin-Quick-IMC-guided_meditation_remembering_to_recognize_the_present_moment.mp3",
+		"ln":"en",
+		"download_url":"/20198/20240418-Ari_Crellin-Quick-IMC-guided_meditation_remembering_to_recognize_the_present_moment.mp3",
+		"speaker":"Ari Crellin-Quick",
+		"date":"2024.04.18",
+		"duration":"29:49"
+	},
+	{
+		"title":"Five Faculties",
+		"series":"",
+		"url":"/20195/20240418-Tanya_Wiser-IMC-five_faculties.mp3",
+		"ln":"en",
+		"download_url":"/20195/20240418-Tanya_Wiser-IMC-five_faculties.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2024.04.18",
+		"duration":"33:42"
+	},
+	{
+		"title":"Dharmette: Dharma Well-being (4 of 5) Inner Wealth",
+		"series":"Wellsprings of Dharma Well-Being",
+		"url":"/20197/20240418-Dawn_Neal-IMC-dharmette_dharma_well-being_4_of_5_inner_wealth.mp3",
+		"ln":"en",
+		"download_url":"/20197/20240418-Dawn_Neal-IMC-dharmette_dharma_well-being_4_of_5_inner_wealth.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2024.04.18",
+		"duration":"15:57"
+	},
+	{
+		"title":"Guided Meditation: Attuning to the Heart",
+		"series":"Guided Meditations",
+		"url":"/20196/20240418-Dawn_Neal-IMC-guided_meditation_attuning_to_the_heart.mp3",
+		"ln":"en",
+		"download_url":"/20196/20240418-Dawn_Neal-IMC-guided_meditation_attuning_to_the_heart.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2024.04.18",
+		"duration":"32:26"
+	},
+	{
+		"title":"Dharmette: The Clinging Before Clinging",
+		"series":"Wednesday Evening with Matthew Brensilver",
+		"url":"/20194/20240417-Matthew_Brensilver-IMC-dharmette_the_clinging_before_clinging.mp3",
+		"ln":"en",
+		"download_url":"/20194/20240417-Matthew_Brensilver-IMC-dharmette_the_clinging_before_clinging.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2024.04.17",
+		"duration":"14:21"
+	},
+	{
+		"title":"Guided Meditation: Attention, Effort, Choice and Selfing",
+		"series":"Guided Meditations",
+		"url":"/20193/20240417-Matthew_Brensilver-IMC-guided_meditation_attention_effort_choice_and_selfing.mp3",
+		"ln":"en",
+		"download_url":"/20193/20240417-Matthew_Brensilver-IMC-guided_meditation_attention_effort_choice_and_selfing.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2024.04.17",
+		"duration":"30:46"
+	},
+	{
+		"title":"Happy Hour: Practicing for the Sake of Myself and Others",
+		"series":"",
+		"url":"/20192/20240417-Nikki_Mirghafori-IMC-happy_hour_practicing_for_the_sake_of_myself_and_others.mp3",
+		"ln":"en",
+		"download_url":"/20192/20240417-Nikki_Mirghafori-IMC-happy_hour_practicing_for_the_sake_of_myself_and_others.mp3",
+		"speaker":"Nikki Mirghafori",
+		"date":"2024.04.17",
+		"duration":"54:04"
+	},
+	{
+		"title":"Remaining Judgement Free",
+		"series":"",
+		"url":"/20191/20240417-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-remaining_judgement_free.mp3",
+		"ln":"en",
+		"download_url":"/20191/20240417-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-remaining_judgement_free.mp3",
+		"speaker":"Ying Chen",
+		"date":"2024.04.17",
+		"duration":"13:15"
+	},
+	{
+		"title":"Dharmette: Dharma Well-Being (3 of 5); Happiness",
+		"series":"Wellsprings of Dharma Well-Being",
+		"url":"/20190/20240417-Dawn_Neal-IMC-wellsprings_of_dharma_well-being_3_of5_happiness.mp3",
+		"ln":"en",
+		"download_url":"/20190/20240417-Dawn_Neal-IMC-wellsprings_of_dharma_well-being_3_of5_happiness.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2024.04.17",
+		"duration":"14:54"
+	},
+	{
+		"title":"Guided Meditation: Immersed in the Breath",
+		"series":"Guided Meditations",
+		"url":"/20189/20240417-Dawn_Neal-IMC-guided_meditation_immersed_in_the_breath.mp3",
+		"ln":"en",
+		"download_url":"/20189/20240417-Dawn_Neal-IMC-guided_meditation_immersed_in_the_breath.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2024.04.17",
+		"duration":"30:15"
+	},
+	{
+		"title":"Blueberries Are Not Blue - Vedena",
+		"series":"",
+		"url":"/20186/20240416-Maria_Straatmann-IMC-blueberries_are_not_blue_-_vedena.mp3",
+		"ln":"en",
+		"download_url":"/20186/20240416-Maria_Straatmann-IMC-blueberries_are_not_blue_-_vedena.mp3",
+		"speaker":"Maria Straatmann",
+		"date":"2024.04.16",
+		"duration":"34:31"
+	},
+	{
+		"title":"Dharmette: Dharma Well-Being (2 of 5) Beauty",
+		"series":"Wellsprings of Dharma Well-Being",
+		"url":"/20188/20240416-Dawn_Neal-IMC-dharmette_wellsprings_of_dharma_well-being_2_of_5_beauty.mp3",
+		"ln":"en",
+		"download_url":"/20188/20240416-Dawn_Neal-IMC-dharmette_wellsprings_of_dharma_well-being_2_of_5_beauty.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2024.04.16",
+		"duration":"14:20"
+	},
+	{
+		"title":"Guided Meditation: Grounded in the Heart",
+		"series":"Guided Meditations",
+		"url":"/20187/20240416-Dawn_Neal-IMC-guided_meditation_grounded_in_the_heart.mp3",
+		"ln":"en",
+		"download_url":"/20187/20240416-Dawn_Neal-IMC-guided_meditation_grounded_in_the_heart.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2024.04.16",
+		"duration":"30:15"
+	},
+	{
+		"title":"A freer response",
+		"series":"",
+		"url":"/20185/20240415-Kim_Allen-IMC-a_freer_response.mp3",
+		"ln":"en",
+		"download_url":"/20185/20240415-Kim_Allen-IMC-a_freer_response.mp3",
+		"speaker":"Kim Allen",
+		"date":"2024.04.15",
+		"duration":"42:52"
+	},
+	{
+		"title":"Happy Hour: Holding Peace for Ourselves, Relationships, and the World",
+		"series":"",
+		"url":"/20184/20240415-Nikki_Mirghafori-IMC-happy_hour_holding_peace_for_ourselves_relationships_and_the_world.mp3",
+		"ln":"en",
+		"download_url":"/20184/20240415-Nikki_Mirghafori-IMC-happy_hour_holding_peace_for_ourselves_relationships_and_the_world.mp3",
+		"speaker":"Nikki Mirghafori",
+		"date":"2024.04.15",
+		"duration":"47:23"
+	},
+	{
+		"title":"Dharmette: Dharma Wellbeing (1 of 5): Spiritual Power",
+		"series":"Wellsprings of Dharma Well-Being",
 		"url":"/20183/20240415-Dawn_Neal-IMC-dharmette_spiritual_power.mp3",
 		"ln":"en",
 		"download_url":"/20183/20240415-Dawn_Neal-IMC-dharmette_spiritual_power.mp3",
@@ -319,156 +479,6 @@
 		"speaker":"Diana Clark",
 		"date":"2024.04.03",
 		"duration":"14:33"
-	},
-	{
-		"title":"Practice Notes: Its Just Like This Right Now",
-		"series":"",
-		"url":"/20098/20240403-Diana_Clark-IMC-practice_notes_it_s_just_like_this_right_now.mp3",
-		"ln":"en",
-		"download_url":"/20098/20240403-Diana_Clark-IMC-practice_notes_it_s_just_like_this_right_now.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.03",
-		"duration":"03:13"
-	},
-	{
-		"title":"Dharmette: Working with the Inner Critic (3 of 5) Not Disparaging the Disparaging",
-		"series":"Working with the Inner Critic",
-		"url":"/20102/20240403-Diana_Clark-IMC-inner_critic_3_of_5_not_disparaging_the_disparaging.mp3",
-		"ln":"en",
-		"download_url":"/20102/20240403-Diana_Clark-IMC-inner_critic_3_of_5_not_disparaging_the_disparaging.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.03",
-		"duration":"19:25"
-	},
-	{
-		"title":"Guided Meditation: The Inner Critic (3)",
-		"series":"Guided Meditations",
-		"url":"/20101/20240403-Diana_Clark-IMC-guided_meditation_the_inner_critic_3_of_5.mp3",
-		"ln":"en",
-		"download_url":"/20101/20240403-Diana_Clark-IMC-guided_meditation_the_inner_critic_3_of_5.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.03",
-		"duration":"28:52"
-	},
-	{
-		"title":"Dharmette: Working with the Inner Critic (2 of 5) Bringing Kindness and Curiosity to the Critic",
-		"series":"Working with the Inner Critic",
-		"url":"/20094/20240402-Diana_Clark-IMC-dharmette_bringing_kindness_and_curiosity_to_the_critic.mp3",
-		"ln":"en",
-		"download_url":"/20094/20240402-Diana_Clark-IMC-dharmette_bringing_kindness_and_curiosity_to_the_critic.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.02",
-		"duration":"14:59"
-	},
-	{
-		"title":"Guided Meditation: The Inner Critic (2)",
-		"series":"Guided Meditations",
-		"url":"/20093/20240402-Diana_Clark-IMC-guided_meditation_the_inner_critic_2_of_5.mp3",
-		"ln":"en",
-		"download_url":"/20093/20240402-Diana_Clark-IMC-guided_meditation_the_inner_critic_2_of_5.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.02",
-		"duration":"28:57"
-	},
-	{
-		"title":"Noticing, Doing, Releasing: The Simile of the Raft",
-		"series":"",
-		"url":"/20089/20240401-Diana_Clark-IMC-noticing_doing_releasing_the_simile_of_the_raft.mp3",
-		"ln":"en",
-		"download_url":"/20089/20240401-Diana_Clark-IMC-noticing_doing_releasing_the_simile_of_the_raft.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.01",
-		"duration":"41:29"
-	},
-	{
-		"title":"Dharmette: Working with the Inner Critic (1 of 5) Deactivating the Critic of the Critic",
-		"series":"Working with the Inner Critic",
-		"url":"/20085/20240401-Diana_Clark-IMC-dharmette_deactivating_the_critic_of_the_critic.mp3",
-		"ln":"en",
-		"download_url":"/20085/20240401-Diana_Clark-IMC-dharmette_deactivating_the_critic_of_the_critic.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.01",
-		"duration":"17:00"
-	},
-	{
-		"title":"Guided Meditation: The Inner Critic (1)",
-		"series":"Guided Meditations",
-		"url":"/20084/20240401-Diana_Clark-IMC-guided_meditation_the_inner_critic_1_of_5.mp3",
-		"ln":"en",
-		"download_url":"/20084/20240401-Diana_Clark-IMC-guided_meditation_the_inner_critic_1_of_5.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.01",
-		"duration":"30:12"
-	},
-	{
-		"title":"From the Sense of Self to Sensing",
-		"series":"",
-		"url":"/20080/20240331-Gil_Fronsdal-IMC-from_the_sense_of_self_to_sensing.mp3",
-		"ln":"en",
-		"download_url":"/20080/20240331-Gil_Fronsdal-IMC-from_the_sense_of_self_to_sensing.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.03.31",
-		"duration":"43:51"
-	},
-	{
-		"title":"Mindfulness as a New Perspective",
-		"series":"",
-		"url":"/20079/20240330-Gil_Fronsdal-IMC-mindfulness_as_a_new_perspective.mp3",
-		"ln":"en",
-		"download_url":"/20079/20240330-Gil_Fronsdal-IMC-mindfulness_as_a_new_perspective.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.03.30",
-		"duration":"37:12"
-	},
-	{
-		"title":"A Story of the First Buddhist Women",
-		"series":"Sati Center",
-		"url":"/20081/20240330-Vanessa_Sasson-sati-a_story_of_the_first_buddhist_women.mp3",
-		"ln":"en",
-		"download_url":"/20081/20240330-Vanessa_Sasson-sati-a_story_of_the_first_buddhist_women.mp3",
-		"speaker":"Vanessa Sasson",
-		"date":"2024.03.30",
-		"duration":"1:27:52"
-	},
-	{
-		"title":"Dharmette: Intro to Mindfulness Pt 2 (20) Thinking from Non-Clinging",
-		"series":"Introduction to Mindfulness Part 2",
-		"url":"/20071/20240329-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_pt_2_20_thinking_from_non-clinging.mp3",
-		"ln":"en",
-		"download_url":"/20071/20240329-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_pt_2_20_thinking_from_non-clinging.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.03.29",
-		"duration":"13:22"
-	},
-	{
-		"title":"Guided Meditation: Non-Clinging Thinking",
-		"series":"Guided Meditations",
-		"url":"/20070/20240329-Gil_Fronsdal-IMC-guided_meditation_non-clinging_thinking.mp3",
-		"ln":"en",
-		"download_url":"/20070/20240329-Gil_Fronsdal-IMC-guided_meditation_non-clinging_thinking.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.03.29",
-		"duration":"32:04"
-	},
-	{
-		"title":"Dharmette: Intro to Mindfulness Pt 2 (19) Simplicity of Non-Clinging",
-		"series":"Introduction to Mindfulness Part 2",
-		"url":"/20068/20240328-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_pt_2_19_simplicity_of_non-clinging.mp3",
-		"ln":"en",
-		"download_url":"/20068/20240328-Gil_Fronsdal-IMC-dharmette_intro_to_mindfulness_pt_2_19_simplicity_of_non-clinging.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.03.28",
-		"duration":"11:44"
-	},
-	{
-		"title":"Guided Meditation: Simplicity",
-		"series":"Guided Meditations",
-		"url":"/20067/20240328-Gil_Fronsdal-IMC-guided_meditation_simplicity.mp3",
-		"ln":"en",
-		"download_url":"/20067/20240328-Gil_Fronsdal-IMC-guided_meditation_simplicity.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.03.28",
-		"duration":"31:12"
 	}
 	]
 }

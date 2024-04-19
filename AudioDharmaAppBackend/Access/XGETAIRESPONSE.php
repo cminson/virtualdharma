@@ -4,22 +4,24 @@
  * This entry point is called directly from the app
  */
 
-function mylog($msg)
+function LOGGING($msg)
 {
-    $LOGFILE= "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Access/ad.log";
+    $LOGFILE= "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/LOGS/AD.LOG";
 
     $fp = fopen($LOGFILE, 'a+');
-    fputs($fp, "$msg\n");
+    fputs($fp, "ACCESS XGETAIRESPONSE.php: $msg\n");
     fclose($fp);
 }
+
+$start_time = microtime(true);
 
 $SOPHIA_PORT = 3022;
 $MAX_RESPONSE_SIZE = 10000;
 
 // Get the QUERY and COMMAND arguments from the CGI request
 $query = $_GET["QUERY"];
-
-//mylog($query);
+//$query = "Love";
+LOGGING($query);
 $command = "GET_EXPLORE";
 
 // Make sure QUERY and COMMAND are not empty
@@ -66,6 +68,12 @@ socket_close($socket);
 
 
 // Print the response
+
+$end_time = microtime(true);
+$elapsed_time = ($end_time - $start_time) * 1000;
+LOGGING("Query Complete");
+LOGGING("Elapsed Time: $elapsed_time");
+
 echo $response;
 ?>
 
