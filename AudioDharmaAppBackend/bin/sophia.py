@@ -276,6 +276,7 @@ def getExploreTalksJSON(query, _):
     query = ' '.join(filtered_list_words)
 
     if len(query) <= 1: 
+        LOG(f"Query is too short")
         responseJSON['list_elements'] = []
         responseJSON['ai_response']  = DEFAULT_SUMMARY
         return responseJSON

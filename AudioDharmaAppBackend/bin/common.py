@@ -53,8 +53,8 @@ MIN_TRANSCRIPT_SIZE = 500
 ACTIVE_MODEL = 'gpt-3.5-turbo'
 HOST = '127.0.0.1'
 QDRANT_SERVER_PORT = 6333  # QDrant handles all vector operations
-SOPHIA_SERVER_PORT = 9044  # where this service (sophia) runs
 SOPHIA_SERVER_PORT = 3022  # where this service (sophia) runs
+SOPHIA_SERVER_PORT = 3000  # where this service (sophia) runs
 
 
 URL_MP3_HOST = 'https://audiodharma.us-east-1.linodeobjects.com/talks'

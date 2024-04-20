@@ -15,7 +15,7 @@ function LOGGING($msg)
 
 $start_time = microtime(true);
 
-$SOPHIA_PORT = 3022;
+$SOPHIA_PORT = 3000;
 $MAX_RESPONSE_SIZE = 10000;
 
 // Get the QUERY and COMMAND arguments from the CGI request
