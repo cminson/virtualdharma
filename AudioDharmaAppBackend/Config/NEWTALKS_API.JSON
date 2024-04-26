@@ -1,6 +1,206 @@
 {
 	"talks":[
 	{
+		"title":"Dharmette: Ten Reflections (4 of 10) Autonomy",
+		"series":"Session 7",
+		"url":"/20243/20240425-Gil_Fronsdal-IMC-dharmette_ten_reflections_4_of_10_autonomy.mp3",
+		"ln":"en",
+		"download_url":"/20243/20240425-Gil_Fronsdal-IMC-dharmette_ten_reflections_4_of_10_autonomy.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.25",
+		"duration":"13:35"
+	},
+	{
+		"title":"Guided Meditation: Open Spaciousness",
+		"series":"Guided Meditations",
+		"url":"/20242/20240425-Gil_Fronsdal-IMC-guided_meditation_open_spaciousness.mp3",
+		"ln":"en",
+		"download_url":"/20242/20240425-Gil_Fronsdal-IMC-guided_meditation_open_spaciousness.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.25",
+		"duration":"29:35"
+	},
+	{
+		"title":"Dharmette: Reflections on a RJ Davidson Quote",
+		"series":"Wednesday Evening with Matthew Brensilver",
+		"url":"/20240/20240424-Matthew_Brensilver-IMC-dharmette_reflections_on_a_rj_davidson_quote.mp3",
+		"ln":"en",
+		"download_url":"/20240/20240424-Matthew_Brensilver-IMC-dharmette_reflections_on_a_rj_davidson_quote.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2024.04.24",
+		"duration":"15:47"
+	},
+	{
+		"title":"Guided Meditation: Language as Safety",
+		"series":"Guided Meditations",
+		"url":"/20239/20240424-Matthew_Brensilver-IMC-guided_meditation_language_as_safety.mp3",
+		"ln":"en",
+		"download_url":"/20239/20240424-Matthew_Brensilver-IMC-guided_meditation_language_as_safety.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2024.04.24",
+		"duration":"28:29"
+	},
+	{
+		"title":"Happy Hour: Delight in Abandoning the Unwholesome",
+		"series":"",
+		"url":"/20238/20240424-Ari_Crellin-Quick-IMC-happy_hour_delight_in_abandoning_the_unwholesome.mp3",
+		"ln":"en",
+		"download_url":"/20238/20240424-Ari_Crellin-Quick-IMC-happy_hour_delight_in_abandoning_the_unwholesome.mp3",
+		"speaker":"Ari Crellin-Quick",
+		"date":"2024.04.24",
+		"duration":"44:12"
+	},
+	{
+		"title":"Being Open vs. Being Closed",
+		"series":"",
+		"url":"/20234/20240424-Gil_Fronsdal-IMC-being_open_vs_being_closed.mp3",
+		"ln":"en",
+		"download_url":"/20234/20240424-Gil_Fronsdal-IMC-being_open_vs_being_closed.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.24",
+		"duration":"13:22"
+	},
+	{
+		"title":"Practice Notes: Carrying Your Home With You",
+		"series":"",
+		"url":"/20233/20240424-Gil_Fronsdal-IMC-carrying_your_home_with_you.mp3",
+		"ln":"en",
+		"download_url":"/20233/20240424-Gil_Fronsdal-IMC-carrying_your_home_with_you.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.24",
+		"duration":"02:02"
+	},
+	{
+		"title":"Dharmette: Ten Reflections (3 of 10) Agency",
+		"series":"Ten Reflections",
+		"url":"/20230/20240424-Gil_Fronsdal-IMC-dharmette_ten_reflections_3_of_10_agency.mp3",
+		"ln":"en",
+		"download_url":"/20230/20240424-Gil_Fronsdal-IMC-dharmette_ten_reflections_3_of_10_agency.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.24",
+		"duration":"12:51"
+	},
+	{
+		"title":"Guided Meditation: Freedom",
+		"series":"Guided Meditations",
+		"url":"/20229/20240424-Gil_Fronsdal-IMC-guided_meditation_freedom.mp3",
+		"ln":"en",
+		"download_url":"/20229/20240424-Gil_Fronsdal-IMC-guided_meditation_freedom.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.24",
+		"duration":"30:06"
+	},
+	{
+		"title":"Happy Hour: Delight in Cultivating the Wholesome",
+		"series":"",
+		"url":"/20227/20240423-Ari_Crellin-Quick-IMC-happy_hour_delight_in_cultivating_the_wholesome.mp3",
+		"ln":"en",
+		"download_url":"/20227/20240423-Ari_Crellin-Quick-IMC-happy_hour_delight_in_cultivating_the_wholesome.mp3",
+		"speaker":"Ari Crellin-Quick",
+		"date":"2024.04.23",
+		"duration":"45:00"
+	},
+	{
+		"title":"Dharmette: Meeting Speculative Views with Compassion",
+		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
+		"url":"/20235/20240423-Dawn_Neal-IMC-dharmette_meeting_speculative_views_with_compassion.mp3",
+		"ln":"en",
+		"download_url":"/20235/20240423-Dawn_Neal-IMC-dharmette_meeting_speculative_views_with_compassion.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2024.04.23",
+		"duration":"34:58"
+	},
+	{
+		"title":"Guided Meditation: Opening Awareness",
+		"series":"Guided Meditations",
+		"url":"/20236/20240423-Dawn_Neal-IMC-guided_meditation_opening_awareness.mp3",
+		"ln":"en",
+		"download_url":"/20236/20240423-Dawn_Neal-IMC-guided_meditation_opening_awareness.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2024.04.23",
+		"duration":"18:22"
+	},
+	{
+		"title":"Dharmette: Ten Reflections (2 of 10) Purpose",
+		"series":"Ten Reflections",
+		"url":"/20222/20240423-Gil_Fronsdal-IMC-dharmette_ten_reflections_2_of_10_purpose.mp3",
+		"ln":"en",
+		"download_url":"/20222/20240423-Gil_Fronsdal-IMC-dharmette_ten_reflections_2_of_10_purpose.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.23",
+		"duration":"14:32"
+	},
+	{
+		"title":"Guided Meditation: Wholeheartedness",
+		"series":"Guided Meditations",
+		"url":"/20221/20240423-Gil_Fronsdal-IMC-guided_meditation_wholeheartedness.mp3",
+		"ln":"en",
+		"download_url":"/20221/20240423-Gil_Fronsdal-IMC-guided_meditation_wholeheartedness.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.23",
+		"duration":"29:39"
+	},
+	{
+		"title":"Happy Hour: Delight in the Dhamma; Metta for Self and All Beings",
+		"series":"",
+		"url":"/20219/20240422-Ari_Crellin-Quick-IMC-happy_hour_delight_in_the_dhamma_metta_for_self_and_all_beings.mp3",
+		"ln":"en",
+		"download_url":"/20219/20240422-Ari_Crellin-Quick-IMC-happy_hour_delight_in_the_dhamma_metta_for_self_and_all_beings.mp3",
+		"speaker":"Ari Crellin-Quick",
+		"date":"2024.04.22",
+		"duration":"43:19"
+	},
+	{
+		"title":"Practicing with the Four Elements Changes Our Perspective",
+		"series":"",
+		"url":"/20218/20240422-Diana_Clark-IMC-practicing_with_the_four_elements_changes_our_perspective.mp3",
+		"ln":"en",
+		"download_url":"/20218/20240422-Diana_Clark-IMC-practicing_with_the_four_elements_changes_our_perspective.mp3",
+		"speaker":"Diana Clark",
+		"date":"2024.04.22",
+		"duration":"38:39"
+	},
+	{
+		"title":"Dharmette: Ten Reflections (1 of 10) Meaning",
+		"series":"Ten Reflections",
+		"url":"/20213/20240422-Gil_Fronsdal-IMC-dharmette_ten_reflections_1_of_10_meaning.mp3",
+		"ln":"en",
+		"download_url":"/20213/20240422-Gil_Fronsdal-IMC-dharmette_ten_reflections_1_of_10_meaning.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.22",
+		"duration":"14:41"
+	},
+	{
+		"title":"Guided Meditation: Inspiration",
+		"series":"Guided Meditations",
+		"url":"/20212/20240422-Gil_Fronsdal-IMC-guided_meditation_inspiration.mp3",
+		"ln":"en",
+		"download_url":"/20212/20240422-Gil_Fronsdal-IMC-guided_meditation_inspiration.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.22",
+		"duration":"30:15"
+	},
+	{
+		"title":"Supports For Aspirations",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/20210/20240421-Diana_Clark-IMC-supports_for_aspiratios.mp3",
+		"ln":"en",
+		"download_url":"/20210/20240421-Diana_Clark-IMC-supports_for_aspiratios.mp3",
+		"speaker":"Diana Clark",
+		"date":"2024.04.21",
+		"duration":"38:41"
+	},
+	{
+		"title":"Buddhist Chaplaincy Speaker Series: Practicing What We Preach",
+		"series":"Sati Center",
+		"url":"/20209/20240420-Grace_Schireson-sati-buddhist_chaplaincy_speaker_series_practicing_what_we_preach.mp3",
+		"ln":"en",
+		"download_url":"/20209/20240420-Grace_Schireson-sati-buddhist_chaplaincy_speaker_series_practicing_what_we_preach.mp3",
+		"speaker":"Grace Schireson",
+		"date":"2024.04.20",
+		"duration":"59:15"
+	},
+	{
 		"title":"Dharmette: Dharma Well-being (5 of 5) Freedom",
 		"series":"Wellsprings of Dharma Well-Being",
 		"url":"/20202/20240419-Dawn_Neal-IMC-dharmette_dharma_well-being_5_of_5_freedom.mp3",
@@ -21,7 +221,7 @@
 		"duration":"30:58"
 	},
 	{
-		"title":"Knowing the Mind",
+		"title":"Knowing the Mind Frees the Mind",
 		"series":"",
 		"url":"/20199/20240418-Ari_Crellin-Quick-IMC-knowing_the_mind.mp3",
 		"ln":"en",
@@ -279,206 +479,6 @@
 		"speaker":"Matthew Brensilver",
 		"date":"2024.04.10",
 		"duration":"13:44"
-	},
-	{
-		"title":"Guided Meditation: Aperture, Vividness, Stability, Effort",
-		"series":"Guided Meditations",
-		"url":"/20159/20240410-Matthew_Brensilver-IMC-guided_meditation_aperture_vividness_stability_effort.mp3",
-		"ln":"en",
-		"download_url":"/20159/20240410-Matthew_Brensilver-IMC-guided_meditation_aperture_vividness_stability_effort.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2024.04.10",
-		"duration":"29:56"
-	},
-	{
-		"title":"Happy Hour: Compassion as Equal Measures of Empathy and Love",
-		"series":"",
-		"url":"/20157/20240410-Nikki_Mirghafori-IMC-happy_hour_compassion_as_equal_measures_of_empathy_and_love.mp3",
-		"ln":"en",
-		"download_url":"/20157/20240410-Nikki_Mirghafori-IMC-happy_hour_compassion_as_equal_measures_of_empathy_and_love.mp3",
-		"speaker":"Nikki Mirghafori",
-		"date":"2024.04.10",
-		"duration":"42:04"
-	},
-	{
-		"title":"Dharmette: Starting Where We are",
-		"series":"",
-		"url":"/20156/20240410-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_starting_where_we_are.mp3",
-		"ln":"en",
-		"download_url":"/20156/20240410-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_starting_where_we_are.mp3",
-		"speaker":"Ying Chen",
-		"date":"2024.04.10",
-		"duration":"11:31"
-	},
-	{
-		"title":"On the vital importance of one’s mind’s training being G R A D U A L",
-		"series":"Sati Center",
-		"url":"/20164/20240410-Bhikkhu_Sambodhi-sati-on_the_vital_importance_of_one_s_mind_s_training_being_g_r_a_d_u_a_l.mp3",
-		"ln":"en",
-		"download_url":"/20164/20240410-Bhikkhu_Sambodhi-sati-on_the_vital_importance_of_one_s_mind_s_training_being_g_r_a_d_u_a_l.mp3",
-		"speaker":"Bhikkhu Sambodhi",
-		"date":"2024.04.10",
-		"duration":"1:22:37"
-	},
-	{
-		"title":"Dharmette: Four Inspirational Blessings (3 of 5) Cultivating Relinquishment",
-		"series":"Four Inspirational Blessings",
-		"url":"/20155/20240410-Kim_Allen-IMC-four_inspirational_blessings_3_of_5_dharmette_cultivating_relinquishment.mp3",
-		"ln":"en",
-		"download_url":"/20155/20240410-Kim_Allen-IMC-four_inspirational_blessings_3_of_5_dharmette_cultivating_relinquishment.mp3",
-		"speaker":"Kim Allen",
-		"date":"2024.04.10",
-		"duration":"17:13"
-	},
-	{
-		"title":"Guided Meditation: Letting Be and Letting Go",
-		"series":"Guided Meditations",
-		"url":"/20154/20240410-Kim_Allen-IMC-four_inspirational_blessings_3_of_5_guided_meditation_letting_be_and_letting_go.mp3",
-		"ln":"en",
-		"download_url":"/20154/20240410-Kim_Allen-IMC-four_inspirational_blessings_3_of_5_guided_meditation_letting_be_and_letting_go.mp3",
-		"speaker":"Kim Allen",
-		"date":"2024.04.10",
-		"duration":"30:36"
-	},
-	{
-		"title":"Wise Effort (Part 3 of 3) | Cultivating Wholesomeness",
-		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
-		"url":"/20150/20240409-Marjolein_Janssen-IMC-wise_effort_part_3_of_3_cultivating_wholesomeness.mp3",
-		"ln":"en",
-		"download_url":"/20150/20240409-Marjolein_Janssen-IMC-wise_effort_part_3_of_3_cultivating_wholesomeness.mp3",
-		"speaker":"Marjolein Janssen",
-		"date":"2024.04.09",
-		"duration":"21:51"
-	},
-	{
-		"title":"Guided Meditation: Noticing Wholesomeness",
-		"series":"Guided Meditations",
-		"url":"/20149/20240409-Marjolein_Janssen-IMC-guided_meditation_noticing_wholesomeness.mp3",
-		"ln":"en",
-		"download_url":"/20149/20240409-Marjolein_Janssen-IMC-guided_meditation_noticing_wholesomeness.mp3",
-		"speaker":"Marjolein Janssen",
-		"date":"2024.04.09",
-		"duration":"33:59"
-	},
-	{
-		"title":"Dharmette: Four Inspirational Blessings (2 of 5) Preserving Truth",
-		"series":"Four Inspirational Blessings",
-		"url":"/20152/20240409-Kim_Allen-IMC-dharmette_preserving_truth.mp3",
-		"ln":"en",
-		"download_url":"/20152/20240409-Kim_Allen-IMC-dharmette_preserving_truth.mp3",
-		"speaker":"Kim Allen",
-		"date":"2024.04.09",
-		"duration":"16:12"
-	},
-	{
-		"title":"Guided Meditation: Sitting in Deep Honesty",
-		"series":"Guided Meditations",
-		"url":"/20153/20240409-Kim_Allen-IMC-four_inspirational_blessings_2_of_5_guided_meditation_sitting_in_deep_honesty.mp3",
-		"ln":"en",
-		"download_url":"/20153/20240409-Kim_Allen-IMC-four_inspirational_blessings_2_of_5_guided_meditation_sitting_in_deep_honesty.mp3",
-		"speaker":"Kim Allen",
-		"date":"2024.04.09",
-		"duration":"31:32"
-	},
-	{
-		"title":"Coming Home to Oneself",
-		"series":"",
-		"url":"/20148/20240408-Diana_Clark-IMC-coming_home_to_oneself.mp3",
-		"ln":"en",
-		"download_url":"/20148/20240408-Diana_Clark-IMC-coming_home_to_oneself.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.08",
-		"duration":"48:27"
-	},
-	{
-		"title":"Happy Hour: Awe, Sympathetic Joy, Equanimity, and Gratitude Through the Lens of the Total Eclipse",
-		"series":"",
-		"url":"/20146/20240408-Nikki_Mirghafori-IMC-happy_hour_awe_sympathetic_joy_equanimity_and_gratitude_through_the_lens_of_total_eclipse.mp3",
-		"ln":"en",
-		"download_url":"/20146/20240408-Nikki_Mirghafori-IMC-happy_hour_awe_sympathetic_joy_equanimity_and_gratitude_through_the_lens_of_total_eclipse.mp3",
-		"speaker":"Nikki Mirghafori",
-		"date":"2024.04.08",
-		"duration":"45:48"
-	},
-	{
-		"title":"Dharmette: Four Inspirational Blessings (1 of 5) Not Neglecting Wisdom",
-		"series":"Four Inspirational Blessings",
-		"url":"/20145/20240408-Kim_Allen-IMC-dharmette_not_neglecting_wisdom.mp3",
-		"ln":"en",
-		"download_url":"/20145/20240408-Kim_Allen-IMC-dharmette_not_neglecting_wisdom.mp3",
-		"speaker":"Kim Allen",
-		"date":"2024.04.08",
-		"duration":"18:07"
-	},
-	{
-		"title":"Guided Meditation: Making Beneficial Distinctions",
-		"series":"Guided Meditations",
-		"url":"/20144/20240408-Kim_Allen-IMC-four_inspirational_blessings_1_of_5_guided_meditation_making_beneficial_distinctions.mp3",
-		"ln":"en",
-		"download_url":"/20144/20240408-Kim_Allen-IMC-four_inspirational_blessings_1_of_5_guided_meditation_making_beneficial_distinctions.mp3",
-		"speaker":"Kim Allen",
-		"date":"2024.04.08",
-		"duration":"30:34"
-	},
-	{
-		"title":"The Body: Cave of Wonders",
-		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
-		"url":"/20141/20240407-Gil_Fronsdal-IMC-the_body_cave_of_wonders.mp3",
-		"ln":"en",
-		"download_url":"/20141/20240407-Gil_Fronsdal-IMC-the_body_cave_of_wonders.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.04.07",
-		"duration":"46:17"
-	},
-	{
-		"title":"Dharmette: Working with the Inner Critic (5 of 5) The Clash of the Critic and the Candid",
-		"series":"Working with the Inner Critic",
-		"url":"/20128/20240405-Diana_Clark-IMC-dharmette_the_inner_critic_5_of_5_the_clash_of_the_critic_and_the_candid.mp3",
-		"ln":"en",
-		"download_url":"/20128/20240405-Diana_Clark-IMC-dharmette_the_inner_critic_5_of_5_the_clash_of_the_critic_and_the_candid.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.05",
-		"duration":"23:23"
-	},
-	{
-		"title":"Guided Meditation: The Inner Critic (5)",
-		"series":"Guided Meditations",
-		"url":"/20127/20240405-Diana_Clark-IMC-guided_meditation_the_inner_critic_5_of_5.mp3",
-		"ln":"en",
-		"download_url":"/20127/20240405-Diana_Clark-IMC-guided_meditation_the_inner_critic_5_of_5.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.05",
-		"duration":"26:45"
-	},
-	{
-		"title":"Dharmette: Working with the Inner Critic (4 of 5) Detrimental Dedication to the Critic",
-		"series":"Working with the Inner Critic",
-		"url":"/20124/20240404-Diana_Clark-IMC-dharmette_the_inner_critic_4_of_5_detrimental_dedication_to_the_critic.mp3",
-		"ln":"en",
-		"download_url":"/20124/20240404-Diana_Clark-IMC-dharmette_the_inner_critic_4_of_5_detrimental_dedication_to_the_critic.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.04",
-		"duration":"20:26"
-	},
-	{
-		"title":"Guided Meditation: The Inner Critic (4)",
-		"series":"Guided Meditations",
-		"url":"/20123/20240404-Diana_Clark-IMC-guided_meditation_the_inner_critic_4_of_5.mp3",
-		"ln":"en",
-		"download_url":"/20123/20240404-Diana_Clark-IMC-guided_meditation_the_inner_critic_4_of_5.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.04",
-		"duration":"29:07"
-	},
-	{
-		"title":"Dharmette: New Questions",
-		"series":"Wednesday Evening with Matthew Brensilver",
-		"url":"/20106/20240403-Matthew_Brensilver-IMC-dharmette_new_questions.mp3",
-		"ln":"en",
-		"download_url":"/20106/20240403-Matthew_Brensilver-IMC-dharmette_new_questions.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2024.04.03",
-		"duration":"14:24"
 	}
 	]
 }

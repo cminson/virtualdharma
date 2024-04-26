@@ -254,6 +254,12 @@ def getTMPPath(talk):
     return PATH_TMP_FILES
 
 
+def getTMPFile(file_name):
+
+    path_tmp_file = os.path.join(PATH_TMP_FILES, file_name)
+    return path_tmp_file
+
+
 def getRawTranscriptPath(talk):
 
     file_mp3 = os.path.basename(talk['url'])
