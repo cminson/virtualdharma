@@ -1,6 +1,36 @@
 {
 	"talks":[
 	{
+		"title":"Inclining the Mind Toward Peace: Seeing Impermanence",
+		"series":"",
+		"url":"/20249/20240425-Ari_Crellin-Quick-IMC-inclining_the_mind_toward_peace_seeing_impermanence.mp3",
+		"ln":"en",
+		"download_url":"/20249/20240425-Ari_Crellin-Quick-IMC-inclining_the_mind_toward_peace_seeing_impermanence.mp3",
+		"speaker":"Ari Crellin-Quick",
+		"date":"2024.04.25",
+		"duration":"28:42"
+	},
+	{
+		"title":"Guided Meditation: An Unentangled Knowing of Change",
+		"series":"Guided Meditations",
+		"url":"/20248/20240425-Ari_Crellin-Quick-IMC-guided_meditation_an_unentangled_knowing_of_change.mp3",
+		"ln":"en",
+		"download_url":"/20248/20240425-Ari_Crellin-Quick-IMC-guided_meditation_an_unentangled_knowing_of_change.mp3",
+		"speaker":"Ari Crellin-Quick",
+		"date":"2024.04.25",
+		"duration":"32:35"
+	},
+	{
+		"title":"Trust",
+		"series":"",
+		"url":"/20247/20240425-Tanya_Wiser-IMC-trust.mp3",
+		"ln":"en",
+		"download_url":"/20247/20240425-Tanya_Wiser-IMC-trust.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2024.04.25",
+		"duration":"35:01"
+	},
+	{
 		"title":"Dharmette: Ten Reflections (4 of 10) Autonomy",
 		"series":"Session 7",
 		"url":"/20243/20240425-Gil_Fronsdal-IMC-dharmette_ten_reflections_4_of_10_autonomy.mp3",
@@ -449,36 +479,6 @@
 		"speaker":"Tanya Wiser",
 		"date":"2024.04.11",
 		"duration":"28:01"
-	},
-	{
-		"title":"Dharmette: Four Inspirational Blessings (4 of 5) Training for Peace",
-		"series":"Four Inspirational Blessings",
-		"url":"/20162/20240411-Kim_Allen-IMC-dharmette_four_inspirational_blessings_4_of_5_training_for_peace.mp3",
-		"ln":"en",
-		"download_url":"/20162/20240411-Kim_Allen-IMC-dharmette_four_inspirational_blessings_4_of_5_training_for_peace.mp3",
-		"speaker":"Kim Allen",
-		"date":"2024.04.11",
-		"duration":"14:24"
-	},
-	{
-		"title":"Guided Meditation: Opening to Peace",
-		"series":"Guided Meditations",
-		"url":"/20161/20240411-Kim_Allen-IMC-guided_meditation_opening_to_peace.mp3",
-		"ln":"en",
-		"download_url":"/20161/20240411-Kim_Allen-IMC-guided_meditation_opening_to_peace.mp3",
-		"speaker":"Kim Allen",
-		"date":"2024.04.11",
-		"duration":"30:47"
-	},
-	{
-		"title":"Dharmette: Becoming Unintimidated by Suffering",
-		"series":"Wednesday Evening with Matthew Brensilver",
-		"url":"/20160/20240410-Matthew_Brensilver-IMC-dharmette_becoming_unintimidated_by_suffering.mp3",
-		"ln":"en",
-		"download_url":"/20160/20240410-Matthew_Brensilver-IMC-dharmette_becoming_unintimidated_by_suffering.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2024.04.10",
-		"duration":"13:44"
 	}
 	]
 }

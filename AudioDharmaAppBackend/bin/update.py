@@ -33,7 +33,8 @@ ServerSocket = None
 HOST = '127.0.0.1'  
 PORT = 12345        
 
-AUDIO_MAX_WHISPER_DURATION = 30 * 60 * 1000  # Convert 30 minutes to milliseconds
+MS_IN_MINUTES = 60 * 1000
+AUDIO_MAX_WHISPER_DURATION = 15 * MS_IN_MINUTES
 
 
 
@@ -57,7 +58,6 @@ def talk_download(source_url, path_mp3):
 
     LOG(f'downloading: {source_url} to {path_mp3}')
     if path.exists(path_mp3):
-        LOG('mp3 exists')
         return True
 
     try:
@@ -72,7 +72,7 @@ def talk_download(source_url, path_mp3):
         CountDownloads += 1
 
     time.sleep(5.0)
-    LOG(f'downloaded: {path_mp3}')
+    LOG(f'Downloaded: {path_mp3}')
 
     return True
 
@@ -97,31 +97,33 @@ def talk_transcribe(path_mp3, path_raw_transcript):
         # Write the transcription to a file
         with open(path_raw_transcript, 'w') as fd:
             fd.write(text)
-
-    except whisper.WhisperException as we:
-        print(f"Whisper-specific error occurred: {we}")
     except Exception as e:
-        print(f"An unexpected error occurred: {e}")
+        LOG(f"Transcription Error: {e}")
     finally:
-        print("Attempt to transcribe has finished.")
+        LOG("Transcription Complete.")
 
 
     time_end = time.time()
+    time_execution = time_end - time_start
     minutes = round(time_execution / 60)
     LOG(f'execution time: {minutes} minutes')
 
 
-def split_mp3(file_path, duration):
+#
+# solit the mp3 at path_mp3 into chunks, each of AUDIO_MAX_WHISPER_DURATION length
+#
+def split_mp3(path_mp3, duration):
 
     list_mp3_chunks = [] 
 
+    # get the number of required mp3 chunk segments
     chunk_count = int(duration / AUDIO_MAX_WHISPER_DURATION)
     remainder = int(duration % AUDIO_MAX_WHISPER_DURATION)
 
     # Filename processing
-    base_name = file_path.rsplit('.', 1)[0]
+    base_name = path_mp3.rsplit('.', 1)[0]
 
-    # Create chunks and export
+    # Create the chunks and save them
     for i in range(chunk_count):
 
         path_mp3_chunk = f"{base_name}{i + 1}.mp3"
@@ -130,6 +132,7 @@ def split_mp3(file_path, duration):
         end_time = start_time + AUDIO_MAX_WHISPER_DURATION
         chunk = audio[start_time:end_time]
 
+        LOG(f"saving chunk: {path_mp3_chunk}")
         chunk.export(path_mp3_chunk, format="mp3")
 
         list_mp3_chunks.append(path_mp3_chunk)
@@ -142,6 +145,7 @@ def split_mp3(file_path, duration):
         start_time = chunk_count * AUDIO_MAX_WHISPER_DURATION
         chunk = audio[start_time:]
 
+        LOG(f"saving chunk: {path_mp3_chunk}")
         chunk.export(path_mp3_chunk, format="mp3")
 
         list_mp3_chunks.append(path_mp3_chunk)
@@ -171,7 +175,6 @@ for talk in list_talks:
 
     title = talk['title']
     url = talk['url']
-    duration = talk['duration']
 
     source_url= getTalkURL(talk)
     path_mp3 = getMP3Path(talk)
@@ -183,7 +186,7 @@ for talk in list_talks:
         print(f'skipping: {path_raw_transcript}')
         continue
 
-    # download it
+    # download the mp3
     if not talk_download(source_url, path_mp3):
         continue
 
@@ -192,13 +195,13 @@ for talk in list_talks:
     LOG(f"duration: {round(duration / 60000)}")
 
     if duration < AUDIO_MAX_WHISPER_DURATION:
-        LOG("Duration is less than AUDIO_MAX_WHISPER_DURATION")
+        LOG(f"Duration is less than {AUDIO_MAX_WHISPER_DURATION / MS_IN_MINUTES}")
 
         talk_transcribe(path_mp3, path_raw_transcript)
 
     else:
 
-        LOG("Duration is greater than AUDIO_MAX_WHISPER_DURATION")
+        LOG(f"Duration is greater than {AUDIO_MAX_WHISPER_DURATION / MS_IN_MINUTES}")
         
         list_txt_chunks = []
         list_mp3_chunks = split_mp3(path_mp3, duration)
@@ -209,21 +212,23 @@ for talk in list_talks:
             path_tmp_file = path_tmp_file.replace(".mp3", ".txt")
             list_txt_chunks.append(path_tmp_file)
 
-            print(path_mp3_chunk, path_tmp_file)
             talk_transcribe(path_mp3_chunk, path_tmp_file)
 
 
+        transcript_text = ""
+        for file_path in list_txt_chunks:
+            with open(file_path, 'r') as fd:
+                LOG(f"reading transcript chunk: {file_path}")
+                chunk_text = fd.read()
+                transcript_text = transcript_text + " " + chunk_text
+
         LOG(f"writing transcript chunks to {path_raw_transcript}")
-        with open(path_raw_transcript, 'w') as outfile:
-            for file_path in list_txt_chunks:
-                with open(file_path, 'r') as infile:
-                    file_content = infile.read()
-                    outfile.write(file_content)
-                    #outfile.write("\n")
+        with open(path_raw_transcript, 'w') as fd:
+            fd.write(transcript_text)
 
 
     # for now, just one transcript per run!
-    #break
+    break
 
 
 LOG(f'complete')
