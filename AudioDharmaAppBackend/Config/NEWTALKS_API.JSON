@@ -1,6 +1,36 @@
 {
 	"talks":[
 	{
+		"title":"Reference points for practice",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/20264/20240428-Gil_Fronsdal-IMC-reference_points_for_practice.mp3",
+		"ln":"en",
+		"download_url":"/20264/20240428-Gil_Fronsdal-IMC-reference_points_for_practice.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.28",
+		"duration":"28:56"
+	},
+	{
+		"title":"Dharmette: Ten Reflections (5 of 10) Identity",
+		"series":"Ten Reflections",
+		"url":"/20252/20240426-Gil_Fronsdal-IMC-dharmette_ten_reflections_5_of_10_identity.mp3",
+		"ln":"en",
+		"download_url":"/20252/20240426-Gil_Fronsdal-IMC-dharmette_ten_reflections_5_of_10_identity.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.26",
+		"duration":"14:17"
+	},
+	{
+		"title":"Guided Meditation: Confidence",
+		"series":"Guided Meditations",
+		"url":"/20251/20240426-Gil_Fronsdal-IMC-guided_meditaiton_confidence.mp3",
+		"ln":"en",
+		"download_url":"/20251/20240426-Gil_Fronsdal-IMC-guided_meditaiton_confidence.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.26",
+		"duration":"31:40"
+	},
+	{
 		"title":"Inclining the Mind Toward Peace: Seeing Impermanence",
 		"series":"",
 		"url":"/20249/20240425-Ari_Crellin-Quick-IMC-inclining_the_mind_toward_peace_seeing_impermanence.mp3",
@@ -8,7 +38,7 @@
 		"download_url":"/20249/20240425-Ari_Crellin-Quick-IMC-inclining_the_mind_toward_peace_seeing_impermanence.mp3",
 		"speaker":"Ari Crellin-Quick",
 		"date":"2024.04.25",
-		"duration":"28:42"
+		"duration":"28:27"
 	},
 	{
 		"title":"Guided Meditation: An Unentangled Knowing of Change",
@@ -439,46 +469,6 @@
 		"speaker":"Tanya Wiser",
 		"date":"2024.04.14",
 		"duration":"41:51"
-	},
-	{
-		"title":"Introduction to Buddhist Chaplaincy",
-		"series":"",
-		"url":"/20180/20240413-Jennifer_Block-sati-introduction_to_buddhist_chaplaincy.mp3",
-		"ln":"en",
-		"download_url":"/20180/20240413-Jennifer_Block-sati-introduction_to_buddhist_chaplaincy.mp3",
-		"speaker":"<multiple>",
-		"date":"2024.04.13",
-		"duration":"2:48:46"
-	},
-	{
-		"title":"Dharmette: Four Inspirational Blessings (5 of 5) Inspirational Blessings",
-		"series":"Four Inspirational Blessings",
-		"url":"/20166/20240412-Kim_Allen-IMC-dharmette_four_inspirational_blessings_5_of_5_inspirational_blessings.mp3",
-		"ln":"en",
-		"download_url":"/20166/20240412-Kim_Allen-IMC-dharmette_four_inspirational_blessings_5_of_5_inspirational_blessings.mp3",
-		"speaker":"Kim Allen",
-		"date":"2024.04.12",
-		"duration":"10:15"
-	},
-	{
-		"title":"Guided Meditation: Blessing of Just Doing the Practice",
-		"series":"Guided Meditations",
-		"url":"/20165/20240412-Kim_Allen-IMC-guided_meditation_blessing_of_just_doing_the_practice.mp3",
-		"ln":"en",
-		"download_url":"/20165/20240412-Kim_Allen-IMC-guided_meditation_blessing_of_just_doing_the_practice.mp3",
-		"speaker":"Kim Allen",
-		"date":"2024.04.12",
-		"duration":"29:53"
-	},
-	{
-		"title":"Wise Intention",
-		"series":"",
-		"url":"/20163/20240411-Tanya_Wiser-IMC-wise_intention.mp3",
-		"ln":"en",
-		"download_url":"/20163/20240411-Tanya_Wiser-IMC-wise_intention.mp3",
-		"speaker":"Tanya Wiser",
-		"date":"2024.04.11",
-		"duration":"28:01"
 	}
 	]
 }

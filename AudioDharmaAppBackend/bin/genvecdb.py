@@ -24,6 +24,8 @@ from common import VECTOR_COLLECTION_AD_KEYS, VECTOR_COLLECTION_AD_SPEAKERS, VEC
 VECTOR_SIZE = 384  # vector length of all-MiniLM-L6-v2
 BATCH_SIZE = 100
 
+MAX_TALKS_TO_VECTORIZE = 200
+
 
 MP3TalkDict ={}
 ListKeyText = []
@@ -50,7 +52,7 @@ def collectionExists(name_collection):
 LOG('gendb starts')
 
 
-ResetCollections = True
+ResetCollections = False
 
 VectorDB = QdrantClient(host="localhost", port=QDRANT_SERVER_PORT)
 VectorizatonModel = SentenceTransformer('all-MiniLM-L6-v2', device='cuda' if torch.cuda.is_available() else 'cpu')  
@@ -63,6 +65,7 @@ if ResetCollections:
         collection_name=VECTOR_COLLECTION_AD_KEYS,
         vectors_config=VectorParams(size=VECTOR_SIZE, distance=Distance.COSINE)
     )
+    """
     LOG(f'creating collection: {VECTOR_COLLECTION_AD_SPEAKERS}')
     VectorDB.recreate_collection(
         collection_name=VECTOR_COLLECTION_AD_SPEAKERS,
@@ -73,6 +76,7 @@ if ResetCollections:
         collection_name=VECTOR_COLLECTION_AD_SERIES,
         vectors_config=VectorParams(size=VECTOR_SIZE, distance=Distance.COSINE)
     )
+    """
     LOG(f'creating collection: {VECTOR_COLLECTION_CACHED_SUMMARIES}')
     VectorDB.recreate_collection(
         collection_name=VECTOR_COLLECTION_CACHED_SUMMARIES,
@@ -80,6 +84,7 @@ if ResetCollections:
     )
 
 
+"""
 list_speaker = []
 list_speaker_key = []
 for speaker, list_talks in getAllSpeakers():
@@ -128,6 +133,7 @@ for i in range(0, num_vectors, BATCH_SIZE):
         collection_name=VECTOR_COLLECTION_AD_SPEAKERS,
         points=batch_points
     )
+"""
 
 
 #DEV 
@@ -164,7 +170,7 @@ set_vectors = set()
 dict_vectors = {}
 list_talks = []
 
-all_talks = getAllTalks()
+all_talks = getAllTalks()[0:MAX_TALKS_TO_VECTORIZE]
 for talk in all_talks:
 
     url = talk['url']

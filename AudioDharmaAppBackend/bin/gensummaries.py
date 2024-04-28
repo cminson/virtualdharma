@@ -250,97 +250,9 @@ def make_brief_text(summary):
 
 #
 # Main
-# Generate summaries for: speakers, series, and talks
 #
 LOG(f'gensummaries begins')
 OPENAI_API_KEY = configureOpenAIKey()
-
-#
-# generate summaries for every speaker
-#
-"""
-LOG('generating speaker summaries')
-
-for idx, (speaker, list_talks) in enumerate(getAllSpeakers()):
-
-    biography_text = getBiographyText(speaker)
-    path_summary_long = getSpeakerSummaryPath(speaker, '.long')
-    path_summary_short = getSpeakerSummaryPath(speaker, '.short')
-    path_summary_key = getSpeakerSummaryPath(speaker, '.key')
-
-    # output long and short descriptions of speaker
-    if not os.path.exists(path_summary_long) or os.path.getsize(path_summary_long) == 0: 
-        summary_text_long = genSummarySpeaker(speaker, biography_text, SUMMARIZATION_SIZE_LONG)
-        with open(path_summary_long, 'w') as fd:
-            fd.write(summary_text_long)
-
-    if not os.path.exists(path_summary_short) or os.path.getsize(path_summary_short) == 0: 
-        summary_text_short = genSummarySpeaker(speaker, biography_text, SUMMARIZATION_SIZE_SHORT)
-        with open(path_summary_short, 'w') as fd:
-            fd.write(summary_text_short)
-
-    # 
-    # if a speaker has a biography, then that biography is the key
-    # if no biography, we use  MIN_TALKS_ACTIVE_SPEAKER recent talks instead
-    # lastly, if any speaker has more than MIN_TALKS_ACTIVE_SPEAKER, mark them
-    # as an active speaker.  store the result in the data summary directory
-    #
-    if biography_text:
-        # remove two first words from the biography, as those are the name (or close enough),
-        # and we don't want to key on speaker names, but only their talk content
-        words = biography_text.split()
-        key_text = ' '.join(words[2:])
-    else:
-        key_text = ''
-        for talk in list_talks[:MIN_TALKS_ACTIVE_SPEAKER]:
-            path_summary_brief = getTalkSummaryPath(talk, '.brief')
-            with open(path_summary_brief, 'r') as fd:
-                summary = fd.read()
-                key_text = f'{key_text} {summary} '
-
-    if len(list_talks) >= MIN_TALKS_ACTIVE_SPEAKER:
-        key_text =  f'{key_text} {META_ACTIVE_SPEAKER}'
-
-    with open(path_summary_key, 'w') as fd:
-        fd.write(key_text)
-
-
-#
-# generate summaries for every series
-#
-LOG('generating series summaries')
-
-for series, list_talks in getAllSeries():
-
-    all_summary_text = summary_text = ''
-
-    # get most-recent N long summaries
-    for talk in list_talks[:10]:
-
-        path_summary_long = getTalkSummaryPath(talk, '.long')
-        if not os.path.exists(path_summary_long): continue
-        with open(path_summary_long) as fd:
-            summary_text = fd.read()
-        all_summary_text += summary_text
-
-
-    text = all_summary_text
-    path_summary_long = getSeriesSummaryPath(series, '.long')
-    path_summary_short = getSeriesSummaryPath(series, '.short')
-
-    if not os.path.exists(path_summary_long):
-        summary_text_long = genSummarySeries(series, text, SUMMARIZATION_SIZE_LONG)
-        with open(path_summary_long, 'w') as fd:
-            print("Creating: ", path_summary_long)
-            fd.write(summary_text_long)
-
-    if not os.path.exists(path_summary_short):
-        summary_text_short = genSummarySeries(series, text, SUMMARIZATION_SIZE_SHORT)
-        with open(path_summary_short, 'w') as fd:
-            print("Creating: ", path_summary_short)
-            fd.write(summary_text_short)
-
-"""
 
 #
 # generate summaries for every talk
@@ -419,7 +331,9 @@ for talk in list_talks:
         text = text[0:MAX_TEXT_SIZE]
     try:
         summary = genSummary(path_talk_short, text, SUMMARIZATION_SIZE_SHORT)
-        if summary == None: continue
+        if summary == None: 
+            summary = "No summary available"
+
         prefix = "This text"
         if summary.startswith(prefix):
             summary =  summary[len(prefix):]
@@ -441,7 +355,9 @@ for talk in list_talks:
         print("ERROR: Going to MIN Text Window")
         text = text[0:(MIN_TEXT_SIZE)]
         summary = genSummary(path_talk_short, text, SUMMARIZATION_SIZE_SHORT)
-        if summary == None: continue
+        if summary == None: 
+            print("No summary available")
+            summary = "No summary available"
 
         prefix = "This text"
         if summary.startswith(prefix):
@@ -477,8 +393,6 @@ for talk in list_talks:
 LOG('generate brief and key summaries')
 for talk in list_talks:
 
-    print(talk['title'])
-    print(talk['date'])
     path_summary_long = getTalkSummaryPath(talk, '.long')
     path_summary_short = getTalkSummaryPath(talk, '.short')
     path_summary_brief = getTalkSummaryPath(talk, '.brief')
@@ -501,12 +415,6 @@ for talk in list_talks:
 
     with open(path_summary_brief, 'w') as fd:
         fd.write(summary)
-
-    """
-    with open(path_summary_long, 'r') as fd:
-        key_text = fd.read()
-    key_text = filter_common_words(key_text)
-    """
 
     key_text = filter_common_words(summary)
     title = talk['title']
