@@ -9,6 +9,6 @@
 cd /var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/bin
 ./gentranscripts.py
 ./gensummaries.py
-./gentalks.py
+#./gentalks.py
 ./genvecdb.py 
 ./gensimilar.py

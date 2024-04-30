@@ -65,7 +65,6 @@ FILTER_WORDS = set(['shares', 'discuss', 'emphasizes', 'tell', 'gap', 'conductin
 
 def LOG(text):
 
-    #now = datetime.datetime.now()
     #date_time_str = now.strftime("%Y-%m-%d %H:%M:%S")
 
     print(text)
@@ -217,7 +216,7 @@ def getIndexPath(name, section):
     return path_index
 
 
-def getTalkPath(file_mp3):
+def xgetTalkPath(file_mp3):
 
     talk_name = 'talk.' + file_mp3.replace('.mp3', '.json')
     path_talk = os.path.join(PATH_TALK_FILES, talk_name)
@@ -446,7 +445,7 @@ def is_port_available(host, port):
 #
 # Main
 #
-logging.basicConfig(filename=PATH_AUDIODHARMA_LOG,  level=logging.INFO, format='%(asctime)s - %(message)s')
+logging.basicConfig(filename=PATH_AUDIODHARMA_LOG,  level=logging.INFO, format='%(asctime)s - %(message)s', datefmt='%H:%M:%S')
 DictRankedTalks = loadRankedTalksDict()
 DictRuleActions = loadRuleActions()
 

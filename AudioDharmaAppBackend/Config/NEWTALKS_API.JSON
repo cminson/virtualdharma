@@ -1,7 +1,67 @@
 {
 	"talks":[
 	{
-		"title":"Reference points for practice",
+		"title":"Dharmette: Ten Reflections (7 of 10) Community",
+		"series":"",
+		"url":"/20270/20240430-Gil_Fronsdal-IMC-dharmette_ten_reflections_7_of_10_community.mp3",
+		"ln":"en",
+		"download_url":"/20270/20240430-Gil_Fronsdal-IMC-dharmette_ten_reflections_7_of_10_community.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.30",
+		"duration":"16:52"
+	},
+	{
+		"title":"Guided Meditation: Happiness",
+		"series":"Guided Meditations",
+		"url":"/20269/20240430-Gil_Fronsdal-IMC-guided_meditation_happiness.mp3",
+		"ln":"en",
+		"download_url":"/20269/20240430-Gil_Fronsdal-IMC-guided_meditation_happiness.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.30",
+		"duration":"29:31"
+	},
+	{
+		"title":"The Power of Reflection",
+		"series":"",
+		"url":"/20268/20240429-Diana_Clark-IMC-the_power_of_reflection.mp3",
+		"ln":"en",
+		"download_url":"/20268/20240429-Diana_Clark-IMC-the_power_of_reflection.mp3",
+		"speaker":"Diana Clark",
+		"date":"2024.04.29",
+		"duration":"42:19"
+	},
+	{
+		"title":"Dharmette:Ten Reflections (6 of 10) Dignity",
+		"series":"",
+		"url":"/20267/20240429-Gil_Fronsdal-IMC-dharmette_ten_reflections_6_of_10_dignity.mp3",
+		"ln":"en",
+		"download_url":"/20267/20240429-Gil_Fronsdal-IMC-dharmette_ten_reflections_6_of_10_dignity.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.29",
+		"duration":"13:52"
+	},
+	{
+		"title":"Guided Meditation: Self-Importance and Self-Non-importance",
+		"series":"Guided Meditations",
+		"url":"/20266/20240429-Gil_Fronsdal-IMC-guided_meditation_self-importance_and_self-non-importance.mp3",
+		"ln":"en",
+		"download_url":"/20266/20240429-Gil_Fronsdal-IMC-guided_meditation_self-importance_and_self-non-importance.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.29",
+		"duration":"31:21"
+	},
+	{
+		"title":"Reference Points for Practice - Q&A",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/20265/20240428-Gil_Fronsdal-IMC-reference_points_for_practice_-_q_a.mp3",
+		"ln":"en",
+		"download_url":"/20265/20240428-Gil_Fronsdal-IMC-reference_points_for_practice_-_q_a.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.04.28",
+		"duration":"14:29"
+	},
+	{
+		"title":"Reference Points for Practice",
 		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
 		"url":"/20264/20240428-Gil_Fronsdal-IMC-reference_points_for_practice.mp3",
 		"ln":"en",
@@ -429,46 +489,6 @@
 		"speaker":"Kim Allen",
 		"date":"2024.04.15",
 		"duration":"42:52"
-	},
-	{
-		"title":"Happy Hour: Holding Peace for Ourselves, Relationships, and the World",
-		"series":"",
-		"url":"/20184/20240415-Nikki_Mirghafori-IMC-happy_hour_holding_peace_for_ourselves_relationships_and_the_world.mp3",
-		"ln":"en",
-		"download_url":"/20184/20240415-Nikki_Mirghafori-IMC-happy_hour_holding_peace_for_ourselves_relationships_and_the_world.mp3",
-		"speaker":"Nikki Mirghafori",
-		"date":"2024.04.15",
-		"duration":"47:23"
-	},
-	{
-		"title":"Dharmette: Dharma Wellbeing (1 of 5): Spiritual Power",
-		"series":"Wellsprings of Dharma Well-Being",
-		"url":"/20183/20240415-Dawn_Neal-IMC-dharmette_spiritual_power.mp3",
-		"ln":"en",
-		"download_url":"/20183/20240415-Dawn_Neal-IMC-dharmette_spiritual_power.mp3",
-		"speaker":"Dawn Neal",
-		"date":"2024.04.15",
-		"duration":"13:45"
-	},
-	{
-		"title":"Guided Meditation: Engaged with the Moment",
-		"series":"Guided Meditations",
-		"url":"/20182/20240415-Dawn_Neal-IMC-guided_meditation_engaged_with_the_moment.mp3",
-		"ln":"en",
-		"download_url":"/20182/20240415-Dawn_Neal-IMC-guided_meditation_engaged_with_the_moment.mp3",
-		"speaker":"Dawn Neal",
-		"date":"2024.04.15",
-		"duration":"31:27"
-	},
-	{
-		"title":"Reactivity and Non Reactivity",
-		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
-		"url":"/20173/20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity.mp3",
-		"ln":"en",
-		"download_url":"/20173/20240414-Tanya_Wiser-IMC-reactivity_and_non_reactivity.mp3",
-		"speaker":"Tanya Wiser",
-		"date":"2024.04.14",
-		"duration":"41:51"
 	}
 	]
 }

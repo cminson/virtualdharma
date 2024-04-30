@@ -24,7 +24,6 @@ VectorizatonModel = SentenceTransformer('all-MiniLM-L6-v2', device='cuda' if tor
 
 count_similar = count_different = 0
 
-LOG('gensimilar generating similar talks')
 for talk in getAllTalks():
 
     title = talk['title']
@@ -34,7 +33,7 @@ for talk in getAllTalks():
     print(path_similar)
     path_summary_key = getTalkSummaryPath(talk, '.key')
     if not os.path.exists(path_summary_key):
-        LOG(f'key not found: {path_summary_key}')
+        print(f'key not found: {path_summary_key}')
         continue
     with open(path_summary_key) as fd:
         key_text = fd.read()

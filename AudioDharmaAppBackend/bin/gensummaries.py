@@ -89,7 +89,7 @@ def genSummary(path_summary, text, size_summarization):
 
     count_bytes = size_summarization * 8
 
-    LOG(f'summarizing: {path_summary}')
+    #LOG(f'summarizing: {path_summary}')
 
     prompt_system = 'You will briefly summarize text. Do not mention the speaker or any personal name.  Do not use the word "speaker". Do not use the word "summary", or any variation of that word. Do not mention Insight Meditation Center.  Do not mention audioderma.org.  Do not mention IMC.  Do not mention audiodharma.org.  Do not mention Redwood City.  Do not mention California.  Do not mention where the talk was given.   Do not mention SATI. Do not mention any website. Do not exceed {size_summarization} words. Do not exceed {count_bytes} characters in the summary'
     prompt_user = f'Summarize the  following text in {size_summarization}  words. Here is the text {text}'
@@ -109,7 +109,7 @@ def genSummary(path_summary, text, size_summarization):
 
 
     summary = response['choices'][0]['message']['content']
-    LOG(summary)
+    #LOG(summary)
     return summary
 
 
@@ -258,12 +258,14 @@ OPENAI_API_KEY = configureOpenAIKey()
 # generate summaries for every talk
 # every talk has a long, short, brief and key summary
 #
-LOG('generating talk summaries ...')
+TotalNewSummariesLong = 0
+TotalNewSummariesShort = 0
+TotalNewSummariesBrief = 0
+TotalNewSummariesKey = 0
 list_talks = getAllTalks()
 count = 0
 
 # generate long summaries
-LOG('generate long summaries')
 for talk in list_talks:
 
     path_transcript = getTranscriptPath(talk)
@@ -311,10 +313,10 @@ for talk in list_talks:
 
     with open(path_talk_long, 'w') as fd:
         fd.write(summary)
+        TotalNewSummariesLong += 1
 
 
 # generate short summaries
-LOG('generate short summaries')
 for talk in list_talks:
 
     path_transcript = getTranscriptPath(talk)
@@ -381,6 +383,7 @@ for talk in list_talks:
     with open(path_talk_short, 'w') as fd:
 
         fd.write(summary)
+        TotalNewSummariesShort += 1
 
 
 
@@ -390,7 +393,6 @@ for talk in list_talks:
 # key summaries are long summaries + data.  it is this text that
 # is then later vectorized for each talk
 #
-LOG('generate brief and key summaries')
 for talk in list_talks:
 
     path_summary_long = getTalkSummaryPath(talk, '.long')
@@ -399,6 +401,7 @@ for talk in list_talks:
     path_summary_key = getTalkSummaryPath(talk, '.key')
 
     if not os.path.exists(path_summary_short): continue 
+    if os.path.exists(path_summary_key): continue 
 
     summary = ''
     key_text = ''
@@ -415,6 +418,7 @@ for talk in list_talks:
 
     with open(path_summary_brief, 'w') as fd:
         fd.write(summary)
+        TotalNewSummariesBrief += 1
 
     key_text = filter_common_words(summary)
     title = talk['title']
@@ -436,9 +440,10 @@ for talk in list_talks:
     with open(path_summary_key, 'w') as fd:
         #print(key_text)
         fd.write(key_text)
+        TotalNewSummariesKey += 1
 
 
-
+LOG(f'New Summaries: Long:  {TotalNewSummariesLong}  Short: {TotalNewSummariesShort}  Brief: {TotalNewSummariesBrief}  Key: {TotalNewSummariesKey}')
 LOG('gensummaries done')
 
 
