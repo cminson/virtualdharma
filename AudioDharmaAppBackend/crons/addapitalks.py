@@ -38,8 +38,8 @@ PATH_TALKS_TOP = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/T
 PATH_TALKS_TRENDING = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP2DAYS.JSON"
 PATH_TALKS_TOP3MONTHS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/TOP90DAYS.JSON"
 
-PATH_ACTIVE_TRANSCRIPTS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/PDF/"
-URL_ACTIVE_TRANSCRIPTS = "http://virtualdharma.org/AudioDharmaAppBackend/data/PDF/"
+PATH_ACTIVE_PDFS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/PDF/"
+URL_ACTIVE_PDFS = "http://virtualdharma.org/AudioDharmaAppBackend/data/PDF/"
 
 PATH_SUMMARIES = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/summaries/"
 
@@ -119,9 +119,9 @@ def first_two_sentences(text):
 
 
 # Build dict of all PDFs.  Any new ones (not in the Config) will get inserted below when we build a new Config
-for pdf in os.listdir(PATH_ACTIVE_TRANSCRIPTS):
+for pdf in os.listdir(PATH_ACTIVE_PDFS):
     mp3 = pdf.replace("pdf", "mp3")
-    MP3ToTranscriptDict[mp3] = URL_ACTIVE_TRANSCRIPTS + pdf
+    MP3ToTranscriptDict[mp3] = URL_ACTIVE_PDFS + pdf
 
 #
 # Step 1:
@@ -260,8 +260,9 @@ for talk in all_talks:
     mp3_file_name = talk["url"].split("/")[-1]
     if mp3_file_name in MP3ToTranscriptDict:
         pdf  = MP3ToTranscriptDict[mp3_file_name]
-        print("TRANSCRIPT: ", mp3_file_name)
+        talk['pdf'] = pdf
         AllTranscriptTalks.append(talk)
+
 
     # detect and record short talks
     hms = talk["duration"].split(':')
