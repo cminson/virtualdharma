@@ -20,7 +20,6 @@ from subprocess import call
 PATH_CRON_SCRIPTS = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/crons"
 PATH_NEW_TALKS_API = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/NEWTALKS_API.JSON"
 PATH_CONFIG_JSON = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/CONFIG00.JSON"
-PATH_AI_CONFIG_JSON = "/var/www/audiodharma/httpdocs/config/ALLTALKS.JSON"
 PATH_CONFIG_ZIP = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Config/CONFIG00.ZIP"
 
 # these must be here so that unzip puts the zip file in a root directory
@@ -345,7 +344,6 @@ call(["zip",PATH_CONFIG_CANDIDATE_ZIP, PATH_CONFIG_CANDIDATE_JSON])
 #
 print("addNewTalks: deploying config")
 shutil.copy(PATH_CONFIG_CANDIDATE_JSON, PATH_CONFIG_JSON)
-shutil.copy(PATH_CONFIG_JSON, PATH_AI_CONFIG_JSON)
 shutil.copy(PATH_CONFIG_CANDIDATE_ZIP, PATH_CONFIG_ZIP)
 
 

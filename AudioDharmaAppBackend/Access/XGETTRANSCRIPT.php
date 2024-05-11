@@ -9,22 +9,25 @@ $PATH_SUMMARY = "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/data/summ
 
 
 $Data = [
-    "summaryLong" => "Summary not yet created. Should be available in next 24 hours ",
-    "transcriptText" => "Transcript not yet created. Should be available in next 24 hours"
+    "summaryLong" => "Summary available soon.",
+    "transcriptText" => "Transcript available soon."
 ];
 
-function mylog($msg)
-{
-    $LOGFILE= "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/Access/ad.log";
 
-    $fp = fopen($LOGFILE, 'a+');
-    fputs($fp, "$msg\n");
-    fclose($fp);
+function LOGGING($msg)
+{
+       $LOGFILE= "/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/LOGS/AD.LOG";
+ 
+      $fp = fopen($LOGFILE, 'a+');
+      fputs($fp, "ACCESS XGETTRANSCRIPT.php: $msg\n");
+      fclose($fp);
 }
+
 
 $json = json_encode($Data);
 
 $Key = $_GET["KEY"];
+LOGGING($Key);
 //$Key = "Gil_101205_Refuges_Wk4Pt2.mp3";
 
 $fileName = "transcript." .str_replace(".mp3", ".txt", $Key);

@@ -1,64 +1,64 @@
 {
 "talks": [
 {
-	"title" : "1. Growing Good Seeds",
-	"url" : "/20279/20240501-Gil_Fronsdal-IMC-growing_good_seeds.mp3",
+	"title" : "1. Dharmette: Coming Home and Leaving Home",
+	"url" : "/20354/20240508-Matthew_Brensilver-IMC-dharmette_coming_home_and_leaving_home.mp3",
 	"series" : "",
-	"score" : 116
+	"score" : 118
 },
 {
-	"title" : "2. Dharmette: Fear and Language",
-	"url" : "/20282/20240501-Matthew_Brensilver-IMC-dharmette_fear_and_language.mp3",
+	"title" : "2. Guided Meditation: The Breath and Awareness dont depend on you",
+	"url" : "/20353/20240508-Matthew_Brensilver-IMC-guided_meditation_the_breath_and_awareness_don_t_depend_on_you.mp3",
 	"series" : "",
-	"score" : 108
+	"score" : 106
 },
 {
-	"title" : "3. Guided Meditation: Love",
-	"url" : "/20276/20240501-Gil_Fronsdal-IMC-guided_meditation_love.mp3",
-	"series" : "",
-	"score" : 101
-},
-{
-	"title" : "4. Guided Meditation: Awareness and Effortlessness",
-	"url" : "/20281/20240501-Matthew_Brensilver-IMC-guided_meditation_awareness_and_effortlessness.mp3",
-	"series" : "",
-	"score" : 66
-},
-{
-	"title" : "5. Dharmette: Ten Reflection (8 of 10) Kinship",
-	"url" : "/20277/20240501-Gil_Fronsdal-IMC-dharmette_ten_reflection_8_of_10_kinship.mp3",
-	"series" : "",
-	"score" : 60
-},
-{
-	"title" : "6. Guided Meditation: Inclusive Awareness",
-	"url" : "/20284/20240502-Gil_Fronsdal-IMC-guided_meditation_inclusive_awareness.mp3",
-	"series" : "",
-	"score" : 55
-},
-{
-	"title" : "7. Dharmette: Ten Reflections (9 of 10) Reconciliation",
-	"url" : "/20283/20240502-Gil_Fronsdal-IMC-dharmette_ten_reflections_9_of_10_reconciliation.mp3",
+	"title" : "3. Guided Meditation: Staying Receptive",
+	"url" : "/20364/20240509-Shelley_Gault-IMC-guided_meditation_staying_receptive.mp3",
 	"series" : "",
 	"score" : 50
 },
 {
-	"title" : "8. Guided Meditation: Happiness",
-	"url" : "/20269/20240430-Gil_Fronsdal-IMC-guided_meditation_happiness.mp3",
+	"title" : "4. Growing Good Seeds",
+	"url" : "/20279/20240501-Gil_Fronsdal-IMC-growing_good_seeds.mp3",
 	"series" : "",
-	"score" : 41
+	"score" : 36
 },
 {
-	"title" : "9. Guided Meditation: Relaxing into Awareness",
-	"url" : "/20271/20240430-Dawn_Neal-IMC-guided_meditation_relaxing_into_awareness.mp3",
+	"title" : "5. Dharmette: Six Qualities of the Dharma (3 of 5) Immediately Effective and Inviting Inspection",
+	"url" : "/20360/20240508-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_3_of_5_immediately_effective_and_inviting_inspection.mp3",
+	"series" : "",
+	"score" : 36
+},
+{
+	"title" : "6. Dharmette: Six Qualities of the Dharma (4 of 5) Onward Leading",
+	"url" : "/20365/20240509-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_4_of_5_onward_leading.mp3",
+	"series" : "",
+	"score" : 34
+},
+{
+	"title" : "7. Guided Meditation: Wholeness",
+	"url" : "/20288/20240503-Gil_Fronsdal-IMC-guided_meditation_wholeness.mp3",
 	"series" : "",
 	"score" : 32
 },
 {
-	"title" : "10. Dharmette: Ten Reflections (5 of 10) Identity",
-	"url" : "/20252/20240426-Gil_Fronsdal-IMC-dharmette_ten_reflections_5_of_10_identity.mp3",
+	"title" : "8. Guided Meditation: Staying Curious",
+	"url" : "/20359/20240508-Shelley_Gault-IMC-guided_meditation_staying_curious.mp3",
 	"series" : "",
-	"score" : 31
+	"score" : 32
+},
+{
+	"title" : "9. Happy Hour: Balance in Compassion",
+	"url" : "/20367/20240509-Liz_Powell-IMC-happy_hour_balance_in_compassion.mp3",
+	"series" : "",
+	"score" : 32
+},
+{
+	"title" : "10. Guided Meditation: Inclusive Awareness",
+	"url" : "/20284/20240502-Gil_Fronsdal-IMC-guided_meditation_inclusive_awareness.mp3",
+	"series" : "",
+	"score" : 29
 }
 ]
 }

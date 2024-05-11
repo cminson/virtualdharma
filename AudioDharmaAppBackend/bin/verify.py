@@ -29,12 +29,20 @@ for talk in getAllTalks():
         errors += 1
         continue
 
+    if not os.path.exists(path_summary_short):
+        print(f'Error: Missing {path_summary_short}')
+        errors += 1
+        continue
     if os.path.getsize(path_summary_short) < 100:
         print(f'rm {path_summary_short}')
         errors += 1
         continue
 
     #if not os.path.exists(path_summary_long): continue
+    if not os.path.exists(path_summary_long):
+        print(f'Error: Missing {path_summary_long}')
+        errors += 1
+        continue
     if os.path.getsize(path_summary_long) < 200:
         print(f'rm {path_summary_long}')
         errors += 1
