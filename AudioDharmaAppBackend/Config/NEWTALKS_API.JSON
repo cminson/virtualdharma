@@ -1,6 +1,56 @@
 {
 	"talks":[
 	{
+		"title":"Steadiness",
+		"series":"",
+		"url":"/20413/20240513-Maria_Straatmann-IMC-steadiness.mp3",
+		"ln":"en",
+		"download_url":"/20413/20240513-Maria_Straatmann-IMC-steadiness.mp3",
+		"speaker":"Maria Straatmann",
+		"date":"2024.05.13",
+		"duration":"41:34"
+	},
+	{
+		"title":"Dharmette: The Buddhas Five Daily Recollections (1 of 5): Aging",
+		"series":"The Buddhas Five Daily Recollections",
+		"url":"/20411/20240513-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_1_of_5_aging.mp3",
+		"ln":"en",
+		"download_url":"/20411/20240513-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_1_of_5_aging.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2024.05.13",
+		"duration":"13:15"
+	},
+	{
+		"title":"Guided Meditation: The Buddhas Five Daily Recollections: Aging",
+		"series":"Guided Meditations",
+		"url":"/20410/20240513-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_aging.mp3",
+		"ln":"en",
+		"download_url":"/20410/20240513-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_aging.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2024.05.13",
+		"duration":"29:51"
+	},
+	{
+		"title":"IN-PERSON TRACK:  Extract of Tanyas Guided Concentration Meditation",
+		"series":"",
+		"url":"/20403/20240512-Tanya_Wiser-IMC_Prog-in-person_track_extract_of_tanya_s_guided_concentration_meditation.mp3",
+		"ln":"en",
+		"download_url":"/20403/20240512-Tanya_Wiser-IMC_Prog-in-person_track_extract_of_tanya_s_guided_concentration_meditation.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2024.05.12",
+		"duration":"35:27"
+	},
+	{
+		"title":"Growing in the Dharma",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/20400/20240512-Tanya_Wiser-IMC-growing_in_the_dharma.mp3",
+		"ln":"en",
+		"download_url":"/20400/20240512-Tanya_Wiser-IMC-growing_in_the_dharma.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2024.05.12",
+		"duration":"45:18"
+	},
+	{
 		"title":"Happy Hour: Compassion for a Stranger",
 		"series":"",
 		"url":"/20387/20240510-Liz_Powell-IMC-happy_hour_compassion_for_a_stranger.mp3",
@@ -429,66 +479,6 @@
 		"speaker":"Gil Fronsdal",
 		"date":"2024.04.30",
 		"duration":"16:52"
-	},
-	{
-		"title":"Guided Meditation: Happiness",
-		"series":"Guided Meditations",
-		"url":"/20269/20240430-Gil_Fronsdal-IMC-guided_meditation_happiness.mp3",
-		"ln":"en",
-		"download_url":"/20269/20240430-Gil_Fronsdal-IMC-guided_meditation_happiness.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.04.30",
-		"duration":"29:31"
-	},
-	{
-		"title":"The Power of Reflection",
-		"series":"",
-		"url":"/20268/20240429-Diana_Clark-IMC-the_power_of_reflection.mp3",
-		"ln":"en",
-		"download_url":"/20268/20240429-Diana_Clark-IMC-the_power_of_reflection.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.04.29",
-		"duration":"42:19"
-	},
-	{
-		"title":"Dharmette:Ten Reflections (6 of 10) Dignity",
-		"series":"Ten Reflections",
-		"url":"/20267/20240429-Gil_Fronsdal-IMC-dharmette_ten_reflections_6_of_10_dignity.mp3",
-		"ln":"en",
-		"download_url":"/20267/20240429-Gil_Fronsdal-IMC-dharmette_ten_reflections_6_of_10_dignity.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.04.29",
-		"duration":"13:52"
-	},
-	{
-		"title":"Guided Meditation: Self-Importance and Self-Non-importance",
-		"series":"Guided Meditations",
-		"url":"/20266/20240429-Gil_Fronsdal-IMC-guided_meditation_self-importance_and_self-non-importance.mp3",
-		"ln":"en",
-		"download_url":"/20266/20240429-Gil_Fronsdal-IMC-guided_meditation_self-importance_and_self-non-importance.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.04.29",
-		"duration":"31:21"
-	},
-	{
-		"title":"Reference Points for Practice - Q&A",
-		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
-		"url":"/20265/20240428-Gil_Fronsdal-IMC-reference_points_for_practice_-_q_a.mp3",
-		"ln":"en",
-		"download_url":"/20265/20240428-Gil_Fronsdal-IMC-reference_points_for_practice_-_q_a.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.04.28",
-		"duration":"14:29"
-	},
-	{
-		"title":"Reference Points for Practice",
-		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
-		"url":"/20264/20240428-Gil_Fronsdal-IMC-reference_points_for_practice.mp3",
-		"ln":"en",
-		"download_url":"/20264/20240428-Gil_Fronsdal-IMC-reference_points_for_practice.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.04.28",
-		"duration":"28:56"
 	}
 	]
 }

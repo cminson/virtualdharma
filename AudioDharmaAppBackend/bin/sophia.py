@@ -41,7 +41,7 @@ from qdrant_client.models import PointStruct
 from sentence_transformers import SentenceTransformer
 from common import ACTIVE_MODEL, QDRANT_SERVER_PORT, SOPHIA_SERVER_PORT, VECTOR_COLLECTION_AD_KEYS, VECTOR_COLLECTION_CACHED_SUMMARIES, PATH_RANKED_TALKS, PATH_KEYWORDS, DictRankedTalks, DictRuleActions, getSpeakerPath, getSeriesPath, filter_common_words, remove_punctuation, remove_last_punctuation, PATH_TRANSCRIPTS
 
-from common import  LOG, configureOpenAIKey,  getTalkNameSimilarPath, getSpeakerSimilarPath,  textToInteger, remove_prefix_from_text, getIndexPath, getTalkPath
+from common import  LOG, configureOpenAIKey,  getTalkNameSimilarPath, getSpeakerSimilarPath,  textToInteger, remove_prefix_from_text, getIndexPath
 
 
 OPENAI_API_KEY = 0  # set via configureOpenAIKey
@@ -233,6 +233,10 @@ def genAIResponse(prompt_system, prompt_user, query, text, key):
 #
 def executeRules(query):
 
+    return None
+
+    """
+    CJM DEV
     query = query.lower()
 
     if query not in DictRuleActions:
@@ -250,6 +254,7 @@ def executeRules(query):
         responseJSON['ai_response'] = ''
 
     return responseJSON
+    """
 
 
 #
@@ -371,8 +376,9 @@ DEBUG = 0
 if DEBUG:
     command = 'GET_EXPLORE'
     query = 'love'
+    query = 'Gils talks'
 
-    output_data = handle_query(command, query, history)
+    output_data = handle_query(command, query, "")
     print(output_data)
     exit()
 

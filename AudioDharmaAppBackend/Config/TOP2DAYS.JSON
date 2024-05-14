@@ -1,64 +1,64 @@
 {
 "talks": [
 {
-	"title" : "1. Dharmette: Coming Home and Leaving Home",
+	"title" : "1. Dharmette: The Buddhas Five Daily Recollections (1 of 5): Aging",
+	"url" : "/20411/20240513-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_1_of_5_aging.mp3",
+	"series" : "",
+	"score" : 92
+},
+{
+	"title" : "2. Growing in the Dharma",
+	"url" : "/20400/20240512-Tanya_Wiser-IMC-growing_in_the_dharma.mp3",
+	"series" : "",
+	"score" : 74
+},
+{
+	"title" : "3. Guided Meditation: The Buddhas Five Daily Recollections: Aging",
+	"url" : "/20410/20240513-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_aging.mp3",
+	"series" : "",
+	"score" : 64
+},
+{
+	"title" : "4. Dharmette: Coming Home and Leaving Home",
 	"url" : "/20354/20240508-Matthew_Brensilver-IMC-dharmette_coming_home_and_leaving_home.mp3",
-	"series" : "",
-	"score" : 118
-},
-{
-	"title" : "2. Guided Meditation: The Breath and Awareness dont depend on you",
-	"url" : "/20353/20240508-Matthew_Brensilver-IMC-guided_meditation_the_breath_and_awareness_don_t_depend_on_you.mp3",
-	"series" : "",
-	"score" : 106
-},
-{
-	"title" : "3. Guided Meditation: Staying Receptive",
-	"url" : "/20364/20240509-Shelley_Gault-IMC-guided_meditation_staying_receptive.mp3",
 	"series" : "",
 	"score" : 50
 },
 {
-	"title" : "4. Growing Good Seeds",
-	"url" : "/20279/20240501-Gil_Fronsdal-IMC-growing_good_seeds.mp3",
+	"title" : "5. Guided Meditation: Keeping the Balance",
+	"url" : "/20388/20240510-Shelley_Gault-IMC-guided_meditation_keeping_the_balance.mp3",
 	"series" : "",
-	"score" : 36
+	"score" : 46
 },
 {
-	"title" : "5. Dharmette: Six Qualities of the Dharma (3 of 5) Immediately Effective and Inviting Inspection",
-	"url" : "/20360/20240508-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_3_of_5_immediately_effective_and_inviting_inspection.mp3",
+	"title" : "6. Guided Meditation: The Breath and Awareness dont depend on you",
+	"url" : "/20353/20240508-Matthew_Brensilver-IMC-guided_meditation_the_breath_and_awareness_don_t_depend_on_you.mp3",
 	"series" : "",
-	"score" : 36
+	"score" : 46
 },
 {
-	"title" : "6. Dharmette: Six Qualities of the Dharma (4 of 5) Onward Leading",
-	"url" : "/20365/20240509-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_4_of_5_onward_leading.mp3",
+	"title" : "7. Steadiness",
+	"url" : "/20413/20240513-Maria_Straatmann-IMC-steadiness.mp3",
+	"series" : "",
+	"score" : 40
+},
+{
+	"title" : "8. Dharmette: Six Qualities of the Dharma (5 of 5) To be Realized by the Wise",
+	"url" : "/20389/20240510-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_5_of_5_to_be_realized_by_the_wise.mp3",
 	"series" : "",
 	"score" : 34
 },
 {
-	"title" : "7. Guided Meditation: Wholeness",
-	"url" : "/20288/20240503-Gil_Fronsdal-IMC-guided_meditation_wholeness.mp3",
+	"title" : "9. Dharmette: Six Qualities of the Dharma (3 of 5) Immediately Effective and Inviting Inspection",
+	"url" : "/20360/20240508-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_3_of_5_immediately_effective_and_inviting_inspection.mp3",
 	"series" : "",
-	"score" : 32
+	"score" : 30
 },
 {
-	"title" : "8. Guided Meditation: Staying Curious",
-	"url" : "/20359/20240508-Shelley_Gault-IMC-guided_meditation_staying_curious.mp3",
+	"title" : "10. Guided Meditation: Staying Receptive",
+	"url" : "/20364/20240509-Shelley_Gault-IMC-guided_meditation_staying_receptive.mp3",
 	"series" : "",
-	"score" : 32
-},
-{
-	"title" : "9. Happy Hour: Balance in Compassion",
-	"url" : "/20367/20240509-Liz_Powell-IMC-happy_hour_balance_in_compassion.mp3",
-	"series" : "",
-	"score" : 32
-},
-{
-	"title" : "10. Guided Meditation: Inclusive Awareness",
-	"url" : "/20284/20240502-Gil_Fronsdal-IMC-guided_meditation_inclusive_awareness.mp3",
-	"series" : "",
-	"score" : 29
+	"score" : 26
 }
 ]
 }
