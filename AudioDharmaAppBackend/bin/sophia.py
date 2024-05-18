@@ -294,6 +294,12 @@ def getExploreTalksJSON(query, _):
     # get all talks that address this query, with relevance scores > MIN_SCORE_THRESHOLD
     list_talks = getVecDBMatchingTalks(query)
     list_talks = [talk for talk in list_talks if talk['score'] > MIN_SCORE_THRESHOLD]
+    if len(list_talks) < 1:
+        list_talks = [talk for talk in list_talks if talk['score'] > MIN_SCORE_THRESHOLD - 0.10]
+    if len(list_talks) < 2:
+        list_talks = [talk for talk in list_talks if talk['score'] > MIN_SCORE_THRESHOLD - 0.10]
+    if len(list_talks) < 3:
+        list_talks = [talk for talk in list_talks if talk['score'] > MIN_SCORE_THRESHOLD - 0.10]
 
     for talk in list_talks:
         print(talk['title'])

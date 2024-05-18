@@ -25,6 +25,7 @@ VECTOR_SIZE = 384  # vector length of all-MiniLM-L6-v2
 BATCH_SIZE = 100
 
 MAX_TALKS_TO_VECTORIZE = 200
+MAX_TALKS_TO_VECTORIZE = -1
 
 
 MP3TalkDict ={}
@@ -82,7 +83,11 @@ set_vectors = set()
 dict_vectors = {}
 list_talks = []
 
-all_talks = getAllTalks()[0:MAX_TALKS_TO_VECTORIZE]
+if MAX_TALKS_TO_VECTORIZE == -1:
+    all_talks = getAllTalks()
+else:
+    all_talks = getAllTalks()[0:MAX_TALKS_TO_VECTORIZE]
+    
 for talk in all_talks:
 
     url = talk['url']

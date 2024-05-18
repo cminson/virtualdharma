@@ -1,64 +1,64 @@
 {
 "talks": [
 {
-	"title" : "1. Guided Meditation: Relax, Receive and Allow",
-	"url" : "/20428/20240515-Andrea_Fella-IMC-guided_meditation_relax_receive_and_allow.mp3",
+	"title" : "1. Dharmette: The Buddhas Five Daily Recollections (3 of 5); Death",
+	"url" : "/20427/20240515-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_3_of_5_death.mp3",
 	"series" : "",
-	"score" : 68
+	"score" : 58
 },
 {
 	"title" : "2. Dharmette: The Buddhas Five Daily Recollections (4 of 5): Losing the Beloved",
 	"url" : "/20436/20240516-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_4_of_5_losing_the_beloved.mp3",
 	"series" : "",
-	"score" : 60
+	"score" : 58
 },
 {
-	"title" : "3. Dharmette: Further Reflections on Relax, Receive and Allow",
-	"url" : "/20429/20240515-Andrea_Fella-IMC-dharmette_further_reflections_on_relax_receive_and_allow.mp3",
+	"title" : "3. Guided Meditation: Relax, Receive and Allow",
+	"url" : "/20428/20240515-Andrea_Fella-IMC-guided_meditation_relax_receive_and_allow.mp3",
 	"series" : "",
-	"score" : 56
+	"score" : 54
 },
 {
-	"title" : "4. Dharmette: The Buddhas Five Daily Recollections (3 of 5); Death",
-	"url" : "/20427/20240515-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_3_of_5_death.mp3",
+	"title" : "4. Five Faculties-Calm Concentraion",
+	"url" : "/20438/20240516-Tanya_Wiser-IMC-five_faculties-calm_concentraion.mp3",
 	"series" : "",
 	"score" : 52
 },
 {
-	"title" : "5. Five Faculties-Calm Concentraion",
-	"url" : "/20438/20240516-Tanya_Wiser-IMC-five_faculties-calm_concentraion.mp3",
+	"title" : "5. Dharmette: Further Reflections on Relax, Receive and Allow",
+	"url" : "/20429/20240515-Andrea_Fella-IMC-dharmette_further_reflections_on_relax_receive_and_allow.mp3",
 	"series" : "",
-	"score" : 48
+	"score" : 50
 },
 {
-	"title" : "6. Dharmette: The Buddhas Five Daily Recollections (2 of 5): Sickness",
-	"url" : "/20418/20240514-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_2_of_5_sickness.mp3",
+	"title" : "6. Dharmette: The Buddhas Five Daily Recollections (1 of 5): Aging",
+	"url" : "/20411/20240513-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_1_of_5_aging.mp3",
 	"series" : "",
-	"score" : 46
+	"score" : 48
 },
 {
 	"title" : "7. Guided Meditation: The Buddhas Five Daily Recollections: Losing the Beloved",
 	"url" : "/20435/20240516-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_losing_the_beloved.mp3",
 	"series" : "",
+	"score" : 47
+},
+{
+	"title" : "8. Dharmette: The Buddhas Five Daily Recollections (2 of 5): Sickness",
+	"url" : "/20418/20240514-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_2_of_5_sickness.mp3",
+	"series" : "",
 	"score" : 42
 },
 {
-	"title" : "8. Guided Meditation: The Buddhas Five Daily Recollections; Death",
-	"url" : "/20426/20240515-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_death.mp3",
-	"series" : "",
-	"score" : 36
-},
-{
-	"title" : "9. Dharmette: The Buddhas Five Daily Recollections (1 of 5): Aging",
-	"url" : "/20411/20240513-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_1_of_5_aging.mp3",
-	"series" : "",
-	"score" : 36
-},
-{
-	"title" : "10. Dharmette: The Buddhas Five Daily Recollections (5 of 5): Karma",
+	"title" : "9. Dharmette: The Buddhas Five Daily Recollections (5 of 5): Karma",
 	"url" : "/20442/20240517-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_5_of_5_karma.mp3",
 	"series" : "",
-	"score" : 35
+	"score" : 39
+},
+{
+	"title" : "10. Guided Meditation: The Buddhas Five Daily Recollections; Death",
+	"url" : "/20426/20240515-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_death.mp3",
+	"series" : "",
+	"score" : 34
 }
 ]
 }

@@ -402,6 +402,7 @@ for talk in list_talks:
 
     if not os.path.exists(path_summary_short): continue 
     if os.path.exists(path_summary_key): continue 
+    print(path_summary_key)
 
     summary = ''
     key_text = ''
@@ -435,7 +436,7 @@ for talk in list_talks:
         title_series = 'series ' + series
 
     minutes = total_minutes(talk['duration'])
-    key_text = f'{title} {title} {title_series} {key_text} {title} {title}'
+    key_text = f'{title} {title_series} {key_text}'
 
     with open(path_summary_key, 'w') as fd:
         #print(key_text)
