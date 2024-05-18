@@ -72,6 +72,7 @@ socket_close($socket);
 $end_time = microtime(true);
 $elapsed_time = ($end_time - $start_time) * 1000;
 LOGGING("Query Complete");
+LOGGING($response);
 LOGGING("Elapsed Time: $elapsed_time");
 
 echo $response;

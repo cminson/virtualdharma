@@ -1,6 +1,186 @@
 {
 	"talks":[
 	{
+		"title":"Dharmette: The Buddhas Five Daily Recollections (5 of 5): Karma",
+		"series":"The Buddhas Five Daily Recollections",
+		"url":"/20442/20240517-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_5_of_5_karma.mp3",
+		"ln":"en",
+		"download_url":"/20442/20240517-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_5_of_5_karma.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2024.05.17",
+		"duration":"15:11"
+	},
+	{
+		"title":"Guided Meditation: The Buddhas Five Daily Recollections: Karma",
+		"series":"Guided Meditations",
+		"url":"/20441/20240517-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_karma.mp3",
+		"ln":"en",
+		"download_url":"/20441/20240517-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_karma.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2024.05.17",
+		"duration":"30:17"
+	},
+	{
+		"title":"Five Faculties-Calm Concentraion",
+		"series":"",
+		"url":"/20438/20240516-Tanya_Wiser-IMC-five_faculties-calm_concentraion.mp3",
+		"ln":"en",
+		"download_url":"/20438/20240516-Tanya_Wiser-IMC-five_faculties-calm_concentraion.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2024.05.16",
+		"duration":"44:19"
+	},
+	{
+		"title":"Happy Hour: Gratitude",
+		"series":"",
+		"url":"/20439/20240516-Liz_Powell-IMC-happy_hour_gratitude.mp3",
+		"ln":"en",
+		"download_url":"/20439/20240516-Liz_Powell-IMC-happy_hour_gratitude.mp3",
+		"speaker":"Liz Powell",
+		"date":"2024.05.16",
+		"duration":"47:50"
+	},
+	{
+		"title":"Dharmette: The Buddhas Five Daily Recollections (4 of 5): Losing the Beloved",
+		"series":"The Buddhas Five Daily Recollections",
+		"url":"/20436/20240516-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_4_of_5_losing_the_beloved.mp3",
+		"ln":"en",
+		"download_url":"/20436/20240516-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_4_of_5_losing_the_beloved.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2024.05.16",
+		"duration":"12:42"
+	},
+	{
+		"title":"Guided Meditation: The Buddhas Five Daily Recollections: Losing the Beloved",
+		"series":"Guided Meditations",
+		"url":"/20435/20240516-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_losing_the_beloved.mp3",
+		"ln":"en",
+		"download_url":"/20435/20240516-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_losing_the_beloved.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2024.05.16",
+		"duration":"29:51"
+	},
+	{
+		"title":"Dharmette: Further Reflections on Relax, Receive and Allow",
+		"series":"",
+		"url":"/20429/20240515-Andrea_Fella-IMC-dharmette_further_reflections_on_relax_receive_and_allow.mp3",
+		"ln":"en",
+		"download_url":"/20429/20240515-Andrea_Fella-IMC-dharmette_further_reflections_on_relax_receive_and_allow.mp3",
+		"speaker":"Andrea Fella",
+		"date":"2024.05.15",
+		"duration":"12:47"
+	},
+	{
+		"title":"Guided Meditation: Relax, Receive and Allow",
+		"series":"Guided Meditations",
+		"url":"/20428/20240515-Andrea_Fella-IMC-guided_meditation_relax_receive_and_allow.mp3",
+		"ln":"en",
+		"download_url":"/20428/20240515-Andrea_Fella-IMC-guided_meditation_relax_receive_and_allow.mp3",
+		"speaker":"Andrea Fella",
+		"date":"2024.05.15",
+		"duration":"43:47"
+	},
+	{
+		"title":"Dharmette: The Buddhas Five Daily Recollections (3 of 5); Death",
+		"series":"The Buddhas Five Daily Recollections",
+		"url":"/20427/20240515-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_3_of_5_death.mp3",
+		"ln":"en",
+		"download_url":"/20427/20240515-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_3_of_5_death.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2024.05.15",
+		"duration":"13:37"
+	},
+	{
+		"title":"Guided Meditation: The Buddhas Five Daily Recollections; Death",
+		"series":"Guided Meditations",
+		"url":"/20426/20240515-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_death.mp3",
+		"ln":"en",
+		"download_url":"/20426/20240515-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_death.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2024.05.15",
+		"duration":"30:58"
+	},
+	{
+		"title":"Sati, unificación y gozo",
+		"series":"",
+		"url":"/20422/20240514-Andrea_Castillo-IMC-sati_unificacion_y_gozo.mp3",
+		"ln":"es",
+		"download_url":"/20422/20240514-Andrea_Castillo-IMC-sati_unificacion_y_gozo.mp3",
+		"speaker":"Andrea Castillo",
+		"date":"2024.05.14",
+		"duration":"49:11"
+	},
+	{
+		"title":"Sati, unificación y gozo Meditación guiada",
+		"series":"",
+		"url":"/20421/20240514-Andrea_Castillo-IMC-sati_unificacion_y_gozo_meditacion_guiada.mp3",
+		"ln":"es",
+		"download_url":"/20421/20240514-Andrea_Castillo-IMC-sati_unificacion_y_gozo_meditacion_guiada.mp3",
+		"speaker":"Andrea Castillo",
+		"date":"2024.05.14",
+		"duration":"28:11"
+	},
+	{
+		"title":"Happy Hour: Compassion for a Difficult Person",
+		"series":"",
+		"url":"/20420/20240514-Liz_Powell-IMC-happy_hour_compassion_for_a_difficult_person.mp3",
+		"ln":"en",
+		"download_url":"/20420/20240514-Liz_Powell-IMC-happy_hour_compassion_for_a_difficult_person.mp3",
+		"speaker":"Liz Powell",
+		"date":"2024.05.14",
+		"duration":"48:35"
+	},
+	{
+		"title":"Mindfulness of the Body (Satipaṭṭhāna Sutta)",
+		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
+		"url":"/20416/20240514-Marjolein_Janssen-IMC-mindfulness_of_the_body_satipa_hana_sutta.mp3",
+		"ln":"en",
+		"download_url":"/20416/20240514-Marjolein_Janssen-IMC-mindfulness_of_the_body_satipa_hana_sutta.mp3",
+		"speaker":"Marjolein Janssen",
+		"date":"2024.05.14",
+		"duration":"26:41"
+	},
+	{
+		"title":"“So they said to the Buddha …”  Class 2 of 4",
+		"series":"“So they said to the Buddha …” ",
+		"url":"/20425/20240514-Bhante_Sujato-sati-so_they_said_to_the_buddha_class_2_of_4.mp3",
+		"ln":"en",
+		"download_url":"/20425/20240514-Bhante_Sujato-sati-so_they_said_to_the_buddha_class_2_of_4.mp3",
+		"speaker":"Bhante Sujato",
+		"date":"2024.05.14",
+		"duration":"1:30:19"
+	},
+	{
+		"title":"Guided Meditation: Mindfulness of the Breath and Body",
+		"series":"Guided Meditations",
+		"url":"/20415/20240514-Marjolein_Janssen-IMC-guided_meditation_mindfulness_of_the_breath_and_body.mp3",
+		"ln":"en",
+		"download_url":"/20415/20240514-Marjolein_Janssen-IMC-guided_meditation_mindfulness_of_the_breath_and_body.mp3",
+		"speaker":"Marjolein Janssen",
+		"date":"2024.05.14",
+		"duration":"32:50"
+	},
+	{
+		"title":"Dharmette: The Buddhas Five Daily Recollections (2 of 5): Sickness",
+		"series":"The Buddhas Five Daily Recollections",
+		"url":"/20418/20240514-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_2_of_5_sickness.mp3",
+		"ln":"en",
+		"download_url":"/20418/20240514-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_2_of_5_sickness.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2024.05.14",
+		"duration":"12:59"
+	},
+	{
+		"title":"Guided Meditation: The Buddhas Five Daily Recollections: Sickness",
+		"series":"Guided Meditations",
+		"url":"/20417/20240514-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_sickness.mp3",
+		"ln":"en",
+		"download_url":"/20417/20240514-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_sickness.mp3",
+		"speaker":"Mei Elliott",
+		"date":"2024.05.14",
+		"duration":"29:33"
+	},
+	{
 		"title":"Steadiness",
 		"series":"",
 		"url":"/20413/20240513-Maria_Straatmann-IMC-steadiness.mp3",
@@ -202,7 +382,7 @@
 	},
 	{
 		"title":"“So they said to the Buddha …” 1 of 4",
-		"series":"",
+		"series":"“So they said to the Buddha …” ",
 		"url":"/20347/20240507-Bhante_Sujato-sati-so_they_said_to_the_buddha_1_of_4.mp3",
 		"ln":"en",
 		"download_url":"/20347/20240507-Bhante_Sujato-sati-so_they_said_to_the_buddha_1_of_4.mp3",
@@ -289,196 +469,6 @@
 		"speaker":"Gil Fronsdal",
 		"date":"2024.05.05",
 		"duration":"36:35"
-	},
-	{
-		"title":"Online Sangha Gathering with Gil and Online Service Leaders",
-		"series":"",
-		"url":"/20339/20240505-Gil_Fronsdal-IRC-online_sangha_gathering_with_gil_and_online_service_leaders.mp3",
-		"ln":"en",
-		"download_url":"/20339/20240505-Gil_Fronsdal-IRC-online_sangha_gathering_with_gil_and_online_service_leaders.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.05",
-		"duration":"1:10:01"
-	},
-	{
-		"title":"Ritual",
-		"series":"Buddhist Chaplaincy Training 2023/2024",
-		"url":"/20295/20240503-Gil_Fronsdal-CHAP-ritual.mp3",
-		"ln":"en",
-		"download_url":"/20295/20240503-Gil_Fronsdal-CHAP-ritual.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.03",
-		"duration":"1:10:06"
-	},
-	{
-		"title":"Dharmette: Ten Reflections (10 of 10) Healing",
-		"series":"Ten Reflections",
-		"url":"/20289/20240503-Gil_Fronsdal-IMC-dharmette_ten_reflections_10_of_10_healing.mp3",
-		"ln":"en",
-		"download_url":"/20289/20240503-Gil_Fronsdal-IMC-dharmette_ten_reflections_10_of_10_healing.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.03",
-		"duration":"15:07"
-	},
-	{
-		"title":"Guided Meditation: Wholeness",
-		"series":"Guided Meditations",
-		"url":"/20288/20240503-Gil_Fronsdal-IMC-guided_meditation_wholeness.mp3",
-		"ln":"en",
-		"download_url":"/20288/20240503-Gil_Fronsdal-IMC-guided_meditation_wholeness.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.03",
-		"duration":"32:08"
-	},
-	{
-		"title":"Inclining the Mind Toward Peace: Seeing Impermanence, Part 2",
-		"series":"",
-		"url":"/20286/20240502-Ari_Crellin-Quick-IMC-inclining_the_mind_toward_peace_seeing_impermanence_part_2.mp3",
-		"ln":"en",
-		"download_url":"/20286/20240502-Ari_Crellin-Quick-IMC-inclining_the_mind_toward_peace_seeing_impermanence_part_2.mp3",
-		"speaker":"Ari Crellin-Quick",
-		"date":"2024.05.02",
-		"duration":"25:11"
-	},
-	{
-		"title":"Guided Meditation: Knowing Changing Experience at Ease",
-		"series":"Guided Meditations",
-		"url":"/20287/20240502-Ari_Crellin-Quick-IMC-guided_meditation_knowing_changing_experience_at_ease.mp3",
-		"ln":"en",
-		"download_url":"/20287/20240502-Ari_Crellin-Quick-IMC-guided_meditation_knowing_changing_experience_at_ease.mp3",
-		"speaker":"Ari Crellin-Quick",
-		"date":"2024.05.02",
-		"duration":"34:17"
-	},
-	{
-		"title":"Five Faculties-Energy",
-		"series":"",
-		"url":"/20285/20240502-Tanya_Wiser-IMC-five_faculties-energy.mp3",
-		"ln":"en",
-		"download_url":"/20285/20240502-Tanya_Wiser-IMC-five_faculties-energy.mp3",
-		"speaker":"Tanya Wiser",
-		"date":"2024.05.02",
-		"duration":"39:11"
-	},
-	{
-		"title":"Dharmette: Ten Reflections (9 of 10) Reconciliation",
-		"series":"Ten Reflections",
-		"url":"/20283/20240502-Gil_Fronsdal-IMC-dharmette_ten_reflections_9_of_10_reconciliation.mp3",
-		"ln":"en",
-		"download_url":"/20283/20240502-Gil_Fronsdal-IMC-dharmette_ten_reflections_9_of_10_reconciliation.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.02",
-		"duration":"14:54"
-	},
-	{
-		"title":"Guided Meditation: Inclusive Awareness",
-		"series":"Guided Meditations",
-		"url":"/20284/20240502-Gil_Fronsdal-IMC-guided_meditation_inclusive_awareness.mp3",
-		"ln":"en",
-		"download_url":"/20284/20240502-Gil_Fronsdal-IMC-guided_meditation_inclusive_awareness.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.02",
-		"duration":"31:47"
-	},
-	{
-		"title":"Dharmette: Fear and Language",
-		"series":"Wednesday Evening with Matthew Brensilver",
-		"url":"/20282/20240501-Matthew_Brensilver-IMC-dharmette_fear_and_language.mp3",
-		"ln":"en",
-		"download_url":"/20282/20240501-Matthew_Brensilver-IMC-dharmette_fear_and_language.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2024.05.01",
-		"duration":"14:33"
-	},
-	{
-		"title":"Guided Meditation: Awareness and Effortlessness",
-		"series":"Guided Meditations",
-		"url":"/20281/20240501-Matthew_Brensilver-IMC-guided_meditation_awareness_and_effortlessness.mp3",
-		"ln":"en",
-		"download_url":"/20281/20240501-Matthew_Brensilver-IMC-guided_meditation_awareness_and_effortlessness.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2024.05.01",
-		"duration":"30:47"
-	},
-	{
-		"title":"Happy Hour: Gratitude for this Moment of Practice",
-		"series":"",
-		"url":"/20280/20240501-Ari_Crellin-Quick-IMC-happy_hour_gratitude_for_this_moment_of_practice.mp3",
-		"ln":"en",
-		"download_url":"/20280/20240501-Ari_Crellin-Quick-IMC-happy_hour_gratitude_for_this_moment_of_practice.mp3",
-		"speaker":"Ari Crellin-Quick",
-		"date":"2024.05.01",
-		"duration":"46:09"
-	},
-	{
-		"title":"Growing Good Seeds",
-		"series":"",
-		"url":"/20279/20240501-Gil_Fronsdal-IMC-growing_good_seeds.mp3",
-		"ln":"en",
-		"download_url":"/20279/20240501-Gil_Fronsdal-IMC-growing_good_seeds.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.01",
-		"duration":"14:08"
-	},
-	{
-		"title":"Practice Notes: Sensing",
-		"series":"",
-		"url":"/20278/20240501-Gil_Fronsdal-IMC-practice_notes_sensing.mp3",
-		"ln":"en",
-		"download_url":"/20278/20240501-Gil_Fronsdal-IMC-practice_notes_sensing.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.01",
-		"duration":"06:24"
-	},
-	{
-		"title":"Dharmette: Ten Reflection (8 of 10) Kinship",
-		"series":"Ten Reflections",
-		"url":"/20277/20240501-Gil_Fronsdal-IMC-dharmette_ten_reflection_8_of_10_kinship.mp3",
-		"ln":"en",
-		"download_url":"/20277/20240501-Gil_Fronsdal-IMC-dharmette_ten_reflection_8_of_10_kinship.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.01",
-		"duration":"13:45"
-	},
-	{
-		"title":"Guided Meditation: Love",
-		"series":"Guided Meditations",
-		"url":"/20276/20240501-Gil_Fronsdal-IMC-guided_meditation_love.mp3",
-		"ln":"en",
-		"download_url":"/20276/20240501-Gil_Fronsdal-IMC-guided_meditation_love.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.01",
-		"duration":"31:49"
-	},
-	{
-		"title":"Working with the Feedback Loop of Mental Distortions (views, part 2)",
-		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
-		"url":"/20272/20240430-Dawn_Neal-IMC-working_with_the_feedback_loop_of_mental_distortions_views_part_2.mp3",
-		"ln":"en",
-		"download_url":"/20272/20240430-Dawn_Neal-IMC-working_with_the_feedback_loop_of_mental_distortions_views_part_2.mp3",
-		"speaker":"Dawn Neal",
-		"date":"2024.04.30",
-		"duration":"20:59"
-	},
-	{
-		"title":"Guided Meditation: Relaxing into Awareness",
-		"series":"Guided Meditations",
-		"url":"/20271/20240430-Dawn_Neal-IMC-guided_meditation_relaxing_into_awareness.mp3",
-		"ln":"en",
-		"download_url":"/20271/20240430-Dawn_Neal-IMC-guided_meditation_relaxing_into_awareness.mp3",
-		"speaker":"Dawn Neal",
-		"date":"2024.04.30",
-		"duration":"36:57"
-	},
-	{
-		"title":"Dharmette: Ten Reflections (7 of 10) Community",
-		"series":"Ten Reflections",
-		"url":"/20270/20240430-Gil_Fronsdal-IMC-dharmette_ten_reflections_7_of_10_community.mp3",
-		"ln":"en",
-		"download_url":"/20270/20240430-Gil_Fronsdal-IMC-dharmette_ten_reflections_7_of_10_community.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.04.30",
-		"duration":"16:52"
 	}
 	]
 }

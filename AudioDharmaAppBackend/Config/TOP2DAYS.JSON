@@ -1,64 +1,64 @@
 {
 "talks": [
 {
-	"title" : "1. Dharmette: The Buddhas Five Daily Recollections (1 of 5): Aging",
+	"title" : "1. Guided Meditation: Relax, Receive and Allow",
+	"url" : "/20428/20240515-Andrea_Fella-IMC-guided_meditation_relax_receive_and_allow.mp3",
+	"series" : "",
+	"score" : 68
+},
+{
+	"title" : "2. Dharmette: The Buddhas Five Daily Recollections (4 of 5): Losing the Beloved",
+	"url" : "/20436/20240516-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_4_of_5_losing_the_beloved.mp3",
+	"series" : "",
+	"score" : 60
+},
+{
+	"title" : "3. Dharmette: Further Reflections on Relax, Receive and Allow",
+	"url" : "/20429/20240515-Andrea_Fella-IMC-dharmette_further_reflections_on_relax_receive_and_allow.mp3",
+	"series" : "",
+	"score" : 56
+},
+{
+	"title" : "4. Dharmette: The Buddhas Five Daily Recollections (3 of 5); Death",
+	"url" : "/20427/20240515-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_3_of_5_death.mp3",
+	"series" : "",
+	"score" : 52
+},
+{
+	"title" : "5. Five Faculties-Calm Concentraion",
+	"url" : "/20438/20240516-Tanya_Wiser-IMC-five_faculties-calm_concentraion.mp3",
+	"series" : "",
+	"score" : 48
+},
+{
+	"title" : "6. Dharmette: The Buddhas Five Daily Recollections (2 of 5): Sickness",
+	"url" : "/20418/20240514-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_2_of_5_sickness.mp3",
+	"series" : "",
+	"score" : 46
+},
+{
+	"title" : "7. Guided Meditation: The Buddhas Five Daily Recollections: Losing the Beloved",
+	"url" : "/20435/20240516-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_losing_the_beloved.mp3",
+	"series" : "",
+	"score" : 42
+},
+{
+	"title" : "8. Guided Meditation: The Buddhas Five Daily Recollections; Death",
+	"url" : "/20426/20240515-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_death.mp3",
+	"series" : "",
+	"score" : 36
+},
+{
+	"title" : "9. Dharmette: The Buddhas Five Daily Recollections (1 of 5): Aging",
 	"url" : "/20411/20240513-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_1_of_5_aging.mp3",
 	"series" : "",
-	"score" : 92
+	"score" : 36
 },
 {
-	"title" : "2. Growing in the Dharma",
-	"url" : "/20400/20240512-Tanya_Wiser-IMC-growing_in_the_dharma.mp3",
+	"title" : "10. Dharmette: The Buddhas Five Daily Recollections (5 of 5): Karma",
+	"url" : "/20442/20240517-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_5_of_5_karma.mp3",
 	"series" : "",
-	"score" : 74
-},
-{
-	"title" : "3. Guided Meditation: The Buddhas Five Daily Recollections: Aging",
-	"url" : "/20410/20240513-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_aging.mp3",
-	"series" : "",
-	"score" : 64
-},
-{
-	"title" : "4. Dharmette: Coming Home and Leaving Home",
-	"url" : "/20354/20240508-Matthew_Brensilver-IMC-dharmette_coming_home_and_leaving_home.mp3",
-	"series" : "",
-	"score" : 50
-},
-{
-	"title" : "5. Guided Meditation: Keeping the Balance",
-	"url" : "/20388/20240510-Shelley_Gault-IMC-guided_meditation_keeping_the_balance.mp3",
-	"series" : "",
-	"score" : 46
-},
-{
-	"title" : "6. Guided Meditation: The Breath and Awareness dont depend on you",
-	"url" : "/20353/20240508-Matthew_Brensilver-IMC-guided_meditation_the_breath_and_awareness_don_t_depend_on_you.mp3",
-	"series" : "",
-	"score" : 46
-},
-{
-	"title" : "7. Steadiness",
-	"url" : "/20413/20240513-Maria_Straatmann-IMC-steadiness.mp3",
-	"series" : "",
-	"score" : 40
-},
-{
-	"title" : "8. Dharmette: Six Qualities of the Dharma (5 of 5) To be Realized by the Wise",
-	"url" : "/20389/20240510-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_5_of_5_to_be_realized_by_the_wise.mp3",
-	"series" : "",
-	"score" : 34
-},
-{
-	"title" : "9. Dharmette: Six Qualities of the Dharma (3 of 5) Immediately Effective and Inviting Inspection",
-	"url" : "/20360/20240508-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_3_of_5_immediately_effective_and_inviting_inspection.mp3",
-	"series" : "",
-	"score" : 30
-},
-{
-	"title" : "10. Guided Meditation: Staying Receptive",
-	"url" : "/20364/20240509-Shelley_Gault-IMC-guided_meditation_staying_receptive.mp3",
-	"series" : "",
-	"score" : 26
+	"score" : 35
 }
 ]
 }

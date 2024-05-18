@@ -18,7 +18,7 @@ import socket
 
 BASE_PATH = '/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/'
 BASE_URL = 'http://www.virtualdharma.org/'
-PATH_OPENAI_KEYS =  '/var/www/virtualdharma/httpdocs/AudioDharmaAppBackend/KEYS/OPENAI.KEYS'
+PATH_OPENAI_KEYS =  '/var/www/virtualdharma/KEYS/OPENAI.KEYS'
 
 PATH_AUDIODHARMA_LOG = BASE_PATH + 'LOGS/AD.LOG'
 PATH_TRANSCRIPTS = BASE_PATH + 'data/transcripts'
