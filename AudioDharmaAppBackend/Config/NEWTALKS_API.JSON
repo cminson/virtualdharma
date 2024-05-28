@@ -1,6 +1,276 @@
 {
 	"talks":[
 	{
+		"title":"Dharmette: Intro to Buddhist Ethics (1 of 5) Non-Harming",
+		"series":"",
+		"url":"/20484/20240527-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_1_of_5_non-harming.mp3",
+		"ln":"en",
+		"download_url":"/20484/20240527-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_1_of_5_non-harming.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.05.27",
+		"duration":"15:27"
+	},
+	{
+		"title":"Guided Meditation: Non-Harming Mindfulness",
+		"series":"Guided Meditations",
+		"url":"/20483/20240527-Gil_Fronsdal-IMC-guided_meditation_non-harming_mindfulness.mp3",
+		"ln":"en",
+		"download_url":"/20483/20240527-Gil_Fronsdal-IMC-guided_meditation_non-harming_mindfulness.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.05.27",
+		"duration":"29:20"
+	},
+	{
+		"title":"Buddhist Pilgrimage",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/20482/20240526-Gil_Fronsdal-IMC-pilgrimage.mp3",
+		"ln":"en",
+		"download_url":"/20482/20240526-Gil_Fronsdal-IMC-pilgrimage.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.05.26",
+		"duration":"42:22"
+	},
+	{
+		"title":"Dharmette: Teachings of the Ancient Similes (5 of 5); The Simile of the Clear High Mountain Lake",
+		"series":"Teachings of the Ancient Similes",
+		"url":"/20478/20240524-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_5_of_5_the_simile_of_the_clear_high_mountain_lake.mp3",
+		"ln":"en",
+		"download_url":"/20478/20240524-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_5_of_5_the_simile_of_the_clear_high_mountain_lake.mp3",
+		"speaker":"Ying Chen",
+		"date":"2024.05.24",
+		"duration":"14:15"
+	},
+	{
+		"title":"Guided Meditation: Opening to the Nature Within; Clarifying",
+		"series":"Guided Meditations",
+		"url":"/20477/20240524-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_clarifying.mp3",
+		"ln":"en",
+		"download_url":"/20477/20240524-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_clarifying.mp3",
+		"speaker":"Ying Chen",
+		"date":"2024.05.24",
+		"duration":"31:46"
+	},
+	{
+		"title":"Inclining the Mind Toward Peace: Perceiving Stress in What is Inconstant",
+		"series":"",
+		"url":"/20476/20240523-Ari_Crellin-Quick-IMC-inclining_the_mind_toward_peace_perceiving_stress_in_what_is_inconstant.mp3",
+		"ln":"en",
+		"download_url":"/20476/20240523-Ari_Crellin-Quick-IMC-inclining_the_mind_toward_peace_perceiving_stress_in_what_is_inconstant.mp3",
+		"speaker":"Ari Crellin-Quick",
+		"date":"2024.05.23",
+		"duration":"39:52"
+	},
+	{
+		"title":"Guided Meditation: Simple Knowing of Experience",
+		"series":"Guided Meditations",
+		"url":"/20475/20240523-Ari_Crellin-Quick-IMC-guided_meditation_simple_knowing_of_experience.mp3",
+		"ln":"en",
+		"download_url":"/20475/20240523-Ari_Crellin-Quick-IMC-guided_meditation_simple_knowing_of_experience.mp3",
+		"speaker":"Ari Crellin-Quick",
+		"date":"2024.05.23",
+		"duration":"29:03"
+	},
+	{
+		"title":"Happy Hour: Mudita for a Friend or Family Member",
+		"series":"",
+		"url":"/20473/20240523-Liz_Powell-IMC-happy_hour_mudita_for_a_friend_or_family_member.mp3",
+		"ln":"en",
+		"download_url":"/20473/20240523-Liz_Powell-IMC-happy_hour_mudita_for_a_friend_or_family_member.mp3",
+		"speaker":"Liz Powell",
+		"date":"2024.05.23",
+		"duration":"47:43"
+	},
+	{
+		"title":"Dharmette: Teachings of the Ancient Similes (4 of 5); The Simile of the Ship Rope",
+		"series":"Teachings of the Ancient Similes",
+		"url":"/20472/20240523-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_4_of_5_the_simile_of_the_ship_rope.mp3",
+		"ln":"en",
+		"download_url":"/20472/20240523-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_4_of_5_the_simile_of_the_ship_rope.mp3",
+		"speaker":"Ying Chen",
+		"date":"2024.05.23",
+		"duration":"13:58"
+	},
+	{
+		"title":"Guided Meditation: Opening to the Nature Within; Expanding",
+		"series":"Guided Meditations",
+		"url":"/20471/20240523-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_expanding.mp3",
+		"ln":"en",
+		"download_url":"/20471/20240523-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_expanding.mp3",
+		"speaker":"Ying Chen",
+		"date":"2024.05.23",
+		"duration":"29:37"
+	},
+	{
+		"title":"Five Faculties-Wisdom",
+		"series":"",
+		"url":"/20474/20240523-Tanya_Wiser-IMC-five_faculties-wisdom.mp3",
+		"ln":"en",
+		"download_url":"/20474/20240523-Tanya_Wiser-IMC-five_faculties-wisdom.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2024.05.23",
+		"duration":"34:23"
+	},
+	{
+		"title":"Dharmette: Cruising Altitude and Upheaval",
+		"series":"Wednesday Evening with Matthew Brensilver",
+		"url":"/20469/20240522-Matthew_Brensilver-IMC-dharmette_cruising_altitude_and_upheaval.mp3",
+		"ln":"en",
+		"download_url":"/20469/20240522-Matthew_Brensilver-IMC-dharmette_cruising_altitude_and_upheaval.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2024.05.22",
+		"duration":"15:41"
+	},
+	{
+		"title":"Guided Meditation: Goodnight Moon",
+		"series":"Guided Meditations",
+		"url":"/20468/20240522-Matthew_Brensilver-IMC-guided_meditation_goodnight_moon.mp3",
+		"ln":"en",
+		"download_url":"/20468/20240522-Matthew_Brensilver-IMC-guided_meditation_goodnight_moon.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2024.05.22",
+		"duration":"29:10"
+	},
+	{
+		"title":"Happy Hour: Practicing Appreciative Joy",
+		"series":"",
+		"url":"/20470/20240522-Liz_Powell-IMC-happy_hour_practicing_appreciative_joy.mp3",
+		"ln":"en",
+		"download_url":"/20470/20240522-Liz_Powell-IMC-happy_hour_practicing_appreciative_joy.mp3",
+		"speaker":"Liz Powell",
+		"date":"2024.05.22",
+		"duration":"48:50"
+	},
+	{
+		"title":"Practicing with What Is",
+		"series":"",
+		"url":"/20464/20240522-Maria_Straatmann-IMC-practicing_with_what_is.mp3",
+		"ln":"en",
+		"download_url":"/20464/20240522-Maria_Straatmann-IMC-practicing_with_what_is.mp3",
+		"speaker":"Maria Straatmann",
+		"date":"2024.05.22",
+		"duration":"14:28"
+	},
+	{
+		"title":"Practice Notes: Watching The Mind",
+		"series":"",
+		"url":"/20463/20240522-Maria_Straatmann-IMC-practice_notes_watching_the_mind.mp3",
+		"ln":"en",
+		"download_url":"/20463/20240522-Maria_Straatmann-IMC-practice_notes_watching_the_mind.mp3",
+		"speaker":"Maria Straatmann",
+		"date":"2024.05.22",
+		"duration":"03:01"
+	},
+	{
+		"title":"Dharmette: Teachings of the Ancient Similes (3 of 5); Simile of the Adze",
+		"series":"Teachings of the Ancient Similes",
+		"url":"/20467/20240522-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_3_of_5_simile_of_the_adze.mp3",
+		"ln":"en",
+		"download_url":"/20467/20240522-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_3_of_5_simile_of_the_adze.mp3",
+		"speaker":"Ying Chen",
+		"date":"2024.05.22",
+		"duration":"14:36"
+	},
+	{
+		"title":"Guided Meditation: Opening to the Nature Within; Enriching",
+		"series":"Guided Meditations",
+		"url":"/20466/20240522-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_enriching.mp3",
+		"ln":"en",
+		"download_url":"/20466/20240522-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_enriching.mp3",
+		"speaker":"Ying Chen",
+		"date":"2024.05.22",
+		"duration":"31:32"
+	},
+	{
+		"title":"“So they said to the Buddha …” Class 3 of 4",
+		"series":"“So they said to the Buddha …” ",
+		"url":"/20465/20240521-Bhante_Sujato-sati-so_they_said_to_the_buddha_class_3_of_4.mp3",
+		"ln":"en",
+		"download_url":"/20465/20240521-Bhante_Sujato-sati-so_they_said_to_the_buddha_class_3_of_4.mp3",
+		"speaker":"Bhante Sujato",
+		"date":"2024.05.21",
+		"duration":"1:30:07"
+	},
+	{
+		"title":"Opening to Attitude - No Part Left Out",
+		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
+		"url":"/20458/20240521-Andrea_Fella-IMC-opening_to_attitude_-_no_part_left_out.mp3",
+		"ln":"en",
+		"download_url":"/20458/20240521-Andrea_Fella-IMC-opening_to_attitude_-_no_part_left_out.mp3",
+		"speaker":"Andrea Fella",
+		"date":"2024.05.21",
+		"duration":"20:41"
+	},
+	{
+		"title":"Guided Meditation: Opening to All Experience - Allowing",
+		"series":"Guided Meditations",
+		"url":"/20457/20240521-Andrea_Fella-IMC-guided_meditation_opening_to_all_experience_-_allowing.mp3",
+		"ln":"en",
+		"download_url":"/20457/20240521-Andrea_Fella-IMC-guided_meditation_opening_to_all_experience_-_allowing.mp3",
+		"speaker":"Andrea Fella",
+		"date":"2024.05.21",
+		"duration":"35:10"
+	},
+	{
+		"title":"Dharmette; Teachings of the Ancient Similes (2 of 5) The Simile of the Chicken",
+		"series":"Teachings of the Ancient Similes",
+		"url":"/20460/20240521-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_2_of_5_the_simile_of_the_chicken.mp3",
+		"ln":"en",
+		"download_url":"/20460/20240521-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_2_of_5_the_simile_of_the_chicken.mp3",
+		"speaker":"Ying Chen",
+		"date":"2024.05.21",
+		"duration":"14:16"
+	},
+	{
+		"title":"Guided Meditation: Opening to the Nature Within; Enlivening",
+		"series":"Guided Meditations",
+		"url":"/20459/20240521-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_enlivening.mp3",
+		"ln":"en",
+		"download_url":"/20459/20240521-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_enlivening.mp3",
+		"speaker":"Ying Chen",
+		"date":"2024.05.21",
+		"duration":"31:02"
+	},
+	{
+		"title":"When We Lose Inner Peace",
+		"series":"",
+		"url":"/20453/20240520-Diana_Clark-IMC-when_we_lose_inner_peace.mp3",
+		"ln":"en",
+		"download_url":"/20453/20240520-Diana_Clark-IMC-when_we_lose_inner_peace.mp3",
+		"speaker":"Diana Clark",
+		"date":"2024.05.20",
+		"duration":"38:53"
+	},
+	{
+		"title":"Dharmette: Teachings of the ancient similes (1 of 5) SN 22.101 Sutta overview",
+		"series":"Teachings of the Ancient Similes",
+		"url":"/20456/20240520-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_1_of_5_sn_22_101_sutta_overview.mp3",
+		"ln":"en",
+		"download_url":"/20456/20240520-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_1_of_5_sn_22_101_sutta_overview.mp3",
+		"speaker":"Ying Chen",
+		"date":"2024.05.20",
+		"duration":"14:32"
+	},
+	{
+		"title":"Guided meditation: Opening to the nature within – Grounding",
+		"series":"Teachings of the Ancient Similes",
+		"url":"/20455/20240520-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_grounding.mp3",
+		"ln":"en",
+		"download_url":"/20455/20240520-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_grounding.mp3",
+		"speaker":"Ying Chen",
+		"date":"2024.05.20",
+		"duration":"30:21"
+	},
+	{
+		"title":"Overconfidence As A Defilement",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/20449/20240519-Matthew_Brensilver-IMC-overconficence_as_a_defilement.mp3",
+		"ln":"en",
+		"download_url":"/20449/20240519-Matthew_Brensilver-IMC-overconficence_as_a_defilement.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2024.05.19",
+		"duration":"41:10"
+	},
+	{
 		"title":"Dharmette: The Buddhas Five Daily Recollections (5 of 5): Karma",
 		"series":"The Buddhas Five Daily Recollections",
 		"url":"/20442/20240517-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_5_of_5_karma.mp3",
@@ -39,6 +309,16 @@
 		"speaker":"Liz Powell",
 		"date":"2024.05.16",
 		"duration":"47:50"
+	},
+	{
+		"title":"Senior Sangha May 2024: The Freedom of No Self",
+		"series":"Senior Sangha Meetings",
+		"url":"/20481/20240516-David_Cohn-IMC-senior_sangha_may_2024_the_freedom_of_no_self.mp3",
+		"ln":"en",
+		"download_url":"/20481/20240516-David_Cohn-IMC-senior_sangha_may_2024_the_freedom_of_no_self.mp3",
+		"speaker":"<multiple>",
+		"date":"2024.05.16",
+		"duration":"1:11:07"
 	},
 	{
 		"title":"Dharmette: The Buddhas Five Daily Recollections (4 of 5): Losing the Beloved",
@@ -199,276 +479,6 @@
 		"speaker":"Mei Elliott",
 		"date":"2024.05.13",
 		"duration":"13:15"
-	},
-	{
-		"title":"Guided Meditation: The Buddhas Five Daily Recollections: Aging",
-		"series":"Guided Meditations",
-		"url":"/20410/20240513-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_aging.mp3",
-		"ln":"en",
-		"download_url":"/20410/20240513-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_aging.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2024.05.13",
-		"duration":"29:51"
-	},
-	{
-		"title":"IN-PERSON TRACK:  Extract of Tanyas Guided Concentration Meditation",
-		"series":"",
-		"url":"/20403/20240512-Tanya_Wiser-IMC_Prog-in-person_track_extract_of_tanya_s_guided_concentration_meditation.mp3",
-		"ln":"en",
-		"download_url":"/20403/20240512-Tanya_Wiser-IMC_Prog-in-person_track_extract_of_tanya_s_guided_concentration_meditation.mp3",
-		"speaker":"Tanya Wiser",
-		"date":"2024.05.12",
-		"duration":"35:27"
-	},
-	{
-		"title":"Growing in the Dharma",
-		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
-		"url":"/20400/20240512-Tanya_Wiser-IMC-growing_in_the_dharma.mp3",
-		"ln":"en",
-		"download_url":"/20400/20240512-Tanya_Wiser-IMC-growing_in_the_dharma.mp3",
-		"speaker":"Tanya Wiser",
-		"date":"2024.05.12",
-		"duration":"45:18"
-	},
-	{
-		"title":"Happy Hour: Compassion for a Stranger",
-		"series":"",
-		"url":"/20387/20240510-Liz_Powell-IMC-happy_hour_compassion_for_a_stranger.mp3",
-		"ln":"en",
-		"download_url":"/20387/20240510-Liz_Powell-IMC-happy_hour_compassion_for_a_stranger.mp3",
-		"speaker":"Liz Powell",
-		"date":"2024.05.10",
-		"duration":"48:35"
-	},
-	{
-		"title":"Dharmette: Six Qualities of the Dharma (5 of 5) To be Realized by the Wise",
-		"series":"Six Qualities of the Dharma",
-		"url":"/20389/20240510-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_5_of_5_to_be_realized_by_the_wise.mp3",
-		"ln":"en",
-		"download_url":"/20389/20240510-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_5_of_5_to_be_realized_by_the_wise.mp3",
-		"speaker":"Shelley Gault",
-		"date":"2024.05.10",
-		"duration":"19:02"
-	},
-	{
-		"title":"Guided Meditation: Keeping the Balance",
-		"series":"Guided Meditations",
-		"url":"/20388/20240510-Shelley_Gault-IMC-guided_meditation_keeping_the_balance.mp3",
-		"ln":"en",
-		"download_url":"/20388/20240510-Shelley_Gault-IMC-guided_meditation_keeping_the_balance.mp3",
-		"speaker":"Shelley Gault",
-		"date":"2024.05.10",
-		"duration":"30:57"
-	},
-	{
-		"title":"Happy Hour: Balance in Compassion",
-		"series":"",
-		"url":"/20367/20240509-Liz_Powell-IMC-happy_hour_balance_in_compassion.mp3",
-		"ln":"en",
-		"download_url":"/20367/20240509-Liz_Powell-IMC-happy_hour_balance_in_compassion.mp3",
-		"speaker":"Liz Powell",
-		"date":"2024.05.09",
-		"duration":"49:05"
-	},
-	{
-		"title":"Dharmette: Six Qualities of the Dharma (4 of 5) Onward Leading",
-		"series":"Six Qualities of the Dharma",
-		"url":"/20365/20240509-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_4_of_5_onward_leading.mp3",
-		"ln":"en",
-		"download_url":"/20365/20240509-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_4_of_5_onward_leading.mp3",
-		"speaker":"Shelley Gault",
-		"date":"2024.05.09",
-		"duration":"18:42"
-	},
-	{
-		"title":"Guided Meditation: Staying Receptive",
-		"series":"Guided Meditations",
-		"url":"/20364/20240509-Shelley_Gault-IMC-guided_meditation_staying_receptive.mp3",
-		"ln":"en",
-		"download_url":"/20364/20240509-Shelley_Gault-IMC-guided_meditation_staying_receptive.mp3",
-		"speaker":"Shelley Gault",
-		"date":"2024.05.09",
-		"duration":"26:37"
-	},
-	{
-		"title":"Dharmette: Coming Home and Leaving Home",
-		"series":"Wednesday Evening with Matthew Brensilver",
-		"url":"/20354/20240508-Matthew_Brensilver-IMC-dharmette_coming_home_and_leaving_home.mp3",
-		"ln":"en",
-		"download_url":"/20354/20240508-Matthew_Brensilver-IMC-dharmette_coming_home_and_leaving_home.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2024.05.08",
-		"duration":"12:29"
-	},
-	{
-		"title":"Guided Meditation: The Breath and Awareness dont depend on you",
-		"series":"Guided Meditations",
-		"url":"/20353/20240508-Matthew_Brensilver-IMC-guided_meditation_the_breath_and_awareness_don_t_depend_on_you.mp3",
-		"ln":"en",
-		"download_url":"/20353/20240508-Matthew_Brensilver-IMC-guided_meditation_the_breath_and_awareness_don_t_depend_on_you.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2024.05.08",
-		"duration":"30:01"
-	},
-	{
-		"title":"Five Faculties-Mindfulness",
-		"series":"",
-		"url":"/20368/20240508-Tanya_Wiser-IMC-five_faculties-mindfulness.mp3",
-		"ln":"en",
-		"download_url":"/20368/20240508-Tanya_Wiser-IMC-five_faculties-mindfulness.mp3",
-		"speaker":"Tanya Wiser",
-		"date":"2024.05.08",
-		"duration":"44:12"
-	},
-	{
-		"title":"Showing UP",
-		"series":"",
-		"url":"/20346/20240508-Rev._Li%C3%AAn_Shutt-IMC-showing_up.mp3",
-		"ln":"en",
-		"download_url":"/20346/20240508-Rev._Li%C3%AAn_Shutt-IMC-showing_up.mp3",
-		"speaker":"Rev. Liên Shutt",
-		"date":"2024.05.08",
-		"duration":"15:34"
-	},
-	{
-		"title":"How Do You Connect",
-		"series":"",
-		"url":"/20345/20240508-Rev._Li%C3%AAn_Shutt-IMC-how_do_you_connect.mp3",
-		"ln":"en",
-		"download_url":"/20345/20240508-Rev._Li%C3%AAn_Shutt-IMC-how_do_you_connect.mp3",
-		"speaker":"Rev. Liên Shutt",
-		"date":"2024.05.08",
-		"duration":"01:06"
-	},
-	{
-		"title":"Dharmette: Six Qualities of the Dharma (3 of 5) Immediately Effective and Inviting Inspection",
-		"series":"Six Qualities of the Dharma",
-		"url":"/20360/20240508-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_3_of_5_immediately_effective_and_inviting_inspection.mp3",
-		"ln":"en",
-		"download_url":"/20360/20240508-Shelley_Gault-IMC-dharmette_six_qualities_of_the_dharma_3_of_5_immediately_effective_and_inviting_inspection.mp3",
-		"speaker":"Shelley Gault",
-		"date":"2024.05.08",
-		"duration":"15:36"
-	},
-	{
-		"title":"Guided Meditation: Staying Curious",
-		"series":"Guided Meditations",
-		"url":"/20359/20240508-Shelley_Gault-IMC-guided_meditation_staying_curious.mp3",
-		"ln":"en",
-		"download_url":"/20359/20240508-Shelley_Gault-IMC-guided_meditation_staying_curious.mp3",
-		"speaker":"Shelley Gault",
-		"date":"2024.05.08",
-		"duration":"31:13"
-	},
-	{
-		"title":"El espejismo de la confusión y la ignorancia (moha)",
-		"series":"",
-		"url":"/20337/20240507-Sandra_Sanabria-IMC-el_espejismo_de_la_confusion_y_la_ignorancia_moha.mp3",
-		"ln":"es",
-		"download_url":"/20337/20240507-Sandra_Sanabria-IMC-el_espejismo_de_la_confusion_y_la_ignorancia_moha.mp3",
-		"speaker":"Sandra Sanabria",
-		"date":"2024.05.07",
-		"duration":"25:50"
-	},
-	{
-		"title":"Meditación de la atención receptiva",
-		"series":"",
-		"url":"/20336/20240507-Sandra_Sanabria-IMC-meditacion_de_la_atencion_receptiva.mp3",
-		"ln":"es",
-		"download_url":"/20336/20240507-Sandra_Sanabria-IMC-meditacion_de_la_atencion_receptiva.mp3",
-		"speaker":"Sandra Sanabria",
-		"date":"2024.05.07",
-		"duration":"34:08"
-	},
-	{
-		"title":"“So they said to the Buddha …” 1 of 4",
-		"series":"“So they said to the Buddha …” ",
-		"url":"/20347/20240507-Bhante_Sujato-sati-so_they_said_to_the_buddha_1_of_4.mp3",
-		"ln":"en",
-		"download_url":"/20347/20240507-Bhante_Sujato-sati-so_they_said_to_the_buddha_1_of_4.mp3",
-		"speaker":"Bhante Sujato",
-		"date":"2024.05.07",
-		"duration":"1:22:17"
-	},
-	{
-		"title":"Humility and Skill with Mental Proliferation and Objectification (views, part 3)",
-		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
-		"url":"/20369/20240507-Dawn_Neal-IMC-humility_and_skill_with_mental_proliferation_and_objectification_views_part_3.mp3",
-		"ln":"en",
-		"download_url":"/20369/20240507-Dawn_Neal-IMC-humility_and_skill_with_mental_proliferation_and_objectification_views_part_3.mp3",
-		"speaker":"Dawn Neal",
-		"date":"2024.05.07",
-		"duration":"28:22"
-	},
-	{
-		"title":"Guided Meditation: Relax, Receive, Acknowledge",
-		"series":"Guided Meditations",
-		"url":"/20370/20240507-Dawn_Neal-IMC-guided_meditation_relax_receive_acknowledge.mp3",
-		"ln":"en",
-		"download_url":"/20370/20240507-Dawn_Neal-IMC-guided_meditation_relax_receive_acknowledge.mp3",
-		"speaker":"Dawn Neal",
-		"date":"2024.05.07",
-		"duration":"13:07"
-	},
-	{
-		"title":"Dharmette: Six Qualities of the Dharma (2 of 5) Well Proclaimed, Visible Here and Now",
-		"series":"Six Qualities of the Dharma",
-		"url":"/20331/29240507-Shelley_Gault-IMC-six_qualities_of_the_dharma_2_of_5_dharmette_well_proclaimed_visible_here_and_now.mp3",
-		"ln":"en",
-		"download_url":"/20331/29240507-Shelley_Gault-IMC-six_qualities_of_the_dharma_2_of_5_dharmette_well_proclaimed_visible_here_and_now.mp3",
-		"speaker":"Shelley Gault",
-		"date":"2024.05.07",
-		"duration":"16:52"
-	},
-	{
-		"title":"Guided Meditation: Intimate with Experience",
-		"series":"Guided Meditations",
-		"url":"/20330/20240507-Shelley_Gault-IMC-guided_meditation_intimate_with_experience.mp3",
-		"ln":"en",
-		"download_url":"/20330/20240507-Shelley_Gault-IMC-guided_meditation_intimate_with_experience.mp3",
-		"speaker":"Shelley Gault",
-		"date":"2024.05.07",
-		"duration":"32:23"
-	},
-	{
-		"title":"Intention, Mindfulness, and the Journey",
-		"series":"",
-		"url":"/20322/20240506-Maria_Straatmann-IMC-intention_mindfulness_and_the_journey.mp3",
-		"ln":"en",
-		"download_url":"/20322/20240506-Maria_Straatmann-IMC-intention_mindfulness_and_the_journey.mp3",
-		"speaker":"Maria Straatmann",
-		"date":"2024.05.06",
-		"duration":"49:49"
-	},
-	{
-		"title":"Dharmette: Six Qualities, an Overview",
-		"series":"Six Qualities of the Dharma",
-		"url":"/20311/20240506-Shelley_Gault-IMC-dharmette_six_qualities_an_overview.mp3",
-		"ln":"en",
-		"download_url":"/20311/20240506-Shelley_Gault-IMC-dharmette_six_qualities_an_overview.mp3",
-		"speaker":"Shelley Gault",
-		"date":"2024.05.06",
-		"duration":"15:56"
-	},
-	{
-		"title":"Guided Meditation: Simple Mindfulness",
-		"series":"Guided Meditations",
-		"url":"/20310/20240506-Shelley_Gault-IMC-guided_meditation_simple_mindfulness.mp3",
-		"ln":"en",
-		"download_url":"/20310/20240506-Shelley_Gault-IMC-guided_meditation_simple_mindfulness.mp3",
-		"speaker":"Shelley Gault",
-		"date":"2024.05.06",
-		"duration":"31:24"
-	},
-	{
-		"title":"Buddhist Birthday-2024",
-		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
-		"url":"/20300/20240505-Gil_Fronsdal-IMC-buddhist_birthday-2024.mp3",
-		"ln":"en",
-		"download_url":"/20300/20240505-Gil_Fronsdal-IMC-buddhist_birthday-2024.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.05",
-		"duration":"36:35"
 	}
 	]
 }
