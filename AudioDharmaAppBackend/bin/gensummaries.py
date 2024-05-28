@@ -107,10 +107,13 @@ def genSummary(path_summary, text, size_summarization):
             ]
         )
     except:
+        print(f'No summary for {path_summary}')
         return None
 
 
     summary = response['choices'][0]['message']['content']
+    print(f'{path_summary}')
+    print(summary)
     #LOG(summary)
     return summary
 
@@ -319,6 +322,7 @@ for talk in list_talks:
 
 
 # generate short summaries
+print("Creating short summaries")
 for talk in list_talks:
 
     path_transcript = getTranscriptPath(talk)
@@ -395,6 +399,7 @@ for talk in list_talks:
 # key summaries are long summaries + data.  it is this text that
 # is then later vectorized for each talk
 #
+print("Creating brief and key summaries")
 for talk in list_talks:
 
     path_summary_long = getTalkSummaryPath(talk, '.long')
@@ -404,7 +409,6 @@ for talk in list_talks:
 
     if not os.path.exists(path_summary_short): continue 
     if os.path.exists(path_summary_key): continue 
-    print(path_summary_key)
 
     summary = ''
     key_text = ''
@@ -441,7 +445,6 @@ for talk in list_talks:
     key_text = f'{title} {title_series} {key_text}'
 
     with open(path_summary_key, 'w') as fd:
-        #print(key_text)
         fd.write(key_text)
         TotalNewSummariesKey += 1
 

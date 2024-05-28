@@ -89,6 +89,23 @@ with open(PATH_KEYWORDS, 'r') as fd:
     list_keywords = json.loads(fd.read())
     LIST_LEGAL_WORDS = words.words() + list_keywords + LIST_EXTRAS
 
+
+
+
+def randomize_chunks(list_talks, N):
+
+    list_randomized = []
+
+    for i in range(0, len(list_talks), N):
+
+        chunk = list_talks[i:i + N]
+        random.shuffle(chunk)
+        list_randomized.extend(chunk)
+
+    return list_randomized
+
+
+
 #
 # translate text into an embedded vector
 #
@@ -301,9 +318,14 @@ def getExploreTalksJSON(query, _):
     if len(list_talks) < 3:
         list_talks = [talk for talk in list_talks if talk['score'] > MIN_SCORE_THRESHOLD - 0.10]
 
+    """
     for talk in list_talks:
         print(talk['title'])
         print(talk['score'])
+    """
+
+    list_talks = randomize_chunks(list_talks, 3)
+
 
     all_text = ''
     for talk in list_talks[:MAX_TALKS_TO_SUMMARIZE]:

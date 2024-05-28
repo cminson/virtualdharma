@@ -1,8 +1,38 @@
 {
 	"talks":[
 	{
-		"title":"Dharmette: Intro to Buddhist Ethics (1 of 5) Non-Harming",
+		"title":"Dharmette: Intro to Buddhist Ethics (2 of 5) Wholesomeness",
 		"series":"",
+		"url":"/20488/20240528-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_2_of_5_wholesomeness.mp3",
+		"ln":"en",
+		"download_url":"/20488/20240528-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_2_of_5_wholesomeness.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.05.28",
+		"duration":"14:48"
+	},
+	{
+		"title":"Guided Meditation: Wholesome Response",
+		"series":"Guided Meditations",
+		"url":"/20487/20240528-Gil_Fronsdal-IMC-guided_meditation_wholesome_response.mp3",
+		"ln":"en",
+		"download_url":"/20487/20240528-Gil_Fronsdal-IMC-guided_meditation_wholesome_response.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.05.28",
+		"duration":"30:30"
+	},
+	{
+		"title":"Journeying",
+		"series":"",
+		"url":"/20486/20240527-Diana_Clark-IMC-journeying.mp3",
+		"ln":"en",
+		"download_url":"/20486/20240527-Diana_Clark-IMC-journeying.mp3",
+		"speaker":"Diana Clark",
+		"date":"2024.05.27",
+		"duration":"43:57"
+	},
+	{
+		"title":"Dharmette: Intro to Buddhist Ethics (1 of 5) Non-Harming",
+		"series":"Intro to Buddhist Ethics",
 		"url":"/20484/20240527-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_1_of_5_non-harming.mp3",
 		"ln":"en",
 		"download_url":"/20484/20240527-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_1_of_5_non-harming.mp3",
@@ -449,36 +479,6 @@
 		"speaker":"Mei Elliott",
 		"date":"2024.05.14",
 		"duration":"12:59"
-	},
-	{
-		"title":"Guided Meditation: The Buddhas Five Daily Recollections: Sickness",
-		"series":"Guided Meditations",
-		"url":"/20417/20240514-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_sickness.mp3",
-		"ln":"en",
-		"download_url":"/20417/20240514-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_sickness.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2024.05.14",
-		"duration":"29:33"
-	},
-	{
-		"title":"Steadiness",
-		"series":"",
-		"url":"/20413/20240513-Maria_Straatmann-IMC-steadiness.mp3",
-		"ln":"en",
-		"download_url":"/20413/20240513-Maria_Straatmann-IMC-steadiness.mp3",
-		"speaker":"Maria Straatmann",
-		"date":"2024.05.13",
-		"duration":"41:34"
-	},
-	{
-		"title":"Dharmette: The Buddhas Five Daily Recollections (1 of 5): Aging",
-		"series":"The Buddhas Five Daily Recollections",
-		"url":"/20411/20240513-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_1_of_5_aging.mp3",
-		"ln":"en",
-		"download_url":"/20411/20240513-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_1_of_5_aging.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2024.05.13",
-		"duration":"13:15"
 	}
 	]
 }
