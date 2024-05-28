@@ -21435,3 +21435,4 @@ Array
 IPStack Lookup Result: 102.132.213.8 Country: ZA City:Cape Town
 STORING IP INTO CACHE: ZA Cape Town 102.132.213.8
 INSERT INTO ipmap(ip, country, city) VALUES('102.132.213.8', 'ZA', 'Cape Town')
+CACHED IP FOUND:  86.140.59.0 GB Finchley

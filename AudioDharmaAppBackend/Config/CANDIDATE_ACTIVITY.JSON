@@ -1,6 +1,13 @@
 {
 "sangha_history": [
 {
+	"filename" : "2004-06-21_GilFronsdal_Discernment.mp3",
+	"operation" : "PLAYTALK",
+	"date" : "2004.06.21",
+	"city" : "Cape Town",
+	"country" : "South Africa"
+},
+{
 	"filename" : "20240528-Gil_Fronsdal-IMC-guided_meditation_wholesome_response.mp3",
 	"operation" : "PLAYTALK",
 	"date" : "2024.05.28",
@@ -5403,13 +5410,6 @@
 	"date" : "2024.05.27",
 	"city" : "Maidenhead",
 	"country" : "Great Britain"
-},
-{
-	"filename" : "20240527-Gil_Fronsdal-IMC-guided_meditation_non-harming_mindfulness.mp3",
-	"operation" : "PLAYTALK",
-	"date" : "2024.05.27",
-	"city" : "Newmarket",
-	"country" : "Canada"
 }
 ],
 "sangha_shares": [
