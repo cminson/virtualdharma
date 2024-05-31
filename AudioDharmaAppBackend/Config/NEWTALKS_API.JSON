@@ -1,8 +1,188 @@
 {
 	"talks":[
 	{
-		"title":"Dharmette: Intro to Buddhist Ethics (2 of 5) Wholesomeness",
+		"title":"Dharmette: Intro to Buddhist Ethics (5 of 5) Being Ethical",
 		"series":"",
+		"url":"/20539/20240531-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_5_of_5_being_ethical.mp3",
+		"ln":"en",
+		"download_url":"/20539/20240531-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_5_of_5_being_ethical.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.05.31",
+		"duration":"13:39"
+	},
+	{
+		"title":"Guided Meditation: Ethical Sensitivity",
+		"series":"Guided Meditations",
+		"url":"/20538/20240531-Gil_Fronsdal-IMC-guided_meditation_ethical_sensitivity.mp3",
+		"ln":"en",
+		"download_url":"/20538/20240531-Gil_Fronsdal-IMC-guided_meditation_ethical_sensitivity.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.05.31",
+		"duration":"30:35"
+	},
+	{
+		"title":"Guided Meditation: Knowing the Unfolding of Nature",
+		"series":"Guided Meditations",
+		"url":"/20537/20240530-Ari_Crellin-Quick-IMC-guided_meditation_knowing_the_unfolding_of_nature.mp3",
+		"ln":"en",
+		"download_url":"/20537/20240530-Ari_Crellin-Quick-IMC-guided_meditation_knowing_the_unfolding_of_nature.mp3",
+		"speaker":"Ari Crellin-Quick",
+		"date":"2024.05.30",
+		"duration":"32:13"
+	},
+	{
+		"title":"Confidence and the 5 faculties",
+		"series":"",
+		"url":"/20536/20240530-Tanya_Wiser-IMC-confidence_and_the_5_faculties.mp3",
+		"ln":"en",
+		"download_url":"/20536/20240530-Tanya_Wiser-IMC-confidence_and_the_5_faculties.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2024.05.30",
+		"duration":"54:09"
+	},
+	{
+		"title":"Happy Hour: Mudita for all Beings",
+		"series":"",
+		"url":"/20535/20240530-Liz_Powell-IMC-happy_hour_mudita_for_all_beings.mp3",
+		"ln":"en",
+		"download_url":"/20535/20240530-Liz_Powell-IMC-happy_hour_mudita_for_all_beings.mp3",
+		"speaker":"Liz Powell",
+		"date":"2024.05.30",
+		"duration":"46:50"
+	},
+	{
+		"title":"Dharmette: Intro to Buddhist Ethics (4 of 5) Ethical Training",
+		"series":"Intro to Buddhist Ethics",
+		"url":"/cache/98cf174c170bd31d6986d59b3615ab3d.mp3",
+		"ln":"en",
+		"download_url":"/cache/98cf174c170bd31d6986d59b3615ab3d.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.05.30",
+		"duration":"--"
+	},
+	{
+		"title":"Guided Meditation: Training",
+		"series":"Guided Meditations",
+		"url":"/cache/422f7e56dd9d5d48c8ab6e96fda5a1a9.mp3",
+		"ln":"en",
+		"download_url":"/cache/422f7e56dd9d5d48c8ab6e96fda5a1a9.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.05.30",
+		"duration":"--"
+	},
+	{
+		"title":"Dharmette: Reflections on words from Ajahn Sucitto",
+		"series":"Wednesday Evening with Matthew Brensilver",
+		"url":"/20531/20240529-Matthew_Brensilver-IMC-dharmette_reflections_on_words_from_ajahn_sucitto.mp3",
+		"ln":"en",
+		"download_url":"/20531/20240529-Matthew_Brensilver-IMC-dharmette_reflections_on_words_from_ajahn_sucitto.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2024.05.29",
+		"duration":"16:38"
+	},
+	{
+		"title":"Guided Meditation: Tranquility",
+		"series":"Guided Meditations",
+		"url":"/20530/20240529-Matthew_Brensilver-IMC-guided_meditation_tranquility.mp3",
+		"ln":"en",
+		"download_url":"/20530/20240529-Matthew_Brensilver-IMC-guided_meditation_tranquility.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2024.05.29",
+		"duration":"26:55"
+	},
+	{
+		"title":"Happy Hour: Mudita for a Difficult Person",
+		"series":"",
+		"url":"/20529/20240529-Liz_Powell-IMC-happy_hour_mudita_for_a_difficult_person.mp3",
+		"ln":"en",
+		"download_url":"/20529/20240529-Liz_Powell-IMC-happy_hour_mudita_for_a_difficult_person.mp3",
+		"speaker":"Liz Powell",
+		"date":"2024.05.29",
+		"duration":"42:42"
+	},
+	{
+		"title":"Dharmette: Challenges",
+		"series":"",
+		"url":"/20520/20240529-Gil_Fronsdal-IMC-dharmette_challenges.mp3",
+		"ln":"en",
+		"download_url":"/20520/20240529-Gil_Fronsdal-IMC-dharmette_challenges.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.05.29",
+		"duration":"14:12"
+	},
+	{
+		"title":"Practice Notes: Ballast",
+		"series":"",
+		"url":"/20519/20240529-Gil_Fronsdal-IMC-practice_notes_ballast.mp3",
+		"ln":"en",
+		"download_url":"/20519/20240529-Gil_Fronsdal-IMC-practice_notes_ballast.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.05.29",
+		"duration":"04:45"
+	},
+	{
+		"title":"Dharmette: Intro to Buddhist Ethics (3 of 5) Ethical Beauty",
+		"series":"Intro to Buddhist Ethics",
+		"url":"/20514/20240529-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_3_of_5_ethical_beauty.mp3",
+		"ln":"en",
+		"download_url":"/20514/20240529-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_3_of_5_ethical_beauty.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.05.29",
+		"duration":"13:50"
+	},
+	{
+		"title":"Guided Meditation: Inner Beauty",
+		"series":"Guided Meditations",
+		"url":"/20513/20240529-Gil_Fronsdal-IMC-guided_meditation_inner_beauty.mp3",
+		"ln":"en",
+		"download_url":"/20513/20240529-Gil_Fronsdal-IMC-guided_meditation_inner_beauty.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.05.29",
+		"duration":"30:11"
+	},
+	{
+		"title":"Happy Hour: Mudita for a Stranger",
+		"series":"",
+		"url":"/20528/20240528-Liz_Powell-IMC-happy_hour_mudita_for_a_stranger.mp3",
+		"ln":"en",
+		"download_url":"/20528/20240528-Liz_Powell-IMC-happy_hour_mudita_for_a_stranger.mp3",
+		"speaker":"Liz Powell",
+		"date":"2024.05.28",
+		"duration":"49:03"
+	},
+	{
+		"title":"Delusion, awareness and wisdom",
+		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
+		"url":"/20491/20240528-Sandra_Sanabria-IMC-delusion_awareness_and_wisdom.mp3",
+		"ln":"en",
+		"download_url":"/20491/20240528-Sandra_Sanabria-IMC-delusion_awareness_and_wisdom.mp3",
+		"speaker":"Sandra Sanabria",
+		"date":"2024.05.28",
+		"duration":"23:56"
+	},
+	{
+		"title":"Meditation, the wandering mind",
+		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
+		"url":"/20490/20240528-Sandra_Sanabria-IMC-meditation_the_wandering_mind.mp3",
+		"ln":"en",
+		"download_url":"/20490/20240528-Sandra_Sanabria-IMC-meditation_the_wandering_mind.mp3",
+		"speaker":"Sandra Sanabria",
+		"date":"2024.05.28",
+		"duration":"32:56"
+	},
+	{
+		"title":"“So they said to the Buddha …” Class 4 of 4",
+		"series":"“So they said to the Buddha …” ",
+		"url":"/20527/20240528-Bhante_Sujato-sati-so_they_said_to_the_buddha_class_4_of_4.mp3",
+		"ln":"en",
+		"download_url":"/20527/20240528-Bhante_Sujato-sati-so_they_said_to_the_buddha_class_4_of_4.mp3",
+		"speaker":"Bhante Sujato",
+		"date":"2024.05.28",
+		"duration":"1:25:42"
+	},
+	{
+		"title":"Dharmette: Intro to Buddhist Ethics (2 of 5) Wholesomeness",
+		"series":"Intro to Buddhist Ethics",
 		"url":"/20488/20240528-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_2_of_5_wholesomeness.mp3",
 		"ln":"en",
 		"download_url":"/20488/20240528-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_2_of_5_wholesomeness.mp3",
@@ -299,186 +479,6 @@
 		"speaker":"Matthew Brensilver",
 		"date":"2024.05.19",
 		"duration":"41:10"
-	},
-	{
-		"title":"Dharmette: The Buddhas Five Daily Recollections (5 of 5): Karma",
-		"series":"The Buddhas Five Daily Recollections",
-		"url":"/20442/20240517-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_5_of_5_karma.mp3",
-		"ln":"en",
-		"download_url":"/20442/20240517-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_5_of_5_karma.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2024.05.17",
-		"duration":"15:11"
-	},
-	{
-		"title":"Guided Meditation: The Buddhas Five Daily Recollections: Karma",
-		"series":"Guided Meditations",
-		"url":"/20441/20240517-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_karma.mp3",
-		"ln":"en",
-		"download_url":"/20441/20240517-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_karma.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2024.05.17",
-		"duration":"30:17"
-	},
-	{
-		"title":"Five Faculties-Calm Concentraion",
-		"series":"",
-		"url":"/20438/20240516-Tanya_Wiser-IMC-five_faculties-calm_concentraion.mp3",
-		"ln":"en",
-		"download_url":"/20438/20240516-Tanya_Wiser-IMC-five_faculties-calm_concentraion.mp3",
-		"speaker":"Tanya Wiser",
-		"date":"2024.05.16",
-		"duration":"44:19"
-	},
-	{
-		"title":"Happy Hour: Gratitude",
-		"series":"",
-		"url":"/20439/20240516-Liz_Powell-IMC-happy_hour_gratitude.mp3",
-		"ln":"en",
-		"download_url":"/20439/20240516-Liz_Powell-IMC-happy_hour_gratitude.mp3",
-		"speaker":"Liz Powell",
-		"date":"2024.05.16",
-		"duration":"47:50"
-	},
-	{
-		"title":"Senior Sangha May 2024: The Freedom of No Self",
-		"series":"Senior Sangha Meetings",
-		"url":"/20481/20240516-David_Cohn-IMC-senior_sangha_may_2024_the_freedom_of_no_self.mp3",
-		"ln":"en",
-		"download_url":"/20481/20240516-David_Cohn-IMC-senior_sangha_may_2024_the_freedom_of_no_self.mp3",
-		"speaker":"<multiple>",
-		"date":"2024.05.16",
-		"duration":"1:11:07"
-	},
-	{
-		"title":"Dharmette: The Buddhas Five Daily Recollections (4 of 5): Losing the Beloved",
-		"series":"The Buddhas Five Daily Recollections",
-		"url":"/20436/20240516-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_4_of_5_losing_the_beloved.mp3",
-		"ln":"en",
-		"download_url":"/20436/20240516-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_4_of_5_losing_the_beloved.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2024.05.16",
-		"duration":"12:42"
-	},
-	{
-		"title":"Guided Meditation: The Buddhas Five Daily Recollections: Losing the Beloved",
-		"series":"Guided Meditations",
-		"url":"/20435/20240516-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_losing_the_beloved.mp3",
-		"ln":"en",
-		"download_url":"/20435/20240516-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_losing_the_beloved.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2024.05.16",
-		"duration":"29:51"
-	},
-	{
-		"title":"Dharmette: Further Reflections on Relax, Receive and Allow",
-		"series":"",
-		"url":"/20429/20240515-Andrea_Fella-IMC-dharmette_further_reflections_on_relax_receive_and_allow.mp3",
-		"ln":"en",
-		"download_url":"/20429/20240515-Andrea_Fella-IMC-dharmette_further_reflections_on_relax_receive_and_allow.mp3",
-		"speaker":"Andrea Fella",
-		"date":"2024.05.15",
-		"duration":"12:47"
-	},
-	{
-		"title":"Guided Meditation: Relax, Receive and Allow",
-		"series":"Guided Meditations",
-		"url":"/20428/20240515-Andrea_Fella-IMC-guided_meditation_relax_receive_and_allow.mp3",
-		"ln":"en",
-		"download_url":"/20428/20240515-Andrea_Fella-IMC-guided_meditation_relax_receive_and_allow.mp3",
-		"speaker":"Andrea Fella",
-		"date":"2024.05.15",
-		"duration":"43:47"
-	},
-	{
-		"title":"Dharmette: The Buddhas Five Daily Recollections (3 of 5); Death",
-		"series":"The Buddhas Five Daily Recollections",
-		"url":"/20427/20240515-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_3_of_5_death.mp3",
-		"ln":"en",
-		"download_url":"/20427/20240515-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_3_of_5_death.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2024.05.15",
-		"duration":"13:37"
-	},
-	{
-		"title":"Guided Meditation: The Buddhas Five Daily Recollections; Death",
-		"series":"Guided Meditations",
-		"url":"/20426/20240515-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_death.mp3",
-		"ln":"en",
-		"download_url":"/20426/20240515-Mei_Elliott-IMC-guided_meditation_the_buddha_s_five_daily_recollections_death.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2024.05.15",
-		"duration":"30:58"
-	},
-	{
-		"title":"Sati, unificación y gozo",
-		"series":"",
-		"url":"/20422/20240514-Andrea_Castillo-IMC-sati_unificacion_y_gozo.mp3",
-		"ln":"es",
-		"download_url":"/20422/20240514-Andrea_Castillo-IMC-sati_unificacion_y_gozo.mp3",
-		"speaker":"Andrea Castillo",
-		"date":"2024.05.14",
-		"duration":"49:11"
-	},
-	{
-		"title":"Sati, unificación y gozo Meditación guiada",
-		"series":"",
-		"url":"/20421/20240514-Andrea_Castillo-IMC-sati_unificacion_y_gozo_meditacion_guiada.mp3",
-		"ln":"es",
-		"download_url":"/20421/20240514-Andrea_Castillo-IMC-sati_unificacion_y_gozo_meditacion_guiada.mp3",
-		"speaker":"Andrea Castillo",
-		"date":"2024.05.14",
-		"duration":"28:11"
-	},
-	{
-		"title":"Happy Hour: Compassion for a Difficult Person",
-		"series":"",
-		"url":"/20420/20240514-Liz_Powell-IMC-happy_hour_compassion_for_a_difficult_person.mp3",
-		"ln":"en",
-		"download_url":"/20420/20240514-Liz_Powell-IMC-happy_hour_compassion_for_a_difficult_person.mp3",
-		"speaker":"Liz Powell",
-		"date":"2024.05.14",
-		"duration":"48:35"
-	},
-	{
-		"title":"Mindfulness of the Body (Satipaṭṭhāna Sutta)",
-		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
-		"url":"/20416/20240514-Marjolein_Janssen-IMC-mindfulness_of_the_body_satipa_hana_sutta.mp3",
-		"ln":"en",
-		"download_url":"/20416/20240514-Marjolein_Janssen-IMC-mindfulness_of_the_body_satipa_hana_sutta.mp3",
-		"speaker":"Marjolein Janssen",
-		"date":"2024.05.14",
-		"duration":"26:41"
-	},
-	{
-		"title":"“So they said to the Buddha …”  Class 2 of 4",
-		"series":"“So they said to the Buddha …” ",
-		"url":"/20425/20240514-Bhante_Sujato-sati-so_they_said_to_the_buddha_class_2_of_4.mp3",
-		"ln":"en",
-		"download_url":"/20425/20240514-Bhante_Sujato-sati-so_they_said_to_the_buddha_class_2_of_4.mp3",
-		"speaker":"Bhante Sujato",
-		"date":"2024.05.14",
-		"duration":"1:30:19"
-	},
-	{
-		"title":"Guided Meditation: Mindfulness of the Breath and Body",
-		"series":"Guided Meditations",
-		"url":"/20415/20240514-Marjolein_Janssen-IMC-guided_meditation_mindfulness_of_the_breath_and_body.mp3",
-		"ln":"en",
-		"download_url":"/20415/20240514-Marjolein_Janssen-IMC-guided_meditation_mindfulness_of_the_breath_and_body.mp3",
-		"speaker":"Marjolein Janssen",
-		"date":"2024.05.14",
-		"duration":"32:50"
-	},
-	{
-		"title":"Dharmette: The Buddhas Five Daily Recollections (2 of 5): Sickness",
-		"series":"The Buddhas Five Daily Recollections",
-		"url":"/20418/20240514-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_2_of_5_sickness.mp3",
-		"ln":"en",
-		"download_url":"/20418/20240514-Mei_Elliott-IMC-dharmette_the_buddha_s_five_daily_recollections_2_of_5_sickness.mp3",
-		"speaker":"Mei Elliott",
-		"date":"2024.05.14",
-		"duration":"12:59"
 	}
 	]
 }

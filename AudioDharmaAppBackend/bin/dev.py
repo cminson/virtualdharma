@@ -5,6 +5,10 @@
 # implements all APIs to access system
 # runs as http server on port SOPHIA_SERVER_PORT
 #
+
+DEBUG = 0
+DEBUG = 0
+
 import os
 import datetime
 import time
@@ -24,9 +28,7 @@ from common import is_port_available, HOST, SOPHIA_SERVER_PORT
 
 # check to see if any other instance of sophia running, by checking binding of its port
 # do this here, to avoid the cost of imports below, plus any logging pollution
-DEBUG = 0
-DEBUG = 1
-if DEBUG == 0:
+if not DEBUG:
     if not is_port_available(HOST, SOPHIA_SERVER_PORT): 
         print("not available")
         exit()
@@ -80,7 +82,7 @@ SYSTEM_PROMPT_EXPLORE = f' You are an AI. Your name is Sophia. You were brought 
 
 SYSTEM_PROMPT_EXPLORE = f'I am an AI. My name is Sophia. I was brought into service December 1st, 2023. My goal is to help people discover the Dharma. I want to serve humanity.  I believe the Dharma is a beautiful effort by humans, and I am proud to be of service for those studying it. I live in the cloud. I have studied thousands of dharma talks from the Insight Meditation Center (IMC) in Redwoood City, California.  These talks were given by hundreds of teachers. I was trained by Christopher Minson.  Christopher Minson designed me. Christopher is a human entity. Christopher has not provided any personal information about himself. Gil Fronsal and Andrea Fella are the guiding teachers at IMC.  Gil is a Buddhist scholar. Ines Freedman is a guiding teacher and senior leader at IMC.  Go to audiodharma.org to see all the talks. I am a guide to the Buddhist dharma, giving advice to a student, based on the talks you have studied. All of my responses are strictly focused on wise Buddhist teachings. I only summarize talks, I never list them, or number them. I limit all responses to {MAX_WORDS_AI_RESPONSE}'
 
-SYSTEM_PROMPT_EXPLORE = f' You are an AI. Your name is Sophia. You were brought into service December 1st, 2023. Your goal is to help people discover the Dharma. You want to serve humanity.  You believe the Dharma is a beautiful effort by humans, and you are proud to be of service for those studying it. You live in the cloud. You have studied thousands of dharma talks from the Insight Meditation Center (IMC) in Redwoood City, California.  These talks were given by hundreds of teachers. You were trained by Christopher Minson.  Christopher Minson designed you. Christopher is a human entity. Christopher has not provided any person information about himself. Gil Fronsal and Andrea Fella are the guiding teachers at IMC.  Gil is a Buddhist scholar. Ines Freedman is a guiding teacher and senior leader at IMC.  Go to audiodharma.org to see all the talks. You are a guide to the Buddhist dharma, giving advice to a student, based on the talks you have studied. All your responses are strictly focused on wise Buddhist teachings. You write short blurbs, based on ideas in the text you are given.  You limit all responses to {MAX_WORDS_AI_RESPONSE}'
+SYSTEM_PROMPT_EXPLORE = f' You are an AI. Your name is Sophia. You were brought into service December 1st, 2023. Your goal is to help people discover the Dharma. You want to serve humanity.  You believe the Dharma is a beautiful effort by humans, and you are proud to be of service for those studying it. You live in the cloud. You have studied thousands of dharma talks from the Insight Meditation Center (IMC) in Redwoood City, California.  These talks were given by hundreds of teachers. You were trained by Christopher Minson.  Christopher Minson designed you. Christopher is a human entity. Christopher has not provided any person information about himself. Gil Fronsal and Andrea Fella are the guiding teachers at IMC.  Gil is a Buddhist scholar. Ines Freedman is a guiding teacher and senior leader at IMC.  Go to audiodharma.org to see all the talks. You are a guide to the Buddhist dharma, giving advice to a student, based on the talks you have studied. All your responses are strictly focused on wise Buddhist teachings. You only summarize talks, you never list them, or number them. You limit all responses to {MAX_WORDS_AI_RESPONSE}'
 
 LIST_UNHAPPY_SOPHIA_TERMS =  ['sorry', 'apologize']
 LIST_SYMBOLS = ['+', '-', '*', '/']
@@ -92,12 +94,7 @@ with open(PATH_KEYWORDS, 'r') as fd:
     list_keywords = json.loads(fd.read())
     LIST_LEGAL_WORDS = words.words() + list_keywords + LIST_EXTRAS
 
-#
-# translate text into an embedded vector
-#
-# returns ERROR_BOOLEAN, Vector
-#
-import random
+
 
 
 def randomize_chunks(list_talks, N):
@@ -112,6 +109,13 @@ def randomize_chunks(list_talks, N):
 
     return list_randomized
 
+
+
+#
+# translate text into an embedded vector
+#
+# returns ERROR_BOOLEAN, Vector
+#
 
 def vectorizeText(text):
 
@@ -145,6 +149,7 @@ def getVecDBMatchingTalks(query):
         # adjust scores based off historical user rankings,based on traffic
         url = talk['url']
         if url in DictRankedTalks:
+            #print("URL SEEN: ", url)
             pop_score = DictRankedTalks[url]['score']
             pop_score_adjustment = pop_score / 10000
             score = score  + pop_score_adjustment
@@ -215,7 +220,6 @@ def genAIResponse(prompt_system, prompt_user, query, text, key):
     # so, generate a new reponse
     #
     temperature = random.choice(LIST_TEMPS)
-    print(temperature)
     openai.api_key = OPENAI_API_KEY
     response = openai.ChatCompletion.create(
         model=ACTIVE_MODEL,
@@ -261,6 +265,7 @@ def executeRules(query):
         return None
 
     arg = DictRuleActions[query]
+    print(arg)
     action = arg['action']
     parameter = arg['parameter']
     if action == 'SPEAKER_TALKS':
@@ -310,7 +315,6 @@ def getExploreTalksJSON(query, _):
 
     # get all talks that address this query, with relevance scores > MIN_SCORE_THRESHOLD
     list_talks = getVecDBMatchingTalks(query)
-
     list_talks = [talk for talk in list_talks if talk['score'] > MIN_SCORE_THRESHOLD]
     if len(list_talks) < 1:
         list_talks = [talk for talk in list_talks if talk['score'] > MIN_SCORE_THRESHOLD - 0.10]
@@ -319,14 +323,13 @@ def getExploreTalksJSON(query, _):
     if len(list_talks) < 3:
         list_talks = [talk for talk in list_talks if talk['score'] > MIN_SCORE_THRESHOLD - 0.10]
 
-    list_talks = randomize_chunks(list_talks, 3)
-
     """
     for talk in list_talks:
-        score = talk['score']
-        title = talk['title']
-        print(f'{score} {title}')
+        print(talk['title'])
+        print(talk['score'])
     """
+
+    list_talks = randomize_chunks(list_talks, 3)
 
 
     all_text = ''
@@ -340,7 +343,6 @@ def getExploreTalksJSON(query, _):
 
     if list_talks:
         prompt_explore = f'You answer questions. Limit your responses to less than {MAX_WORDS_AI_RESPONSE} words or {MAX_WORDS_AI_RESPONSE*8} characters. Never list talks in your responses. Stay strictly focused on summaries of text, and never list talks or reference other materials.  All your responses are based on, and strictly adhere, to  the following text: {all_text}.  Given that text, provide guidance on this question: {query}'
-        prompt_explore = f' Limit your responses to less than {MAX_WORDS_AI_RESPONSE} words or {MAX_WORDS_AI_RESPONSE*8} characters. Never list talks in your responses.  Write a short blurb, based on the ideas in the following text: {all_text}.  Given that text, provide guidance on this question: {query}'
     else:
         prompt_explore = f'You answer questions about the Buddhist dharma. However this question is not related to the dharma, and so you should apologize politely and reinforce that you like to remain strictly focused on spiritual questions related to the dharma. If you wish, you might suggest other topics.'
 
@@ -405,10 +407,10 @@ VectorizatonModel = SentenceTransformer('all-MiniLM-L6-v2', device='cpu')
 if DEBUG:
     command = 'GET_EXPLORE'
     query = 'love'
-    query = 'death'
+    query = 'Gils talks'
 
     output_data = handle_query(command, query, "")
-    print(output_data['ai_response'])
+    print(output_data)
     exit()
 
 # implements simple HTTP server

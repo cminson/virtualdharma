@@ -1,64 +1,64 @@
 {
 "talks": [
 {
-	"title" : "1. Pilgrimage",
-	"url" : "/20482/20240526-Gil_Fronsdal-IMC-pilgrimage.mp3",
+	"title" : "1. Guided Meditation: Tranquility",
+	"url" : "/20530/20240529-Matthew_Brensilver-IMC-guided_meditation_tranquility.mp3",
 	"series" : "",
-	"score" : 122
+	"score" : 118
 },
 {
-	"title" : "2. Guided Meditation: Non-Harming Mindfulness",
-	"url" : "/20483/20240527-Gil_Fronsdal-IMC-guided_meditation_non-harming_mindfulness.mp3",
+	"title" : "2. Guided Meditation: Inner Beauty",
+	"url" : "/20513/20240529-Gil_Fronsdal-IMC-guided_meditation_inner_beauty.mp3",
 	"series" : "",
 	"score" : 104
 },
 {
-	"title" : "3. Dharmette: Intro to Buddhist Ethics (1 of 5) Non-Harming",
+	"title" : "3. Dharmette: Challenges",
+	"url" : "/20520/20240529-Gil_Fronsdal-IMC-dharmette_challenges.mp3",
+	"series" : "",
+	"score" : 103
+},
+{
+	"title" : "4. Dharmette: Reflections on words from Ajahn Sucitto",
+	"url" : "/20531/20240529-Matthew_Brensilver-IMC-dharmette_reflections_on_words_from_ajahn_sucitto.mp3",
+	"series" : "",
+	"score" : 92
+},
+{
+	"title" : "5. Dharmette: Intro to Buddhist Ethics (3 of 5) Ethical Beauty",
+	"url" : "/20514/20240529-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_3_of_5_ethical_beauty.mp3",
+	"series" : "",
+	"score" : 67
+},
+{
+	"title" : "6. Guided Meditation: Wholesome Response",
+	"url" : "/20487/20240528-Gil_Fronsdal-IMC-guided_meditation_wholesome_response.mp3",
+	"series" : "",
+	"score" : 63
+},
+{
+	"title" : "7. Dharmette: Intro to Buddhist Ethics (2 of 5) Wholesomeness",
+	"url" : "/20488/20240528-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_2_of_5_wholesomeness.mp3",
+	"series" : "",
+	"score" : 53
+},
+{
+	"title" : "8. Guided Meditation: Non-Harming Mindfulness",
+	"url" : "/20483/20240527-Gil_Fronsdal-IMC-guided_meditation_non-harming_mindfulness.mp3",
+	"series" : "",
+	"score" : 40
+},
+{
+	"title" : "9. Practice Notes: Ballast",
+	"url" : "/20519/20240529-Gil_Fronsdal-IMC-practice_notes_ballast.mp3",
+	"series" : "",
+	"score" : 40
+},
+{
+	"title" : "10. Dharmette: Intro to Buddhist Ethics (1 of 5) Non-Harming",
 	"url" : "/20484/20240527-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_1_of_5_non-harming.mp3",
 	"series" : "",
-	"score" : 82
-},
-{
-	"title" : "4. Guided Meditation: Goodnight Moon",
-	"url" : "/20468/20240522-Matthew_Brensilver-IMC-guided_meditation_goodnight_moon.mp3",
-	"series" : "",
-	"score" : 51
-},
-{
-	"title" : "5. Dharmette: Cruising Altitude and Upheaval",
-	"url" : "/20469/20240522-Matthew_Brensilver-IMC-dharmette_cruising_altitude_and_upheaval.mp3",
-	"series" : "",
-	"score" : 48
-},
-{
-	"title" : "6. Inclining the Mind Toward Peace: Perceiving Stress in What is Inconstant",
-	"url" : "/20476/20240523-Ari_Crellin-Quick-IMC-inclining_the_mind_toward_peace_perceiving_stress_in_what_is_inconstant.mp3",
-	"series" : "",
-	"score" : 38
-},
-{
-	"title" : "7. Journeying",
-	"url" : "/20486/20240527-Diana_Clark-IMC-journeying.mp3",
-	"series" : "",
-	"score" : 34
-},
-{
-	"title" : "8. Guided Meditation: Simple Knowing of Experience",
-	"url" : "/20475/20240523-Ari_Crellin-Quick-IMC-guided_meditation_simple_knowing_of_experience.mp3",
-	"series" : "",
-	"score" : 30
-},
-{
-	"title" : "9. Practicing with What Is",
-	"url" : "/20464/20240522-Maria_Straatmann-IMC-practicing_with_what_is.mp3",
-	"series" : "",
-	"score" : 26
-},
-{
-	"title" : "10. Guided Meditation: Opening to All Experience - Allowing",
-	"url" : "/20457/20240521-Andrea_Fella-IMC-guided_meditation_opening_to_all_experience_-_allowing.mp3",
-	"series" : "",
-	"score" : 22
+	"score" : 37
 }
 ]
 }

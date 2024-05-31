@@ -5,6 +5,10 @@
 # implements all APIs to access system
 # runs as http server on port SOPHIA_SERVER_PORT
 #
+
+DEBUG = 0
+DEBUG = 0
+
 import os
 import datetime
 import time
@@ -24,9 +28,10 @@ from common import is_port_available, HOST, SOPHIA_SERVER_PORT
 
 # check to see if any other instance of sophia running, by checking binding of its port
 # do this here, to avoid the cost of imports below, plus any logging pollution
-if not is_port_available(HOST, SOPHIA_SERVER_PORT): 
-    print("not available")
-    exit()
+if not DEBUG:
+    if not is_port_available(HOST, SOPHIA_SERVER_PORT): 
+        print("not available")
+        exit()
 
 import threading
 import nltk
@@ -399,8 +404,6 @@ DictSofiaCommands = {
 OPENAI_API_KEY = configureOpenAIKey()
 VectorDB = QdrantClient(host="localhost", port=QDRANT_SERVER_PORT)
 VectorizatonModel = SentenceTransformer('all-MiniLM-L6-v2', device='cpu')
-DEBUG = 1
-DEBUG = 0
 if DEBUG:
     command = 'GET_EXPLORE'
     query = 'love'
