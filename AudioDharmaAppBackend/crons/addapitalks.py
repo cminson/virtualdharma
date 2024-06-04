@@ -231,7 +231,6 @@ for talk in all_talks:
     summary = first_two_sentences(summary)
 
     talk["sum"] = summary
-
     talk["title"] = talk["title"].replace("&amp;", "&")
     talk["speaker"] = talk["speaker"].replace("<multiple>", "Multiple")
     talk["date"] = talk["date"].replace("-", ".")

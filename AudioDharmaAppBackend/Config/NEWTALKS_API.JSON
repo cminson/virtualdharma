@@ -1,8 +1,178 @@
 {
 	"talks":[
 	{
-		"title":"Dharmette: Intro to Buddhist Ethics (5 of 5) Being Ethical",
+		"title":"Questioning as Practice",
 		"series":"",
+		"url":"/20570/20240603-Diana_Clark-IMC-questioning_as_practice.mp3",
+		"ln":"en",
+		"download_url":"/20570/20240603-Diana_Clark-IMC-questioning_as_practice.mp3",
+		"speaker":"Diana Clark",
+		"date":"2024.06.03",
+		"duration":"45:07"
+	},
+	{
+		"title":"Dharmette: The Five Precepts (1 of 5):  Not taking life",
+		"series":"Five Precepts to Support the Practice",
+		"url":"/20568/20240603-David_Lorey-IMC-dharmette_the_five_precepts_1_of_5_not_taking_life.mp3",
+		"ln":"en",
+		"download_url":"/20568/20240603-David_Lorey-IMC-dharmette_the_five_precepts_1_of_5_not_taking_life.mp3",
+		"speaker":"David Lorey",
+		"date":"2024.06.03",
+		"duration":"15:59"
+	},
+	{
+		"title":"Guided Meditation: The Heart of Non-Harming",
+		"series":"Guided Meditations",
+		"url":"/20567/20240603-David_Lorey-IMC-guided_meditation_the_heart_of_non-harming.mp3",
+		"ln":"en",
+		"download_url":"/20567/20240603-David_Lorey-IMC-guided_meditation_the_heart_of_non-harming.mp3",
+		"speaker":"David Lorey",
+		"date":"2024.06.03",
+		"duration":"30:34"
+	},
+	{
+		"title":"Ethics of Metta",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/20559/20240602-Gil_Fronsdal-IMC-ethics_of_metta.mp3",
+		"ln":"en",
+		"download_url":"/20559/20240602-Gil_Fronsdal-IMC-ethics_of_metta.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2024.06.02",
+		"duration":"42:00"
+	},
+	{
+		"title":"Dharma Talk and Q&A",
+		"series":"",
+		"url":"/20550/20240601-Kim_Allen-IRC-dharma_talk_and_q_a.mp3",
+		"ln":"en",
+		"download_url":"/20550/20240601-Kim_Allen-IRC-dharma_talk_and_q_a.mp3",
+		"speaker":"Kim Allen",
+		"date":"2024.06.01",
+		"duration":"49:58"
+	},
+	{
+		"title":"Q&A",
+		"series":"",
+		"url":"/20549/20240601-Kim_Allen-IRC-q_a.mp3",
+		"ln":"en",
+		"download_url":"/20549/20240601-Kim_Allen-IRC-q_a.mp3",
+		"speaker":"Kim Allen",
+		"date":"2024.06.01",
+		"duration":"26:37"
+	},
+	{
+		"title":"Guided Meditation (Investigation 3)",
+		"series":"Guided Meditations",
+		"url":"/20548/20240601-Kim_Allen-IRC-guided_meditation_investigation_3.mp3",
+		"ln":"en",
+		"download_url":"/20548/20240601-Kim_Allen-IRC-guided_meditation_investigation_3.mp3",
+		"speaker":"Kim Allen",
+		"date":"2024.06.01",
+		"duration":"46:00"
+	},
+	{
+		"title":"Silent Meditation and Dharmette",
+		"series":"",
+		"url":"/20547/20240601-Kim_Allen-IRC-silent_meditation_and_dharmette.mp3",
+		"ln":"en",
+		"download_url":"/20547/20240601-Kim_Allen-IRC-silent_meditation_and_dharmette.mp3",
+		"speaker":"Kim Allen",
+		"date":"2024.06.01",
+		"duration":"30:51"
+	},
+	{
+		"title":"Guided Meditation (Investigation 2)",
+		"series":"Guided Meditations",
+		"url":"/20546/20240601-Kim_Allen-IRC-guided_meditation_investigation_2.mp3",
+		"ln":"en",
+		"download_url":"/20546/20240601-Kim_Allen-IRC-guided_meditation_investigation_2.mp3",
+		"speaker":"Kim Allen",
+		"date":"2024.06.01",
+		"duration":"45:44"
+	},
+	{
+		"title":"Introduction & Guided Meditation (Investigation 1) & Walking Meditation Instruction",
+		"series":"Guided Meditations",
+		"url":"/20545/20240601-Kim_Allen-IRC-introduction_guided_meditation_investigation_1_walking_meditation_instruction.mp3",
+		"ln":"en",
+		"download_url":"/20545/20240601-Kim_Allen-IRC-introduction_guided_meditation_investigation_1_walking_meditation_instruction.mp3",
+		"speaker":"Kim Allen",
+		"date":"2024.06.01",
+		"duration":"57:24"
+	},
+	{
+		"title":"The Joy of Appreciating Pāññā (Wisdom)",
+		"series":"Joy as Path: Pāmojja and Transcendent Dependent Origination",
+		"url":"/20558/20240601-Ajahn_Kovilo-sati-the_joy_of_appreciating_panna_wisdom.mp3",
+		"ln":"en",
+		"download_url":"/20558/20240601-Ajahn_Kovilo-sati-the_joy_of_appreciating_panna_wisdom.mp3",
+		"speaker":"Ajahn Kovilo",
+		"date":"2024.06.01",
+		"duration":"08:57"
+	},
+	{
+		"title":"Meditation III",
+		"series":"Joy as Path: Pāmojja and Transcendent Dependent Origination",
+		"url":"/20557/20240601-Ajahn_Kovilo-sati-meditation_iii.mp3",
+		"ln":"en",
+		"download_url":"/20557/20240601-Ajahn_Kovilo-sati-meditation_iii.mp3",
+		"speaker":"Ajahn Kovilo",
+		"date":"2024.06.01",
+		"duration":"12:02"
+	},
+	{
+		"title":"The Joy of Appreciating Sīla (Virtue) & Suta (Learning)",
+		"series":"Joy as Path: Pāmojja and Transcendent Dependent Origination",
+		"url":"/20556/20240601-Ajahn_Kovilo-sati-talk_ii_the_joy_of_appreciating_sila_virtue_suta_learning.mp3",
+		"ln":"en",
+		"download_url":"/20556/20240601-Ajahn_Kovilo-sati-talk_ii_the_joy_of_appreciating_sila_virtue_suta_learning.mp3",
+		"speaker":"Ajahn Kovilo",
+		"date":"2024.06.01",
+		"duration":"37:42"
+	},
+	{
+		"title":"Meditation II – Guided",
+		"series":"Joy as Path: Pāmojja and Transcendent Dependent Origination",
+		"url":"/20555/20240601-Ajahn_Kovilo-sati-meditation_ii_guided.mp3",
+		"ln":"en",
+		"download_url":"/20555/20240601-Ajahn_Kovilo-sati-meditation_ii_guided.mp3",
+		"speaker":"Ajahn Kovilo",
+		"date":"2024.06.01",
+		"duration":"15:03"
+	},
+	{
+		"title":"The Joy of Appreciating Saddhā (Faith) & Cāga (Generosity)",
+		"series":"Joy as Path: Pāmojja and Transcendent Dependent Origination",
+		"url":"/20554/20240601-Ajahn_Kovilo-sati-talk_i_the_joy_of_appreciating_saddha_faith_caga_generosity.mp3",
+		"ln":"en",
+		"download_url":"/20554/20240601-Ajahn_Kovilo-sati-talk_i_the_joy_of_appreciating_saddha_faith_caga_generosity.mp3",
+		"speaker":"Ajahn Kovilo",
+		"date":"2024.06.01",
+		"duration":"34:35"
+	},
+	{
+		"title":"Meditation I – Embodied Pāmojja",
+		"series":"Joy as Path: Pāmojja and Transcendent Dependent Origination",
+		"url":"/20553/20240601-Ajahn_Kovilo-sati-meditation_i_embodied_pamojja.mp3",
+		"ln":"en",
+		"download_url":"/20553/20240601-Ajahn_Kovilo-sati-meditation_i_embodied_pamojja.mp3",
+		"speaker":"Ajahn Kovilo",
+		"date":"2024.06.01",
+		"duration":"14:30"
+	},
+	{
+		"title":"Introduction – The Wellbeing Cascade",
+		"series":"Joy as Path: Pāmojja and Transcendent Dependent Origination",
+		"url":"/20552/20240601-Ajahn_Kovilo-sati-introduction_the_wellbeing_cascade.mp3",
+		"ln":"en",
+		"download_url":"/20552/20240601-Ajahn_Kovilo-sati-introduction_the_wellbeing_cascade.mp3",
+		"speaker":"Ajahn Kovilo",
+		"date":"2024.06.01",
+		"duration":"13:08"
+	},
+	{
+		"title":"Dharmette: Intro to Buddhist Ethics (5 of 5) Being Ethical",
+		"series":"Intro to Buddhist Ethics",
 		"url":"/20539/20240531-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_5_of_5_being_ethical.mp3",
 		"ln":"en",
 		"download_url":"/20539/20240531-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_5_of_5_being_ethical.mp3",
@@ -53,22 +223,22 @@
 	{
 		"title":"Dharmette: Intro to Buddhist Ethics (4 of 5) Ethical Training",
 		"series":"Intro to Buddhist Ethics",
-		"url":"/cache/98cf174c170bd31d6986d59b3615ab3d.mp3",
+		"url":"/20533/20240530-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_4_of_5_ethical_training.mp3",
 		"ln":"en",
-		"download_url":"/cache/98cf174c170bd31d6986d59b3615ab3d.mp3",
+		"download_url":"/20533/20240530-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_4_of_5_ethical_training.mp3",
 		"speaker":"Gil Fronsdal",
 		"date":"2024.05.30",
-		"duration":"--"
+		"duration":"15:08"
 	},
 	{
 		"title":"Guided Meditation: Training",
 		"series":"Guided Meditations",
-		"url":"/cache/422f7e56dd9d5d48c8ab6e96fda5a1a9.mp3",
+		"url":"/20532/20240530-Gil_Fronsdal-IMC-guided_meditation_training.mp3",
 		"ln":"en",
-		"download_url":"/cache/422f7e56dd9d5d48c8ab6e96fda5a1a9.mp3",
+		"download_url":"/20532/20240530-Gil_Fronsdal-IMC-guided_meditation_training.mp3",
 		"speaker":"Gil Fronsdal",
 		"date":"2024.05.30",
-		"duration":"--"
+		"duration":"29:10"
 	},
 	{
 		"title":"Dharmette: Reflections on words from Ajahn Sucitto",
@@ -299,186 +469,6 @@
 		"speaker":"Ying Chen",
 		"date":"2024.05.23",
 		"duration":"13:58"
-	},
-	{
-		"title":"Guided Meditation: Opening to the Nature Within; Expanding",
-		"series":"Guided Meditations",
-		"url":"/20471/20240523-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_expanding.mp3",
-		"ln":"en",
-		"download_url":"/20471/20240523-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_expanding.mp3",
-		"speaker":"Ying Chen",
-		"date":"2024.05.23",
-		"duration":"29:37"
-	},
-	{
-		"title":"Five Faculties-Wisdom",
-		"series":"",
-		"url":"/20474/20240523-Tanya_Wiser-IMC-five_faculties-wisdom.mp3",
-		"ln":"en",
-		"download_url":"/20474/20240523-Tanya_Wiser-IMC-five_faculties-wisdom.mp3",
-		"speaker":"Tanya Wiser",
-		"date":"2024.05.23",
-		"duration":"34:23"
-	},
-	{
-		"title":"Dharmette: Cruising Altitude and Upheaval",
-		"series":"Wednesday Evening with Matthew Brensilver",
-		"url":"/20469/20240522-Matthew_Brensilver-IMC-dharmette_cruising_altitude_and_upheaval.mp3",
-		"ln":"en",
-		"download_url":"/20469/20240522-Matthew_Brensilver-IMC-dharmette_cruising_altitude_and_upheaval.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2024.05.22",
-		"duration":"15:41"
-	},
-	{
-		"title":"Guided Meditation: Goodnight Moon",
-		"series":"Guided Meditations",
-		"url":"/20468/20240522-Matthew_Brensilver-IMC-guided_meditation_goodnight_moon.mp3",
-		"ln":"en",
-		"download_url":"/20468/20240522-Matthew_Brensilver-IMC-guided_meditation_goodnight_moon.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2024.05.22",
-		"duration":"29:10"
-	},
-	{
-		"title":"Happy Hour: Practicing Appreciative Joy",
-		"series":"",
-		"url":"/20470/20240522-Liz_Powell-IMC-happy_hour_practicing_appreciative_joy.mp3",
-		"ln":"en",
-		"download_url":"/20470/20240522-Liz_Powell-IMC-happy_hour_practicing_appreciative_joy.mp3",
-		"speaker":"Liz Powell",
-		"date":"2024.05.22",
-		"duration":"48:50"
-	},
-	{
-		"title":"Practicing with What Is",
-		"series":"",
-		"url":"/20464/20240522-Maria_Straatmann-IMC-practicing_with_what_is.mp3",
-		"ln":"en",
-		"download_url":"/20464/20240522-Maria_Straatmann-IMC-practicing_with_what_is.mp3",
-		"speaker":"Maria Straatmann",
-		"date":"2024.05.22",
-		"duration":"14:28"
-	},
-	{
-		"title":"Practice Notes: Watching The Mind",
-		"series":"",
-		"url":"/20463/20240522-Maria_Straatmann-IMC-practice_notes_watching_the_mind.mp3",
-		"ln":"en",
-		"download_url":"/20463/20240522-Maria_Straatmann-IMC-practice_notes_watching_the_mind.mp3",
-		"speaker":"Maria Straatmann",
-		"date":"2024.05.22",
-		"duration":"03:01"
-	},
-	{
-		"title":"Dharmette: Teachings of the Ancient Similes (3 of 5); Simile of the Adze",
-		"series":"Teachings of the Ancient Similes",
-		"url":"/20467/20240522-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_3_of_5_simile_of_the_adze.mp3",
-		"ln":"en",
-		"download_url":"/20467/20240522-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_3_of_5_simile_of_the_adze.mp3",
-		"speaker":"Ying Chen",
-		"date":"2024.05.22",
-		"duration":"14:36"
-	},
-	{
-		"title":"Guided Meditation: Opening to the Nature Within; Enriching",
-		"series":"Guided Meditations",
-		"url":"/20466/20240522-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_enriching.mp3",
-		"ln":"en",
-		"download_url":"/20466/20240522-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_enriching.mp3",
-		"speaker":"Ying Chen",
-		"date":"2024.05.22",
-		"duration":"31:32"
-	},
-	{
-		"title":"“So they said to the Buddha …” Class 3 of 4",
-		"series":"“So they said to the Buddha …” ",
-		"url":"/20465/20240521-Bhante_Sujato-sati-so_they_said_to_the_buddha_class_3_of_4.mp3",
-		"ln":"en",
-		"download_url":"/20465/20240521-Bhante_Sujato-sati-so_they_said_to_the_buddha_class_3_of_4.mp3",
-		"speaker":"Bhante Sujato",
-		"date":"2024.05.21",
-		"duration":"1:30:07"
-	},
-	{
-		"title":"Opening to Attitude - No Part Left Out",
-		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
-		"url":"/20458/20240521-Andrea_Fella-IMC-opening_to_attitude_-_no_part_left_out.mp3",
-		"ln":"en",
-		"download_url":"/20458/20240521-Andrea_Fella-IMC-opening_to_attitude_-_no_part_left_out.mp3",
-		"speaker":"Andrea Fella",
-		"date":"2024.05.21",
-		"duration":"20:41"
-	},
-	{
-		"title":"Guided Meditation: Opening to All Experience - Allowing",
-		"series":"Guided Meditations",
-		"url":"/20457/20240521-Andrea_Fella-IMC-guided_meditation_opening_to_all_experience_-_allowing.mp3",
-		"ln":"en",
-		"download_url":"/20457/20240521-Andrea_Fella-IMC-guided_meditation_opening_to_all_experience_-_allowing.mp3",
-		"speaker":"Andrea Fella",
-		"date":"2024.05.21",
-		"duration":"35:10"
-	},
-	{
-		"title":"Dharmette; Teachings of the Ancient Similes (2 of 5) The Simile of the Chicken",
-		"series":"Teachings of the Ancient Similes",
-		"url":"/20460/20240521-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_2_of_5_the_simile_of_the_chicken.mp3",
-		"ln":"en",
-		"download_url":"/20460/20240521-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_2_of_5_the_simile_of_the_chicken.mp3",
-		"speaker":"Ying Chen",
-		"date":"2024.05.21",
-		"duration":"14:16"
-	},
-	{
-		"title":"Guided Meditation: Opening to the Nature Within; Enlivening",
-		"series":"Guided Meditations",
-		"url":"/20459/20240521-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_enlivening.mp3",
-		"ln":"en",
-		"download_url":"/20459/20240521-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_enlivening.mp3",
-		"speaker":"Ying Chen",
-		"date":"2024.05.21",
-		"duration":"31:02"
-	},
-	{
-		"title":"When We Lose Inner Peace",
-		"series":"",
-		"url":"/20453/20240520-Diana_Clark-IMC-when_we_lose_inner_peace.mp3",
-		"ln":"en",
-		"download_url":"/20453/20240520-Diana_Clark-IMC-when_we_lose_inner_peace.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.05.20",
-		"duration":"38:53"
-	},
-	{
-		"title":"Dharmette: Teachings of the ancient similes (1 of 5) SN 22.101 Sutta overview",
-		"series":"Teachings of the Ancient Similes",
-		"url":"/20456/20240520-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_1_of_5_sn_22_101_sutta_overview.mp3",
-		"ln":"en",
-		"download_url":"/20456/20240520-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_1_of_5_sn_22_101_sutta_overview.mp3",
-		"speaker":"Ying Chen",
-		"date":"2024.05.20",
-		"duration":"14:32"
-	},
-	{
-		"title":"Guided meditation: Opening to the nature within – Grounding",
-		"series":"Teachings of the Ancient Similes",
-		"url":"/20455/20240520-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_grounding.mp3",
-		"ln":"en",
-		"download_url":"/20455/20240520-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_grounding.mp3",
-		"speaker":"Ying Chen",
-		"date":"2024.05.20",
-		"duration":"30:21"
-	},
-	{
-		"title":"Overconfidence As A Defilement",
-		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
-		"url":"/20449/20240519-Matthew_Brensilver-IMC-overconficence_as_a_defilement.mp3",
-		"ln":"en",
-		"download_url":"/20449/20240519-Matthew_Brensilver-IMC-overconficence_as_a_defilement.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2024.05.19",
-		"duration":"41:10"
 	}
 	]
 }

@@ -87,6 +87,10 @@ def capitalize(s):
 
 def genSummary(path_summary, text, size_summarization):
 
+    text = text.replace("[ Silence ]", "")
+    text = text.replace("You You", "")
+    text = text.replace("you you", "")
+
     count_bytes = size_summarization * 8
 
     #LOG(f'summarizing: {path_summary}')
@@ -94,7 +98,7 @@ def genSummary(path_summary, text, size_summarization):
     prompt_system = 'You will briefly summarize text. Do not mention the speaker or any personal name.  Do not use the word "speaker". Do not use the word "summary", or any variation of that word. Do not mention Insight Meditation Center.  Do not mention audioderma.org.  Do not mention IMC.  Do not mention audiodharma.org.  Do not mention Redwood City.  Do not mention California.  Do not mention where the talk was given.   Do not mention SATI. Do not mention any website. Do not exceed {size_summarization} words. Do not exceed {count_bytes} characters in the summary'
     prompt_system = 'Based on ideas in the following text, write a very short essay.  Use some of the ideas in the text.  Do not mention the speaker or any personal name.  Do not use the word "speaker". Do not use the word "summary", or any variation of that word. Do not mention Insight Meditation Center.  Do not mention audioderma.org.  Do not mention IMC.  Do not mention audiodharma.org.  Do not mention Redwood City.  Do not mention California.  Do not use the words "the text". Do not mention where the talk was given.   Do not mention SATI. Do not mention any website. Do not exceed {size_summarization} words. Do not exceed {count_bytes} characters in the summary'
     prompt_user = f'Summarize the  following text in {size_summarization}  words. Here is the text {text}'
-    prompt_user = f'Write a short blurb using the ideas in the following text.  Keep it less than {size_summarization}  words. Here is the text {text}'
+    prompt_user = f'Write a short blurb using the ideas in the following text.  Keep it less than {size_summarization}  words. Here is the text to summarize:  {text}'
 
     openai.api_key = OPENAI_API_KEY
     try:
@@ -107,13 +111,13 @@ def genSummary(path_summary, text, size_summarization):
             ]
         )
     except:
+        #print(f'No summary for {prompt_user} {path_summary}')
         print(f'No summary for {path_summary}')
         return None
 
 
     summary = response['choices'][0]['message']['content']
     print(f'{path_summary}')
-    print(summary)
     #LOG(summary)
     return summary
 
