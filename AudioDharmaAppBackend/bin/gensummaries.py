@@ -90,6 +90,7 @@ def genSummary(path_summary, text, size_summarization):
     text = text.replace("[ Silence ]", "")
     text = text.replace("You You", "")
     text = text.replace("you you", "")
+    text = re.sub(r'\[.*?\]', '', text)
 
     count_bytes = size_summarization * 8
 

@@ -53,8 +53,8 @@ def collectionExists(name_collection):
 LOG('gendb starts')
 
 
-ResetCollections = True
 ResetCollections = False
+ResetCollections = True
 
 VectorDB = QdrantClient(host="localhost", port=QDRANT_SERVER_PORT)
 VectorizatonModel = SentenceTransformer('all-MiniLM-L6-v2', device='cuda' if torch.cuda.is_available() else 'cpu')  

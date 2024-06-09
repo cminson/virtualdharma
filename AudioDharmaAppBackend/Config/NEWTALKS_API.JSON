@@ -1,6 +1,166 @@
 {
 	"talks":[
 	{
+		"title":"The Fallicy of Perfect",
+		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
+		"url":"/20612/20240609-Berget_Jelane-IMC-the_fallicy_of_perfect.mp3",
+		"ln":"en",
+		"download_url":"/20612/20240609-Berget_Jelane-IMC-the_fallicy_of_perfect.mp3",
+		"speaker":"Berget Jelane",
+		"date":"2024.06.09",
+		"duration":"43:36"
+	},
+	{
+		"title":"Four Elements Practice Dharmette",
+		"series":"",
+		"url":"/20605/20240608-Tanya_Wiser-IMC-four_elements_practice_dharmette.mp3",
+		"ln":"en",
+		"download_url":"/20605/20240608-Tanya_Wiser-IMC-four_elements_practice_dharmette.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2024.06.08",
+		"duration":"17:58"
+	},
+	{
+		"title":"RAFTT Practice with the Four Elements",
+		"series":"",
+		"url":"/20606/20240608-Tanya_Wiser-IMC-raftt_practice_with_the_four_elements.mp3",
+		"ln":"en",
+		"download_url":"/20606/20240608-Tanya_Wiser-IMC-raftt_practice_with_the_four_elements.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2024.06.08",
+		"duration":"20:12"
+	},
+	{
+		"title":"Dharmette: The Five Precepts (5 of 5): Abstaining from intoxicated heedlessness",
+		"series":"Five Precepts to Support the Practice",
+		"url":"/20600/20240607-David_Lorey-IMC-dharmette_the_five_precepts_5_of_5_abstaining_from_intoxicated_heedlessness.mp3",
+		"ln":"en",
+		"download_url":"/20600/20240607-David_Lorey-IMC-dharmette_the_five_precepts_5_of_5_abstaining_from_intoxicated_heedlessness.mp3",
+		"speaker":"David Lorey",
+		"date":"2024.06.07",
+		"duration":"18:28"
+	},
+	{
+		"title":"Guided Meditation: Heedfulness",
+		"series":"Guided Meditations",
+		"url":"/20599/20240607-David_Lorey-IMC-guided_meditation_heedfulness.mp3",
+		"ln":"en",
+		"download_url":"/20599/20240607-David_Lorey-IMC-guided_meditation_heedfulness.mp3",
+		"speaker":"David Lorey",
+		"date":"2024.06.07",
+		"duration":"28:04"
+	},
+	{
+		"title":"Dharmette: The Five Precepts (4 of 5): Avoiding unskillful Speech",
+		"series":"Five Precepts to Support the Practice",
+		"url":"/20592/20240606-David_Lorey-IMC-dharmette_the_five_precepts_4_of_5_avoiding_unskillful_speech.mp3",
+		"ln":"en",
+		"download_url":"/20592/20240606-David_Lorey-IMC-dharmette_the_five_precepts_4_of_5_avoiding_unskillful_speech.mp3",
+		"speaker":"David Lorey",
+		"date":"2024.06.06",
+		"duration":"16:10"
+	},
+	{
+		"title":"Guided Meditation: The Voices in Our Heads",
+		"series":"Guided Meditations",
+		"url":"/20591/20240606-David_Lorey-IMC-guided_meditation_the_voices_in_our_heads.mp3",
+		"ln":"en",
+		"download_url":"/20591/20240606-David_Lorey-IMC-guided_meditation_the_voices_in_our_heads.mp3",
+		"speaker":"David Lorey",
+		"date":"2024.06.06",
+		"duration":"30:55"
+	},
+	{
+		"title":"Dharmette: Functions of dharma pleasure",
+		"series":"Wednesday Evening with Matthew Brensilver",
+		"url":"/20586/20240605-Matthew_Brensilver-IMC-dharmette_functions_of_dharma_pleasure.mp3",
+		"ln":"en",
+		"download_url":"/20586/20240605-Matthew_Brensilver-IMC-dharmette_functions_of_dharma_pleasure.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2024.06.05",
+		"duration":"15:41"
+	},
+	{
+		"title":"Guided Meditation: Self and Willfulness",
+		"series":"Guided Meditations",
+		"url":"/20585/20240605-Matthew_Brensilver-IMC-guided_meditation_self_and_willfulness.mp3",
+		"ln":"en",
+		"download_url":"/20585/20240605-Matthew_Brensilver-IMC-guided_meditation_self_and_willfulness.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2024.06.05",
+		"duration":"29:36"
+	},
+	{
+		"title":"Everything is Practice",
+		"series":"",
+		"url":"/20594/20240605-Tanya_Wiser-IMC-everything_is_practice.mp3",
+		"ln":"en",
+		"download_url":"/20594/20240605-Tanya_Wiser-IMC-everything_is_practice.mp3",
+		"speaker":"Tanya Wiser",
+		"date":"2024.06.05",
+		"duration":"46:21"
+	},
+	{
+		"title":"Dharmette: The Five Precepts (3 of 5); Avoiding Unwholesome Connection",
+		"series":"Five Precepts to Support the Practice",
+		"url":"/20589/20240605-David_Lorey-IMC-dharmette_the_five_precepts_3_of_5_avoiding_unwholesome_connection.mp3",
+		"ln":"en",
+		"download_url":"/20589/20240605-David_Lorey-IMC-dharmette_the_five_precepts_3_of_5_avoiding_unwholesome_connection.mp3",
+		"speaker":"David Lorey",
+		"date":"2024.06.05",
+		"duration":"16:00"
+	},
+	{
+		"title":"Guided Meditation: Wholesome Connection",
+		"series":"Guided Meditations",
+		"url":"/20588/20240605-David_Lorey-IMC-guided_meditation_wholesome_connection.mp3",
+		"ln":"en",
+		"download_url":"/20588/20240605-David_Lorey-IMC-guided_meditation_wholesome_connection.mp3",
+		"speaker":"David Lorey",
+		"date":"2024.06.05",
+		"duration":"29:59"
+	},
+	{
+		"title":"Agencia, sabiduría y compasión",
+		"series":"",
+		"url":"/20583/20240604-Andrea_Castillo-IMC-agencia_sabiduria_y_compasion.mp3",
+		"ln":"es",
+		"download_url":"/20583/20240604-Andrea_Castillo-IMC-agencia_sabiduria_y_compasion.mp3",
+		"speaker":"Andrea Castillo",
+		"date":"2024.06.04",
+		"duration":"50:46"
+	},
+	{
+		"title":"Meditación Guiada: largo de las respiraciones",
+		"series":"",
+		"url":"/20582/20240604-Andrea_Castillo-IMC-meditacion_guiada_largo_de_las_respiraciones.mp3",
+		"ln":"es",
+		"download_url":"/20582/20240604-Andrea_Castillo-IMC-meditacion_guiada_largo_de_las_respiraciones.mp3",
+		"speaker":"Andrea Castillo",
+		"date":"2024.06.04",
+		"duration":"41:25"
+	},
+	{
+		"title":"Dharmette: The Five Precepts (2 of 5):  Not taking anything not freely given",
+		"series":"Five Precepts to Support the Practice",
+		"url":"/20574/20240604-David_Lorey-IMC-dharmette_the_five_precepts_2_of_5_not_taking_anything_not_freely_given.mp3",
+		"ln":"en",
+		"download_url":"/20574/20240604-David_Lorey-IMC-dharmette_the_five_precepts_2_of_5_not_taking_anything_not_freely_given.mp3",
+		"speaker":"David Lorey",
+		"date":"2024.06.04",
+		"duration":"14:54"
+	},
+	{
+		"title":"Guided Meditation: A Field of Generosity",
+		"series":"Guided Meditations",
+		"url":"/20573/20240604-David_Lorey-IMC-guided_meditation_a_field_of_generosity.mp3",
+		"ln":"en",
+		"download_url":"/20573/20240604-David_Lorey-IMC-guided_meditation_a_field_of_generosity.mp3",
+		"speaker":"David Lorey",
+		"date":"2024.06.04",
+		"duration":"31:25"
+	},
+	{
 		"title":"Questioning as Practice",
 		"series":"",
 		"url":"/20570/20240603-Diana_Clark-IMC-questioning_as_practice.mp3",
@@ -319,156 +479,6 @@
 		"speaker":"Liz Powell",
 		"date":"2024.05.28",
 		"duration":"49:03"
-	},
-	{
-		"title":"Delusion, awareness and wisdom",
-		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
-		"url":"/20491/20240528-Sandra_Sanabria-IMC-delusion_awareness_and_wisdom.mp3",
-		"ln":"en",
-		"download_url":"/20491/20240528-Sandra_Sanabria-IMC-delusion_awareness_and_wisdom.mp3",
-		"speaker":"Sandra Sanabria",
-		"date":"2024.05.28",
-		"duration":"23:56"
-	},
-	{
-		"title":"Meditation, the wandering mind",
-		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
-		"url":"/20490/20240528-Sandra_Sanabria-IMC-meditation_the_wandering_mind.mp3",
-		"ln":"en",
-		"download_url":"/20490/20240528-Sandra_Sanabria-IMC-meditation_the_wandering_mind.mp3",
-		"speaker":"Sandra Sanabria",
-		"date":"2024.05.28",
-		"duration":"32:56"
-	},
-	{
-		"title":"“So they said to the Buddha …” Class 4 of 4",
-		"series":"“So they said to the Buddha …” ",
-		"url":"/20527/20240528-Bhante_Sujato-sati-so_they_said_to_the_buddha_class_4_of_4.mp3",
-		"ln":"en",
-		"download_url":"/20527/20240528-Bhante_Sujato-sati-so_they_said_to_the_buddha_class_4_of_4.mp3",
-		"speaker":"Bhante Sujato",
-		"date":"2024.05.28",
-		"duration":"1:25:42"
-	},
-	{
-		"title":"Dharmette: Intro to Buddhist Ethics (2 of 5) Wholesomeness",
-		"series":"Intro to Buddhist Ethics",
-		"url":"/20488/20240528-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_2_of_5_wholesomeness.mp3",
-		"ln":"en",
-		"download_url":"/20488/20240528-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_2_of_5_wholesomeness.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.28",
-		"duration":"14:48"
-	},
-	{
-		"title":"Guided Meditation: Wholesome Response",
-		"series":"Guided Meditations",
-		"url":"/20487/20240528-Gil_Fronsdal-IMC-guided_meditation_wholesome_response.mp3",
-		"ln":"en",
-		"download_url":"/20487/20240528-Gil_Fronsdal-IMC-guided_meditation_wholesome_response.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.28",
-		"duration":"30:30"
-	},
-	{
-		"title":"Journeying",
-		"series":"",
-		"url":"/20486/20240527-Diana_Clark-IMC-journeying.mp3",
-		"ln":"en",
-		"download_url":"/20486/20240527-Diana_Clark-IMC-journeying.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.05.27",
-		"duration":"43:57"
-	},
-	{
-		"title":"Dharmette: Intro to Buddhist Ethics (1 of 5) Non-Harming",
-		"series":"Intro to Buddhist Ethics",
-		"url":"/20484/20240527-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_1_of_5_non-harming.mp3",
-		"ln":"en",
-		"download_url":"/20484/20240527-Gil_Fronsdal-IMC-dharmette_intro_to_buddhist_ethics_1_of_5_non-harming.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.27",
-		"duration":"15:27"
-	},
-	{
-		"title":"Guided Meditation: Non-Harming Mindfulness",
-		"series":"Guided Meditations",
-		"url":"/20483/20240527-Gil_Fronsdal-IMC-guided_meditation_non-harming_mindfulness.mp3",
-		"ln":"en",
-		"download_url":"/20483/20240527-Gil_Fronsdal-IMC-guided_meditation_non-harming_mindfulness.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.27",
-		"duration":"29:20"
-	},
-	{
-		"title":"Buddhist Pilgrimage",
-		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
-		"url":"/20482/20240526-Gil_Fronsdal-IMC-pilgrimage.mp3",
-		"ln":"en",
-		"download_url":"/20482/20240526-Gil_Fronsdal-IMC-pilgrimage.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.05.26",
-		"duration":"42:22"
-	},
-	{
-		"title":"Dharmette: Teachings of the Ancient Similes (5 of 5); The Simile of the Clear High Mountain Lake",
-		"series":"Teachings of the Ancient Similes",
-		"url":"/20478/20240524-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_5_of_5_the_simile_of_the_clear_high_mountain_lake.mp3",
-		"ln":"en",
-		"download_url":"/20478/20240524-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_5_of_5_the_simile_of_the_clear_high_mountain_lake.mp3",
-		"speaker":"Ying Chen",
-		"date":"2024.05.24",
-		"duration":"14:15"
-	},
-	{
-		"title":"Guided Meditation: Opening to the Nature Within; Clarifying",
-		"series":"Guided Meditations",
-		"url":"/20477/20240524-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_clarifying.mp3",
-		"ln":"en",
-		"download_url":"/20477/20240524-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-guided_meditation_opening_to_the_nature_within_clarifying.mp3",
-		"speaker":"Ying Chen",
-		"date":"2024.05.24",
-		"duration":"31:46"
-	},
-	{
-		"title":"Inclining the Mind Toward Peace: Perceiving Stress in What is Inconstant",
-		"series":"",
-		"url":"/20476/20240523-Ari_Crellin-Quick-IMC-inclining_the_mind_toward_peace_perceiving_stress_in_what_is_inconstant.mp3",
-		"ln":"en",
-		"download_url":"/20476/20240523-Ari_Crellin-Quick-IMC-inclining_the_mind_toward_peace_perceiving_stress_in_what_is_inconstant.mp3",
-		"speaker":"Ari Crellin-Quick",
-		"date":"2024.05.23",
-		"duration":"39:52"
-	},
-	{
-		"title":"Guided Meditation: Simple Knowing of Experience",
-		"series":"Guided Meditations",
-		"url":"/20475/20240523-Ari_Crellin-Quick-IMC-guided_meditation_simple_knowing_of_experience.mp3",
-		"ln":"en",
-		"download_url":"/20475/20240523-Ari_Crellin-Quick-IMC-guided_meditation_simple_knowing_of_experience.mp3",
-		"speaker":"Ari Crellin-Quick",
-		"date":"2024.05.23",
-		"duration":"29:03"
-	},
-	{
-		"title":"Happy Hour: Mudita for a Friend or Family Member",
-		"series":"",
-		"url":"/20473/20240523-Liz_Powell-IMC-happy_hour_mudita_for_a_friend_or_family_member.mp3",
-		"ln":"en",
-		"download_url":"/20473/20240523-Liz_Powell-IMC-happy_hour_mudita_for_a_friend_or_family_member.mp3",
-		"speaker":"Liz Powell",
-		"date":"2024.05.23",
-		"duration":"47:43"
-	},
-	{
-		"title":"Dharmette: Teachings of the Ancient Similes (4 of 5); The Simile of the Ship Rope",
-		"series":"Teachings of the Ancient Similes",
-		"url":"/20472/20240523-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_4_of_5_the_simile_of_the_ship_rope.mp3",
-		"ln":"en",
-		"download_url":"/20472/20240523-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-dharmette_teachings_of_the_ancient_similes_4_of_5_the_simile_of_the_ship_rope.mp3",
-		"speaker":"Ying Chen",
-		"date":"2024.05.23",
-		"duration":"13:58"
 	}
 	]
 }

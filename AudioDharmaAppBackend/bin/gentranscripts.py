@@ -9,6 +9,7 @@
 
 import os
 import json
+import re
 import random
 from common import  LOG, getAllTalks, getAllTranscripts, writeTextData
 
@@ -45,6 +46,10 @@ for idx, (talk, path_transcript_raw, path_transcript) in enumerate(getAllTranscr
     with open(path_transcript_raw, "r", encoding='latin-1') as fd:
         text = fd.read()
         text = text.replace('\n', '')
+
+    text = re.sub(r'\[.*?\]', '', text)
+    text = text.replace("you you", "")
+    text = text.replace("You You", "")
 
     text = text.replace('.', '.\n')
     text = text.replace('?', '?\n')
