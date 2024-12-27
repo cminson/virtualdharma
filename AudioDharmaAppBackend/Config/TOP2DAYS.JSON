@@ -1,64 +1,64 @@
 {
 "talks": [
 {
-	"title" : "1. Guided Meditation: The Voices in Our Heads",
-	"url" : "/20591/20240606-David_Lorey-IMC-guided_meditation_the_voices_in_our_heads.mp3",
+	"title" : "1. Guided Meditation: Cycles of Suffering and Joy",
+	"url" : "/21954/20241225-Gil_Fronsdal-IMC-guided_meditation_cycles_of_suffering_and_joy.mp3",
 	"series" : "",
-	"score" : 68
+	"score" : 132
 },
 {
-	"title" : "2. Guided Meditation: Self and Willfulness",
-	"url" : "/20585/20240605-Matthew_Brensilver-IMC-guided_meditation_self_and_willfulness.mp3",
+	"title" : "2. Dharmette: Aspects of Love (3 of 5) Compassion",
+	"url" : "/21955/20241225-Gil_Fronsdal-IMC-dharmette_aspects_of_love_3_of_5_compassion.mp3",
 	"series" : "",
-	"score" : 66
+	"score" : 82
 },
 {
-	"title" : "3. Dharmette: Functions of dharma pleasure",
-	"url" : "/20586/20240605-Matthew_Brensilver-IMC-dharmette_functions_of_dharma_pleasure.mp3",
+	"title" : "3. Guided Meditation: Appreciation",
+	"url" : "/21958/20241226-Gil_Fronsdal-IMC-guided_meditation_appreciation.mp3",
+	"series" : "",
+	"score" : 59
+},
+{
+	"title" : "4. Dharmette: Aspects of Love (4 of 5) Appreciative Joy",
+	"url" : "/21959/20241226-Gil_Fronsdal-IMC-dharmette_aspects_of_love_4_of_5_appreciative_joy.mp3",
 	"series" : "",
 	"score" : 56
 },
 {
-	"title" : "4. Dharmette: The Five Precepts (5 of 5): Abstaining from intoxicated heedlessness",
-	"url" : "/20600/20240607-David_Lorey-IMC-dharmette_the_five_precepts_5_of_5_abstaining_from_intoxicated_heedlessness.mp3",
+	"title" : "5. Dharmette: Aspects of Love (1 of 5) Care",
+	"url" : "/21946/20241223-Gil_Fronsdal-IMC-dharmette_aspects_of_love_1_of_5_care.mp3",
 	"series" : "",
 	"score" : 54
 },
 {
-	"title" : "5. Dharmette: The Five Precepts (4 of 5): Avoiding unskillful Speech",
-	"url" : "/20592/20240606-David_Lorey-IMC-dharmette_the_five_precepts_4_of_5_avoiding_unskillful_speech.mp3",
+	"title" : "6. Dharmette: Aspects of Love (2 of 5) Friendliness",
+	"url" : "/21952/20241224-Gil_Fronsdal-IMC-dharmette_aspects_of_love_2_of_5_friendliness.mp3",
+	"series" : "",
+	"score" : 53
+},
+{
+	"title" : "7. Guided Meditation: Friendliness",
+	"url" : "/21951/20241224-Gil_Fronsdal-IMC-guided_meditation_friendliness.mp3",
+	"series" : "",
+	"score" : 49
+},
+{
+	"title" : "8. From Craving to Contentment",
+	"url" : "/21950/20241223-Diana_Clark-IMC-from_craving_to_contentment.mp3",
 	"series" : "",
 	"score" : 44
 },
 {
-	"title" : "6. Everything is Practice",
-	"url" : "/20594/20240605-Tanya_Wiser-IMC-everything_is_practice.mp3",
+	"title" : "9. Wisdom, Care, and the Paramis",
+	"url" : "/21945/20241222-Gil_Fronsdal-IMC-wisdom_care_and_the_paramis.mp3",
 	"series" : "",
-	"score" : 42
+	"score" : 41
 },
 {
-	"title" : "7. Guided Meditation: Heedfulness",
-	"url" : "/20599/20240607-David_Lorey-IMC-guided_meditation_heedfulness.mp3",
+	"title" : "10. Practice Notes: Resting in the Body",
+	"url" : "/21956/20241225-Maria_Straatmann-IMC-practice_notes_resting_in_the_body.mp3",
 	"series" : "",
-	"score" : 42
-},
-{
-	"title" : "8. Dharmette: The Five Precepts (2 of 5):  Not taking anything not freely given",
-	"url" : "/20574/20240604-David_Lorey-IMC-dharmette_the_five_precepts_2_of_5_not_taking_anything_not_freely_given.mp3",
-	"series" : "",
-	"score" : 36
-},
-{
-	"title" : "9. Four Elements Practice Dharmette",
-	"url" : "/20605/20240608-Tanya_Wiser-IMC-four_elements_practice_dharmette.mp3",
-	"series" : "",
-	"score" : 36
-},
-{
-	"title" : "10. RAFTT Practice with the Four Elements",
-	"url" : "/20606/20240608-Tanya_Wiser-IMC-raftt_practice_with_the_four_elements.mp3",
-	"series" : "",
-	"score" : 36
+	"score" : 38
 }
 ]
 }
