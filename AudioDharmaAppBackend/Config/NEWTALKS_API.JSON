@@ -1,6 +1,56 @@
 {
 	"talks":[
 	{
+		"title":"Dharmette: Samadhi (2) Discovering Awareness",
+		"series":"",
+		"url":"/22038/20250107-Gil_Fronsdal-IMC-dharmette_samadhi_2_discovering_awareness.mp3",
+		"ln":"en",
+		"download_url":"/22038/20250107-Gil_Fronsdal-IMC-dharmette_samadhi_2_discovering_awareness.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2025.01.07",
+		"duration":"13:19"
+	},
+	{
+		"title":"Guided Meditation: Lightly Aware",
+		"series":"Guided Meditations",
+		"url":"/22037/20250107-Gil_Fronsdal-IMC-guided_meditation_lightly_aware.mp3",
+		"ln":"en",
+		"download_url":"/22037/20250107-Gil_Fronsdal-IMC-guided_meditation_lightly_aware.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2025.01.07",
+		"duration":"31:58"
+	},
+	{
+		"title":"Beyond Labels: Experiencing the Aliveness of the Present Moment",
+		"series":"",
+		"url":"/22036/20250106-Diana_Clark-IMC-beyond_labels_experiencing_the_aliveness_of_the_present_moment.mp3",
+		"ln":"en",
+		"download_url":"/22036/20250106-Diana_Clark-IMC-beyond_labels_experiencing_the_aliveness_of_the_present_moment.mp3",
+		"speaker":"Diana Clark",
+		"date":"2025.01.06",
+		"duration":"40:19"
+	},
+	{
+		"title":"Dharmette: Samadhi (1): Introduction",
+		"series":"Samadhi",
+		"url":"/22035/20250106-Gil_Fronsdal-IMC-dharmette_samadhi_1_of_5_introduction.mp3",
+		"ln":"en",
+		"download_url":"/22035/20250106-Gil_Fronsdal-IMC-dharmette_samadhi_1_of_5_introduction.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2025.01.06",
+		"duration":"14:22"
+	},
+	{
+		"title":"Guided Meditation: Relaxation and Discovery",
+		"series":"Guided Meditations",
+		"url":"/22034/20250106-Gil_Fronsdal-IMC-guided_meditation_relaxation_and_discovery.mp3",
+		"ln":"en",
+		"download_url":"/22034/20250106-Gil_Fronsdal-IMC-guided_meditation_relaxation_and_discovery.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2025.01.06",
+		"duration":"33:11"
+	},
+	{
 		"title":"The Eight Worldly Winds",
 		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
 		"url":"/22025/20250105-Ines_Freedman-IMC-the_eight_worldly_winds.mp3",
@@ -409,56 +459,6 @@
 		"speaker":"Gil Fronsdal",
 		"date":"2024.12.24",
 		"duration":"30:21"
-	},
-	{
-		"title":"From Craving to Contentment",
-		"series":"",
-		"url":"/21950/20241223-Diana_Clark-IMC-from_craving_to_contentment.mp3",
-		"ln":"en",
-		"download_url":"/21950/20241223-Diana_Clark-IMC-from_craving_to_contentment.mp3",
-		"speaker":"Diana Clark",
-		"date":"2024.12.23",
-		"duration":"45:28"
-	},
-	{
-		"title":"Happy Hour: Lovingly Cultivating Stability of Heart-Mind",
-		"series":"",
-		"url":"/21949/20241223-Nikki_Mirghafori-IMC-happy_hour_lovingly_cultivating_stability_of_heart-mind.mp3",
-		"ln":"en",
-		"download_url":"/21949/20241223-Nikki_Mirghafori-IMC-happy_hour_lovingly_cultivating_stability_of_heart-mind.mp3",
-		"speaker":"Nikki Mirghafori",
-		"date":"2024.12.23",
-		"duration":"41:19"
-	},
-	{
-		"title":"Dharmette: Aspects of Love (1 of 5) Care",
-		"series":"Aspects of Love",
-		"url":"/21946/20241223-Gil_Fronsdal-IMC-dharmette_aspects_of_love_1_of_5_care.mp3",
-		"ln":"en",
-		"download_url":"/21946/20241223-Gil_Fronsdal-IMC-dharmette_aspects_of_love_1_of_5_care.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.12.23",
-		"duration":"14:21"
-	},
-	{
-		"title":"Guided Meditation: Giving and Receiving",
-		"series":"Guided Meditations",
-		"url":"/21948/20241223-Gil_Fronsdal-IMC-guided_meditation_giving_and_receiving.mp3",
-		"ln":"en",
-		"download_url":"/21948/20241223-Gil_Fronsdal-IMC-guided_meditation_giving_and_receiving.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.12.23",
-		"duration":"30:00"
-	},
-	{
-		"title":"Wisdom, Care, and the Paramis",
-		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
-		"url":"/21945/20241222-Gil_Fronsdal-IMC-wisdom_care_and_the_paramis.mp3",
-		"ln":"en",
-		"download_url":"/21945/20241222-Gil_Fronsdal-IMC-wisdom_care_and_the_paramis.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.12.22",
-		"duration":"40:06"
 	}
 	]
 }
