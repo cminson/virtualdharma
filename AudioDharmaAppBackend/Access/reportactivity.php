@@ -77,11 +77,9 @@ $access_key = trim(file_get_contents($ACCESS_KEY_PATH));
 if ($country == "") {
 
     mylog("CACHED IP NOT FOUND:  Doing lookup on $ip");
-    $command = "curl https://api.ipstack.com/$ip?access_key=e2716847045121a9863e6b098557bb41";
-    $command = "curl https://api.ipstack.com/$ip?access_key=ffe33d8629fe989f716c1ab21de300e1";
     $command = "curl https://api.ipstack.com/$ip?access_key=$access_key";
 
-    mylog("Looking up IP: $command");
+    mylog("Looking up IP: $ip");
     $result = exec("$command 2>&1", $lines, $ConvertResultCode);
     $json = json_decode($result,TRUE);
     mylog("$json");
