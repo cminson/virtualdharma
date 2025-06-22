@@ -1,464 +1,504 @@
 {
 	"talks":[
 	{
-		"title":"Dharmette: Samadhi (2) Discovering Awareness",
-		"series":"",
-		"url":"/22038/20250107-Gil_Fronsdal-IMC-dharmette_samadhi_2_discovering_awareness.mp3",
+		"title":"Dharmette: Insight (15) The Gap Between Endings and Beginings",
+		"series":"Insight",
+		"url":"/23245/20250620-Gil_Fronsdal-IMC-dharmette_insight_15_the_gap_between_endings_and_beginings.mp3",
 		"ln":"en",
-		"download_url":"/22038/20250107-Gil_Fronsdal-IMC-dharmette_samadhi_2_discovering_awareness.mp3",
+		"download_url":"/23245/20250620-Gil_Fronsdal-IMC-dharmette_insight_15_the_gap_between_endings_and_beginings.mp3",
 		"speaker":"Gil Fronsdal",
-		"date":"2025.01.07",
-		"duration":"13:19"
+		"date":"2025.06.20",
+		"duration":"13:20"
 	},
 	{
-		"title":"Guided Meditation: Lightly Aware",
+		"title":"Guided Meditation: Openings in Endings",
 		"series":"Guided Meditations",
-		"url":"/22037/20250107-Gil_Fronsdal-IMC-guided_meditation_lightly_aware.mp3",
+		"url":"/23244/20250620-Gil_Fronsdal-IMC-guided_meditation_openings_in_endings.mp3",
 		"ln":"en",
-		"download_url":"/22037/20250107-Gil_Fronsdal-IMC-guided_meditation_lightly_aware.mp3",
+		"download_url":"/23244/20250620-Gil_Fronsdal-IMC-guided_meditation_openings_in_endings.mp3",
 		"speaker":"Gil Fronsdal",
-		"date":"2025.01.07",
-		"duration":"31:58"
+		"date":"2025.06.20",
+		"duration":"29:58"
 	},
 	{
-		"title":"Beyond Labels: Experiencing the Aliveness of the Present Moment",
+		"title":"Availability",
 		"series":"",
-		"url":"/22036/20250106-Diana_Clark-IMC-beyond_labels_experiencing_the_aliveness_of_the_present_moment.mp3",
+		"url":"/23243/20250619-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-availability.mp3",
 		"ln":"en",
-		"download_url":"/22036/20250106-Diana_Clark-IMC-beyond_labels_experiencing_the_aliveness_of_the_present_moment.mp3",
+		"download_url":"/23243/20250619-Ying_Chen%2C_%E9%99%88%E9%A2%96-IMC-availability.mp3",
+		"speaker":"Ying Chen",
+		"date":"2025.06.19",
+		"duration":"1:08:58"
+	},
+	{
+		"title":"Happy Hour: Acceptance and Letting Go",
+		"series":"",
+		"url":"/23242/20250619-Liz_Powell-IMC-happy_hour_acceptance_and_letting_go.mp3",
+		"ln":"en",
+		"download_url":"/23242/20250619-Liz_Powell-IMC-happy_hour_acceptance_and_letting_go.mp3",
+		"speaker":"Liz Powell",
+		"date":"2025.06.19",
+		"duration":"37:41"
+	},
+	{
+		"title":"Dharmette: Insight (14) Flowing or Selfing",
+		"series":"Insight",
+		"url":"/23238/20250619-Gil_Fronsdal-IMC-dharmette_insight_14_flowing_or_selfing.mp3",
+		"ln":"en",
+		"download_url":"/23238/20250619-Gil_Fronsdal-IMC-dharmette_insight_14_flowing_or_selfing.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2025.06.19",
+		"duration":"12:25"
+	},
+	{
+		"title":"Guided Meditation: Simplicity of Being",
+		"series":"Guided Meditations",
+		"url":"/23237/20250619-Gil_Fronsdal-IMC-guided_meditation_simplicity_of_being.mp3",
+		"ln":"en",
+		"download_url":"/23237/20250619-Gil_Fronsdal-IMC-guided_meditation_simplicity_of_being.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2025.06.19",
+		"duration":"30:09"
+	},
+	{
+		"title":"Dharmette: Refuge Instead of Ruminating",
+		"series":"",
+		"url":"/23235/20250618-Gil_Fronsdal-IMC-dharmette_refuge_instead_of_ruminating.mp3",
+		"ln":"en",
+		"download_url":"/23235/20250618-Gil_Fronsdal-IMC-dharmette_refuge_instead_of_ruminating.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2025.06.18",
+		"duration":"14:04"
+	},
+	{
+		"title":"Practice Notes: Not Stopping for Thoughts",
+		"series":"",
+		"url":"/23234/20250618-Gil_Fronsdal-IMC-practice_notes_not_stopping_for_thoughts.mp3",
+		"ln":"en",
+		"download_url":"/23234/20250618-Gil_Fronsdal-IMC-practice_notes_not_stopping_for_thoughts.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2025.06.18",
+		"duration":"05:03"
+	},
+	{
+		"title":"Victory over Māra (3 of 3)",
+		"series":"Victory over Māra",
+		"url":"/23240/20250618-Diana_Clark-sati-victory_over_mara_3_of_3.mp3",
+		"ln":"en",
+		"download_url":"/23240/20250618-Diana_Clark-sati-victory_over_mara_3_of_3.mp3",
 		"speaker":"Diana Clark",
-		"date":"2025.01.06",
-		"duration":"40:19"
+		"date":"2025.06.18",
+		"duration":"1:32:15"
 	},
 	{
-		"title":"Dharmette: Samadhi (1): Introduction",
-		"series":"Samadhi",
-		"url":"/22035/20250106-Gil_Fronsdal-IMC-dharmette_samadhi_1_of_5_introduction.mp3",
+		"title":"Dharmette: Insight (13) Insight Revealed",
+		"series":"Insight",
+		"url":"/23232/20250618-Gil_Fronsdal-IMC-dharmette_insight_13_insight_revealed.mp3",
 		"ln":"en",
-		"download_url":"/22035/20250106-Gil_Fronsdal-IMC-dharmette_samadhi_1_of_5_introduction.mp3",
+		"download_url":"/23232/20250618-Gil_Fronsdal-IMC-dharmette_insight_13_insight_revealed.mp3",
 		"speaker":"Gil Fronsdal",
-		"date":"2025.01.06",
-		"duration":"14:22"
+		"date":"2025.06.18",
+		"duration":"11:26"
 	},
 	{
-		"title":"Guided Meditation: Relaxation and Discovery",
+		"title":"Guided Meditation: Simplicity for Insight",
 		"series":"Guided Meditations",
-		"url":"/22034/20250106-Gil_Fronsdal-IMC-guided_meditation_relaxation_and_discovery.mp3",
+		"url":"/23231/20250618-Gil_Fronsdal-IMC-guided_meditation_simplicity_for_insight.mp3",
 		"ln":"en",
-		"download_url":"/22034/20250106-Gil_Fronsdal-IMC-guided_meditation_relaxation_and_discovery.mp3",
+		"download_url":"/23231/20250618-Gil_Fronsdal-IMC-guided_meditation_simplicity_for_insight.mp3",
 		"speaker":"Gil Fronsdal",
-		"date":"2025.01.06",
-		"duration":"33:11"
+		"date":"2025.06.18",
+		"duration":"30:56"
 	},
 	{
-		"title":"The Eight Worldly Winds",
+		"title":"Happy Hour: Metta and Change",
+		"series":"",
+		"url":"/23230/20250617-Liz_Powell-IMC-happy_hour_metta_and_change.mp3",
+		"ln":"en",
+		"download_url":"/23230/20250617-Liz_Powell-IMC-happy_hour_metta_and_change.mp3",
+		"speaker":"Liz Powell",
+		"date":"2025.06.17",
+		"duration":"36:28"
+	},
+	{
+		"title":"Vajrayana, parte 3",
+		"series":"",
+		"url":"/23251/20250617-Carrie_Tamburo-IMC-vajrayana_parte_3.mp3",
+		"ln":"es",
+		"download_url":"/23251/20250617-Carrie_Tamburo-IMC-vajrayana_parte_3.mp3",
+		"speaker":"Carrie Tamburo",
+		"date":"2025.06.17",
+		"duration":"58:12"
+	},
+	{
+		"title":"The Five Aggregates of Clinging (Part 2)",
+		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
+		"url":"/23226/20250617-Marjolein_Janssen-IMC-the_five_aggregates_of_clinging_part_2.mp3",
+		"ln":"en",
+		"download_url":"/23226/20250617-Marjolein_Janssen-IMC-the_five_aggregates_of_clinging_part_2.mp3",
+		"speaker":"Marjolein Janssen",
+		"date":"2025.06.17",
+		"duration":"28:32"
+	},
+	{
+		"title":"Guided Meditation: Allowing All of Experience",
+		"series":"Guided Meditations",
+		"url":"/23225/20250617-Marjolein_Janssen-IMC-guided_meditation_allowing_all_of_experience.mp3",
+		"ln":"en",
+		"download_url":"/23225/20250617-Marjolein_Janssen-IMC-guided_meditation_allowing_all_of_experience.mp3",
+		"speaker":"Marjolein Janssen",
+		"date":"2025.06.17",
+		"duration":"32:49"
+	},
+	{
+		"title":"Guided Meditation: Insight into Clinging",
+		"series":"Guided Meditations",
+		"url":"/23224/20250617-Gil_Fronsdal-IMC-guided_meditation_insight_into_clinging.mp3",
+		"ln":"en",
+		"download_url":"/23224/20250617-Gil_Fronsdal-IMC-guided_meditation_insight_into_clinging.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2025.06.17",
+		"duration":"30:44"
+	},
+	{
+		"title":"Dharmette: Insight (12) Change Highlights Clinging",
+		"series":"Insight",
+		"url":"/23223/20250617-Gil_Fronsdal-IMC-dharmette_insight_12_change_highlights_clinging.mp3",
+		"ln":"en",
+		"download_url":"/23223/20250617-Gil_Fronsdal-IMC-dharmette_insight_12_change_highlights_clinging.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2025.06.17",
+		"duration":"14:10"
+	},
+	{
+		"title":"Crossing the Flood",
+		"series":"",
+		"url":"/23217/20250616-Diana_Clark-IMC-crossing_the_flood.mp3",
+		"ln":"en",
+		"download_url":"/23217/20250616-Diana_Clark-IMC-crossing_the_flood.mp3",
+		"speaker":"Diana Clark",
+		"date":"2025.06.16",
+		"duration":"37:59"
+	},
+	{
+		"title":"Dharmette: Insight (11) Introduction to Change and Impermanence",
+		"series":"Insight",
+		"url":"/23213/20250616-Gil_Fronsdal-IMC-dharmette_insight_11_introduction_to_change_and_impermance.mp3",
+		"ln":"en",
+		"download_url":"/23213/20250616-Gil_Fronsdal-IMC-dharmette_insight_11_introduction_to_change_and_impermance.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2025.06.16",
+		"duration":"12:40"
+	},
+	{
+		"title":"Guided Meditation: Being the River of Change",
+		"series":"Guided Meditations",
+		"url":"/23212/20250616-Gil_Fronsdal-IMC-guided_meditation_being_the_river_of_change.mp3",
+		"ln":"en",
+		"download_url":"/23212/20250616-Gil_Fronsdal-IMC-guided_meditation_being_the_river_of_change.mp3",
+		"speaker":"Gil Fronsdal",
+		"date":"2025.06.16",
+		"duration":"30:09"
+	},
+	{
+		"title":"Equanimity? Now?",
 		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
-		"url":"/22025/20250105-Ines_Freedman-IMC-the_eight_worldly_winds.mp3",
+		"url":"/23209/20250615-Andrea_Fella-IMC-equanimity_now.mp3",
 		"ln":"en",
-		"download_url":"/22025/20250105-Ines_Freedman-IMC-the_eight_worldly_winds.mp3",
-		"speaker":"Ines Freedman",
-		"date":"2025.01.05",
-		"duration":"41:20"
-	},
-	{
-		"title":"Dharmette: Letting Go and Cultivation (5 of 5): A Practitioner’s Life",
-		"series":"Letting Go and Cultivation",
-		"url":"/22024/20250103-Kim_Allen-IMC-dharmette_letting_go_and_cultivation_5_of_5_a_practitioner_s_life.mp3",
-		"ln":"en",
-		"download_url":"/22024/20250103-Kim_Allen-IMC-dharmette_letting_go_and_cultivation_5_of_5_a_practitioner_s_life.mp3",
-		"speaker":"Kim Allen",
-		"date":"2025.01.03",
-		"duration":"17:25"
-	},
-	{
-		"title":"Guided Meditation: Sincerity With It All",
-		"series":"Guided Meditations",
-		"url":"/22023/20250103-Kim_Allen-IMC-guided_meditation_sincerity_with_it_all.mp3",
-		"ln":"en",
-		"download_url":"/22023/20250103-Kim_Allen-IMC-guided_meditation_sincerity_with_it_all.mp3",
-		"speaker":"Kim Allen",
-		"date":"2025.01.03",
-		"duration":"29:56"
-	},
-	{
-		"title":"Every Experience is Included",
-		"series":"",
-		"url":"/22022/20250102-Ari_Crellin-Quick-IMC-every_experience_is_included.mp3",
-		"ln":"en",
-		"download_url":"/22022/20250102-Ari_Crellin-Quick-IMC-every_experience_is_included.mp3",
-		"speaker":"Ari Crellin-Quick",
-		"date":"2025.01.02",
-		"duration":"30:00"
-	},
-	{
-		"title":"Guided Meditation: Relaxed, Unentangled Knowing",
-		"series":"Guided Meditations",
-		"url":"/22021/20250102-Ari_Crellin-Quick-IMC-guided_meditation_relaxed_unentangled_knowing.mp3",
-		"ln":"en",
-		"download_url":"/22021/20250102-Ari_Crellin-Quick-IMC-guided_meditation_relaxed_unentangled_knowing.mp3",
-		"speaker":"Ari Crellin-Quick",
-		"date":"2025.01.02",
-		"duration":"30:42"
-	},
-	{
-		"title":"Dharmette: Letting Go and Cultivation (4 of 5): The Integrated Heart",
-		"series":"Letting Go and Cultivation",
-		"url":"/22019/20250102-Kim_Allen-IMC-dharmette_letting_go_and_cultivation_4_of_5_the_integrated_heart.mp3",
-		"ln":"en",
-		"download_url":"/22019/20250102-Kim_Allen-IMC-dharmette_letting_go_and_cultivation_4_of_5_the_integrated_heart.mp3",
-		"speaker":"Kim Allen",
-		"date":"2025.01.02",
-		"duration":"15:22"
-	},
-	{
-		"title":"Guided Meditation: Radiating Metta",
-		"series":"Guided Meditations",
-		"url":"/22018/20250102-Kim_Allen-IMC-guided_meditation_radiating_metta.mp3",
-		"ln":"en",
-		"download_url":"/22018/20250102-Kim_Allen-IMC-guided_meditation_radiating_metta.mp3",
-		"speaker":"Kim Allen",
-		"date":"2025.01.02",
-		"duration":"29:48"
-	},
-	{
-		"title":"Dharmette: more of our personality in freedom than in our suffering",
-		"series":"Wednesday Evening with Matthew Brensilver",
-		"url":"/22017/20250101-Matthew_Brensilver-IMC-dharmette_more_of_our_personality_in_freedom_than_in_our_suffering.mp3",
-		"ln":"en",
-		"download_url":"/22017/20250101-Matthew_Brensilver-IMC-dharmette_more_of_our_personality_in_freedom_than_in_our_suffering.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2025.01.01",
-		"duration":"14:07"
-	},
-	{
-		"title":"Guided Meditation: Breathing into Compassion",
-		"series":"Guided Meditations",
-		"url":"/22016/20250101-Matthew_Brensilver-IMC-guided_meditation_breathing_into_compassion.mp3",
-		"ln":"en",
-		"download_url":"/22016/20250101-Matthew_Brensilver-IMC-guided_meditation_breathing_into_compassion.mp3",
-		"speaker":"Matthew Brensilver",
-		"date":"2025.01.01",
-		"duration":"29:12"
-	},
-	{
-		"title":"Happy Hour: Launching Ourselves into the New Year with Aspirations of Kindness",
-		"series":"",
-		"url":"/22015/20250101-Nikki_Mirghafori-IMC-happy_hour_launching_ourselves_into_the_new_year_with_aspirations_of_kindness.mp3",
-		"ln":"en",
-		"download_url":"/22015/20250101-Nikki_Mirghafori-IMC-happy_hour_launching_ourselves_into_the_new_year_with_aspirations_of_kindness.mp3",
-		"speaker":"Nikki Mirghafori",
-		"date":"2025.01.01",
-		"duration":"55:21"
-	},
-	{
-		"title":"Dharmette: Letting Go and Cultivation (3of5): Effective Effort",
-		"series":"Letting Go and Cultivation",
-		"url":"/22010/20250101-Kim_Allen-IMC-dharmette_letting_go_and_cultivation_3of5_effective_effort.mp3",
-		"ln":"en",
-		"download_url":"/22010/20250101-Kim_Allen-IMC-dharmette_letting_go_and_cultivation_3of5_effective_effort.mp3",
-		"speaker":"Kim Allen",
-		"date":"2025.01.01",
-		"duration":"17:29"
-	},
-	{
-		"title":"Guided Meditation: Rebalancing",
-		"series":"Guided Meditations",
-		"url":"/22008/20250101-Kim_Allen-IMC-guided_meditation_rebalancing.mp3",
-		"ln":"en",
-		"download_url":"/22008/20250101-Kim_Allen-IMC-guided_meditation_rebalancing.mp3",
-		"speaker":"Kim Allen",
-		"date":"2025.01.01",
-		"duration":"30:05"
-	},
-	{
-		"title":"Guided Meditation: Simple Awareness with What is Offered",
-		"series":"Guided Meditations",
-		"url":"/22014/20241231-Andrea_Fella-IMC-guided_meditation_simple_awareness_with_what_is_offered.mp3",
-		"ln":"en",
-		"download_url":"/22014/20241231-Andrea_Fella-IMC-guided_meditation_simple_awareness_with_what_is_offered.mp3",
+		"download_url":"/23209/20250615-Andrea_Fella-IMC-equanimity_now.mp3",
 		"speaker":"Andrea Fella",
-		"date":"2024.12.31",
-		"duration":"22:09"
+		"date":"2025.06.15",
+		"duration":"41:17"
 	},
 	{
-		"title":"Guided Meditation: Noticing Change",
+		"title":"Guided Meditation: Allowing",
 		"series":"Guided Meditations",
-		"url":"/22013/20241231-Andrea_Fella-IMC-guided_meditation_noticing_change.mp3",
+		"url":"/23208/20250615-Andrea_Fella-IMC-guided_meditation_allowing.mp3",
 		"ln":"en",
-		"download_url":"/22013/20241231-Andrea_Fella-IMC-guided_meditation_noticing_change.mp3",
+		"download_url":"/23208/20250615-Andrea_Fella-IMC-guided_meditation_allowing.mp3",
 		"speaker":"Andrea Fella",
-		"date":"2024.12.31",
-		"duration":"34:57"
+		"date":"2025.06.15",
+		"duration":"34:45"
 	},
 	{
-		"title":"Dharmette: Letting Go and Cultivation (2 of 5): Willingness, Capacity, and Know-How",
-		"series":"Letting Go and Cultivation",
-		"url":"/21990/20241231-Kim_Allen-IMC-dharmette_letting_go_and_cultivation_2_of_5_willingness_capacity_and_know-how.mp3",
-		"ln":"en",
-		"download_url":"/21990/20241231-Kim_Allen-IMC-dharmette_letting_go_and_cultivation_2_of_5_willingness_capacity_and_know-how.mp3",
-		"speaker":"Kim Allen",
-		"date":"2024.12.31",
-		"duration":"14:11"
-	},
-	{
-		"title":"Guided Meditation: Knowing Where We’re At",
-		"series":"Guided Meditations",
-		"url":"/21989/20241231-Kim_Allen-IMC-guided_meditation_knowing_where_we_re_at.mp3",
-		"ln":"en",
-		"download_url":"/21989/20241231-Kim_Allen-IMC-guided_meditation_knowing_where_we_re_at.mp3",
-		"speaker":"Kim Allen",
-		"date":"2024.12.31",
-		"duration":"30:38"
-	},
-	{
-		"title":"Endings: Suffering is Always Coming to an End",
+		"title":"Q & A",
 		"series":"",
-		"url":"/21985/20241230-Maria_Straatmann-IMC-endings_suffering_is_always_coming_to_an_end.mp3",
+		"url":"/23206/20250614-Kim_Allen-IMC-q_a.mp3",
 		"ln":"en",
-		"download_url":"/21985/20241230-Maria_Straatmann-IMC-endings_suffering_is_always_coming_to_an_end.mp3",
-		"speaker":"Maria Straatmann",
-		"date":"2024.12.30",
-		"duration":"32:34"
+		"download_url":"/23206/20250614-Kim_Allen-IMC-q_a.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.14",
+		"duration":"21:37"
 	},
 	{
-		"title":"Happy Hour: Appreciation & Loving-Kindness Retrospective at Years End",
+		"title":"Mindfulness of Talking and Listening",
 		"series":"",
-		"url":"/21984/20241230-Nikki_Mirghafori-IMC-happy_hour_appreciation_loving-kindness_retrospective_at_year_s_end.mp3",
+		"url":"/23205/20250614-Kim_Allen-IMC-mindfulness_of_talking_and_listening.mp3",
 		"ln":"en",
-		"download_url":"/21984/20241230-Nikki_Mirghafori-IMC-happy_hour_appreciation_loving-kindness_retrospective_at_year_s_end.mp3",
-		"speaker":"Nikki Mirghafori",
-		"date":"2024.12.30",
-		"duration":"46:55"
-	},
-	{
-		"title":"Guided Meditation: Conditioned Nature of Experience",
-		"series":"Guided Meditations",
-		"url":"/22012/20241230-Andrea_Fella-IMC-guided_meditation_conditioned_nature_of_experience.mp3",
-		"ln":"en",
-		"download_url":"/22012/20241230-Andrea_Fella-IMC-guided_meditation_conditioned_nature_of_experience.mp3",
-		"speaker":"Andrea Fella",
-		"date":"2024.12.30",
-		"duration":"27:01"
-	},
-	{
-		"title":"Guided Meditation: Aware with Thinking",
-		"series":"Guided Meditations",
-		"url":"/22011/20241230-Andrea_Fella-IMC-guided_meditation_aware_with_thinking.mp3",
-		"ln":"en",
-		"download_url":"/22011/20241230-Andrea_Fella-IMC-guided_meditation_aware_with_thinking.mp3",
-		"speaker":"Andrea Fella",
-		"date":"2024.12.30",
-		"duration":"34:14"
-	},
-	{
-		"title":"Dharmette: Letting Go and Cultivation (1 of 5): Skillful Intention",
-		"series":"Letting Go and Cultivation",
-		"url":"/21980/20241230-Kim_Allen-IMC-dharmette_letting_go_and_cultivation_1_of_5_skillful_intention.mp3",
-		"ln":"en",
-		"download_url":"/21980/20241230-Kim_Allen-IMC-dharmette_letting_go_and_cultivation_1_of_5_skillful_intention.mp3",
+		"download_url":"/23205/20250614-Kim_Allen-IMC-mindfulness_of_talking_and_listening.mp3",
 		"speaker":"Kim Allen",
-		"date":"2024.12.30",
-		"duration":"14:50"
+		"date":"2025.06.14",
+		"duration":"13:41"
 	},
 	{
-		"title":"Guided Meditation: Motivation",
+		"title":"Guided Meditation:Mindfulness of Thought",
 		"series":"Guided Meditations",
-		"url":"/21979/20241230-Kim_Allen-IMC-guided_meditation_motivation.mp3",
+		"url":"/23204/20250614-Kim_Allen-IMC-guided_meditation_mindfulness_of_thought.mp3",
 		"ln":"en",
-		"download_url":"/21979/20241230-Kim_Allen-IMC-guided_meditation_motivation.mp3",
+		"download_url":"/23204/20250614-Kim_Allen-IMC-guided_meditation_mindfulness_of_thought.mp3",
 		"speaker":"Kim Allen",
-		"date":"2024.12.30",
+		"date":"2025.06.14",
+		"duration":"31:14"
+	},
+	{
+		"title":"Standing Instructions",
+		"series":"",
+		"url":"/23203/20250614-Kim_Allen-IMC-standing_instructions.mp3",
+		"ln":"en",
+		"download_url":"/23203/20250614-Kim_Allen-IMC-standing_instructions.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.14",
+		"duration":"28:25"
+	},
+	{
+		"title":"Lying Down Instructions and QA",
+		"series":"",
+		"url":"/23202/20250614-Kim_Allen-IMC-lying_down_instructions_and_qa.mp3",
+		"ln":"en",
+		"download_url":"/23202/20250614-Kim_Allen-IMC-lying_down_instructions_and_qa.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.14",
+		"duration":"1:00:51"
+	},
+	{
+		"title":"Walking Instructions",
+		"series":"",
+		"url":"/23201/20250614-Kim_Allen-IMC-walking_instructions.mp3",
+		"ln":"en",
+		"download_url":"/23201/20250614-Kim_Allen-IMC-walking_instructions.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.14",
+		"duration":"10:13"
+	},
+	{
+		"title":"Intro to Postures and Sitting",
+		"series":"",
+		"url":"/23200/20250614-Kim_Allen-IMC-intro_to_postures_and_sitting.mp3",
+		"ln":"en",
+		"download_url":"/23200/20250614-Kim_Allen-IMC-intro_to_postures_and_sitting.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.14",
+		"duration":"59:20"
+	},
+	{
+		"title":"Hacia la integración de nuestras raíces espirituales",
+		"series":"",
+		"url":"/23207/20250614-Andrea_Castillo-IMC-hacia_la_integracion_de_nuestras_raices_espirituales.mp3",
+		"ln":"es",
+		"download_url":"/23207/20250614-Andrea_Castillo-IMC-hacia_la_integracion_de_nuestras_raices_espirituales.mp3",
+		"speaker":"Andrea Castillo",
+		"date":"2025.06.14",
+		"duration":"1:00:00"
+	},
+	{
+		"title":"Dharmette: Animal Similes (5 of 5) Elephant or Naga – The Strength of Freedom",
+		"series":"Animal Similes",
+		"url":"/23197/20250613-Kim_Allen-IMC-dharmette_animal_similes_5_of_5_elephant_or_naga_the_strength_of_freedom.mp3",
+		"ln":"en",
+		"download_url":"/23197/20250613-Kim_Allen-IMC-dharmette_animal_similes_5_of_5_elephant_or_naga_the_strength_of_freedom.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.13",
+		"duration":"13:54"
+	},
+	{
+		"title":"Guided Meditation: Letting Alignment Emerge",
+		"series":"Guided Meditations",
+		"url":"/23196/20250613-Kim_Allen-IMC-guided_meditation_letting_alignment_emerge.mp3",
+		"ln":"en",
+		"download_url":"/23196/20250613-Kim_Allen-IMC-guided_meditation_letting_alignment_emerge.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.13",
 		"duration":"30:51"
 	},
 	{
-		"title":"Guided Meditation: More Practice Reminders",
-		"series":"Guided Meditations",
-		"url":"/22009/20241229-Andrea_Fella-IMC-guided_meditation_more_practice_reminders.mp3",
-		"ln":"en",
-		"download_url":"/22009/20241229-Andrea_Fella-IMC-guided_meditation_more_practice_reminders.mp3",
-		"speaker":"Andrea Fella",
-		"date":"2024.12.29",
-		"duration":"25:44"
-	},
-	{
-		"title":"12 Conditions for New Beauty",
-		"series":"Sunday Morning Dharma Talks - March 8, 2020 to Present.",
-		"url":"/21970/20241229-Francisco_Morillo_Gable-IMC-12_conditions_for_new_beauty.mp3",
-		"ln":"en",
-		"download_url":"/21970/20241229-Francisco_Morillo_Gable-IMC-12_conditions_for_new_beauty.mp3",
-		"speaker":"Francisco Morillo Gable",
-		"date":"2024.12.29",
-		"duration":"49:08"
-	},
-	{
-		"title":"Guided Meditation",
-		"series":"Guided Meditations",
-		"url":"/21971/20241229-Francisco_Morillo_Gable-IMC-guided_meditation.mp3",
-		"ln":"en",
-		"download_url":"/21971/20241229-Francisco_Morillo_Gable-IMC-guided_meditation.mp3",
-		"speaker":"Francisco Morillo Gable",
-		"date":"2024.12.29",
-		"duration":"28:44"
-	},
-	{
-		"title":"Guided Meditation: Practice Reminders",
-		"series":"Guided Meditations",
-		"url":"/22007/20241229-Andrea_Fella-IMC-guided_meditation_practice_reminders.mp3",
-		"ln":"en",
-		"download_url":"/22007/20241229-Andrea_Fella-IMC-guided_meditation_practice_reminders.mp3",
-		"speaker":"Andrea Fella",
-		"date":"2024.12.29",
-		"duration":"35:45"
-	},
-	{
-		"title":"Dharmette: Aspects of Love (5 of 5) Equanimous Love",
-		"series":"Aspects of Love",
-		"url":"/21965/20241227-Gil_Fronsdal-IMC-dharmette_aspects_of_love_5_of_5_equanimous_love.mp3",
-		"ln":"en",
-		"download_url":"/21965/20241227-Gil_Fronsdal-IMC-dharmette_aspects_of_love_5_of_5_equanimous_love.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.12.27",
-		"duration":"14:46"
-	},
-	{
-		"title":"Guided Meditation: Peaceful Love",
-		"series":"Guided Meditations",
-		"url":"/21964/20241227-Gil_Fronsdal-IMC-guided_meditation_peaceful_love.mp3",
-		"ln":"en",
-		"download_url":"/21964/20241227-Gil_Fronsdal-IMC-guided_meditation_peaceful_love.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.12.27",
-		"duration":"31:08"
-	},
-	{
-		"title":"Seasons of Practice",
+		"title":"Embodiment is a Verb: Be a Student of the Body",
 		"series":"",
-		"url":"/21963/20241226-Liz_Powell-IMC-seasons_of_practice.mp3",
+		"url":"/23195/20250612-Tanya_Wiser-IMC-embodiment_is_a_verb_be_a_student_of_the_body.mp3",
 		"ln":"en",
-		"download_url":"/21963/20241226-Liz_Powell-IMC-seasons_of_practice.mp3",
-		"speaker":"Liz Powell",
-		"date":"2024.12.26",
-		"duration":"14:43"
-	},
-	{
-		"title":"Guided Meditation: Human Nature in Awareness",
-		"series":"Guided Meditations",
-		"url":"/21962/20241226-Liz_Powell-IMC-guided_meditation_human_nature_in_awareness.mp3",
-		"ln":"en",
-		"download_url":"/21962/20241226-Liz_Powell-IMC-guided_meditation_human_nature_in_awareness.mp3",
-		"speaker":"Liz Powell",
-		"date":"2024.12.26",
-		"duration":"31:07"
-	},
-	{
-		"title":"Listening with wise attention",
-		"series":"",
-		"url":"/21960/20241226-Tanya_Wiser-IMC-listening_with_wise_attention.mp3",
-		"ln":"en",
-		"download_url":"/21960/20241226-Tanya_Wiser-IMC-listening_with_wise_attention.mp3",
+		"download_url":"/23195/20250612-Tanya_Wiser-IMC-embodiment_is_a_verb_be_a_student_of_the_body.mp3",
 		"speaker":"Tanya Wiser",
-		"date":"2024.12.26",
-		"duration":"37:09"
+		"date":"2025.06.12",
+		"duration":"50:15"
 	},
 	{
-		"title":"Happy Hour: Imagining Letting Go",
+		"title":"Happy Hour: Compassion Meeting Whats Hard to Tolerate",
 		"series":"",
-		"url":"/21961/20241226-Liz_Powell-IMC-happy_hour_imagining_letting_go.mp3",
+		"url":"/23194/20250612-Liz_Powell-IMC-happy_hour_compassion_meeting_what_s_hard_to_tolerate.mp3",
 		"ln":"en",
-		"download_url":"/21961/20241226-Liz_Powell-IMC-happy_hour_imagining_letting_go.mp3",
+		"download_url":"/23194/20250612-Liz_Powell-IMC-happy_hour_compassion_meeting_what_s_hard_to_tolerate.mp3",
 		"speaker":"Liz Powell",
-		"date":"2024.12.26",
-		"duration":"37:35"
+		"date":"2025.06.12",
+		"duration":"39:22"
 	},
 	{
-		"title":"Dharmette: Aspects of Love (4 of 5) Appreciative Joy",
-		"series":"Aspects of Love",
-		"url":"/21959/20241226-Gil_Fronsdal-IMC-dharmette_aspects_of_love_4_of_5_appreciative_joy.mp3",
+		"title":"Dharmette: Animal Similes (4 of 5)  Deer – Vitality and Confidence",
+		"series":"Animal Similes",
+		"url":"/23192/20250612-Kim_Allen-IMC-dharmette_animal_similes_4_of_5_deer_vitality_and_confidence.mp3",
 		"ln":"en",
-		"download_url":"/21959/20241226-Gil_Fronsdal-IMC-dharmette_aspects_of_love_4_of_5_appreciative_joy.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.12.26",
-		"duration":"13:00"
+		"download_url":"/23192/20250612-Kim_Allen-IMC-dharmette_animal_similes_4_of_5_deer_vitality_and_confidence.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.12",
+		"duration":"14:20"
 	},
 	{
-		"title":"Guided Meditation: Appreciation",
+		"title":"Guided Meditation: Free of Mara’s Traps",
 		"series":"Guided Meditations",
-		"url":"/21958/20241226-Gil_Fronsdal-IMC-guided_meditation_appreciation.mp3",
+		"url":"/23191/20250612-Kim_Allen-IMC-guided_meditation_free_of_mara_s_traps.mp3",
 		"ln":"en",
-		"download_url":"/21958/20241226-Gil_Fronsdal-IMC-guided_meditation_appreciation.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.12.26",
-		"duration":"30:49"
+		"download_url":"/23191/20250612-Kim_Allen-IMC-guided_meditation_free_of_mara_s_traps.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.12",
+		"duration":"30:14"
 	},
 	{
-		"title":"Dharmette: Views and Permeability",
-		"series":"",
-		"url":"/21957/20241225-Maria_Straatmann-IMC-dharmette_views_and_permeability.mp3",
+		"title":"Victory over Māra (2 of 3)",
+		"series":"Victory over Māra",
+		"url":"/23199/20250611-Diana_Clark-sati-victory_over_mara_2_of_3.mp3",
 		"ln":"en",
-		"download_url":"/21957/20241225-Maria_Straatmann-IMC-dharmette_views_and_permeability.mp3",
-		"speaker":"Maria Straatmann",
-		"date":"2024.12.25",
-		"duration":"15:01"
+		"download_url":"/23199/20250611-Diana_Clark-sati-victory_over_mara_2_of_3.mp3",
+		"speaker":"Diana Clark",
+		"date":"2025.06.11",
+		"duration":"1:27:22"
 	},
 	{
-		"title":"Practice Notes: Resting in the Body",
-		"series":"",
-		"url":"/21956/20241225-Maria_Straatmann-IMC-practice_notes_resting_in_the_body.mp3",
+		"title":"Dharmette: Moral Vandalism, Anger and Love",
+		"series":"Wednesday Evening with Matthew Brensilver",
+		"url":"/23190/20250611-Matthew_Brensilver-IMC-dharmette_moral_vandalism_anger_and_love.mp3",
 		"ln":"en",
-		"download_url":"/21956/20241225-Maria_Straatmann-IMC-practice_notes_resting_in_the_body.mp3",
-		"speaker":"Maria Straatmann",
-		"date":"2024.12.25",
-		"duration":"06:44"
+		"download_url":"/23190/20250611-Matthew_Brensilver-IMC-dharmette_moral_vandalism_anger_and_love.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2025.06.11",
+		"duration":"16:04"
 	},
 	{
-		"title":"Dharmette: Aspects of Love (3 of 5) Compassion",
-		"series":"Aspects of Love",
-		"url":"/21955/20241225-Gil_Fronsdal-IMC-dharmette_aspects_of_love_3_of_5_compassion.mp3",
-		"ln":"en",
-		"download_url":"/21955/20241225-Gil_Fronsdal-IMC-dharmette_aspects_of_love_3_of_5_compassion.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.12.25",
-		"duration":"12:09"
-	},
-	{
-		"title":"Guided Meditation: Cycles of Suffering and Joy",
+		"title":"Guided Meditation: Following Interest",
 		"series":"Guided Meditations",
-		"url":"/21954/20241225-Gil_Fronsdal-IMC-guided_meditation_cycles_of_suffering_and_joy.mp3",
+		"url":"/23189/20250611-Matthew_Brensilver-IMC-guided_meditation_following_interest.mp3",
 		"ln":"en",
-		"download_url":"/21954/20241225-Gil_Fronsdal-IMC-guided_meditation_cycles_of_suffering_and_joy.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.12.25",
-		"duration":"31:38"
+		"download_url":"/23189/20250611-Matthew_Brensilver-IMC-guided_meditation_following_interest.mp3",
+		"speaker":"Matthew Brensilver",
+		"date":"2025.06.11",
+		"duration":"28:10"
 	},
 	{
-		"title":"Happy Hour: Intangible Gifts",
+		"title":"Happy Hour: Cultivating Strength",
 		"series":"",
-		"url":"/21953/20241224-Liz_Powell-IMC-happy_hour_intangible_gifts.mp3",
+		"url":"/23188/20250611-Liz_Powell-IMC-happy_hour_cultivating_strength.mp3",
 		"ln":"en",
-		"download_url":"/21953/20241224-Liz_Powell-IMC-happy_hour_intangible_gifts.mp3",
+		"download_url":"/23188/20250611-Liz_Powell-IMC-happy_hour_cultivating_strength.mp3",
 		"speaker":"Liz Powell",
-		"date":"2024.12.24",
-		"duration":"37:53"
+		"date":"2025.06.11",
+		"duration":"38:13"
 	},
 	{
-		"title":"Dharmette: Aspects of Love (2 of 5) Friendliness",
-		"series":"Aspects of Love",
-		"url":"/21952/20241224-Gil_Fronsdal-IMC-dharmette_aspects_of_love_2_of_5_friendliness.mp3",
+		"title":"The Fruits of Repetition",
+		"series":"",
+		"url":"/23182/20250611-Kim_Allen-IMC-the_fruits_of_repetition.mp3",
 		"ln":"en",
-		"download_url":"/21952/20241224-Gil_Fronsdal-IMC-dharmette_aspects_of_love_2_of_5_friendliness.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.12.24",
-		"duration":"12:21"
+		"download_url":"/23182/20250611-Kim_Allen-IMC-the_fruits_of_repetition.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.11",
+		"duration":"15:39"
 	},
 	{
-		"title":"Guided Meditation: Friendliness",
+		"title":"Simplicity",
+		"series":"",
+		"url":"/23181/20250611-Kim_Allen-IMC-simplicity.mp3",
+		"ln":"en",
+		"download_url":"/23181/20250611-Kim_Allen-IMC-simplicity.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.11",
+		"duration":"02:02"
+	},
+	{
+		"title":"Dharmette: Animal Similes (3 of 5); Cow – Sangha and Trust",
+		"series":"Animal Similes",
+		"url":"/23177/20250611-Kim_Allen-IMC-dharmette_animal_similes_3_of_5_cow_sangha_and_trust.mp3",
+		"ln":"en",
+		"download_url":"/23177/20250611-Kim_Allen-IMC-dharmette_animal_similes_3_of_5_cow_sangha_and_trust.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.11",
+		"duration":"12:37"
+	},
+	{
+		"title":"Guided Meditation: Doing the Practice Together",
 		"series":"Guided Meditations",
-		"url":"/21951/20241224-Gil_Fronsdal-IMC-guided_meditation_friendliness.mp3",
+		"url":"/23176/20250611-Kim_Allen-IMC-guided_meditation_doing_the_practice_together.mp3",
 		"ln":"en",
-		"download_url":"/21951/20241224-Gil_Fronsdal-IMC-guided_meditation_friendliness.mp3",
-		"speaker":"Gil Fronsdal",
-		"date":"2024.12.24",
-		"duration":"30:21"
+		"download_url":"/23176/20250611-Kim_Allen-IMC-guided_meditation_doing_the_practice_together.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.11",
+		"duration":"31:15"
+	},
+	{
+		"title":"Vajrayana, parte 2",
+		"series":"",
+		"url":"/23193/20250610-Carrie_Tamburo-IMC-vajrayana_parte_2.mp3",
+		"ln":"es",
+		"download_url":"/23193/20250610-Carrie_Tamburo-IMC-vajrayana_parte_2.mp3",
+		"speaker":"Carrie Tamburo",
+		"date":"2025.06.10",
+		"duration":"59:28"
+	},
+	{
+		"title":"Awareness and Different Seasons of Practice",
+		"series":"Tuesday Sitting, reflection, discussion (from 12/2020 on)",
+		"url":"/23167/20250610-Dawn_Neal-IMC-awareness_and_different_seasons_of_practice.mp3",
+		"ln":"en",
+		"download_url":"/23167/20250610-Dawn_Neal-IMC-awareness_and_different_seasons_of_practice.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2025.06.10",
+		"duration":"18:37"
+	},
+	{
+		"title":"Guided Meditation: Including Everything",
+		"series":"Guided Meditations",
+		"url":"/23166/20250610-Dawn_Neal-IMC-guided_meditation_including_everything.mp3",
+		"ln":"en",
+		"download_url":"/23166/20250610-Dawn_Neal-IMC-guided_meditation_including_everything.mp3",
+		"speaker":"Dawn Neal",
+		"date":"2025.06.10",
+		"duration":"33:07"
+	},
+	{
+		"title":"Dharmette: Animal Similes (2 of 5) Monkey – Foolishness and Investigation",
+		"series":"Animal Similes",
+		"url":"/23172/20250610-Kim_Allen-IMC-dharmette_animal_similes_2_of_5_monkey_foolishness_and_investigation.mp3",
+		"ln":"en",
+		"download_url":"/23172/20250610-Kim_Allen-IMC-dharmette_animal_similes_2_of_5_monkey_foolishness_and_investigation.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.10",
+		"duration":"15:38"
+	},
+	{
+		"title":"Guided Meditation: Restlessness",
+		"series":"Guided Meditations",
+		"url":"/23171/20250610-Kim_Allen-IMC-guided_meditation_restlessness.mp3",
+		"ln":"en",
+		"download_url":"/23171/20250610-Kim_Allen-IMC-guided_meditation_restlessness.mp3",
+		"speaker":"Kim Allen",
+		"date":"2025.06.10",
+		"duration":"31:00"
+	},
+	{
+		"title":"The Far Shore: The Other Side of Clinging",
+		"series":"",
+		"url":"/23160/20250609-Diana_Clark-IMC-the_far_shore_the_other_side_of_clinging.mp3",
+		"ln":"en",
+		"download_url":"/23160/20250609-Diana_Clark-IMC-the_far_shore_the_other_side_of_clinging.mp3",
+		"speaker":"Diana Clark",
+		"date":"2025.06.09",
+		"duration":"45:40"
 	}
 	]
 }

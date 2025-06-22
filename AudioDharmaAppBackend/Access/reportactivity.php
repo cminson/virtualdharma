@@ -60,7 +60,7 @@ while ($row = mysqli_fetch_array($results))
         $city = trim($city);
 } 
 if ($country != "") {
-    mylog("CACHED IP FOUND:  $ip $country $city");
+    //mylog("CACHED IP FOUND:  $ip $country $city");
 } 
 
 //
@@ -76,22 +76,22 @@ $access_key = trim(file_get_contents($ACCESS_KEY_PATH));
 
 if ($country == "") {
 
-    mylog("CACHED IP NOT FOUND:  Doing lookup on $ip");
+    //mylog("CACHED IP NOT FOUND:  Doing lookup on $ip");
     $command = "curl https://api.ipstack.com/$ip?access_key=$access_key";
 
-    mylog("Looking up IP: $ip");
+    //mylog("Looking up IP: $ip");
     $result = exec("$command 2>&1", $lines, $ConvertResultCode);
     $json = json_decode($result,TRUE);
-    mylog("$json");
+    //mylog("$json");
     $country= $json["country_code"];
     $state = $json["region_code"];
     $city = $json["city"];
-    mylog("IPStack Lookup Result: $ip Country: $country City:$city");
+    //mylog("IPStack Lookup Result: $ip Country: $country City:$city");
 
     if ($country != "") {
-        mylog("STORING IP INTO CACHE: $country $city $ip");
+        //mylog("STORING IP INTO CACHE: $country $city $ip");
         $query= "INSERT INTO ipmap(ip, country, city) VALUES('$ip', '$country', '$city')";
-        mylog($query);
+        //mylog($query);
         $result = $mysqli->query($query);
     }
 }
