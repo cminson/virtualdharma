@@ -249,6 +249,9 @@ for talk in all_talks:
         AllGuidedMeditions.append(talk)
 
     # detect and record Spanish content
+    # special case because her talks not always properly tagged
+    if 'Tamburo' in talk['speaker']:
+        talk['ln'] = 'es'
     if talk["ln"] == "es":
         #CJM DEV - necessary for some reason, to prevent series showing in RECOMMENDATIONS
         #talk['series'] = ""
