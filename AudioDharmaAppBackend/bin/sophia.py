@@ -6,7 +6,7 @@
 # runs as http server on port SOPHIA_SERVER_PORT
 #
 
-DEBUG = 0
+DEBUG = 1
 DEBUG = 0
 
 import os
@@ -15,7 +15,7 @@ import time
 import cgi
 import sys
 import socket
-import openai
+from openai import OpenAI
 import json
 import random
 import re
@@ -220,16 +220,18 @@ def genAIResponse(prompt_system, prompt_user, query, text, key):
     # so, generate a new reponse
     #
     temperature = random.choice(LIST_TEMPS)
-    openai.api_key = OPENAI_API_KEY
-    response = openai.ChatCompletion.create(
-        model=ACTIVE_MODEL,
-        temperature=temperature,
+    client = OpenAI(api_key=OPENAI_API_KEY)
+
+    resp = client.chat.completions.create(
+        model="gpt-4.1",
         messages=[
-        {'role': 'system', 'content': prompt_system},
-        {'role': 'user', 'content': prompt_user}
-        ]
+            {"role": "system", "content": prompt_system},
+            {"role": "user", "content": prompt_user}
+        ],
+        max_tokens=200,
+        temperature=temperature
     )
-    ai_response = response['choices'][0]['message']['content']
+    ai_response = resp.choices[0].message.content
 
     # clean artifacts
     for prefix in PREFIX_STRINGS_TO_REMOVE:

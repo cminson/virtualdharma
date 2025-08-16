@@ -15,7 +15,7 @@
 import os
 import sys
 import json
-import openai
+from openai import OpenAI
 import warnings
 import time
 import re
@@ -101,6 +101,20 @@ def genSummary(path_summary, text, size_summarization):
     prompt_user = f'Summarize the  following text in {size_summarization}  words. Here is the text {text}'
     prompt_user = f'Write a short blurb using the ideas in the following text.  Keep it less than {size_summarization}  words. Here is the text to summarize:  {text}'
 
+
+    client = OpenAI(api_key=OPENAI_API_KEY)
+
+    resp = client.responses.create(
+        model="gpt-4.1",
+        instructions=prompt_system,
+        input=prompt_user
+    )
+
+    summary = resp.output_text
+    print("Summary: ", summary)
+
+
+    """
     openai.api_key = OPENAI_API_KEY
     try:
         response = openai.ChatCompletion.create(
@@ -118,6 +132,9 @@ def genSummary(path_summary, text, size_summarization):
 
 
     summary = response['choices'][0]['message']['content']
+    """
+
+
     print(f'{path_summary}')
     #LOG(summary)
     return summary
